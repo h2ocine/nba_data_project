@@ -109,8 +109,8 @@ ne = 3
 nj = 4
 clauses_c1 = encoder_c1(ne,nj)
 print('Pour 3 équipes sur 4 jours : ')
-print(f'La contrainte c1 génére : ', len(clauses_c1.split("0")))
-print(f'Les clauses générés sont : \n',clauses_c1,'\n')
+print(f'La contrainte c1 génére : {len(clauses_c1.split("0"))} clauses')
+print(f'Les clauses générés sont : \n{clauses_c1}\n')
 
 # 3.2.4
 """
@@ -149,11 +149,12 @@ def encoder_c2(ne, nj):
     clauses = ""
     for xi in range(ne):
         for yi in range(xi + 1,ne):
-            matchs_aller = []
-            matchs_retour = []
+            matchs_aller = []  # Tout les matchs à domicile de xi avec yi
+            matchs_retour = [] # Tout les matchs à l'exterieur de xi avec yi
             for ji in range(nj):
                 matchs_aller.append(codage(ne, nj, ji, xi, yi))
                 matchs_retour.append(codage(ne, nj, ji, yi, xi))
+            # Ajout des clauses
             clauses += cnf_au_moins(matchs_aller) + '\n' + cnf_au_plus(matchs_aller) + '\n' + cnf_au_moins(matchs_retour) + '\n' + cnf_au_plus(matchs_retour) + '\n'
     return eliminer_doublons(clauses)
 
@@ -165,7 +166,20 @@ ne = 3
 nj = 4
 clauses_c2 = encoder_c2(ne,nj)
 print('Pour 3 équipes sur 4 jours : ')
-print(f'La contrainte c2 génére : ', len(clauses_c2.split("0")))
-print(f'Les clauses générés sont : \n',clauses_c2,'\n')
+print(f'La contrainte c2 génére : {len(clauses_c2.split("0"))} clauses')
+print(f'Les clauses générés sont : \n{clauses_c2}\n')
 
+# 3.2.7 
+def encoder(ne,nj):
+    """
+    Encode toutes les contraintes C1 et C2 pour ne et nj donnée.
+    """
+    return eliminer_doublons(encoder_c1(ne,nj) + encoder_c2(ne,nj))
+
+ne = 3
+nj = 4
+clauses= encoder(ne,nj)
+print('Pour 3 équipes sur 4 jours : ')
+print(f'Les contraites c1 et c2 générent : {len(clauses_c2.split("0"))} clauses')
+print(f'Les clauses générés sont : \n{clauses}\n')
 
