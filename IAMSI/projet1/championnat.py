@@ -194,12 +194,22 @@ def encoder(ne,nj):
 
 # Test des fonctions 
 ne = 3
-nj = 2
+nj = 4
 
 # 3.2.3 
 """
 Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
 """
+"""
+Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
+"""
+"""
+Pour chaque equipe (3) et pour chaque jour (4 jours) : on a au plus 1 match parmis 4 matchs possible, donc on a (2 parmis 4) clauses = 6 clauses
+Donc on a 3 * 4 * 6 = 72 clauses (avec les doublons).
+On a aussi pour chaque jour 12 doublons. 
+Donc on à finalement : 60 clauses
+"""
+
 clauses_c1 = encoder_c1(ne,nj)
 print(f'Pour {ne} équipes sur {nj} jours : ')
 print(f'La contrainte c1 génére : {len(clauses_c1.split("0")) - 1} clauses')
@@ -208,6 +218,18 @@ print(f'Les clauses générés sont : \n{clauses_c1}\n')
 # 3.2.6 
 """
 Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
+"""
+"""
+Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
+"""
+"""
+On à 3 (2 parmis 3) {xi,yi} : 
+On calcule les cnf_au_moins : 1 contrainte par {xi,yi}
+On calcule les cnf_au_plus : On a 4 jours, donc 2 parmis 4 = 6 contraintes par {xi,yi}
+On multiplie * 2 car on le fait pour les matchs a domiciles et exterieurs :
+Donc on aura : 
+nombre de contraintes clause C2 avec 3 équipes sur 4 jours = 
+3 * (1 + 6) * 2 = 42 contraintes
 """
 clauses_c2 = encoder_c2(ne,nj)
 print(f'Pour {ne} équipes sur {nj} jours : ')
