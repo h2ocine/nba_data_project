@@ -1,7 +1,11 @@
 import numpy as np
 import re
 from typing import List
-from math import comb
+
+ROUGE = '\033[91m'
+BLEU = '\033[94m'
+JAUNE = '\033[93m'
+FIN = '\033[0m'
 
 # --------------------------------------------------------------------------------------------------
 # Fonctions utiles 
@@ -283,9 +287,101 @@ Qu'est-il n'ecessaire d'ajouter aux deux contraintes C1 et C2 ?
 """
 
 # 3.4 
-# def decoder(sortie_glucose, fichier_equipe):
-#     if(sortie_glucose[:-len("UNSATISFIABLE")] == "UNSATISFIABLE"):
-#         return "UNSAT"
+def decoder(sortie_glucose : str, nom_fichier_equipe : str) -> str:
+    try:
+        with open(nom_fichier_equipe, 'r') as f:
+            # Lire le fichier des noms des equipes
+            noms_equipes = f.read()
+
+            # On vérifie si on a une solution qui satifait nos contraintes
+            if(sortie_glucose.find("UNSATISFIABLE") != -1):
+                return "UNSAT"
+
+            # On récupére l'indice ou se trouve le mot satsfiable
+            indice_satisfiable = sortie_glucose.find("SATISFIABLE")
+
+            # On récupére la solution du modele donnée par glucose 
+            indice_solution = indice_satisfiable + len("SATISFIABLE") + 3
+            modele_solution = sortie_glucose[indice_solution:-1] 
+
+            # Récupérer la liste des matchs
+            matchs_list = modele_solution.split(' ')[:-1]
+            
+            # Récupérer le noms des équipe dans une liste : 
+            equipe_list = noms_equipes.split('\n')
+
+            # Récupérer le nombre des equipes 
+            ne = len(equipe_list)
+            # ne = int(matchs_list[-1]) # Nombre d'equipe sur glucose
+
+            # Récupérer les jours et equipes de chaque matchs
+            solution = ''
+            for num_match, match in enumerate(matchs_list):
+                jour, equipe1, equipe2 = decodage(int(match), ne)
+                solution += f'Match numero {num_match} : {JAUNE}< jour {jour} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'   
+        
+            return solution
+        
+    except FileNotFoundError:
+        return f"Le fichier '{nom_fichier_equipe}' n'a pas été trouvé."
+    except Exception as e:
+        return f"Une erreur s'est produite : {str(e)}"
     
-#     solution = ""
+    
+
+chaine = '''c
+c This is glucose 4.2.1 --  based on MiniSAT (Many thanks to MiniSAT team)
+c
+c ========================================[ Problem Statistics ]===========================================
+c |                                                                                                       |
+c |  Number of variables:            53                                                                   |
+c |  Number of clauses:             186                                                                   |
+c |  Parse time:                   0.00 s                                                                 |
+c |                                                                                                       |
+c | Preprocesing is fully done
+c |  Eliminated clauses:           0.00 Mb                                                                |
+c |  Simplification time:          0.00 s                                                                 |
+c |                                                                                                       |
+c ========================================[ MAGIC CONSTANTS ]==============================================
+c | Constants are supposed to work well together :-)                                                      |
+c | however, if you find better choices, please let us known...                                           |
+c |-------------------------------------------------------------------------------------------------------|
+c | Adapt dynamically the solver after 100000 conflicts (restarts, reduction strategies...)               |
+c |-------------------------------------------------------------------------------------------------------|
+c |                                |                                |                                     |
+c | - Restarts:                    | - Reduce Clause DB:            | - Minimize Asserting:               |
+c |   * LBD Queue    :     50      |   * First     :   2000         |    * size <  30                     |
+c |   * Trail  Queue :   5000      |   * Inc       :    300         |    * lbd  <   6                     |
+c |   * K            :   0.80      |   * Special   :   1000         |                                     |
+c |   * R            :   1.40      |   * Protected :  (lbd)< 30     |                                     |
+c |                                |                                |                                     |
+c ==================================[ Search Statistics (every  10000 conflicts) ]=========================
+c |
+                              |
+c |          RESTARTS           |          ORIGINAL         |              LEARNT              | Progress |
+c |       NB   Blocked  Avg Cfc |    Vars  Clauses Literals |   Red   Learnts    LBD2  Removed |          |
+c =========================================================================================================
+c last restart ## conflicts  :  93 11
+c =========================================================================================================
+c restarts              : 1 (93 conflicts in avg)
+c blocked restarts      : 0 (multiple: 0)
+c last block at restart : 0
+c nb ReduceDB           : 0
+c nb removed Clauses    : 0
+c average learnt size   : 11
+c nb learnts DL2        : 0
+c nb learnts size 2     : 0
+c nb learnts size 1     : 0
+c conflicts             : 93             (36803 /sec)
+c decisions             : 109            (0.00 % random) (43134 /sec)
+c propagations          : 485            (191927 /sec)
+c nb reduced Clauses    : 0
+c LCM                   : 0 / 0
+c CPU time              : 0.002527 s
+
+s SATISFIABLE
+v 1 -2 -3 -4 -5 6 -7 -8 9 -10 -11 12 -13 -14 -15 -16 -17 -18 -19 -20 -21 -22 -23 -24 25 -26 -27 -28 -29 -30 31 -32 -33 -34 -35 -36 -37 -38 -39 -40 -41 -42 -43 44 -45 -46 47 -48 -49 -50 -51 -52 -53 0'''
+print(decoder(chaine,'equipe.txt'))
+    
+
 
