@@ -1,11 +1,21 @@
 import numpy as np
 
+# 2.1  
+"""
+Exprimer en fonction de ne et nj le nombre de variables propositionnelles utilisées : 
+
+si on consifère qu'une equipe peut jouer contre elle même : nj * (ne ^ 2)
+sinon : nj - ne * (ne - 1) 
+"""
+
+# 2.2 
 def codage(ne, nj, j, x, y):
     """
     Fonction de codage d'une paire (j, x, y) en une variable propositionnelle unique
     """
     return ne**2 * j + x * ne + y + 1
 
+# 2.3 
 def decodage(k, ne):
     """
     Fonction de décodage d'une variable propositionnelle en une paire (j, x, y)
@@ -16,6 +26,7 @@ def decodage(k, ne):
     j = (k - x * ne - y) // ne**2
     return j, x, y    
 
+# 3.1.1
 def cnf_au_moins(liste):
     """
     Génère une clause de type "au moins un vrai" à partir d'une liste de variables propositionnelles
@@ -25,6 +36,7 @@ def cnf_au_moins(liste):
         clause += str(v) + " "
     return clause + str(0)
 
+# 3.1.2
 def cnf_au_plus(liste):
     """
     Génère des clauses de type "au plus un vrai" à partir d'une liste de variables propositionnelles
@@ -35,6 +47,29 @@ def cnf_au_plus(liste):
             clause += "- " + str(liste[i]) + " -" + str(liste[j]) + " 0 \n"
     return clause[:-1]
 
+# 3.2.1
+""" 
+Traduction de la contrainte C1 "chaque équipe ne peut jouer plus d'un match par jour" en un ensemble de contraintes de cardinalité :
+
+Pour chaque jour ji et chaque équipe xi donnés, on a :
+    Pour chaque paire de joueurs yi et yj, avec yi différent de xi et yj différent de xi :
+        Au plus un vrai(M, ji, xi, yi ; M, ji, xi, yj ; M, ji, yi, xi ; M, ji, yj, xi)
+
+En notation DIMACS, cela se traduit par :
+    Pour chaque jour ji et chaque équipe xi :
+        Pour chaque paire de joueurs yi et yj, avec yi différent de xi et yj différent de xi :
+            -M ji xi yi -M ji xi yj 0
+            -M ji xi yi -M ji yj xi 0
+            -M ji xi yj -M ji yi xi 0
+            -M ji yi xi -M ji yj xi 0
+
+Où M est la variable propositionnelle représentant un match entre les joueurs xi et yi le jour ji.
+
+PS : Les clauses doivent être générées pour toutes les combinaisons possibles de jours et d'équipes.
+
+"""
+
+# 3.2.2 
 def encoder_c1(ne, nj):        
     """
     Encode la contrainte C1 "chaque équipe ne peut jouer plus d'un match par jour"
@@ -54,26 +89,11 @@ def encoder_c1(ne, nj):
 
     return clauses
 
-""" 
-Traduction de la contrainte C1 "chaque équipe ne peut jouer plus d'un match par jour" en un ensemble de contraintes de cardinalité :
 
-Pour chaque jour ji et chaque équipe xi donnés, on a :
-    Pour chaque paire de joueurs yi et yj, avec yi différent de xi et yj différent de xi :
-        Au plus un vrai(M, ji, xi, yi ; M, ji, xi, yj ; M, ji, yi, xi ; M, ji, yj, xi)
-
-En notation DIMACS, cela se traduit par :
-    Pour chaque jour ji et chaque équipe xi :
-        Pour chaque paire de joueurs yi et yj, avec yi différent de xi et yj différent de xi :
-            -M ji xi yi -M ji xi yj 0
-            -M ji xi yi -M ji yj xi 0
-            -M ji xi yj -M ji yi xi 0
-            -M ji yi xi -M ji yj xi 0
-
-Où M est la variable propositionnelle représentant un match entre les joueurs xi et yi le jour ji.
-
-Note : Les clauses doivent être générées pour toutes les combinaisons possibles de jours et d'équipes.
-
-"""
+ne = 2
+nj = 1
+print(encoder_c1(ne,nj))
 
 
-print(encoder_c1(3,3))
+
+
