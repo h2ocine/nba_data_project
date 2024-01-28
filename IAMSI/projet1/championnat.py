@@ -34,9 +34,11 @@ def cnf_au_moins(liste):
     clause = ""
     for v in liste:
         clause += str(v) + " "
-    return clause + str(0)
+    if(clause != ""):
+        clause += str(0)
+    return clause
 
-# 3.1.2
+# 3.1. 
 def cnf_au_plus(liste):
     """
     Génère des clauses de type "au plus un vrai" à partir d'une liste de variables propositionnelles
@@ -89,11 +91,54 @@ def encoder_c1(ne, nj):
 
     return clauses
 
+# 3.2.3
+"""
+4. Traduire la contrainte C2 ”Sur la dur´ee du championnat, chaque ´equipe doit rencontrer l’ensemble
+des autres ´equipes une fois `a domicile et une fois `a l’ext´erieur, soit exactement 2 matchs par ´equipe
+adverse.” en un ensemble de contraintes de cardinalit´es.
+
+
+Pour chaque equipe xi : 
+    Pour chaque equipe yi différent de xi :
+        Il existe j tel que :  (M, j, xi, yi) and (M, j, yi, xi)
+
+En notation DIMACS, cela se traduit par :
+    Pour chaque equipe xi : 
+        Pour chaque equipe yi différent de xi :
+            # Pour les matchs aller
+            cnf_au_plus(M j1 xi yi  M j2 xi yi  M j3 xi yi ... M jnj xi yi 0)
+            cnf_au_moins(M j1 xi yi  M j2 xi yi  M j3 xi yi ... M jnj xi yi 0)
+
+            # Pour les matchs retour
+            cnf_au_plus(M j1 xi yi  M j2 xi yi  M j3 xi yi ... M jnj xi yi 0)
+            cnf_au_moins(M j1 yi xi M j2 yi xi  M j3 yi xi ... M jnj yi xi 0)
+
+Où M est la variable propositionnelle représentant un match entre les joueurs xi et yi le jour ji.
+
+"""
+
+# 3.2.4
+def encoder_c2(ne, nj):  
+    """
+    Encode la contrainte C2 "Sur la durée du championnat, chaque équipe doit rencontrer l'ensemble
+    des autres équipes une fois `a domicile et une fois à l'extérieur, soit exactement 2 matchs par équipe
+    adverse."
+    en un ensemble de contraintes de cardinalité
+    """
+    clauses = ""
+    for xi in range(ne):
+        for yi in range(xi + 1,ne):
+            matchs_aller = []
+            matchs_retour = []
+            for ji in range(nj):
+                matchs_aller.append(codage(ne, nj, ji, xi, yi))
+                matchs_retour.append(codage(ne, nj, ji, yi, xi))
+            clauses += cnf_au_moins(matchs_aller) + '\n' + cnf_au_plus(matchs_aller) + '\n' + cnf_au_moins(matchs_retour) + '\n' + cnf_au_plus(matchs_retour) + '\n'
+    return clauses
+
+
+
 
 ne = 2
 nj = 1
 print(encoder_c1(ne,nj))
-
-
-
-
