@@ -56,19 +56,6 @@ Traduction de la contrainte C1 "chaque équipe ne peut jouer plus d'un match par
 Pour chaque jour ji et chaque équipe xi donnés, on a :
     Pour chaque paire de joueurs yi et yj, avec yi différent de xi et yj différent de xi :
         Au plus un vrai(M, ji, xi, yi ; M, ji, xi, yj ; M, ji, yi, xi ; M, ji, yj, xi)
-
-En notation DIMACS, cela se traduit par :
-    Pour chaque jour ji et chaque équipe xi :
-        Pour chaque paire de joueurs yi et yj, avec yi différent de xi et yj différent de xi :
-            -M ji xi yi -M ji xi yj 0
-            -M ji xi yi -M ji yj xi 0
-            -M ji xi yj -M ji yi xi 0
-            -M ji yi xi -M ji yj xi 0
-
-Où M est la variable propositionnelle représentant un match entre les joueurs xi et yi le jour ji.
-
-PS : Les clauses doivent être générées pour toutes les combinaisons possibles de jours et d'équipes.
-
 """
 
 # 3.2.2 
@@ -89,9 +76,12 @@ def encoder_c1(ne, nj):
             # Contrainte de cardinalité : au plus un vrai
             clauses += cnf_au_plus(liste_x_j) + "\n" 
 
-    return clauses
+    return eliminer_doublons(clauses)
 
-# 3.2.3
+# 3.2.3 
+
+
+# 3.2.4
 """
 4. Traduire la contrainte C2 ”Sur la dur´ee du championnat, chaque ´equipe doit rencontrer l’ensemble
 des autres ´equipes une fois `a domicile et une fois `a l’ext´erieur, soit exactement 2 matchs par ´equipe
@@ -117,7 +107,7 @@ Où M est la variable propositionnelle représentant un match entre les joueurs 
 
 """
 
-# 3.2.4
+# 3.2.5
 def encoder_c2(ne, nj):  
     """
     Encode la contrainte C2 "Sur la durée du championnat, chaque équipe doit rencontrer l'ensemble
@@ -134,11 +124,27 @@ def encoder_c2(ne, nj):
                 matchs_aller.append(codage(ne, nj, ji, xi, yi))
                 matchs_retour.append(codage(ne, nj, ji, yi, xi))
             clauses += cnf_au_moins(matchs_aller) + '\n' + cnf_au_plus(matchs_aller) + '\n' + cnf_au_moins(matchs_retour) + '\n' + cnf_au_plus(matchs_retour) + '\n'
-    return clauses
+    return eliminer_doublons(clauses)
 
 
 
 
-ne = 2
-nj = 1
-print(encoder_c1(ne,nj))
+# --------------------------------------------------------------------------------------------------
+# Fonctions utiles 
+def eliminer_doublons(clauses):
+    """
+    Elimine les doublons des clauses dans une liste de clause sous format chaine de String
+    """
+    lignes = clauses.split("0")
+    lignes_uniques = set()
+
+    for ligne in lignes:
+        # convertir la ligne en une liste de nombres entiers triés
+        numeros = sorted(map(int, ligne.split()))
+        # convertir la liste triée en une chaîne de caractères
+        ligne_triee = " ".join(map(str, numeros))
+        # ajouter la ligne triée à l'ensemble
+        lignes_uniques.add(ligne_triee)
+
+    lignes_sans_doublons = "0".join(lignes_uniques)
+    return lignes_sans_doublons
