@@ -1,6 +1,7 @@
 import numpy as np
 import re
 from typing import List
+from math import comb
 
 # --------------------------------------------------------------------------------------------------
 # Fonctions utiles 
@@ -17,7 +18,8 @@ def eliminer_doublons(clauses):
         # convertir la liste triée en une chaîne de caractères
         ligne_triee = " ".join(map(str, numeros))
         # ajouter la ligne triée à l'ensemble
-        lignes_uniques.add(ligne_triee)
+        if ligne_triee != '':
+            lignes_uniques.add(ligne_triee)
 
     lignes_sans_doublons = " 0 ".join(lignes_uniques)
     return lignes_sans_doublons[2::]  + " 0 "
@@ -139,6 +141,20 @@ def encoder_c1(ne, nj):
 
     return eliminer_doublons(clauses)
 
+# 3.2.3 
+"""
+Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
+"""
+"""
+Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
+"""
+"""
+Pour chaque equipe (3) et pour chaque jour (4 jours) : on a au plus 1 match parmis 4 matchs possible, donc on a (2 parmis 4) clauses = 6 clauses
+Donc on a 3 * 4 * 6 = 72 clauses (avec les doublons).
+On a aussi pour chaque jour 3 doublons donc on a 12 doublons. 
+Donc on à finalement : 60 clauses
+"""
+
 # 3.2.4
 """
 4. Traduire la contrainte C2 ”Sur la dur´ee du championnat, chaque ´equipe doit rencontrer l’ensemble
@@ -185,36 +201,6 @@ def encoder_c2(ne, nj):
             clauses += cnf_au_moins(matchs_aller) + '\n' + cnf_au_plus(matchs_aller) + '\n' + cnf_au_moins(matchs_retour) + '\n' + cnf_au_plus(matchs_retour) + '\n'
     return eliminer_doublons(clauses)
 
-# 3.2.7 
-def encoder(ne,nj):
-    """
-    Encode toutes les contraintes C1 et C2 pour ne et nj donnée.
-    """
-    return eliminer_doublons(encoder_c1(ne,nj) + encoder_c2(ne,nj))
-
-# Test des fonctions 
-ne = 3
-nj = 4
-
-# 3.2.3 
-"""
-Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
-"""
-"""
-Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
-"""
-"""
-Pour chaque equipe (3) et pour chaque jour (4 jours) : on a au plus 1 match parmis 4 matchs possible, donc on a (2 parmis 4) clauses = 6 clauses
-Donc on a 3 * 4 * 6 = 72 clauses (avec les doublons).
-On a aussi pour chaque jour 3 doublons donc on a 12 doublons. 
-Donc on à finalement : 60 clauses
-"""
-
-clauses_c1 = encoder_c1(ne,nj)
-print(f'Pour {ne} équipes sur {nj} jours : ')
-print(f'La contrainte c1 génére : {len(clauses_c1.split("0")) - 1} clauses')
-print(f'Les clauses générés sont : \n{clauses_c1}\n')
-
 # 3.2.6 
 """
 Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
@@ -231,19 +217,75 @@ Donc on aura :
 nombre de contraintes clause C2 avec 3 équipes sur 4 jours = 
 3 * (1 + 6) * 2 = 42 contraintes
 """
-clauses_c2 = encoder_c2(ne,nj)
-print(f'Pour {ne} équipes sur {nj} jours : ')
-print(f'La contrainte c2 génére : {len(clauses_c2.split(" 0")) - 1} clauses')
-print(f'Les clauses générés sont : \n{clauses_c2}\n')
 
-# Test encoder
+# 3.2.7 
+def encoder(ne,nj):
+    """
+    Encode toutes les contraintes C1 et C2 pour ne et nj donnée.
+    """
+    return eliminer_doublons(encoder_c1(ne,nj) + encoder_c2(ne,nj))
+
+
+# ---------------------------------------------------------------------------
+# Test des fonctions 
+ne = 3
+nj = 6
+
+clauses_c1 = encoder_c1(ne,nj)
+clauses_c2 = encoder_c2(ne,nj)
 clauses= encoder(ne,nj)
-print(f'Pour {ne} équipes sur {nj} jours : ')
-print(f'Les contraites c1 et c2 générent : {len(clauses.split(" 0")) - 1} clauses')
-print(f'Les clauses générés sont : \n{clauses}\n')
+
+# print(f'Pour {ne} équipes sur {nj} jours : ')
+# print(f'La contrainte c1 génére : {len(clauses_c1.split(" 0")) - 1} clauses')
+# print(f'Les clauses générés sont : \n{clauses_c1}\n')
+
+
+# print(f'Pour {ne} équipes sur {nj} jours : ')
+# print(f'La contrainte c2 génére : {len(clauses_c2.split(" 0")) - 1} clauses')
+# print(f'Les clauses générés sont : \n{clauses_c2}\n')
+
+# # Test encoder
+
+# print(f'Pour {ne} équipes sur {nj} jours : ')
+# print(f'Les contraites c1 et c2 générent : {len(clauses.split(" 0")) - 1} clauses')
+# print(f'Les clauses générés sont : \n{clauses}\n')
 
 # Générérer le fichier cnf 
 generer_fichier_cnf(clauses)
 
 
+# 3.3 
+"""
+Utiliser glucose sur la CNF générée à la question précédente et
+vérifier la première solution propsé pour 3 équipes sur 4 jours :
+
+c restarts              : 1 (25 conflicts in avg)
+c blocked restarts      : 0 (multiple: 0)
+c last block at restart : 0
+c nb ReduceDB           : 0
+c nb removed Clauses    : 0
+c average learnt size   : 3
+c nb learnts DL2        : 3
+c nb learnts size 2     : 3
+c nb learnts size 1     : 3
+c conflicts             : 25             (18382 /sec)
+c decisions             : 29             (0.00 % random) (21324 /sec)
+c propagations          : 159            (116912 /sec)
+c nb reduced Clauses    : 3
+c LCM                   : 0 / 0
+c CPU time              : 0.00136 s
+
+s UNSATISFIABLE
+""" 
+"""
+Qu'est-il n'ecessaire d'ajouter aux deux contraintes C1 et C2 ?
+--> On doit ajouter une contraite qu'une equipe ne peut pas jouer contre elle même
+"""
+
+# 3.4 
+# def decoder(sortie_glucose, fichier_equipe):
+#     if(sortie_glucose[:-len("UNSATISFIABLE")] == "UNSATISFIABLE"):
+#         return "UNSAT"
+    
+#     solution = ""
 
