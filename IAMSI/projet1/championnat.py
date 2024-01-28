@@ -1,5 +1,6 @@
 import numpy as np
-
+import re
+from typing import List
 
 # --------------------------------------------------------------------------------------------------
 # Fonctions utiles 
@@ -18,8 +19,45 @@ def eliminer_doublons(clauses):
         # ajouter la ligne triée à l'ensemble
         lignes_uniques.add(ligne_triee)
 
-    lignes_sans_doublons = "0".join(lignes_uniques)
-    return lignes_sans_doublons
+    lignes_sans_doublons = " 0 ".join(lignes_uniques)
+    return lignes_sans_doublons[3::]  + " 0 "
+
+def transforme_liste(clauses: str) -> List[int]:
+    """
+    Transforme un String de clauses en une liste de clauses représenté en int 
+    """
+    regex = r"(-?\d+)\s+" 
+    clauses = re.findall(regex, clauses)
+    liste_clauses = []
+    clause = []
+    for element in clauses:
+        if element == "0": # Fin de la clause
+            liste_clauses.append(clause) # Ajouter la clause dans la liste
+            clause = []
+        else:
+            clause.append(int(element)) # Ajouter l'élément de la clause dans la liste
+
+    return liste_clauses
+
+def generer_fichier_cnf(clauses):
+    """
+    Génére un fichier cnf à partir d'un string de clauses
+    """
+    clauses_list = transforme_liste(clauses)
+    contenu = []
+    contenu.append("c Fichier CNF généré")
+    contenu.append("c")
+    contenu.append("p cnf {} {}".format(max(map(abs, [var for clause in clauses_list for var in clause])), len(clauses_list)))
+
+    for clause in clauses_list:
+        contenu.append(" ".join(map(str, clause)) + " 0")
+
+    fichier_cnf = "\n".join(contenu)
+
+    with open("exemple.cnf", "w") as f:
+        f.write(fichier_cnf)
+
+
 # --------------------------------------------------------------------------------------------------
 
 
@@ -109,7 +147,7 @@ ne = 3
 nj = 4
 clauses_c1 = encoder_c1(ne,nj)
 print('Pour 3 équipes sur 4 jours : ')
-print(f'La contrainte c1 génére : {len(clauses_c1.split("0"))} clauses')
+print(f'La contrainte c1 génére : {len(clauses_c1.split("0")) - 1} clauses')
 print(f'Les clauses générés sont : \n{clauses_c1}\n')
 
 # 3.2.4
@@ -166,7 +204,7 @@ ne = 3
 nj = 4
 clauses_c2 = encoder_c2(ne,nj)
 print('Pour 3 équipes sur 4 jours : ')
-print(f'La contrainte c2 génére : {len(clauses_c2.split("0"))} clauses')
+print(f'La contrainte c2 génére : {len(clauses_c2.split("0")) - 1} clauses')
 print(f'Les clauses générés sont : \n{clauses_c2}\n')
 
 # 3.2.7 
@@ -180,6 +218,8 @@ ne = 3
 nj = 4
 clauses= encoder(ne,nj)
 print('Pour 3 équipes sur 4 jours : ')
-print(f'Les contraites c1 et c2 générent : {len(clauses_c2.split("0"))} clauses')
+print(f'Les contraites c1 et c2 générent : {len(clauses.split(" 0")) - 1} clauses')
 print(f'Les clauses générés sont : \n{clauses}\n')
 
+# Générérer le fichier cnf 
+generer_fichier_cnf(clauses)
