@@ -206,7 +206,7 @@ Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4
 """
 Pour chaque equipe (3) et pour chaque jour (4 jours) : on a au plus 1 match parmis 4 matchs possible, donc on a (2 parmis 4) clauses = 6 clauses
 Donc on a 3 * 4 * 6 = 72 clauses (avec les doublons).
-On a aussi pour chaque jour 12 doublons. 
+On a aussi pour chaque jour 3 doublons donc on a 12 doublons. 
 Donc on à finalement : 60 clauses
 """
 
@@ -233,7 +233,7 @@ nombre de contraintes clause C2 avec 3 équipes sur 4 jours =
 """
 clauses_c2 = encoder_c2(ne,nj)
 print(f'Pour {ne} équipes sur {nj} jours : ')
-print(f'La contrainte c2 génére : {len(clauses_c2.split("0")) - 1} clauses')
+print(f'La contrainte c2 génére : {len(clauses_c2.split(" 0")) - 1} clauses')
 print(f'Les clauses générés sont : \n{clauses_c2}\n')
 
 # Test encoder
