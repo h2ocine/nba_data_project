@@ -8,7 +8,7 @@ def eliminer_doublons(clauses):
     """
     Elimine les doublons des clauses dans une liste de clause sous format chaine de String
     """
-    lignes = clauses.split("0")
+    lignes = clauses.split(" 0")
     lignes_uniques = set()
 
     for ligne in lignes:
