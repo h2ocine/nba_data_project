@@ -1,5 +1,28 @@
 import numpy as np
 
+
+# --------------------------------------------------------------------------------------------------
+# Fonctions utiles 
+def eliminer_doublons(clauses):
+    """
+    Elimine les doublons des clauses dans une liste de clause sous format chaine de String
+    """
+    lignes = clauses.split("0")
+    lignes_uniques = set()
+
+    for ligne in lignes:
+        # convertir la ligne en une liste de nombres entiers triés
+        numeros = sorted(map(int, ligne.split()))
+        # convertir la liste triée en une chaîne de caractères
+        ligne_triee = " ".join(map(str, numeros))
+        # ajouter la ligne triée à l'ensemble
+        lignes_uniques.add(ligne_triee)
+
+    lignes_sans_doublons = "0".join(lignes_uniques)
+    return lignes_sans_doublons
+# --------------------------------------------------------------------------------------------------
+
+
 # 2.1  
 """
 Exprimer en fonction de ne et nj le nombre de variables propositionnelles utilisées : 
@@ -46,7 +69,7 @@ def cnf_au_plus(liste):
     clause = ""
     for i in range(len(liste)):
         for j in range(i + 1, len(liste)):
-            clause += "- " + str(liste[i]) + " -" + str(liste[j]) + " 0 \n"
+            clause += "-" + str(liste[i]) + " -" + str(liste[j]) + " 0 \n"
     return clause[:-1]
 
 # 3.2.1
@@ -79,7 +102,15 @@ def encoder_c1(ne, nj):
     return eliminer_doublons(clauses)
 
 # 3.2.3 
-
+"""
+Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
+"""
+ne = 3
+nj = 4
+clauses_c1 = encoder_c1(ne,nj)
+print('Pour 3 équipes sur 4 jours : ')
+print(f'La contrainte c1 génére : ', len(clauses_c1.split("0")))
+print(f'Les clauses générés sont : \n',clauses_c1,'\n')
 
 # 3.2.4
 """
@@ -126,25 +157,15 @@ def encoder_c2(ne, nj):
             clauses += cnf_au_moins(matchs_aller) + '\n' + cnf_au_plus(matchs_aller) + '\n' + cnf_au_moins(matchs_retour) + '\n' + cnf_au_plus(matchs_retour) + '\n'
     return eliminer_doublons(clauses)
 
+# 3.2.6 
+"""
+Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
+"""
+ne = 3
+nj = 4
+clauses_c2 = encoder_c2(ne,nj)
+print('Pour 3 équipes sur 4 jours : ')
+print(f'La contrainte c2 génére : ', len(clauses_c2.split("0")))
+print(f'Les clauses générés sont : \n',clauses_c2,'\n')
 
 
-
-# --------------------------------------------------------------------------------------------------
-# Fonctions utiles 
-def eliminer_doublons(clauses):
-    """
-    Elimine les doublons des clauses dans une liste de clause sous format chaine de String
-    """
-    lignes = clauses.split("0")
-    lignes_uniques = set()
-
-    for ligne in lignes:
-        # convertir la ligne en une liste de nombres entiers triés
-        numeros = sorted(map(int, ligne.split()))
-        # convertir la liste triée en une chaîne de caractères
-        ligne_triee = " ".join(map(str, numeros))
-        # ajouter la ligne triée à l'ensemble
-        lignes_uniques.add(ligne_triee)
-
-    lignes_sans_doublons = "0".join(lignes_uniques)
-    return lignes_sans_doublons
