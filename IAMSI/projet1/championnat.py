@@ -1,11 +1,16 @@
-import numpy as np
 import re
 from typing import List
+import subprocess # Commandes systèmes 
+import sys # Récupérer paramètres main
+import time
 
 ROUGE = '\033[91m'
 BLEU = '\033[94m'
 JAUNE = '\033[93m'
 FIN = '\033[0m'
+
+nom_fichier_cnf = 'clauses.cnf'
+commande_glucose = f'./glucose/simp/glucose -model {nom_fichier_cnf}'
 
 # --------------------------------------------------------------------------------------------------
 # Fonctions utiles 
@@ -51,16 +56,19 @@ def generer_fichier_cnf(clauses):
     """
     clauses_list = transforme_liste(clauses)
     contenu = []
+
+    # Ajout du Header
     contenu.append("c Fichier CNF généré")
     contenu.append("c")
     contenu.append("p cnf {} {}".format(max(map(abs, [var for clause in clauses_list for var in clause])), len(clauses_list)))
 
+    # Ajout des clauses
     for clause in clauses_list:
         contenu.append(" ".join(map(str, clause)) + " 0")
 
     fichier_cnf = "\n".join(contenu)
 
-    with open("exemple.cnf", "w") as f:
+    with open(nom_fichier_cnf, "w") as f:
         f.write(fichier_cnf)
 
 
@@ -87,7 +95,7 @@ def decodage(k, ne):
     """
     Fonction de décodage d'une variable propositionnelle en une paire (j, x, y)
     """
-    k -= 1
+    k -= 1 # k = ne**2 * j + x * ne + ys
     y = k % ne
     x = (k % ne**2 - y) // ne
     j = (k - x * ne - y) // ne**2
@@ -232,30 +240,30 @@ def encoder(ne,nj):
 
 # ---------------------------------------------------------------------------
 # Test des fonctions 
-ne = 3
+ne = 4
 nj = 6
 
 clauses_c1 = encoder_c1(ne,nj)
 clauses_c2 = encoder_c2(ne,nj)
-clauses= encoder(ne,nj)
+# clauses= encoder(ne,nj)
 
 # print(f'Pour {ne} équipes sur {nj} jours : ')
 # print(f'La contrainte c1 génére : {len(clauses_c1.split(" 0")) - 1} clauses')
-# print(f'Les clauses générés sont : \n{clauses_c1}\n')
+# #print(f'Les clauses générés sont : \n{clauses_c1}\n')
 
 
 # print(f'Pour {ne} équipes sur {nj} jours : ')
 # print(f'La contrainte c2 génére : {len(clauses_c2.split(" 0")) - 1} clauses')
-# print(f'Les clauses générés sont : \n{clauses_c2}\n')
+# #print(f'Les clauses générés sont : \n{clauses_c2}\n')
 
 # # Test encoder
 
 # print(f'Pour {ne} équipes sur {nj} jours : ')
 # print(f'Les contraites c1 et c2 générent : {len(clauses.split(" 0")) - 1} clauses')
-# print(f'Les clauses générés sont : \n{clauses}\n')
+# #print(f'Les clauses générés sont : \n{clauses}\n')
 
-# Générérer le fichier cnf 
-generer_fichier_cnf(clauses)
+# # Générérer le fichier cnf 
+# generer_fichier_cnf(clauses)
 
 
 # 3.3 
@@ -286,8 +294,30 @@ Qu'est-il n'ecessaire d'ajouter aux deux contraintes C1 et C2 ?
 --> On doit ajouter une contraite qu'une equipe ne peut pas jouer contre elle même
 """
 
+# Ajout de la contrainte : 'une equipe ne peut pas jouer contre elle même'
+def encoder_c3(ne, nj):  
+    """
+    Encode la contrainte C3 "une equipe ne peut pas jouer contre elle même"
+    """
+    clauses = ""
+    for xi in range(ne):
+        for ji in range(nj):
+            clauses += "-" + str(codage(ne, nj, ji, xi, xi)) + " 0 \n"
+    return clauses
+
+
+def encoder_bis(ne,nj):
+    """
+    Encode toutes les contraintes C1 et C2 et C3 pour ne et nj donnée.
+    """
+    return eliminer_doublons(encoder_c1(ne,nj) + encoder_c2(ne,nj) + encoder_c3(ne,nj))
+
+
 # 3.4 
-def decoder(sortie_glucose : str, nom_fichier_equipe : str) -> str:
+def decoder(sortie_glucose : str, nom_fichier_equipe : str, ne : int) -> str:
+    """
+    Traduit un modèle rendu en une solution du problème de planning des matchs affichée lisiblement
+    """
     try:
         with open(nom_fichier_equipe, 'r') as f:
             # Lire le fichier des noms des equipes
@@ -295,7 +325,7 @@ def decoder(sortie_glucose : str, nom_fichier_equipe : str) -> str:
 
             # On vérifie si on a une solution qui satifait nos contraintes
             if(sortie_glucose.find("UNSATISFIABLE") != -1):
-                return "UNSAT"
+                return f"{ROUGE}UNSAT (NON SATISFIABLE){FIN}"
 
             # On récupére l'indice ou se trouve le mot satsfiable
             indice_satisfiable = sortie_glucose.find("SATISFIABLE")
@@ -310,15 +340,19 @@ def decoder(sortie_glucose : str, nom_fichier_equipe : str) -> str:
             # Récupérer le noms des équipe dans une liste : 
             equipe_list = noms_equipes.split('\n')
 
-            # Récupérer le nombre des equipes 
-            ne = len(equipe_list)
-            # ne = int(matchs_list[-1]) # Nombre d'equipe sur glucose
-
             # Récupérer les jours et equipes de chaque matchs
             solution = ''
-            for num_match, match in enumerate(matchs_list):
-                jour, equipe1, equipe2 = decodage(int(match), ne)
-                solution += f'Match numero {num_match} : {JAUNE}< jour {jour} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'   
+            num_match = 0
+            jours = [] # Liste des codes des jours
+            for match in matchs_list:
+                if(int(match) >= 0): # Traitement des matchs joué (codes des matchs positif)
+                    num_match += 1
+                    jour, equipe1, equipe2 = decodage(int(match), ne)
+                    if(jour not in jours):
+                        jours.append(jour) 
+                    j = jours.index(jour) # L'index du jour dans le tableaux des codes des jours représente le numero du jour
+                    j += 1 # On commence par le jour 1
+                    solution += f'Match numero {num_match} : {JAUNE}< jour {j} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'   
         
             return solution
         
@@ -327,61 +361,106 @@ def decoder(sortie_glucose : str, nom_fichier_equipe : str) -> str:
     except Exception as e:
         return f"Une erreur s'est produite : {str(e)}"
     
+# --------------------------------------------------------------------------------------------------
+# 3.5
+def read_ne_nj(nom_fichier_equipe : str):
+    """
+    Lecture du nombre des equipes ne et du nombre de jours nj
+    """
+    # Récupérer le nombre de jours
+    while True:
+        try:
+            nj = int(input(f'{BLEU}Entrez le nombre de jours du championnat (nj) :{FIN}'))
+            if nj <= 0:
+                raise ValueError(f'{ROUGE}Le nombre de jours doit être supérieur à 0{FIN}')
+            break # Sortir de la boucle si le nombre de jours est valide
+
+        except ValueError as e:
+            print(f'{ROUGE}Erreur : {str(e)}{FIN}')
     
+    # Récupérer le nombre d'equipes
+    while True:
+        try:
+            ne = int(input(f'{BLEU}Entrez le nombre d\'équipes qu\'on prend on compte (ne) : {FIN}'))
+            
+            with open(nom_fichier_equipe) as file:
+                lignes = file.readlines()
+                ne_total = len(lignes)  # Récupérer le nombre d'équipes dans le fichier
 
-chaine = '''c
-c This is glucose 4.2.1 --  based on MiniSAT (Many thanks to MiniSAT team)
-c
-c ========================================[ Problem Statistics ]===========================================
-c |                                                                                                       |
-c |  Number of variables:            53                                                                   |
-c |  Number of clauses:             186                                                                   |
-c |  Parse time:                   0.00 s                                                                 |
-c |                                                                                                       |
-c | Preprocesing is fully done
-c |  Eliminated clauses:           0.00 Mb                                                                |
-c |  Simplification time:          0.00 s                                                                 |
-c |                                                                                                       |
-c ========================================[ MAGIC CONSTANTS ]==============================================
-c | Constants are supposed to work well together :-)                                                      |
-c | however, if you find better choices, please let us known...                                           |
-c |-------------------------------------------------------------------------------------------------------|
-c | Adapt dynamically the solver after 100000 conflicts (restarts, reduction strategies...)               |
-c |-------------------------------------------------------------------------------------------------------|
-c |                                |                                |                                     |
-c | - Restarts:                    | - Reduce Clause DB:            | - Minimize Asserting:               |
-c |   * LBD Queue    :     50      |   * First     :   2000         |    * size <  30                     |
-c |   * Trail  Queue :   5000      |   * Inc       :    300         |    * lbd  <   6                     |
-c |   * K            :   0.80      |   * Special   :   1000         |                                     |
-c |   * R            :   1.40      |   * Protected :  (lbd)< 30     |                                     |
-c |                                |                                |                                     |
-c ==================================[ Search Statistics (every  10000 conflicts) ]=========================
-c |
-                              |
-c |          RESTARTS           |          ORIGINAL         |              LEARNT              | Progress |
-c |       NB   Blocked  Avg Cfc |    Vars  Clauses Literals |   Red   Learnts    LBD2  Removed |          |
-c =========================================================================================================
-c last restart ## conflicts  :  93 11
-c =========================================================================================================
-c restarts              : 1 (93 conflicts in avg)
-c blocked restarts      : 0 (multiple: 0)
-c last block at restart : 0
-c nb ReduceDB           : 0
-c nb removed Clauses    : 0
-c average learnt size   : 11
-c nb learnts DL2        : 0
-c nb learnts size 2     : 0
-c nb learnts size 1     : 0
-c conflicts             : 93             (36803 /sec)
-c decisions             : 109            (0.00 % random) (43134 /sec)
-c propagations          : 485            (191927 /sec)
-c nb reduced Clauses    : 0
-c LCM                   : 0 / 0
-c CPU time              : 0.002527 s
-
-s SATISFIABLE
-v 1 -2 -3 -4 -5 6 -7 -8 9 -10 -11 12 -13 -14 -15 -16 -17 -18 -19 -20 -21 -22 -23 -24 25 -26 -27 -28 -29 -30 31 -32 -33 -34 -35 -36 -37 -38 -39 -40 -41 -42 -43 44 -45 -46 47 -48 -49 -50 -51 -52 -53 0'''
-print(decoder(chaine,'equipe.txt'))
+                if ne <= 0 or ne > ne_total:
+                    raise ValueError(f'{ROUGE}Le nombre d\'équipes doit être compris entre 1 et {ne_total}')
+            
+            break  # Sortir de la boucle si le nombre d'équipes est valide
+        
+        except FileNotFoundError:
+            print(f'{ROUGE}Le fichier {nom_fichier_equipe} n\'a pas été trouvé.{FIN}')
+            break
+        
+        except ValueError as e:
+            print(f'{ROUGE}Erreur : {str(e)}{FIN}')
     
+    return ne, nj
 
+# ---------------------------
+def programme(nom_fichier_equipe : str, ne : int, nj : int):   
+    print(f'{JAUNE}nombre d\'equipes = {ne}{FIN}')
+    print(f'{JAUNE}nombre de jours = {nj}{FIN}')
 
+    # Générer les clauses 
+    clauses = encoder_bis(ne,nj)
+
+    # Générer le fichier cnf
+    generer_fichier_cnf(clauses)
+
+    # Lancer  la commande glucose 
+    resultat_commande = subprocess.run(commande_glucose, shell=True, capture_output=True, text=True)
+
+    # Réupérer le résultat de la commande
+    glucose_output = resultat_commande.stdout
+
+    # Decoder le modèle 
+    modele = decoder(glucose_output,nom_fichier_equipe,ne)
+
+    # Afficher le modèle
+    print(modele)
+
+    return modele
+
+# --------------------------------------------------------------------------------------------------
+def main_1():
+    nom_fichier_equipe = sys.argv[1]
+
+    ne, nj = read_ne_nj(nom_fichier_equipe)
+
+    programme(nom_fichier_equipe, ne, nj)
+
+# Exercice 4
+def min_nj(ne: int) -> int:
+    nj = 2
+    while True:
+        # Générer les clauses
+        clauses = encoder_bis(ne, nj)
+
+        # Générer le fichier cnf
+        generer_fichier_cnf(clauses)
+
+        # Lancer la commande glucose
+        resultat_commande = subprocess.run(commande_glucose, shell=True, capture_output=True, text=True)
+
+        # Récupérer le résultat de la commande
+        glucose_output = resultat_commande.stdout
+
+        # On vérifie si on a une solution qui satisfait nos contraintes
+        if glucose_output.find("UNSATISFIABLE") == -1:
+            return nj
+
+        # On augmente nj jusqu'à trouver le nj qui satisfera les clauses
+        nj += 1
+
+# for ne in range(3, 11):
+#     result = min_nj(ne)
+
+# print(min_nj(2))
+        
+if __name__ == "__main__":
+  main_1()
