@@ -302,7 +302,7 @@ def encoder_c3(ne, nj):
     clauses = ""
     for xi in range(ne):
         for ji in range(nj):
-            clauses += "-" + str(codage(ne, nj, ji, xi, xi)) + " 0 \n"
+            clauses += "-" + str(codage(ne, nj, ji, xi, xi)) + " 0\n"
     return clauses
 
 
@@ -462,5 +462,11 @@ def min_nj(ne: int) -> int:
 
 # print(min_nj(2))
         
-if __name__ == "__main__":
-  main_1()
+# if __name__ == "__main__":
+#   main_1()
+        
+# Générer les clauses 
+clauses = encoder_bis(2,2)
+
+# Générer le fichier cnf
+generer_fichier_cnf(clauses)
