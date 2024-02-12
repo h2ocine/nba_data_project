@@ -14,24 +14,21 @@ commande_glucose = f'./glucose/simp/glucose -model {nom_fichier_cnf}'
 
 # --------------------------------------------------------------------------------------------------
 # Fonctions utiles 
-def eliminer_doublons(clauses):
+def eliminer_doublons(clauses : str) -> str:
     """
     Elimine les doublons des clauses dans une liste de clause sous format chaine de String
     """
     lignes = clauses.split(" 0")
-    lignes_uniques = set()
+    lignes_uniques = []
 
     for ligne in lignes:
-        # convertir la ligne en une liste de nombres entiers triés
-        numeros = sorted(map(int, ligne.split()))
-        # convertir la liste triée en une chaîne de caractères
-        ligne_triee = " ".join(map(str, numeros))
         # ajouter la ligne triée à l'ensemble
-        if ligne_triee != '':
-            lignes_uniques.add(ligne_triee)
+        if ligne != '':
+            lignes_uniques.append(ligne)
 
     lignes_sans_doublons = " 0 ".join(lignes_uniques)
-    return lignes_sans_doublons[2::]  + " 0 "
+    return lignes_sans_doublons 
+
 
 def transforme_liste(clauses: str) -> List[int]:
     """
@@ -126,7 +123,9 @@ def cnf_au_plus(liste):
 
 # 3.2.1
 """ 
-Traduction de la contrainte C1 "chaque équipe ne peut jouer plus d'un match par jour" en un ensemble de contraintes de cardinalité :
+C1 : "chaque équipe ne peut jouer plus d'un match par jour"
+
+Traduction :
 
 Pour chaque jour ji et chaque équipe xi donnés, on a :
     Pour chaque paire de joueurs yi et yj, avec yi différent de xi et yj différent de xi :
@@ -136,8 +135,7 @@ Pour chaque jour ji et chaque équipe xi donnés, on a :
 # 3.2.2 
 def encoder_c1(ne, nj):        
     """
-    Encode la contrainte C1 "chaque équipe ne peut jouer plus d'un match par jour"
-    en un ensemble de contraintes de cardinalité
+    Encode la contrainte C1 
     """
     clauses = ""
     for xi in range(ne):        # Parcours pour chaque équipe
@@ -156,11 +154,7 @@ def encoder_c1(ne, nj):
 # 3.2.3 
 """
 Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
-"""
-"""
-Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
-"""
-"""
+
 Pour chaque equipe (3) et pour chaque jour (4 jours) : on a au plus 1 match parmis 4 matchs possible, donc on a (2 parmis 4) clauses = 6 clauses
 Donc on a 3 * 4 * 6 = 72 clauses (avec les doublons).
 On a aussi pour chaque jour 3 doublons donc on a 12 doublons. 
@@ -169,10 +163,12 @@ Donc on à finalement : 60 clauses
 
 # 3.2.4
 """
-4. Traduire la contrainte C2 ”Sur la dur´ee du championnat, chaque ´equipe doit rencontrer l’ensemble
-des autres ´equipes une fois `a domicile et une fois `a l’ext´erieur, soit exactement 2 matchs par ´equipe
-adverse.” en un ensemble de contraintes de cardinalit´es.
+4. 
+C2 : "Sur la durée du championnat, chaque équipe doit rencontrer l'ensemble
+    des autres équipes une fois à domicile et une fois à l'extérieur, soit 
+    exactement 2 matchs par équipe adverse."
 
+Traduction :
 
 Pour chaque equipe xi : 
     Pour chaque equipe yi différent de xi :
@@ -196,10 +192,7 @@ Où M est la variable propositionnelle représentant un match entre les joueurs 
 # 3.2.5
 def encoder_c2(ne, nj):  
     """
-    Encode la contrainte C2 "Sur la durée du championnat, chaque équipe doit rencontrer l'ensemble
-    des autres équipes une fois `a domicile et une fois à l'extérieur, soit exactement 2 matchs par équipe
-    adverse."
-    en un ensemble de contraintes de cardinalité
+    Encode la contrainte C2 
     """
     clauses = ""
     for xi in range(ne):
@@ -460,13 +453,9 @@ def min_nj(ne: int) -> int:
 # for ne in range(3, 11):
 #     result = min_nj(ne)
 
-# print(min_nj(2))
+print(min_nj(2))
         
-# if __name__ == "__main__":
-#   main_1()
+if __name__ == "__main__":
+  main_1()
         
-# Générer les clauses 
-clauses = encoder_bis(2,2)
 
-# Générer le fichier cnf
-generer_fichier_cnf(clauses)
