@@ -7,24 +7,17 @@ import time
 ROUGE = '\033[91m'
 BLEU = '\033[94m'
 JAUNE = '\033[93m'
-FIN = '\033[0m'
 VERT = '\033[92m'
 VIOLET = '\033[95m'
-
 NOIR = '\033[0;30m'
 BLEU = '\033[0;34m'
 MAGENTA = '\033[0;35m'
 CYAN = '\033[0;36m'
 BLANC = '\033[0;37m'
-
-GRIS_FONCE = '\033[1;30m'
-ROUGE_CLAIR = '\033[1;31m'
-VERT_CLAIR = '\033[1;32m'
-JAUNE_CLAIR = '\033[1;33m'
-BLEU_CLAIR = '\033[1;34m'
-MAGENTA_CLAIR = '\033[1;35m'
 CYAN_CLAIR = '\033[1;36m'
-BLANC_CLAIR = '\033[1;37m'
+GRIS_FONCE = '\033[1;30m'
+
+FIN = '\033[0m'
 
 nom_fichier_cnf = 'clauses.cnf'
 commande_glucose = f'./glucose/simp/glucose -model {nom_fichier_cnf}'
@@ -106,7 +99,13 @@ def generer_fichier_cnf(clauses):
     with open(nom_fichier_cnf, "w") as f:
         f.write(fichier_cnf)
 
-
+def ajuster_taille(chaine, taille):
+    if len(chaine) >= taille:
+        return chaine
+    else:
+        espaces_ajoutes = taille - len(chaine)
+        return chaine + ' ' * espaces_ajoutes
+    
 # --------------------------------------------------------------------------------------------------
 
 
@@ -269,32 +268,43 @@ def encoder(ne,nj):
     return eliminer_doublons(encoder_c1(ne,nj) + encoder_c2(ne,nj))
 
 
+def affichage_contrainte(ne = 3, nj = 4, affichager_contrainte = False):
+    """
+    Affiche les informations sur les contraintes générées par les fonctions encoder_c1, encoder_c2 et encoder.
+
+    Args:
+        ne (int): Nombre d'équipes (par défaut : 3).
+        nj (int): Nombre de jours (par défaut : 4).
+        affichager_contrainte (bool): Indique si les clauses générées doivent être affichées (par défaut : False).
+    """
+
+    clauses_c1 = encoder_c1(ne,nj)
+    clauses_c2 = encoder_c2(ne,nj)
+    clauses= encoder(ne,nj)
+
+    # Clauses de C1
+    print(f'Pour {ne} équipes sur {nj} jours : ')
+    print(f'La contrainte c1 génére : {len(clauses_c1.split(" 0")) - 1} clauses')
+    if(affichager_contrainte):
+        print(f'Les clauses générés par c1 sont : \n{clauses_c1}\n')
+
+    # Clauses de C2
+    print(f'Pour {ne} équipes sur {nj} jours : ')
+    print(f'La contrainte c2 génére : {len(clauses_c2.split(" 0")) - 1} clauses')
+    if(affichager_contrainte):
+        print(f'Les clauses générés par c2 sont : \n{clauses_c2}\n')
+
+    # Clauses de C1 et C2
+    print(f'Pour {ne} équipes sur {nj} jours : ')
+    print(f'Les contraites c1 et c2 générent : {len(clauses.split(" 0")) - 1} clauses')
+    if(affichager_contrainte):
+        print(f'Les clauses générés sont : \n{clauses}\n')
 # ---------------------------------------------------------------------------
-# Test des fonctions 
-# ne = 3
-# nj = 4
-
-# clauses_c1 = encoder_c1(ne,nj)
-# clauses_c2 = encoder_c2(ne,nj)
-# clauses= encoder(ne,nj)
-
-# print(f'Pour {ne} équipes sur {nj} jours : ')
-# print(f'La contrainte c1 génére : {len(clauses_c1.split(" 0")) - 1} clauses')
-# #print(f'Les clauses générés sont : \n{clauses_c1}\n')
-
-
-# print(f'Pour {ne} équipes sur {nj} jours : ')
-# print(f'La contrainte c2 génére : {len(clauses_c2.split(" 0")) - 1} clauses')
-# #print(f'Les clauses générés sont : \n{clauses_c2}\n')
-
-# # Test encoder
-
-# print(f'Pour {ne} équipes sur {nj} jours : ')
-# print(f'Les contraites c1 et c2 générent : {len(clauses.split(" 0")) - 1} clauses')
-# #print(f'Les clauses générés sont : \n{clauses}\n')
-
-# # Générérer le fichier cnf 
-# generer_fichier_cnf(clauses)
+# ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
 
 
 # 3.3 
@@ -336,6 +346,13 @@ def encoder_c3(ne, nj):
             clauses += "-" + str(codage(ne, nj, ji, xi, xi)) + " 0\n"
     return clauses
 
+
+###############################################################################################################################################
+###############################################################################################################################################
+###############################################################################################################################################
+###############################################################################################################################################
+###############################################################################################################################################
+
 def au_plus_k(variables, k):
     """Renvoie une clause (au format DIMACS) correspondant à la contrainte
     au plus k de ces variables sont vraies
@@ -351,9 +368,6 @@ def au_plus_k(variables, k):
 
     return clauses
 
-
-
-
 def au_moins_k(variables, k):
     """Renvoie une clause (au format DIMACS) correspondant à la contrainte
     au moins k de ces variables sont vraies
@@ -362,8 +376,6 @@ def au_moins_k(variables, k):
     neg_variables = [-x for x in variables]
     return au_plus_k(neg_variables, n - k)
 
-#-dimanche : france-japon
-#-dimanche : japon-france
 
 def encoder_c4(ne, nj, pext=50, pdom=40):
     """Renvoie des contraintes (au format DIMACS) correspondant aux contraintes
@@ -375,7 +387,7 @@ def encoder_c4(ne, nj, pext=50, pdom=40):
     kext = int((ne - 1) * pext / 100)
     kdom = int((ne - 1) * pdom / 100)
 
-    print(f'kext : {kext} , kdom : {kdom}' )
+    # print(f'kext : {kext} , kdom : {kdom}' )
     clauses = []
     str_clauses = ""
     domiciles = []
@@ -403,20 +415,22 @@ def encoder_c4(ne, nj, pext=50, pdom=40):
         str_clauses += cl + '\n'
     return str_clauses
 
+
+###############################################################################################################################################
+###############################################################################################################################################
+###############################################################################################################################################
+###############################################################################################################################################
+###############################################################################################################################################
+
 def encoder_bis(ne,nj, extend=False):
     """
     Encode toutes les contraintes C1 et C2 et C3 pour ne et nj donnée.
     """
-    print('code_c1')
     code_c1 = encoder_c1(ne,nj)
-    print('code_c2')
     code_c2 = encoder_c2(ne,nj)
-    print('code_c3')
     code_c3 = encoder_c3(ne,nj)
-    print('fin de c3')
     if extend:
         code_c4 = encoder_c4(ne, nj)
-        print('fin de c4')
         return eliminer_doublons(code_c1 + code_c2 + code_c3 + code_c4)
     return eliminer_doublons(code_c1 + code_c2 + code_c3)
 
@@ -453,6 +467,8 @@ def decoder(sortie_glucose : str, nom_fichier_equipe : str, ne : int) -> str:
             num_match = 0
             jours = [] # Liste des codes des jours
             start=1
+
+            print(f"{GRIS_FONCE}Match{FIN} | {GRIS_FONCE}Journée{FIN} |   {GRIS_FONCE}Jour{FIN}   | {GRIS_FONCE}Num jour{FIN} | {GRIS_FONCE}Equipe à domicile{FIN} | {GRIS_FONCE}Equipe à l'exterieur{FIN}")
             for match in matchs_list:
                 if(int(match) >= 0): # Traitement des matchs joué (codes des matchs positif)
                     num_match += 1
@@ -464,16 +480,16 @@ def decoder(sortie_glucose : str, nom_fichier_equipe : str, ne : int) -> str:
                     if start==1:
                         start=0
                         if jour%2==0:
-                            solution += f'Match numero {num_match} : {GRIS_FONCE}< {j}\'er jour : {FIN}{CYAN_CLAIR}Mercredi jour {jour+1} {FIN}{VERT}Semaine {jour//2 +1} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'  
+                            solution += f' {ajuster_taille(str(num_match),3)}  |  {JAUNE}{ajuster_taille(str(j),3)}{FIN}    | {CYAN_CLAIR}Mercredi{FIN} |  {VERT}{ajuster_taille(str(jour+1),3)}{FIN}     | {BLEU}{ajuster_taille(equipe_list[equipe1],14)}{FIN}    | {ROUGE}{ajuster_taille(equipe_list[equipe2],12)}{FIN}\n'  
                         else:
-                            solution += f'Match numero {num_match} : {GRIS_FONCE}< {j}\'er jour : {FIN}{CYAN_CLAIR}Dimanche jour {jour+1} {FIN}{VERT}Semaine {jour//2 +1} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'  
+                            solution += f' {ajuster_taille(str(num_match),3)}  |  {JAUNE}{ajuster_taille(str(j),3)}{FIN}    | {CYAN_CLAIR}Dimanche{FIN} |  {VERT}{ajuster_taille(str(jour+1),3)}{FIN}     | {BLEU}{ajuster_taille(equipe_list[equipe1],14)}{FIN}    | {ROUGE}{ajuster_taille(equipe_list[equipe2],12)}{FIN}\n'  
             
                     elif jour%2==0:
-                        solution += f'Match numero {num_match} : {GRIS_FONCE}< {j}\'eme jour : {FIN}{CYAN_CLAIR}Mercredi jour {jour+1} {FIN}{VERT}Semaine {jour//2 +1} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'  
+                        solution += f' {ajuster_taille(str(num_match),3)}  |  {JAUNE}{ajuster_taille(str(j),3)}{FIN}    | {CYAN_CLAIR}Mercredi{FIN} |  {VERT}{ajuster_taille(str(jour+1),3)}{FIN}     | {BLEU}{ajuster_taille(equipe_list[equipe1],14)}{FIN}    | {ROUGE}{ajuster_taille(equipe_list[equipe2],12)}{FIN}\n'  
                     else:
-                        solution += f'Match numero {num_match} : {GRIS_FONCE}< {j}\'eme jour : {FIN}{CYAN_CLAIR}Dimanche jour {jour+1} {FIN}{VERT}Semaine {jour//2 +1} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'  
+                        solution += f' {ajuster_taille(str(num_match),3)}  |  {JAUNE}{ajuster_taille(str(j),3)}{FIN}    | {CYAN_CLAIR}Dimanche{FIN} |  {VERT}{ajuster_taille(str(jour+1),3)}{FIN}     | {BLEU}{ajuster_taille(equipe_list[equipe1],14)}{FIN}    | {ROUGE}{ajuster_taille(equipe_list[equipe2],12)}{FIN}\n'  
         
-            return solution
+            return solution + '\n'
         
     except FileNotFoundError:
         return f"Le fichier '{nom_fichier_equipe}' n'a pas été trouvé."
@@ -489,7 +505,7 @@ def read_ne_nj(nom_fichier_equipe : str):
     # Récupérer le nombre de jours
     while True:
         try:
-            nj = int(input(f'{BLEU}Entrez le nombre de jours du championnat (nj) :{FIN}'))
+            nj = int(input(f'{CYAN_CLAIR}Entrez le nombre de jours du championnat (nj) :{FIN}'))
             if nj <= 0:
                 raise ValueError(f'{ROUGE}Le nombre de jours doit être supérieur à 0{FIN}')
             break # Sortir de la boucle si le nombre de jours est valide
@@ -500,7 +516,7 @@ def read_ne_nj(nom_fichier_equipe : str):
     # Récupérer le nombre d'equipes
     while True:
         try:
-            ne = int(input(f'{BLEU}Entrez le nombre d\'équipes qu\'on prend on compte (ne) : {FIN}'))
+            ne = int(input(f'{CYAN_CLAIR}Entrez le nombre d\'équipes qu\'on prend on compte (ne) : {FIN}'))
             
             with open(nom_fichier_equipe) as file:
                 lignes = file.readlines()
@@ -533,7 +549,7 @@ def programme(nom_fichier_equipe : str, ne : int, nj : int):
 
     # Lancer  la commande glucose 
     resultat_commande = subprocess.run(commande_glucose, shell=True, capture_output=True, text=True)
-    print(resultat_commande)
+    
     # Réupérer le résultat de la commande
     glucose_output = resultat_commande.stdout
 
@@ -547,15 +563,19 @@ def programme(nom_fichier_equipe : str, ne : int, nj : int):
 
 # --------------------------------------------------------------------------------------------------
 def main_1():
+    if(sys.argv[1] == ""):    
+        print(f'nom du fichier non ajouter en parametre de l\'appel')
+        return -1
+    
+    # Lire le fichier d'equipes
     nom_fichier_equipe = sys.argv[1]
 
-    if(nom_fichier_equipe == ""):    
-        print(f'nom du fichier non ajouter en parametre de l\'appel')
-
+    # Lire le nombre de d'equipe et le nombre de jour
     ne, nj = read_ne_nj(nom_fichier_equipe)
 
     programme(nom_fichier_equipe, ne, nj)
 
+    return 0
 
 import math
 
@@ -563,7 +583,6 @@ import math
 def min_nj_dico(ne: int) -> int:
     nj_min = ne
     nj_max = math.perm(ne, 2)
-    print(math.perm(3, 2))
     nj_mid = nj_min
     res = nj_min
     # Valeur maximale de nj à tester
@@ -629,6 +648,15 @@ if __name__ == "__main__":
    main_1()
 
 
-variables=[1,2]
-au_moins_k(variables, 1)
+# variables=[1,2]
+# au_moins_k(variables, 1)
 
+
+
+
+
+
+# Générérer le fichier cnf 
+# generer_fichier_cnf(clauses)
+        
+#affichage_contrainte(ne = 3, nj = 4, affichager_contrainte = False)
