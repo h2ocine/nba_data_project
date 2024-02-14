@@ -8,6 +8,23 @@ ROUGE = '\033[91m'
 BLEU = '\033[94m'
 JAUNE = '\033[93m'
 FIN = '\033[0m'
+VERT = '\033[92m'
+VIOLET = '\033[95m'
+
+NOIR = '\033[0;30m'
+BLEU = '\033[0;34m'
+MAGENTA = '\033[0;35m'
+CYAN = '\033[0;36m'
+BLANC = '\033[0;37m'
+
+GRIS_FONCE = '\033[1;30m'
+ROUGE_CLAIR = '\033[1;31m'
+VERT_CLAIR = '\033[1;32m'
+JAUNE_CLAIR = '\033[1;33m'
+BLEU_CLAIR = '\033[1;34m'
+MAGENTA_CLAIR = '\033[1;35m'
+CYAN_CLAIR = '\033[1;36m'
+BLANC_CLAIR = '\033[1;37m'
 
 nom_fichier_cnf = 'clauses.cnf'
 commande_glucose = f'./glucose/simp/glucose -model {nom_fichier_cnf}'
@@ -319,8 +336,74 @@ def encoder_c3(ne, nj):
             clauses += "-" + str(codage(ne, nj, ji, xi, xi)) + " 0\n"
     return clauses
 
+def au_plus_k(variables, k):
+    """Renvoie une clause (au format DIMACS) correspondant à la contrainte
+    au plus k de ces variables sont vraies
+    """
+    from itertools import combinations
 
-def encoder_bis(ne,nj):
+    clauses = []
+    n = len(variables)
+    for i in range(k + 1, n + 1):
+        for c in combinations(variables, i):
+            clause = [str(-x) for x in c] + ["0"]
+            clauses.append(" ".join(clause))
+
+    return clauses
+
+
+
+
+def au_moins_k(variables, k):
+    """Renvoie une clause (au format DIMACS) correspondant à la contrainte
+    au moins k de ces variables sont vraies
+    """
+    n = len(variables)
+    neg_variables = [-x for x in variables]
+    return au_plus_k(neg_variables, n - k)
+
+#-dimanche : france-japon
+#-dimanche : japon-france
+
+def encoder_c4(ne, nj, pext=50, pdom=40):
+    """Renvoie des contraintes (au format DIMACS) correspondant aux contraintes
+    des matchs le dimanche.
+    On considère que le dimanche est le deuxième jour de la semaine (chiffres impairs).
+
+    Indication : pour 3 équipes et 4 jours, cela génère 24 contraintes.
+    """
+    kext = int((ne - 1) * pext / 100)
+    kdom = int((ne - 1) * pdom / 100)
+
+    print(f'kext : {kext} , kdom : {kdom}' )
+    clauses = []
+    str_clauses = ""
+    domiciles = []
+    exterieurs = []
+    for x in range(ne):
+        domiciles = []
+        exterieurs = []
+        for y in range(ne):
+            if x != y:
+                # tous les matchs à domicile joués le dimanche
+                domicile = [codage(ne, nj, j, x, y) for j in range(1, nj, 2)]
+                domiciles.append(domicile)
+                #clauses.extend(au_moins_k(domicile, kdom))
+                # tous les matchs à l'extérieur joués le dimanche
+                exterieur = [codage(ne, nj, j, y, x) for j in range(1, nj, 2)]
+                exterieurs.append(exterieur)
+                #clauses.extend(au_moins_k(exterieur, kext))
+        
+        flattened_domicile = [v for domicile in domiciles for v in domicile]
+        flattened_exterieur = [v for exterieur in exterieurs for v in exterieur]
+        clauses.extend(au_moins_k(flattened_domicile, kdom))
+        clauses.extend(au_moins_k(flattened_exterieur, kext))
+
+    for cl in clauses:
+        str_clauses += cl + '\n'
+    return str_clauses
+
+def encoder_bis(ne,nj, extend=False):
     """
     Encode toutes les contraintes C1 et C2 et C3 pour ne et nj donnée.
     """
@@ -331,6 +414,10 @@ def encoder_bis(ne,nj):
     print('code_c3')
     code_c3 = encoder_c3(ne,nj)
     print('fin de c3')
+    if extend:
+        code_c4 = encoder_c4(ne, nj)
+        print('fin de c4')
+        return eliminer_doublons(code_c1 + code_c2 + code_c3 + code_c4)
     return eliminer_doublons(code_c1 + code_c2 + code_c3)
 
 
@@ -365,7 +452,7 @@ def decoder(sortie_glucose : str, nom_fichier_equipe : str, ne : int) -> str:
             solution = ''
             num_match = 0
             jours = [] # Liste des codes des jours
-            
+            start=1
             for match in matchs_list:
                 if(int(match) >= 0): # Traitement des matchs joué (codes des matchs positif)
                     num_match += 1
@@ -374,7 +461,17 @@ def decoder(sortie_glucose : str, nom_fichier_equipe : str, ne : int) -> str:
                         jours.append(jour) 
                     j = jours.index(jour) # L'index du jour dans le tableaux des codes des jours représente le numero du jour
                     j += 1 # On commence par le jour 1
-                    solution += f'Match numero {num_match} : {JAUNE}< jour {j} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'   
+                    if start==1:
+                        start=0
+                        if jour%2==0:
+                            solution += f'Match numero {num_match} : {GRIS_FONCE}< {j}\'er jour : {FIN}{CYAN_CLAIR}Mercredi jour {jour+1} {FIN}{VERT}Semaine {jour//2 +1} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'  
+                        else:
+                            solution += f'Match numero {num_match} : {GRIS_FONCE}< {j}\'er jour : {FIN}{CYAN_CLAIR}Dimanche jour {jour+1} {FIN}{VERT}Semaine {jour//2 +1} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'  
+            
+                    elif jour%2==0:
+                        solution += f'Match numero {num_match} : {GRIS_FONCE}< {j}\'eme jour : {FIN}{CYAN_CLAIR}Mercredi jour {jour+1} {FIN}{VERT}Semaine {jour//2 +1} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'  
+                    else:
+                        solution += f'Match numero {num_match} : {GRIS_FONCE}< {j}\'eme jour : {FIN}{CYAN_CLAIR}Dimanche jour {jour+1} {FIN}{VERT}Semaine {jour//2 +1} >{FIN} {BLEU}{equipe_list[equipe1]}{FIN} VS {ROUGE}{equipe_list[equipe2]}{FIN}\n'  
         
             return solution
         
@@ -429,14 +526,14 @@ def programme(nom_fichier_equipe : str, ne : int, nj : int):
     print(f'{JAUNE}nombre de jours = {nj}{FIN}')
 
     # Générer les clauses 
-    clauses = encoder_bis(ne,nj)
+    clauses = encoder_bis(ne,nj, extend=True)
 
     # Générer le fichier cnf
     generer_fichier_cnf(clauses)
 
     # Lancer  la commande glucose 
     resultat_commande = subprocess.run(commande_glucose, shell=True, capture_output=True, text=True)
-
+    print(resultat_commande)
     # Réupérer le résultat de la commande
     glucose_output = resultat_commande.stdout
 
@@ -527,67 +624,11 @@ def min_nj(ne: int) -> int:
 #     print(f'{ROUGE}nombre minimal de jour pour {ne} equipes : {nj_min}{FIN}')
 
 # print(min_nj(2))
-        
-# if __name__ == "__main__":
-#   main_1()
-    
+
+if __name__ == "__main__":
+   main_1()
 
 
+variables=[1,2]
+au_moins_k(variables, 1)
 
-
-""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"""
-
-TODO : Faire marcher ces fonctions :
-----------------------------------
-
-def au_plus_k(variables, k):
-    """Renvoie une clause (au format DIMACS) correspondant à la contrainte
-    "au plus k de ces variables sont vraies"
-    """
-    from itertools import combinations
-
-    clauses = []
-    n = len(variables)
-    for i in range(k + 1, n + 1):
-        for c in combinations(variables, i):
-            clause = [str(-x) for x in c] + ["0"]
-            clauses.append(" ".join(clause))
-    return clauses
-
-
-
-
-def au_moins_k(variables, k):
-    """Renvoie une clause (au format DIMACS) correspondant à la contrainte
-    "au moins k de ces variables sont vraies".
-    """
-    n = len(variables)
-    neg_variables = [-x for x in variables]
-    return au_plus_k(neg_variables, n - k)
-
-
-def encoder_c4(ne, nj, pext=50, pdom=40):
-    """Renvoie des contraintes (au format DIMACS) correspondant aux contraintes
-    des matchs le dimanche.
-    On considère que le dimanche est le deuxième jour de la semaine (chiffres impairs).
-
-    Indication : pour 3 équipes et 4 jours, cela génère 24 contraintes.
-    """
-    kext = int((ne - 1) * 2 * pext / 100)
-    kdom = int((ne - 1) * 2 * pdom / 100)
-    clauses = []
-    for x in range(ne):
-        for y in range(ne):
-            if x != y:
-                # tous les matchs à domicile joués le dimanche
-                domicile = [codage(ne, nj, j, x, y) for j in range(1, nj, 2)]
-                clauses.extend(au_moins_k(domicile, kdom))
-                # tous les matchs à l'extérieur joués le dimanche
-                exterieur = [codage(ne, nj, j, y, x) for j in range(1, nj, 2)]
-                clauses.extend(au_moins_k(exterieur, kext))
-    return clauses
-
-
-    
-""""""""""""""" """"""
