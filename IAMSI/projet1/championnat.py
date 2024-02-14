@@ -416,11 +416,49 @@ def encoder_c4(ne, nj, pext=50, pdom=40):
     return str_clauses
 
 
-###############################################################################################################################################
-###############################################################################################################################################
-###############################################################################################################################################
-###############################################################################################################################################
-###############################################################################################################################################
+def encoder_c5(ne, nj):
+    """Renvoie des contraintes (au format DIMACS) correspondant aux contraintes
+    des matchs consécutifs.
+
+    Note : cette implémentation est fausse, n'ayant pas bien compris comment récupérer
+    la notion de matchs consécutifs.
+
+    Parameters
+    ----------
+    ne : int
+        Nombre d'équipes.
+    nj : int
+        Nombre de jours.
+
+    Returns
+    -------
+    clauses : liste de str
+        Contraintes générées.
+    """
+    matchs_domicile = []
+    matchs_exterieur = []
+    clauses = []
+    str_clauses = ""
+
+    for x in range(ne): 
+        for j in range(nj-1):
+
+            matchs_domicile = []
+            matchs_exterieur = []
+
+            for y in range(ne):
+                matchs_domicile.append(codage(ne,nj,j,x,y))
+                matchs_domicile.append(codage(ne,nj,j+1,x,y))
+
+                matchs_exterieur.append(codage(ne,nj,j,y, x))
+                matchs_exterieur.append(codage(ne,nj,j+1,y,x))
+
+            clauses.extend(au_plus_k(matchs_domicile, 1))
+            clauses.extend(au_plus_k(matchs_exterieur, 1))
+
+    for cl in clauses:
+        str_clauses += cl + '\n'
+    return str_clauses
 
 def encoder_bis(ne,nj, extend=False):
     """
@@ -431,7 +469,9 @@ def encoder_bis(ne,nj, extend=False):
     code_c3 = encoder_c3(ne,nj)
     if extend:
         code_c4 = encoder_c4(ne, nj)
-        return eliminer_doublons(code_c1 + code_c2 + code_c3 + code_c4)
+        code_c5 = encoder_c5(ne,nj)
+
+        return eliminer_doublons(code_c1 + code_c2 + code_c3 + code_c4 + code_c5)
     return eliminer_doublons(code_c1 + code_c2 + code_c3)
 
 
@@ -570,6 +610,8 @@ def main_1():
     # Lire le fichier d'equipes
     nom_fichier_equipe = sys.argv[1]
 
+    # Lire si l'utilisateur veut contabiliser les contraites C4 et C5
+
     # Lire le nombre de d'equipe et le nombre de jour
     ne, nj = read_ne_nj(nom_fichier_equipe)
 
@@ -614,49 +656,82 @@ def min_nj_dico(ne: int) -> int:
 #------------- --------------- --------------- --------------- --------------- --------------- ---------------
 
 def min_nj(ne: int) -> int:
+    """ Fonction iterative basique """
     nj = 2
     while True:
         # Générer les clauses
         clauses = encoder_bis(ne, nj)
-
+        print("finis d'encoder")
         # Générer le fichier cnf
         generer_fichier_cnf(clauses)
 
         # Lancer la commande glucose
-        resultat_commande = subprocess.run(commande_glucose, shell=True, capture_output=True, text=True)
 
+        process = subprocess.Popen(commande_glucose, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+
+        try:
+            # Attendre 10 secondes pour la fin de l'exécution de la commande
+            glucose_output, _ = process.communicate(timeout=10)
+        except subprocess.TimeoutExpired:
+            print("Le calcul a pris plus de 10 secondes. Annuler la commande.")
+            process.kill()
+            nj += 1
+            continue       
         # Récupérer le résultat de la commande
-        glucose_output = resultat_commande.stdout
+        glucose_output = glucose_output.decode()
 
         # On vérifie si on a une solution qui satisfait nos contraintes
         if glucose_output.find("UNSATISFIABLE") == -1:
             return nj
+        else:
+            print("unsat :c avec nj = ", nj)
 
         # On augmente nj jusqu'à trouver le nj qui satisfera les clauses
         nj += 1
 
 
-# for ne in range(3, 11):
-#     if(ne == 5  or ne==8):
-#         continue
-#     nj_min = min_nj(ne)
-#     print(f'{ROUGE}nombre minimal de jour pour {ne} equipes : {nj_min}{FIN}')
+import signal
 
-# print(min_nj(2))
+def handler(signum, frame):
+    raise TimeoutError("Le délai d'attente est dépassé")
 
-if __name__ == "__main__":
-   main_1()
-
-
-# variables=[1,2]
-# au_moins_k(variables, 1)
+timeout_duration = 10  # Durée du timeout en secondes
 
 
 
 
 
 
-# Générérer le fichier cnf 
-# generer_fichier_cnf(clauses)
+
+
+
+
+
+
+
+# TESTS
+
+
+for ne in range(3, 11):
+    signal.signal(signal.SIGALRM, handler)
+    signal.alarm(timeout_duration)
+
+    try:
+        nj_min = min_nj_dico(ne)
+        signal.alarm(0)  # Annuler le timeout si la fonction se termine avant la limite
+    except TimeoutError:
+        print(f"Le calcul pour {ne} équipes a pris plus de {timeout_duration} secondes. Annuler la commande.")
+        continue
+
+    print(f"nombre minimal de jours pour {ne} équipes : {nj_min}")
+
+
+
+
         
-#affichage_contrainte(ne = 3, nj = 4, affichager_contrainte = False)
+
+
+
+# if __name__ == "__main__":
+#    main_1()
+
