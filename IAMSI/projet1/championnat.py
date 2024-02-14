@@ -643,40 +643,64 @@ def min_nj_dico(ne: int) -> int:
 #------------- --------------- --------------- --------------- --------------- --------------- ---------------
 
 def min_nj(ne: int) -> int:
+    """ Fonction iterative basique """
     nj = 2
     while True:
         # Générer les clauses
         clauses = encoder_bis(ne, nj)
-
+        print("finis d'encoder")
         # Générer le fichier cnf
         generer_fichier_cnf(clauses)
 
         # Lancer la commande glucose
-        resultat_commande = subprocess.run(commande_glucose, shell=True, capture_output=True, text=True)
 
+        process = subprocess.Popen(commande_glucose, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+
+        try:
+            # Attendre 10 secondes pour la fin de l'exécution de la commande
+            glucose_output, _ = process.communicate(timeout=10)
+        except subprocess.TimeoutExpired:
+            print("Le calcul a pris plus de 10 secondes. Annuler la commande.")
+            process.kill()
+            nj += 1
+            continue       
         # Récupérer le résultat de la commande
-        glucose_output = resultat_commande.stdout
+        glucose_output = glucose_output.decode()
 
         # On vérifie si on a une solution qui satisfait nos contraintes
         if glucose_output.find("UNSATISFIABLE") == -1:
             return nj
+        else:
+            print("unsat :c avec nj = ", nj)
 
         # On augmente nj jusqu'à trouver le nj qui satisfera les clauses
         nj += 1
 
 
-# for ne in range(3, 11):
-#     if(ne == 5  or ne==8):
-#         continue
-#     nj_min = min_nj(ne)
-#     print(f'{ROUGE}nombre minimal de jour pour {ne} equipes : {nj_min}{FIN}')
+import signal
 
-# print(min_nj(2))
+def handler(signum, frame):
+    raise TimeoutError("Le délai d'attente est dépassé")
 
+timeout_duration = 10  # Durée du timeout en secondes
+
+for ne in range(3, 11):
+    signal.signal(signal.SIGALRM, handler)
+    signal.alarm(timeout_duration)
+
+    try:
+        nj_min = min_nj_dico(ne)
+        signal.alarm(0)  # Annuler le timeout si la fonction se termine avant la limite
+    except TimeoutError:
+        print(f"Le calcul pour {ne} équipes a pris plus de {timeout_duration} secondes. Annuler la commande.")
+        continue
+
+    print(f"nombre minimal de jours pour {ne} équipes : {nj_min}")
+
+        
+
+        
+"""
 if __name__ == "__main__":
    main_1()
-
-
-variables=[1,2]
-au_moins_k(variables, 1)
-
+"""
