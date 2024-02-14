@@ -403,6 +403,51 @@ def encoder_c4(ne, nj, pext=50, pdom=40):
         str_clauses += cl + '\n'
     return str_clauses
 
+
+def encoder_c5(ne, nj):
+    """Renvoie des contraintes (au format DIMACS) correspondant aux contraintes
+    des matchs consécutifs.
+
+    Note : cette implémentation est fausse, n'ayant pas bien compris comment récupérer
+    la notion de matchs consécutifs.
+
+    Parameters
+    ----------
+    ne : int
+        Nombre d'équipes.
+    nj : int
+        Nombre de jours.
+
+    Returns
+    -------
+    clauses : liste de str
+        Contraintes générées.
+    """
+    matchs_domicile = []
+    matchs_exterieur = []
+    clauses = []
+    str_clauses = ""
+
+    for x in range(ne): 
+        for j in range(nj-1):
+
+            matchs_domicile = []
+            matchs_exterieur = []
+
+            for y in range(ne):
+                matchs_domicile.append(codage(ne,nj,j,x,y))
+                matchs_domicile.append(codage(ne,nj,j+1,x,y))
+
+                matchs_exterieur.append(codage(ne,nj,j,y, x))
+                matchs_exterieur.append(codage(ne,nj,j+1,y,x))
+
+            clauses.extend(au_plus_k(matchs_domicile, 1))
+            clauses.extend(au_plus_k(matchs_exterieur, 1))
+
+    for cl in clauses:
+        str_clauses += cl + '\n'
+    return str_clauses
+
 def encoder_bis(ne,nj, extend=False):
     """
     Encode toutes les contraintes C1 et C2 et C3 pour ne et nj donnée.
@@ -417,7 +462,10 @@ def encoder_bis(ne,nj, extend=False):
     if extend:
         code_c4 = encoder_c4(ne, nj)
         print('fin de c4')
-        return eliminer_doublons(code_c1 + code_c2 + code_c3 + code_c4)
+        code_c5 = encoder_c5(ne,nj)
+        print('fin de c5')
+
+        return eliminer_doublons(code_c1 + code_c2 + code_c3 + code_c4 + code_c5)
     return eliminer_doublons(code_c1 + code_c2 + code_c3)
 
 
@@ -533,7 +581,7 @@ def programme(nom_fichier_equipe : str, ne : int, nj : int):
 
     # Lancer  la commande glucose 
     resultat_commande = subprocess.run(commande_glucose, shell=True, capture_output=True, text=True)
-    print(resultat_commande)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
     # Réupérer le résultat de la commande
     glucose_output = resultat_commande.stdout
 
