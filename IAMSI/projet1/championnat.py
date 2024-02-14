@@ -20,11 +20,32 @@ def eliminer_doublons(clauses : str) -> str:
     """
     lignes = clauses.split(" 0")
     lignes_uniques = []
+    set_ligne_uniques = []
 
     for ligne in lignes:
-        # ajouter la ligne triée à l'ensemble
+        # Ajouter la ligne triée à l'ensemble
         if ligne != '':
-            lignes_uniques.append(ligne)
+            # Récupérer un set de variables dans la clauses (ligne) 
+            nombres = ligne.split(" ")
+            # print(nombres)
+
+            ligne_tab = set()
+
+            for e in nombres:
+                if e != '0' and e != '' and e != "\n":
+
+                    if e[0] == "\n":
+                        e = e[1:]
+
+                    if e[-1] == "\n":
+                        e |e[:-1]
+                    
+                    ligne_tab |= {e}
+
+            # Vérifier que le set de clauses n'est pas dans set_lignes_uniques
+            if ligne_tab not in set_ligne_uniques:
+                lignes_uniques.append(ligne) # Ajouter la ligne dans les lignes uniques
+                set_ligne_uniques.append(ligne_tab) # Ajouter le set de clause dans set_lignes_uniques
 
     lignes_sans_doublons = " 0 ".join(lignes_uniques)
     return lignes_sans_doublons 
@@ -233,11 +254,11 @@ def encoder(ne,nj):
 
 # ---------------------------------------------------------------------------
 # Test des fonctions 
-ne = 4
-nj = 6
+# ne = 3
+# nj = 4
 
-clauses_c1 = encoder_c1(ne,nj)
-clauses_c2 = encoder_c2(ne,nj)
+# clauses_c1 = encoder_c1(ne,nj)
+# clauses_c2 = encoder_c2(ne,nj)
 # clauses= encoder(ne,nj)
 
 # print(f'Pour {ne} équipes sur {nj} jours : ')
@@ -303,7 +324,14 @@ def encoder_bis(ne,nj):
     """
     Encode toutes les contraintes C1 et C2 et C3 pour ne et nj donnée.
     """
-    return eliminer_doublons(encoder_c1(ne,nj) + encoder_c2(ne,nj) + encoder_c3(ne,nj))
+    print('code_c1')
+    code_c1 = encoder_c1(ne,nj)
+    print('code_c2')
+    code_c2 = encoder_c2(ne,nj)
+    print('code_c3')
+    code_c3 = encoder_c3(ne,nj)
+    print('fin de c3')
+    return eliminer_doublons(code_c1 + code_c2 + code_c3)
 
 
 # 3.4 
@@ -337,6 +365,7 @@ def decoder(sortie_glucose : str, nom_fichier_equipe : str, ne : int) -> str:
             solution = ''
             num_match = 0
             jours = [] # Liste des codes des jours
+            
             for match in matchs_list:
                 if(int(match) >= 0): # Traitement des matchs joué (codes des matchs positif)
                     num_match += 1
@@ -423,11 +452,51 @@ def programme(nom_fichier_equipe : str, ne : int, nj : int):
 def main_1():
     nom_fichier_equipe = sys.argv[1]
 
+    if(nom_fichier_equipe == ""):    
+        print(f'nom du fichier non ajouter en parametre de l\'appel')
+
     ne, nj = read_ne_nj(nom_fichier_equipe)
 
     programme(nom_fichier_equipe, ne, nj)
 
+
+import math
+
 # Exercice 4
+def min_nj_dico(ne: int) -> int:
+    nj_min = ne
+    nj_max = math.perm(ne, 2)
+    print(math.perm(3, 2))
+    nj_mid = nj_min
+    res = nj_min
+    # Valeur maximale de nj à tester
+    
+    while nj_min < nj_max:
+        nj_mid = (nj_min + nj_max) // 2
+        print(f'Try avec ne = {ne} et nj = {nj_mid}')
+        
+        # Générer les clauses
+        clauses = encoder_bis(ne, nj_mid)
+
+        # Générer le fichier cnf
+        generer_fichier_cnf(clauses)
+
+        # Lancer la commande glucose
+        resultat_commande = subprocess.run(commande_glucose, shell=True, capture_output=True, text=True)
+
+        # Récupérer le résultat de la commande
+        glucose_output = resultat_commande.stdout
+
+        # On vérifie si on a une solution qui satisfait nos contraintes
+        if glucose_output.find("UNSATISFIABLE") == -1:
+            nj_max = nj_mid # SATISFIABLE
+        else:
+            nj_min = nj_mid + 1 # NON SATISFIABLE
+    
+    return nj_min
+
+#------------- --------------- --------------- --------------- --------------- --------------- ---------------
+
 def min_nj(ne: int) -> int:
     nj = 2
     while True:
@@ -450,12 +519,75 @@ def min_nj(ne: int) -> int:
         # On augmente nj jusqu'à trouver le nj qui satisfera les clauses
         nj += 1
 
+
 # for ne in range(3, 11):
-#     result = min_nj(ne)
+#     if(ne == 5  or ne==8):
+#         continue
+#     nj_min = min_nj(ne)
+#     print(f'{ROUGE}nombre minimal de jour pour {ne} equipes : {nj_min}{FIN}')
 
-print(min_nj(2))
+# print(min_nj(2))
         
-if __name__ == "__main__":
-  main_1()
-        
+# if __name__ == "__main__":
+#   main_1()
+    
 
+
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"""
+
+TODO : Faire marcher ces fonctions :
+----------------------------------
+
+def au_plus_k(variables, k):
+    """Renvoie une clause (au format DIMACS) correspondant à la contrainte
+    "au plus k de ces variables sont vraies"
+    """
+    from itertools import combinations
+
+    clauses = []
+    n = len(variables)
+    for i in range(k + 1, n + 1):
+        for c in combinations(variables, i):
+            clause = [str(-x) for x in c] + ["0"]
+            clauses.append(" ".join(clause))
+    return clauses
+
+
+
+
+def au_moins_k(variables, k):
+    """Renvoie une clause (au format DIMACS) correspondant à la contrainte
+    "au moins k de ces variables sont vraies".
+    """
+    n = len(variables)
+    neg_variables = [-x for x in variables]
+    return au_plus_k(neg_variables, n - k)
+
+
+def encoder_c4(ne, nj, pext=50, pdom=40):
+    """Renvoie des contraintes (au format DIMACS) correspondant aux contraintes
+    des matchs le dimanche.
+    On considère que le dimanche est le deuxième jour de la semaine (chiffres impairs).
+
+    Indication : pour 3 équipes et 4 jours, cela génère 24 contraintes.
+    """
+    kext = int((ne - 1) * 2 * pext / 100)
+    kdom = int((ne - 1) * 2 * pdom / 100)
+    clauses = []
+    for x in range(ne):
+        for y in range(ne):
+            if x != y:
+                # tous les matchs à domicile joués le dimanche
+                domicile = [codage(ne, nj, j, x, y) for j in range(1, nj, 2)]
+                clauses.extend(au_moins_k(domicile, kdom))
+                # tous les matchs à l'extérieur joués le dimanche
+                exterieur = [codage(ne, nj, j, y, x) for j in range(1, nj, 2)]
+                clauses.extend(au_moins_k(exterieur, kext))
+    return clauses
+
+
+    
+""""""""""""""" """"""
