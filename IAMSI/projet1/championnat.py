@@ -1,9 +1,19 @@
+"""
+Projet IAMSI
+Organisation d'un championnat
+Hocine Kadem 21309534
+Neil Benahmed 21200977
+14/02/2024
+"""
+
 import re
 from typing import List
 import subprocess # Commandes systèmes 
 import sys # Récupérer paramètres main
-import time
+import math
+import signal
 
+# Balises de couleurs
 ROUGE = '\033[91m'
 BLEU = '\033[94m'
 JAUNE = '\033[93m'
@@ -16,14 +26,22 @@ CYAN = '\033[0;36m'
 BLANC = '\033[0;37m'
 CYAN_CLAIR = '\033[1;36m'
 GRIS_FONCE = '\033[1;30m'
+FIN = '\033[0m' # Balise de ferméture pour les balises des couleurs
 
-FIN = '\033[0m'
-
+# Fichier DIMACS généré/modifié
 nom_fichier_cnf = 'clauses.cnf'
+
+# Commande glucose 
 commande_glucose = f'./glucose/simp/glucose -model {nom_fichier_cnf}'
 
-# --------------------------------------------------------------------------------------------------
-# Fonctions utiles 
+
+# -------------------------------------------------------------------
+# -------------------------------------------------------------------
+# --------------------- Fonctions utilitaires -----------------------
+# -------------------------------------------------------------------
+# -------------------------------------------------------------------
+
+
 def eliminer_doublons(clauses : str) -> str:
     """
     Elimine les doublons des clauses dans une liste de clause sous format chaine de String
@@ -78,7 +96,7 @@ def transforme_liste(clauses: str) -> List[int]:
 
     return liste_clauses
 
-def generer_fichier_cnf(clauses):
+def generer_fichier_cnf(clauses : str):
     """
     Génére un fichier cnf à partir d'un string de clauses
     """
@@ -99,15 +117,23 @@ def generer_fichier_cnf(clauses):
     with open(nom_fichier_cnf, "w") as f:
         f.write(fichier_cnf)
 
-def ajuster_taille(chaine, taille):
+def ajuster_taille(chaine : str, taille : int) -> str:
+    """
+    Ajoute des caractères ' ' à une chaine pour la rendre de taille taille
+    """
     if len(chaine) >= taille:
         return chaine
     else:
         espaces_ajoutes = taille - len(chaine)
         return chaine + ' ' * espaces_ajoutes
     
-# --------------------------------------------------------------------------------------------------
 
+# --------------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------------
+# --------------------- Fonctions du projets & réponses aux questions ------------------------
+# --------------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------------
+# Une explication plus détaillée des fonctions et des réponses aux questions se trouve dans le rapport du projet.
 
 # 2.1  
 """
@@ -117,12 +143,14 @@ si on consifère qu'une equipe peut jouer contre elle même : nj * (ne ^ 2)
 sinon : nj - ne * (ne - 1) 
 """
 
+
 # 2.2 
 def codage(ne, nj, j, x, y):
     """
     Fonction de codage d'une paire (j, x, y) en une variable propositionnelle unique
     """
     return ne**2 * j + x * ne + y + 1
+
 
 # 2.3 
 def decodage(k, ne):
@@ -134,6 +162,7 @@ def decodage(k, ne):
     x = (k % ne**2 - y) // ne
     j = (k - x * ne - y) // ne**2
     return j, x, y    
+
 
 # 3.1.1
 def cnf_au_moins(liste):
@@ -147,6 +176,7 @@ def cnf_au_moins(liste):
         clause += str(0)
     return clause
 
+
 # 3.1. 
 def cnf_au_plus(liste):
     """
@@ -158,6 +188,7 @@ def cnf_au_plus(liste):
             clause += "-" + str(liste[i]) + " -" + str(liste[j]) + " 0 \n"
     return clause[:-1]
 
+
 # 3.2.1
 """ 
 C1 : "chaque équipe ne peut jouer plus d'un match par jour"
@@ -168,6 +199,7 @@ Pour chaque jour ji et chaque équipe xi donnés, on a :
     Pour chaque paire de joueurs yi et yj, avec yi différent de xi et yj différent de xi :
         Au plus un vrai(M, ji, xi, yi ; M, ji, xi, yj ; M, ji, yi, xi ; M, ji, yj, xi)
 """
+
 
 # 3.2.2 
 def encoder_c1(ne, nj):        
@@ -188,6 +220,7 @@ def encoder_c1(ne, nj):
 
     return eliminer_doublons(clauses)
 
+
 # 3.2.3 
 """
 Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
@@ -198,9 +231,9 @@ On a aussi pour chaque jour 3 doublons donc on a 12 doublons.
 Donc on à finalement : 60 clauses
 """
 
+
 # 3.2.4
 """
-4. 
 C2 : "Sur la durée du championnat, chaque équipe doit rencontrer l'ensemble
     des autres équipes une fois à domicile et une fois à l'extérieur, soit 
     exactement 2 matchs par équipe adverse."
@@ -210,21 +243,8 @@ Traduction :
 Pour chaque equipe xi : 
     Pour chaque equipe yi différent de xi :
         Il existe j tel que :  (M, j, xi, yi) and (M, j, yi, xi)
-
-En notation DIMACS, cela se traduit par :
-    Pour chaque equipe xi : 
-        Pour chaque equipe yi différent de xi :
-            # Pour les matchs aller
-            cnf_au_plus(M j1 xi yi  M j2 xi yi  M j3 xi yi ... M jnj xi yi 0)
-            cnf_au_moins(M j1 xi yi  M j2 xi yi  M j3 xi yi ... M jnj xi yi 0)
-
-            # Pour les matchs retour
-            cnf_au_plus(M j1 xi yi  M j2 xi yi  M j3 xi yi ... M jnj xi yi 0)
-            cnf_au_moins(M j1 yi xi M j2 yi xi  M j3 yi xi ... M jnj yi xi 0)
-
-Où M est la variable propositionnelle représentant un match entre les joueurs xi et yi le jour ji.
-
 """
+
 
 # 3.2.5
 def encoder_c2(ne, nj):  
@@ -243,14 +263,11 @@ def encoder_c2(ne, nj):
             clauses += cnf_au_moins(matchs_aller) + '\n' + cnf_au_plus(matchs_aller) + '\n' + cnf_au_moins(matchs_retour) + '\n' + cnf_au_plus(matchs_retour) + '\n'
     return eliminer_doublons(clauses)
 
+
 # 3.2.6 
 """
 Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
-"""
-"""
-Indiquer le nombre de contraintes et de clauses générés pour 3 équipes sur 4 jours et expliciter ces contraintes : 
-"""
-"""
+
 On à 3 (2 parmis 3) {xi,yi} : 
 On calcule les cnf_au_moins : 1 contrainte par {xi,yi}
 On calcule les cnf_au_plus : On a 4 jours, donc 2 parmis 4 = 6 contraintes par {xi,yi}
@@ -259,6 +276,7 @@ Donc on aura :
 nombre de contraintes clause C2 avec 3 équipes sur 4 jours = 
 3 * (1 + 6) * 2 = 42 contraintes
 """
+
 
 # 3.2.7 
 def encoder(ne,nj):
@@ -330,6 +348,8 @@ c CPU time              : 0.00136 s
 
 s UNSATISFIABLE
 """ 
+
+
 """
 Qu'est-il n'ecessaire d'ajouter aux deux contraintes C1 et C2 ?
 --> On doit ajouter une contraite qu'une equipe ne peut pas jouer contre elle même
@@ -387,7 +407,6 @@ def encoder_c4(ne, nj, pext=50, pdom=40):
     kext = int((ne - 1) * pext / 100)
     kdom = int((ne - 1) * pdom / 100)
 
-    # print(f'kext : {kext} , kdom : {kdom}' )
     clauses = []
     str_clauses = ""
     domiciles = []
@@ -397,14 +416,13 @@ def encoder_c4(ne, nj, pext=50, pdom=40):
         exterieurs = []
         for y in range(ne):
             if x != y:
-                # tous les matchs à domicile joués le dimanche
+                # Tous les matchs à domicile joués le dimanche
                 domicile = [codage(ne, nj, j, x, y) for j in range(1, nj, 2)]
                 domiciles.append(domicile)
-                #clauses.extend(au_moins_k(domicile, kdom))
-                # tous les matchs à l'extérieur joués le dimanche
+
+                # Tous les matchs à l'extérieur joués le dimanche
                 exterieur = [codage(ne, nj, j, y, x) for j in range(1, nj, 2)]
                 exterieurs.append(exterieur)
-                #clauses.extend(au_moins_k(exterieur, kext))
         
         flattened_domicile = [v for domicile in domiciles for v in domicile]
         flattened_exterieur = [v for exterieur in exterieurs for v in exterieur]
@@ -460,9 +478,24 @@ def encoder_c5(ne, nj):
         str_clauses += cl + '\n'
     return str_clauses
 
+###############################################################################################################################################
+###############################################################################################################################################
+###############################################################################################################################################
+###############################################################################################################################################
+###############################################################################################################################################
+
+
 def encoder_bis(ne,nj, extend=False):
     """
-    Encode toutes les contraintes C1 et C2 et C3 pour ne et nj donnée.
+    Encode les contraintes C1, C2 et C3 pour les valeurs données de ne et nj.
+    
+    Arguments :
+    ne -- Valeur de ne à encoder
+    nj -- Valeur de nj à encoder
+    extend -- Indique si les contraintes C4 et C5 doivent également être encodées (par défaut False)
+    
+    Returns :
+    Code encodé des contraintes C1, C2 et C3 (et éventuellement C4 et C5)
     """
     code_c1 = encoder_c1(ne,nj)
     code_c2 = encoder_c2(ne,nj)
@@ -536,7 +569,7 @@ def decoder(sortie_glucose : str, nom_fichier_equipe : str, ne : int) -> str:
     except Exception as e:
         return f"Une erreur s'est produite : {str(e)}"
     
-# --------------------------------------------------------------------------------------------------
+
 # 3.5
 def read_ne_nj(nom_fichier_equipe : str):
     """
@@ -576,13 +609,25 @@ def read_ne_nj(nom_fichier_equipe : str):
     
     return ne, nj
 
-# ---------------------------
-def programme(nom_fichier_equipe : str, ne : int, nj : int):   
+
+def programme(nom_fichier_equipe : str, ne : int, nj : int, extend=False): 
+    """
+    Génére un modèle pour résoudre le problème de génération d'un championnat en utilisant le solveur Glucose.
+
+    Arguments :
+    nom_fichier_equipe -- Nom du fichier contenant les noms des équipes
+    ne -- Nombre d'équipes
+    nj -- Nombre de jours
+    extend -- Indique si les contraintes C4 et C5 doivent être prises en compte (par défaut False)
+
+    Returns :
+    Le modèle résolu du problème
+    """  
     print(f'{JAUNE}nombre d\'equipes = {ne}{FIN}')
     print(f'{JAUNE}nombre de jours = {nj}{FIN}')
 
     # Générer les clauses 
-    clauses = encoder_bis(ne,nj, extend=True)
+    clauses = encoder_bis(ne,nj)
 
     # Générer le fichier cnf
     generer_fichier_cnf(clauses)
@@ -601,8 +646,17 @@ def programme(nom_fichier_equipe : str, ne : int, nj : int):
 
     return modele
 
-# --------------------------------------------------------------------------------------------------
-def main_1():
+
+def main_1(extend=False):
+    """
+    Point d'entrée principal du programme.
+
+    Arguments :
+    extend -- Indique si les contraintes C4 et C5 doivent être prises en compte (par défaut False)
+
+    Returns :
+    0 si l'exécution s'est déroulée correctement, -1 sinon.
+    """
     if(sys.argv[1] == ""):    
         print(f'nom du fichier non ajouter en parametre de l\'appel')
         return -1
@@ -615,48 +669,17 @@ def main_1():
     # Lire le nombre de d'equipe et le nombre de jour
     ne, nj = read_ne_nj(nom_fichier_equipe)
 
-    programme(nom_fichier_equipe, ne, nj)
+    programme(nom_fichier_equipe, ne, nj, extend)
 
     return 0
 
-import math
 
 # Exercice 4
-def min_nj_dico(ne: int) -> int:
-    nj_min = ne
-    nj_max = math.perm(ne, 2)
-    nj_mid = nj_min
-    res = nj_min
-    # Valeur maximale de nj à tester
-    
-    while nj_min < nj_max:
-        nj_mid = (nj_min + nj_max) // 2
-        print(f'Try avec ne = {ne} et nj = {nj_mid}')
-        
-        # Générer les clauses
-        clauses = encoder_bis(ne, nj_mid)
-
-        # Générer le fichier cnf
-        generer_fichier_cnf(clauses)
-
-        # Lancer la commande glucose
-        resultat_commande = subprocess.run(commande_glucose, shell=True, capture_output=True, text=True)
-
-        # Récupérer le résultat de la commande
-        glucose_output = resultat_commande.stdout
-
-        # On vérifie si on a une solution qui satisfait nos contraintes
-        if glucose_output.find("UNSATISFIABLE") == -1:
-            nj_max = nj_mid # SATISFIABLE
-        else:
-            nj_min = nj_mid + 1 # NON SATISFIABLE
-    
-    return nj_min
-
-#------------- --------------- --------------- --------------- --------------- --------------- ---------------
 
 def min_nj(ne: int) -> int:
-    """ Fonction iterative basique """
+    """
+    Retourne la valeur minimale de nj pour ne equipes en utilisant des appels SAT de façon itérative
+    """
     nj = 2
     while True:
         # Générer les clauses
@@ -690,48 +713,96 @@ def min_nj(ne: int) -> int:
         nj += 1
 
 
-import signal
+def min_nj_dichotomique(ne: int) -> int:
+    """
+    Retourne la valeur minimale de nj pour ne equipes en utilisant une recherche dichotomique
+    """
+    nj_min = ne
+    nj_max = math.perm(ne, 2)
+    nj_mid = nj_min
+    # Valeur maximale de nj à tester
+    
+    while nj_min < nj_max:
+        nj_mid = (nj_min + nj_max) // 2
+        print(f'{GRIS_FONCE}Calcule pour ne = {ne} et nj = {nj_mid}{FIN}')
+        
+        # Générer les clauses
+        clauses = encoder_bis(ne, nj_mid)
 
-def handler(signum, frame):
-    raise TimeoutError("Le délai d'attente est dépassé")
+        # Générer le fichier cnf
+        generer_fichier_cnf(clauses)
 
-timeout_duration = 10  # Durée du timeout en secondes
+        # Lancer la commande glucose
+        resultat_commande = subprocess.run(commande_glucose, shell=True, capture_output=True, text=True)
 
+        # Récupérer le résultat de la commande
+        glucose_output = resultat_commande.stdout
 
-
-
-
-
-
-
-
-
-
-
-
-# TESTS
-
-
-for ne in range(3, 11):
-    signal.signal(signal.SIGALRM, handler)
-    signal.alarm(timeout_duration)
-
-    try:
-        nj_min = min_nj_dico(ne)
-        signal.alarm(0)  # Annuler le timeout si la fonction se termine avant la limite
-    except TimeoutError:
-        print(f"Le calcul pour {ne} équipes a pris plus de {timeout_duration} secondes. Annuler la commande.")
-        continue
-
-    print(f"nombre minimal de jours pour {ne} équipes : {nj_min}")
+        # On vérifie si on a une solution qui satisfait nos contraintes
+        if glucose_output.find("UNSATISFIABLE") == -1:
+            nj_max = nj_mid # SATISFIABLE
+        else:
+            nj_min = nj_mid + 1 # NON SATISFIABLE
+    
+    return nj_min
 
 
+def min_nj_plusieurs_equipes(ne_min = 3,ne_max = 10):
+    """
+    Retourne la valeur minimale de nj pour le nombre d'equipe de ne_min à ne_max equipes en utilisant une recherche dichotomique
+    """
+    def handler(signum, frame):
+        raise TimeoutError("Le délai d'attente est dépassé")
+
+    timeout_duration = 10  # Durée du timeout en secondes
+
+    for ne in range(ne_min, ne_max+1):
+        signal.signal(signal.SIGALRM, handler)
+        signal.alarm(timeout_duration)
+
+        try:
+            nj_min = min_nj_dichotomique(ne)
+            signal.alarm(0)  # Annuler le timeout si la fonction se termine avant la limite
+        except TimeoutError:
+            print(f"{ROUGE}Le calcul pour {ne} équipes a pris plus de {timeout_duration} secondes. Annuler la commande.{FIN}")
+            continue
+
+        print(f"{VERT}Nombre minimal de jours pour {ne} équipes : {nj_min}{FIN}")
 
 
+# ---------------------------------------------------
+# ---------------------------------------------------
+# --------------------- MAIN ------------------------
+# ---------------------------------------------------
+# ---------------------------------------------------
         
 
+if __name__ == "__main__":
 
+    if len(sys.argv) < 2: # Nom fichier equipes par défault
+        sys.argv.append("equipes.txt") 
 
-# if __name__ == "__main__":
-#    main_1()
+    while True:
+        try:
+            choix = int(input("Choisissez une option : \n1. Modèle pour la résolution du problème du championnat\n2. Nombre de jours minimum\n"))
+            if choix == 2:
+                min_nj_plusieurs_equipes()
+                break
+            elif choix == 1:
+                while True:
+                    prendre_en_compte = input("Voulez-vous prendre en compte C4 et C5 ? (1. oui/2. non)\n").lower()
+                    if prendre_en_compte == 'oui' or prendre_en_compte == '1':
+                        main_1(extend = True)
+                        break
+                    elif prendre_en_compte == 'non' or prendre_en_compte == '2':
+                        main_1(extend = False)
+                        break
+                    else:
+                        print("Option invalide. Veuillez réessayer.")
+                break
+            else:
+                print("Option invalide. Veuillez réessayer.")
+        except ValueError:
+            print("Veuillez entrer un nombre valide.")
+
 
