@@ -467,12 +467,14 @@ def encoder_c5(ne, nj):
             for y in range(ne):
                 matchs_domicile.append(codage(ne,nj,j,x,y))
                 matchs_domicile.append(codage(ne,nj,j+1,x,y))
+                matchs_domicile.append(codage(ne,nj,j+2,x,y))
 
                 matchs_exterieur.append(codage(ne,nj,j,y, x))
                 matchs_exterieur.append(codage(ne,nj,j+1,y,x))
+                matchs_exterieur.append(codage(ne,nj,j+2,y,x))
 
-            clauses.extend(au_plus_k(matchs_domicile, 1))
-            clauses.extend(au_plus_k(matchs_exterieur, 1))
+            clauses.extend(au_plus_k(matchs_domicile, 2))
+            clauses.extend(au_plus_k(matchs_exterieur, 2))
 
     for cl in clauses:
         str_clauses += cl + '\n'
@@ -579,8 +581,8 @@ def read_ne_nj(nom_fichier_equipe : str):
     while True:
         try:
             nj = int(input(f'{CYAN_CLAIR}Entrez le nombre de jours du championnat (nj) :{FIN}'))
-            if nj <= 0:
-                raise ValueError(f'{ROUGE}Le nombre de jours doit être supérieur à 0{FIN}')
+            if nj <= 1:
+                raise ValueError(f'{ROUGE}Le nombre de jours doit être supérieur à 1{FIN}')
             break # Sortir de la boucle si le nombre de jours est valide
 
         except ValueError as e:
@@ -804,5 +806,4 @@ if __name__ == "__main__":
                 print("Option invalide. Veuillez réessayer.")
         except ValueError:
             print("Veuillez entrer un nombre valide.")
-
 
