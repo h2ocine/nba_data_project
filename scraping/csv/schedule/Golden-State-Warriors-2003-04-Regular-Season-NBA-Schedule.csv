@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 29", Dallas ,L95-87  ,0-1,Robinson  18,Dampier  17,Johnson  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sat, Nov 1", Philadelphia ,W104-90  ,1-1,Dunleavy  32,Dunleavy  11,Johnson  5,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sun, Nov 2",Los Angeles ,L87-72  ,1-2,Robinson  19,Dampier  23,Robinson  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Nov 5", Atlanta ,W99-72  ,2-2,Richardson  16,Dampier  18,Van Exel  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Nov 7", Utah ,W95-89  ,3-2,Richardson  21,Dampier  11,Van Exel  9,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Mon, Nov 10", Phoenix ,L99-96  ,3-3,Richardson  22,Dunleavy  10,Van Exel  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Nov 12", Detroit ,W87-85 OT ,4-3,Cheaney  24,Dampier  14,Van Exel  9,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Nov 14", LA ,L104-98  ,4-4,Cardinal  24,Dampier  16,Van Exel  10,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sun, Nov 16",Sacramento ,L106-104  ,4-5,Richardson  31,Dampier  15,Claxton  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Nov 18",San Antonio ,L94-81  ,4-6,Dampier  17,Dampier  11,Van Exel  4,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Nov 19",Houston ,L85-83  ,4-7,Robinson  23,Dampier  12,Claxton  8,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Nov 21", Miami ,W101-91  ,5-7,Richardson  29,Dunleavy  14,Richardson  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sun, Nov 23", Portland ,W78-72  ,6-7,Richardson  21,Dampier  17,Claxton  4,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Nov 28",Phoenix ,W92-83  ,7-7,Richardson  25,Richardson  13,Robinson  5,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sat, Nov 29", San Antonio ,W91-89  ,8-7,Van Exel  29,Dampier  16,Van Exel  2,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Dec 3", Denver ,L117-109  ,8-8,Claxton  21,Dampier  18,Van Exel  8,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Dec 5",Denver ,L98-91  ,8-9,Dunleavy  19,Dampier  11,Van Exel  9,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sat, Dec 6", New York ,W104-92  ,9-9,Cardinal  19,Cardinal  8,Claxton  7,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Dec 9",Minnesota ,W98-95  ,10-9,Richardson  30,Richardson  9,Richardson  5,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Dec 10",Milwaukee ,L94-89 OT ,10-10,Van Exel  21,Robinson  10,Van Exel  4,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Dec 12", New Orleans ,L96-85  ,10-11,Dunleavy  25,Robinson  9,Van Exel  8,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Dec 16",New York ,W104-86  ,11-11,Richardson  26,Dunleavy  9,Claxton  6,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Dec 17",Atlanta ,W98-85  ,12-11,Dunleavy  25,Dunleavy  14,Van Exel  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Dec 19",Orlando ,L119-93  ,12-12,Robinson  19,Dampier  11,Van Exel  6,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sun, Dec 21",Miami ,L104-93  ,12-13,Van Exel  17,Dampier  9,Claxton  4,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Dec 23", Los Angeles ,W107-98  ,13-13,Robinson  24,Murphy  13,Claxton  5,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Dec 26", Sacramento ,W98-91  ,14-13,Richardson  25,Murphy  14,Van Exel  5,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sun, Dec 28",Denver ,L103-79  ,14-14,Richardson  14,Murphy  12,Dunleavy  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Mon, Dec 29", Boston ,L100-91  ,14-15,Richardson  17,Cheaney  10,Van Exel  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Dec 31",New Jersey ,L88-70  ,14-16,Richardson  16,Dampier  8,Van Exel  4,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Jan 2",Washington ,L97-79  ,14-17,Richardson  25,Dampier  8,Van Exel  8,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sat, Jan 3",Detroit ,L99-93  ,14-18,Richardson  24,Dampier  12,Van Exel  10,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Mon, Jan 5",Houston ,L83-65  ,14-19,Dunleavy  13,Cardinal  6,Van Exel  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Jan 7",Dallas ,L105-99  ,14-20,Richardson  27,Dampier  8,Van Exel  9,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sat, Jan 10", Seattle ,W113-110 OT ,15-20,Robinson  28,Richardson  11,Van Exel  11,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Mon, Jan 12", Memphis ,L115-113 2OT ,15-21,Dampier  23,Dampier  22,Dunleavy  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Jan 13",Utah ,L97-80  ,15-22,Robinson  23,Cardinal  11,Claxton  5,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Thu, Jan 15", Cleveland ,W119-102  ,16-22,Robinson  35,Dampier  11,Claxton  11,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Jan 16",Phoenix ,L104-93  ,16-23,Dampier  19,Dampier  6,Claxton  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Mon, Jan 19", Utah ,W101-85  ,17-23,Cheaney  20,Dampier  24,Robinson  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Jan 21",LA ,L106-102  ,17-24,Richardson  28,Dampier  16,Robinson  6,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Thu, Jan 22",Seattle ,L103-87  ,17-25,Dunleavy  18,Dunleavy  11,Claxton  4,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sat, Jan 24",Portland ,W105-87  ,18-25,Richardson  31,Dampier  20,Claxton  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Jan 28", Minnesota ,W97-90  ,19-25,Dampier  21,Dampier  19,Claxton  4,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Jan 30", Chicago ,W101-81  ,20-25,Richardson  15,Foyle  12,Claxton  8,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Mon, Feb 2",Memphis ,L106-101  ,20-26,Richardson  19,Dampier  15,Claxton  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Feb 3",Dallas ,L107-93  ,20-27,Claxton  20,Dampier  12,Cheaney  6,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Feb 6", Denver ,W96-87  ,21-27,Claxton  25,Dampier  14,Claxton  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sun, Feb 8", Toronto ,L84-81 OT ,21-28,Richardson  22,Richardson  13,Claxton  5,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Feb 10",Seattle ,W106-97  ,22-28,Richardson  22,Dampier  12,Claxton  6,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Feb 11", Phoenix ,W110-99  ,23-28,Cardinal  32,Dampier  12,Claxton  13,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Feb 18", Los Angeles ,L100-99  ,23-29,Richardson  25,Dampier  9,Claxton  4,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Feb 20", Portland ,L94-93  ,23-30,Richardson  22,Cardinal  10,Robinson  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sat, Feb 21", Seattle ,W94-92  ,24-30,Richardson  24,Dampier  16,Van Exel  5,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Feb 24",Indiana ,L107-96  ,24-31,Dampier  22,Dampier  12,Robinson  6,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Feb 25",Memphis ,W99-92  ,25-31,Claxton  28,Dampier  18,Claxton  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Feb 27",Minnesota ,L91-81  ,25-32,Dampier  24,Dampier  19,Van Exel  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sat, Feb 28",Chicago ,L87-81 OT ,25-33,Richardson  25,Cardinal  14,Richardson  5,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Mar 2", Indiana ,L96-88  ,25-34,Dunleavy  24,Dunleavy  20,Dunleavy  5,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Mar 5", New Jersey ,L78-74  ,25-35,Richardson  22,Richardson  5,Robinson  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sun, Mar 7", Memphis ,L95-85  ,25-36,Richardson  17,Dampier  11,Richardson  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Mar 9",Sacramento ,L96-92  ,25-37,Dampier  26,Dampier  18,Richardson  6,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Mar 10",Utah ,L91-77  ,25-38,Richardson  19,Dunleavy  8,Richardson  4,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Mar 12",San Antonio ,L99-74  ,25-39,Robinson  19,Murphy  9,Richardson  4,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sat, Mar 13",New Orleans ,L102-84  ,25-40,Richardson  18,Murphy  9,Johnson  6,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Mon, Mar 15", San Antonio ,W97-80  ,26-40,Richardson  22,Dampier  11,Robinson  6,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Mar 17", Orlando ,W110-85  ,27-40,Murphy  22,Dampier  15,Johnson  9,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Mar 19", Houston ,W90-84  ,28-40,Pietrus  20,Richardson  11,Johnson  5,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sun, Mar 21",LA ,W96-85  ,29-40,Richardson  28,Dampier  17,Robinson  5,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Mar 24", Milwaukee ,W98-89  ,30-40,Dampier  18,Dampier  13,Robinson  9,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Mar 26", Washington ,W99-78  ,31-40,Dampier  19,Dampier  21,Johnson  10,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sun, Mar 28", LA ,W105-77  ,32-40,Richardson  20,Dampier  25,Dunleavy  7,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Mar 30",Philadelphia ,L95-71  ,32-41,Pietrus  19,Dampier  13,Dunleavy  4,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Mar 31",Toronto ,W85-78  ,33-41,Richardson  25,Dampier  14,Robinson  5,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Apr 2",Boston ,L111-106  ,33-42,Richardson  25,Richardson  11,Johnson  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sat, Apr 3",Cleveland ,W103-100  ,34-42,Richardson  35,Robinson  10,Robinson  6,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Apr 6", Houston ,W97-90  ,35-42,Murphy  20,Richardson  9,Robinson  10,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Apr 7",Portland ,L87-81  ,35-43,Robinson  23,Richardson  12,Claxton  7,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Fri, Apr 9", Minnesota ,L92-74  ,35-44,Foyle  20,Foyle  16,Richardson  3,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Sun, Apr 11", Dallas ,W108-107  ,36-44,Richardson  24,Richardson  11,Claxton  9,A,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Tue, Apr 13",Los Angeles ,L109-104  ,36-45,Robinson  22,Dunleavy  12,Dunleavy  5,H,Golden State Warriors 2003-04 Regular Season NBA Schedule
+"Wed, Apr 14", Sacramento ,W97-91  ,37-45,Richardson  28,Foyle  17,Dunleavy  9,A,Golden State Warriors 2003-04 Regular Season NBA Schedule

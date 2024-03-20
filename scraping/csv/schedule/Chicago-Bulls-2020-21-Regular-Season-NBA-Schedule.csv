@@ -1,0 +1,73 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Dec 23", Atlanta ,L124-104  ,0-1,LaVine  22,Markkanen  7,White  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sat, Dec 26", Indiana ,L125-106  ,0-2,LaVine  17,Markkanen  9,Satoransky  9,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sun, Dec 27", Golden State ,L129-128  ,0-3,LaVine  33,Carter Jr.  13,White  5,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Tue, Dec 29",Washington ,W115-107  ,1-3,LaVine  23,Carter Jr.  12,LaVine  6,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Thu, Dec 31",Washington ,W133-130  ,2-3,Porter Jr.  28,Porter Jr.  12,White  10,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Jan 1",Milwaukee ,L126-96  ,2-4,LaVine  16,LaVine  6,Carter Jr.  3,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sun, Jan 3", Dallas ,W118-108  ,3-4,LaVine  39,White  7,LaVine  5,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Tue, Jan 5",Portland ,W111-108  ,4-4,White  21,Porter Jr.  13,LaVine  9,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Jan 6",Sacramento ,L128-124  ,4-5,White  36,Carter Jr.  17,White  7,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Jan 8",Los Angeles ,L117-115  ,4-6,LaVine  38,Williams  8,LaVine  6,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sun, Jan 10",LA ,L130-127  ,4-7,LaVine  45,White  8,White  13,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Jan 15",Oklahoma City ,L127-125 OT ,4-8,LaVine  35,Carter Jr.  11,White  7,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sun, Jan 17",Dallas ,W117-101  ,5-8,Markkanen  29,Markkanen  10,LaVine  10,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Jan 18", Houston ,W125-120  ,6-8,LaVine  33,Young  9,LaVine  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Jan 22",Charlotte ,W123-110  ,7-8,LaVine  25,Porter Jr.  7,LaVine  9,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sat, Jan 23", Los Angeles ,L101-90  ,7-9,LaVine  21,LaVine  10,LaVine  4,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Jan 25", Boston ,L119-103  ,7-10,LaVine  30,Young  9,Young  9,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sat, Jan 30", Portland ,L123-122  ,7-11,Markkanen  31,Young  11,Young  11,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Feb 1", New York ,W110-102  ,8-11,Markkanen  30,Gafford  9,Young  8,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Feb 3", New York ,L107-103  ,8-12,LaVine  24,Williams  7,LaVine  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Feb 5",Orlando ,L123-119  ,8-13,LaVine  26,Williams  7,LaVine  8,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sat, Feb 6",Orlando ,W118-92  ,9-13,LaVine  39,Williams  10,Satoransky  6,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Feb 8", Washington ,L105-101  ,9-14,LaVine  35,Temple  9,LaVine  6,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Feb 10", New Orleans ,W129-116  ,10-14,LaVine  46,LaVine  7,Satoransky  8,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Feb 12", LA ,L125-106  ,10-15,LaVine  26,LaVine  9,Satoransky  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Feb 15",Indiana ,W120-112 OT ,11-15,LaVine  30,Young  11,White  8,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Feb 17", Detroit ,W105-102  ,12-15,LaVine  37,Young  10,Young  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Feb 19",Philadelphia ,L112-105  ,12-16,LaVine  30,Young  9,LaVine  5,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sat, Feb 20", Sacramento ,W122-114  ,13-16,LaVine  38,Williams  11,Carter Jr.  5,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Feb 22",Houston ,W120-100  ,14-16,White  24,Carter Jr.  13,LaVine  6,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Feb 24", Minnesota ,W133-126 OT ,15-16,LaVine  35,Carter Jr.  10,White  6,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Feb 26", Phoenix ,L106-97  ,15-17,LaVine  24,Young  9,Young  5,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Mar 1", Denver ,L118-112  ,15-18,LaVine  23,White  10,LaVine  5,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Mar 3",New Orleans ,W128-124  ,16-18,LaVine  36,Carter Jr.  15,LaVine  8,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Thu, Mar 11", Philadelphia ,L127-105  ,16-19,Markkanen  23,Carter Jr.  9,LaVine  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Mar 12", Miami ,L101-90  ,16-20,LaVine  30,Young  10,LaVine  6,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sun, Mar 14", Toronto ,W118-95  ,17-20,Williams  23,Carter Jr.  11,Young  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Tue, Mar 16", Oklahoma City ,W123-102  ,18-20,LaVine  40,Young  10,Satoransky  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Mar 17", San Antonio ,L106-99  ,18-21,LaVine  29,Williams  14,Satoransky  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Mar 19",Denver ,L131-127 OT ,18-22,LaVine  32,Young  10,Young  6,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sun, Mar 21",Detroit ,W100-86  ,19-22,LaVine  18,Gafford  11,Satoransky  9,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Mar 22", Utah ,L120-95  ,19-23,LaVine  27,Young  9,LaVine  4,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Mar 24", Cleveland ,L103-94  ,19-24,LaVine  22,Carter Jr.  9,LaVine  4,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sat, Mar 27",San Antonio ,L120-104  ,19-25,Vucevic  21,Vucevic  9,Young  9,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Mar 29",Golden State ,L116-102  ,19-26,Vucevic  21,Vucevic  9,Satoransky  8,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Mar 31",Phoenix ,L121-116  ,19-27,Vucevic  24,Vucevic  10,Satoransky  7,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Apr 2",Utah ,L113-106  ,19-28,Young  25,Vucevic  8,Vucevic  4,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sun, Apr 4", Brooklyn ,W115-107  ,20-28,LaVine  25,Vucevic  13,Satoransky  11,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Tue, Apr 6",Indiana ,W113-97  ,21-28,Vucevic  32,Vucevic  16,LaVine  6,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Thu, Apr 8",Toronto ,W122-113  ,22-28,Vucevic  22,Theis  10,LaVine  13,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Apr 9",Atlanta ,L120-108  ,22-29,LaVine  50,Vucevic  10,Satoransky  10,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sun, Apr 11",Minnesota ,L121-117  ,22-30,LaVine  30,Young  8,LaVine  6,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Apr 12",Memphis ,L101-90  ,22-31,LaVine  21,Vucevic  10,LaVine  9,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Apr 14", Orlando ,L115-106  ,22-32,LaVine  30,Vucevic  11,LaVine  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Apr 16", Memphis ,L126-115  ,22-33,White  27,Vucevic  14,White  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sat, Apr 17", Cleveland ,W106-96  ,23-33,Vucevic  25,Vucevic  7,White  9,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Apr 19",Boston ,W102-96  ,24-33,Vucevic  29,Vucevic  9,White  7,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Apr 21",Cleveland ,L121-105  ,24-34,Markkanen  16,Young  8,White  6,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Thu, Apr 22", Charlotte ,W108-91  ,25-34,Vucevic  18,Vucevic  16,Satoransky  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sat, Apr 24",Miami ,L106-101  ,25-35,White  31,Vucevic  14,Vucevic  6,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, Apr 26",Miami ,W110-102  ,26-35,Vucevic  24,Theis  12,Young  8,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Wed, Apr 28",New York ,L113-94  ,26-36,Vucevic  26,Vucevic  18,White  9,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, Apr 30", Milwaukee ,L108-98  ,26-37,White  21,Vucevic  15,White  7,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sat, May 1",Atlanta ,L108-97  ,26-38,Young  20,Markkanen  11,Young  9,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Mon, May 3", Philadelphia ,L106-94  ,26-39,White  23,Theis  8,Satoransky  6,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Thu, May 6",Charlotte ,W120-99  ,27-39,Vucevic  29,Vucevic  14,Young  8,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Fri, May 7", Boston ,W121-99  ,28-39,White  25,Vucevic  14,Vucevic  10,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sun, May 9",Detroit ,W108-96  ,29-39,LaVine  30,Vucevic  16,Satoransky  7,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Tue, May 11", Brooklyn ,L115-107  ,29-40,LaVine  41,Vucevic  12,Vucevic  6,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Thu, May 13", Toronto ,W114-102  ,30-40,LaVine  24,Vucevic  16,White  10,A,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sat, May 15",Brooklyn ,L105-91  ,30-41,Williams  24,Young  13,White  6,H,Chicago Bulls 2020-21 Regular Season NBA Schedule
+"Sun, May 16", Milwaukee ,W118-112  ,31-41,Young  20,Felicio  8,White  5,A,Chicago Bulls 2020-21 Regular Season NBA Schedule

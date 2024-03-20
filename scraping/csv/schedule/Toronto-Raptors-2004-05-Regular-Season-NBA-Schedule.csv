@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Nov 3", Houston ,W95-88  ,1-0,Bosh  20,Bosh  7,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Nov 5", Detroit ,W101-89  ,2-0,Bosh  18,Woods  14,Carter  5,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Nov 7", Portland ,W101-97  ,3-0,Carter  25,Marshall  9,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Tue, Nov 9",Sacramento ,L108-92  ,3-1,Alston  15,Woods  11,Palacio  5,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Nov 10",Utah ,W104-95  ,4-1,Bosh  20,Woods  9,Carter  5,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Nov 12",Seattle ,L88-87  ,4-2,Bosh  19,Bosh  9,Alston  11,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sat, Nov 13",Portland ,L105-102  ,4-3,Alston  27,Bosh  8,Alston  7,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Tue, Nov 16",LA ,L101-89  ,4-4,Carter  21,Bosh  7,Alston  5,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Nov 17",Denver ,L112-106  ,4-5,Rose  30,Moiso  11,Alston  6,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Nov 19", Seattle ,L101-94  ,4-6,Carter  21,Bosh  7,Alston  7,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Nov 21", San Antonio ,W96-91  ,5-6,Bosh  20,Bosh  10,Alston  11,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Tue, Nov 23",Washington ,L102-86  ,5-7,Carter  25,Bosh  10,Alston  13,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Nov 24", New York ,W114-91  ,6-7,Carter  22,Woods  10,Palacio  7,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sat, Nov 27",New York ,L108-102  ,6-8,Carter  19,Woods  10,Palacio  8,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Nov 28", Washington ,L114-109 OT ,6-9,Rose  29,Marshall  7,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Tue, Nov 30",Miami ,W94-92  ,7-9,Rose  24,Bosh  10,Alston  4,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Dec 1",Orlando ,L129-108  ,7-10,Carter  21,Woods  7,Alston  6,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Dec 3",Boston ,L91-89  ,7-11,Rose  19,Marshall  11,Palacio  4,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sat, Dec 4",Cleveland ,L105-97  ,7-12,Alston  20,Bosh  10,Alston  10,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Mon, Dec 6",New Jersey ,L88-86  ,7-13,Carter  22,Marshall  9,Alston  8,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Dec 8",Detroit ,L90-86 OT ,7-14,Marshall  22,Marshall  15,Alston  6,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Dec 10", Denver ,L101-87  ,7-15,Alston  25,Bosh  8,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Dec 12", Miami ,L106-98  ,7-16,Rose  25,Woods  11,Alston  9,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Dec 15", Minnesota ,W96-90  ,8-16,Bosh  24,Bosh  14,Peterson  4,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Dec 17",Indiana ,L89-86  ,8-17,Rose  23,Woods  9,Palacio  6,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Dec 19", New Jersey ,W110-99  ,9-17,Peterson  20,Peterson  6,Alston  7,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Mon, Dec 20",Houston ,L114-102  ,9-18,Bosh  16,Marshall  12,Marshall  4,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Dec 22", Utah ,W98-86  ,10-18,Marshall  22,Marshall  8,Alston  14,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Dec 26",Phoenix ,L106-94  ,10-19,Rose  19,Marshall  9,Alston  3,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Tue, Dec 28",Los Angeles ,L117-99  ,10-20,Alston  13,Bosh  10,Alston  11,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Dec 29",Golden State ,L111-105  ,10-21,Rose  23,Marshall  12,Alston  9,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Mon, Jan 3", Orlando ,W105-94  ,11-21,Bosh  25,Bosh  12,Alston  6,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Jan 5", Sacramento ,W96-93  ,12-21,Bosh  23,Araujo  14,Alston  10,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Jan 7", Milwaukee ,L107-105 OT ,12-22,Williams  21,Marshall  14,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Jan 9", Golden State ,W109-87  ,13-22,Bosh  21,Bosh  17,Alston  7,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Jan 12", Boston ,W104-93  ,14-22,Peterson  37,Bosh  11,Peterson  6,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Jan 14",Philadelphia ,L106-96  ,14-23,Marshall  20,Bosh  13,Alston  13,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Jan 16", New Orleans ,W102-99  ,15-23,Peterson  25,Peterson  10,Alston  7,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Mon, Jan 17",Minnesota ,W100-91  ,16-23,Marshall  22,Bosh  11,Alston  15,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Jan 19", New York ,W98-81  ,17-23,Rose  24,Bosh  14,Rose  5,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Jan 21",Washington ,L118-109  ,17-24,Rose  32,Peterson  9,Alston  7,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Jan 23", Charlotte ,W103-92  ,18-24,Peterson  26,Bosh  8,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Jan 26", Miami ,L111-96  ,18-25,Alston  29,Murray  8,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Jan 28",Charlotte ,L101-94  ,18-26,Alston  20,Rose  6,Rose  5,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Jan 30", Phoenix ,L123-105  ,18-27,Bosh  27,Bonner  8,Palacio  9,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Feb 2",Indiana ,W98-97  ,19-27,Bosh  25,Bosh  15,Palacio  7,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Feb 4", Washington ,W103-100  ,20-27,Rose  26,Bosh  11,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Feb 6", Dallas ,L122-113  ,20-28,Bosh  29,Bosh  8,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Tue, Feb 8",Cleveland ,L104-91  ,20-29,Rose  21,Woods  9,Palacio  9,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Feb 9", Milwaukee ,L110-107  ,20-30,Rose  26,Bosh  9,Alston  12,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Feb 11", Philadelphia ,L106-91  ,20-31,Rose  23,Rose  10,Rose  5,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Feb 13", LA ,W109-106  ,21-31,Bosh  26,Bosh  10,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Feb 16", Chicago ,L121-115  ,21-32,Bosh  28,Bosh  7,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Tue, Feb 22",New Jersey ,W100-82  ,22-32,Rose  30,Bosh  12,Alston  6,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Feb 25",Milwaukee ,W106-102  ,23-32,Bosh  27,Bosh  8,Alston  7,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Feb 27", Los Angeles ,W108-102  ,24-32,Rose  26,Bosh  15,Palacio  7,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Mar 2",San Antonio ,L92-86  ,24-33,Bosh  16,Marshall  9,Palacio  6,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Mar 4",Memphis ,L86-75  ,24-34,Rose  19,Marshall  9,Peterson  4,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Mar 6",New Orleans ,W95-84  ,25-34,Bosh  33,Bosh  15,Palacio  9,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Mon, Mar 7",Dallas ,L113-105  ,25-35,Peterson  23,Bosh  8,Alston  7,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Mar 9", Orlando ,W106-96  ,26-35,Alston  16,Bosh  15,Rose  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Mar 11", Atlanta ,L116-112 OT ,26-36,Rose  22,Marshall  11,Alston  11,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Mar 13", Philadelphia ,W128-110  ,27-36,Marshall  38,Marshall  10,Peterson  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Mar 16",Boston ,L110-109  ,27-37,Rose  35,Marshall  9,Alston  6,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Mar 18",Detroit ,L103-92  ,27-38,Marshall  25,Marshall  12,Alston  4,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Mar 20", Cleveland ,W105-98  ,28-38,Rose  30,Marshall  10,Alston  4,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Mar 23", Chicago ,L94-85  ,28-39,Rose  30,Rose  9,Alston  5,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Mar 25",Philadelphia ,L103-101  ,28-40,Marshall  26,Bosh  22,Alston  10,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sat, Mar 26",Atlanta ,W109-104  ,29-40,Bosh  32,Bosh  11,Palacio  6,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Tue, Mar 29",Miami ,L103-91  ,29-41,Alston  19,Bosh  13,Alston  6,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Mar 30",Orlando ,L108-96  ,29-42,Alston  17,Bosh  11,Rose  5,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Apr 1",Charlotte ,W119-107  ,30-42,Bosh  27,Marshall  12,Rose  4,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Apr 3", Detroit ,L113-103  ,30-43,Peterson  22,Bosh  9,Rose  5,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Apr 6", Memphis ,L104-74  ,30-44,Rose  19,Bosh  10,Rose  3,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Apr 8", Atlanta ,W109-101 OT ,31-44,Rose  30,Peterson  14,Alston  8,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sat, Apr 9",Chicago ,L110-97  ,31-45,Rose  19,Bosh  9,Alston  9,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Mon, Apr 11", Indiana ,L94-90  ,31-46,Rose  26,Bosh  13,Alston  9,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Tue, Apr 12",New York ,W105-93  ,32-46,Bosh  29,Alston  9,Alston  7,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Fri, Apr 15", New Jersey ,L101-90  ,32-47,Rose  20,Peterson  8,Alston  7,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Sun, Apr 17", Boston ,L103-98  ,32-48,Rose  31,Bosh  7,Alston  6,A,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Tue, Apr 19",Milwaukee ,W127-109  ,33-48,Rose  29,Sow  9,Cook  10,H,Toronto Raptors 2004-05 Regular Season NBA Schedule
+"Wed, Apr 20", Cleveland ,L104-95  ,33-49,Rose  25,Peterson  9,Cook  9,A,Toronto Raptors 2004-05 Regular Season NBA Schedule

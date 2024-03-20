@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 18",Dallas ,W117-111  ,1-0,Schroder  28,Prince  10,Schroder  7,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Oct 20",Charlotte ,L109-91  ,1-1,Schroder  25,Dedmon  7,Schroder  5,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Oct 22",Brooklyn ,L116-104  ,1-2,Belinelli  19,Collins  13,Schroder  8,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Mon, Oct 23",Miami ,L104-93  ,1-3,Prince  20,Collins  11,Bazemore  4,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Thu, Oct 26",Chicago ,L91-86  ,1-4,Belinelli  23,Muscala  10,Muscala  4,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Oct 27", Denver ,L105-100  ,1-5,Schroder  20,Dedmon  10,Schroder  6,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Oct 29", Milwaukee ,L117-106  ,1-6,Schroder  21,Collins  7,Schroder  8,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Nov 1",Philadelphia ,L119-109  ,1-7,Schroder  25,Prince  11,Schroder  6,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Nov 3", Houston ,L119-104  ,1-8,Bazemore  18,Collins  12,Taylor  5,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Nov 5",Cleveland ,W117-115  ,2-8,Schroder  28,Collins  13,Schroder  9,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Mon, Nov 6", Boston ,L110-107  ,2-9,Schroder  23,Dedmon  12,Schroder  6,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Nov 10",Detroit ,L111-104  ,2-10,Bazemore  22,Dedmon  9,Schroder  11,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sat, Nov 11",Washington ,L113-94  ,2-11,Prince  19,Dedmon  8,Schroder  5,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Mon, Nov 13",New Orleans ,L106-105  ,2-12,Bazemore  22,Cavanaugh  6,Bazemore  7,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Nov 15", Sacramento ,W126-80  ,3-12,Schroder  21,Dedmon  14,Schroder  8,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sat, Nov 18", Boston ,L110-99  ,3-13,Schroder  23,Dedmon  8,Schroder  9,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Mon, Nov 20",San Antonio ,L96-85  ,3-14,Collins  21,Collins  9,Schroder  9,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Nov 22", LA ,L116-103  ,3-15,Belinelli  20,Collins  10,Schroder  7,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Nov 24", New York ,W116-104  ,4-15,Schroder  26,Prince  8,Schroder  8,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sat, Nov 25", Toronto ,L112-78  ,4-16,Schroder  14,Schroder  4,Magette  6,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Thu, Nov 30", Cleveland ,L121-114  ,4-17,Schroder  27,Collins  7,Bazemore  6,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sat, Dec 2",Brooklyn ,W114-102  ,5-17,Schroder  24,Ilyasova  11,Schroder  6,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Mon, Dec 4", Brooklyn ,L110-90  ,5-18,Schroder  19,Plumlee  7,Schroder  4,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Dec 6",Orlando ,L110-106 OT ,5-19,Schroder  26,Belinelli  7,Schroder  7,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sat, Dec 9", Orlando ,W117-110  ,6-19,Ilyasova  26,Cavanaugh  8,Bazemore  7,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Dec 10",New York ,L111-107  ,6-20,Schroder  21,Prince  8,Prince  5,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Tue, Dec 12",Cleveland ,L123-114  ,6-21,Prince  24,Cavanaugh  9,Prince  6,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Thu, Dec 14", Detroit ,L105-91  ,6-22,Ilyasova  23,Collins  7,Schroder  10,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Dec 15",Memphis ,L96-94  ,6-23,Bazemore  19,Collins  7,Schroder  11,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Mon, Dec 18", Miami ,W110-104  ,7-23,Prince  24,Prince  7,Bazemore  7,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Dec 20", Indiana ,L105-95  ,7-24,Collins  18,Collins  9,Schroder  8,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Dec 22",Oklahoma City ,L120-117  ,7-25,Belinelli  27,Collins  9,Delaney  6,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sat, Dec 23", Dallas ,W112-107  ,8-25,Schroder  33,Ilyasova  7,Schroder  7,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Dec 27", Washington ,W113-99  ,9-25,Schroder  21,Ilyasova  9,Schroder  7,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Dec 29",Toronto ,L111-98  ,9-26,Prince  30,Prince  10,Schroder  9,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sat, Dec 30", Portland ,W104-89  ,10-26,Schroder  22,Prince  10,Schroder  8,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Tue, Jan 2",Phoenix ,L104-103  ,10-27,Ilyasova  21,Ilyasova  9,Schroder  5,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Jan 5",Portland ,L110-89  ,10-28,Schroder  14,Ilyasova  11,Schroder  4,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Jan 7",Los Angeles ,L132-113  ,10-29,Schroder  27,Ilyasova  9,Schroder  5,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Mon, Jan 8",LA ,L108-107  ,10-30,Prince  20,Ilyasova  13,Delaney  6,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Jan 10",Denver ,W110-97  ,11-30,Schroder  19,Ilyasova  9,Schroder  10,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Jan 12", Brooklyn ,L110-105  ,11-31,Schroder  34,Collins  10,Schroder  7,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Mon, Jan 15", San Antonio ,W102-99  ,12-31,Schroder  26,Dedmon  10,Schroder  6,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Jan 17", New Orleans ,W94-93  ,13-31,Bazemore  20,Dedmon  10,Schroder  15,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sat, Jan 20", Chicago ,L113-97  ,13-32,Schroder  18,Dedmon  11,Schroder  5,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Mon, Jan 22", Utah ,W104-90  ,14-32,Schroder  20,Ilyasova  11,Delaney  8,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Jan 24", Toronto ,L108-93  ,14-33,Schroder  20,Collins  16,Delaney  4,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Jan 26",Charlotte ,L121-110  ,14-34,Bazemore  26,Collins  9,Delaney  6,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sat, Jan 27", Washington ,L129-104  ,14-35,Dedmon  14,Muscala  6,Schroder  7,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Mon, Jan 29", Minnesota ,W105-100  ,15-35,Bazemore  22,Collins  11,Schroder  11,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Jan 31", Charlotte ,L123-110  ,15-36,Bazemore  25,Dedmon  5,Schroder  9,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Feb 2",Boston ,L119-110  ,15-37,Prince  31,Prince  8,Delaney  5,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Feb 4",New York ,W99-96  ,16-37,Bazemore  19,Dedmon  14,Delaney  8,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Tue, Feb 6", Memphis ,W108-82  ,17-37,Schroder  22,Collins  10,Dorsey  7,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Thu, Feb 8",Orlando ,L100-98  ,17-38,Schroder  19,Collins  12,Schroder  5,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Feb 9", Cleveland ,L123-107  ,17-39,Schroder  25,Collins  7,Schroder  4,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Feb 11", Detroit ,W118-115  ,18-39,Schroder  23,Dedmon  13,Schroder  7,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Tue, Feb 13",Milwaukee ,L97-92  ,18-40,Schroder  18,Dedmon  10,Schroder  4,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Feb 14",Detroit ,L104-98  ,18-41,White III  15,Collins  10,Taylor  7,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Feb 23",Indiana ,L116-93  ,18-42,Taylor  17,Collins  9,Taylor  6,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Mon, Feb 26", Los Angeles ,L123-104  ,18-43,Prince  24,Collins  9,Bazemore  4,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Feb 28", Indiana ,W107-102  ,19-43,Collins  16,Dedmon  9,Schroder  5,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Mar 2", Golden State ,L114-109  ,19-44,Bazemore  29,Collins  8,Schroder  9,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Mar 4", Phoenix ,W113-112  ,20-44,Prince  22,Plumlee  11,Schroder  6,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Tue, Mar 6",Toronto ,L106-90  ,20-45,Collins  14,Dedmon  10,Bazemore  5,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Mar 9",Indiana ,L112-87  ,20-46,Dorsey  18,Dedmon  7,Magette  6,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Mar 11", Chicago ,L129-122  ,20-47,Prince  38,Dedmon  9,Magette  8,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Tue, Mar 13", Oklahoma City ,L119-107  ,20-48,Prince  25,Collins  9,Schroder  8,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Thu, Mar 15", Charlotte ,L129-117  ,20-49,Prince  22,Prince  10,Schroder  8,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sat, Mar 17",Milwaukee ,L122-117  ,20-50,Prince  38,Collins  12,Schroder  9,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Tue, Mar 20",Utah ,W99-94  ,21-50,Schroder  41,Dedmon  15,Schroder  7,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Thu, Mar 22",Sacramento ,L105-90  ,21-51,Taylor  18,Dedmon  10,Lee  4,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Mar 23",Golden State ,L106-94  ,21-52,Prince  20,Dedmon  11,Schroder  7,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Mar 25",Houston ,L118-99  ,21-53,Prince  28,Collins  10,Magette  5,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Mar 28",Minnesota ,L126-114  ,21-54,Muscala  24,Dedmon  12,Taylor  8,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Mar 30", Philadelphia ,L101-91  ,21-55,Lee  20,Dedmon  15,Taylor  7,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Apr 1", Orlando ,W94-88  ,22-55,Dorsey  19,Collins  11,Prince  8,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Tue, Apr 3",Miami ,L101-98  ,22-56,Collins  19,Collins  10,Taylor  9,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Wed, Apr 4", Miami ,L115-86  ,22-57,Prince  20,Collins  8,Prince  4,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Fri, Apr 6",Washington ,W103-97  ,23-57,Prince  23,Dedmon  14,Prince  5,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Sun, Apr 8",Boston ,W112-106  ,24-57,Prince  33,Prince  8,Taylor  6,H,Atlanta Hawks 2017-18 Regular Season NBA Schedule
+"Tue, Apr 10", Philadelphia ,L121-113  ,24-58,Prince  27,Collins  9,Bembry  7,A,Atlanta Hawks 2017-18 Regular Season NBA Schedule

@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 17",Sacramento ,W123-117  ,1-0,Mitchell  24,Gobert  15,Ingles  6,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Oct 19", Golden State ,L124-123  ,1-1,Ingles  27,Gobert  11,Rubio  10,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Oct 22", Memphis ,L92-84  ,1-2,Crowder  15,Gobert  12,Ingles  5,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Oct 24",Houston ,W100-89  ,2-2,Mitchell  38,Gobert  13,Mitchell  7,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Oct 27",New Orleans ,W132-111  ,3-2,Rubio  28,Gobert  14,Rubio  12,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sun, Oct 28",Dallas ,W113-104  ,4-2,Gobert  23,Gobert  16,Rubio  8,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Oct 31",Minnesota ,L128-125  ,4-3,Mitchell  26,Gobert  13,Mitchell  5,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Nov 2", Memphis ,L110-100  ,4-4,Rubio  22,Gobert  16,Rubio  11,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Nov 3",Denver ,L103-88  ,4-5,Crowder  21,Gobert  12,Rubio  6,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Nov 5", Toronto ,L124-111  ,4-6,Burks  22,Gobert  12,Rubio  9,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Nov 7", Dallas ,W117-102  ,5-6,Mitchell  23,Gobert  10,Rubio  12,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Nov 9", Boston ,W123-115  ,6-6,Ingles  27,Gobert  15,Ingles  7,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Nov 12",Memphis ,W96-88  ,7-6,Ingles  19,Gobert  16,Ingles  5,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Nov 14",Dallas ,L118-68  ,7-7,Rubio  11,Gobert  11,Rubio  3,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Nov 16",Philadelphia ,L113-107  ,7-8,Mitchell  31,Gobert  10,Rubio  4,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Nov 17",Boston ,W98-86  ,8-8,Mitchell  28,Gobert  10,Mitchell  6,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Nov 19",Indiana ,L121-94  ,8-9,Rubio  28,Gobert  11,Rubio  6,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Nov 21", Sacramento ,L119-110  ,8-10,Mitchell  35,Gobert  15,Rubio  7,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Nov 23",Los Angeles ,L90-83  ,8-11,Burks  17,Ingles  8,Ingles  5,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sun, Nov 25",Sacramento ,W133-112  ,9-11,Rubio  27,Gobert  15,Ingles  6,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Nov 26", Indiana ,L121-88  ,9-12,Favors  13,Favors  8,Rubio  8,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Nov 28",Brooklyn ,W101-91  ,10-12,Mitchell  29,Gobert  16,Ingles  5,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Nov 30",Charlotte ,W119-111  ,11-12,Mitchell  30,Gobert  17,Crowder  7,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sun, Dec 2",Miami ,L102-100  ,11-13,Rubio  23,Gobert  18,Rubio  6,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Tue, Dec 4", San Antonio ,W139-105  ,12-13,Mitchell  20,Gobert  10,Ingles  7,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Thu, Dec 6", Houston ,W118-91  ,13-13,Favors  24,Favors  10,Rubio  6,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sun, Dec 9",San Antonio ,L110-97  ,13-14,Mitchell  27,Gobert  8,Gobert  7,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Dec 10",Oklahoma City ,L122-113  ,13-15,Mitchell  19,Gobert  14,Ingles  5,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Dec 12", Miami ,W111-84  ,14-15,Mitchell  21,Gobert  11,Ingles  6,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Dec 15", Orlando,L96-89  ,14-16,Mitchell  24,Gobert  13,Ingles  5,N,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Dec 17",Houston ,L102-97  ,14-17,Mitchell  23,Gobert  13,Ingles  6,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Dec 19", Golden State ,W108-103  ,15-17,Ingles  20,Gobert  15,Rubio  10,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Dec 21",Portland ,W120-90  ,16-17,Rubio  24,Gobert  11,Rubio  8,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Dec 22", Oklahoma City ,L107-106  ,16-18,Gobert  20,Gobert  10,Rubio  14,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Tue, Dec 25", Portland ,W117-96  ,17-18,Mitchell  19,Gobert  14,Rubio  6,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Thu, Dec 27", Philadelphia ,L114-97  ,17-19,Mitchell  23,Gobert  15,Gobert  5,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Dec 29", New York ,W129-97  ,18-19,Gobert  25,Gobert  16,Exum  13,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Tue, Jan 1",Toronto ,L122-116  ,18-20,Crowder  30,Favors  9,Rubio  8,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Jan 4",Cleveland ,W117-91  ,19-20,Mitchell  18,Ingles  9,Exum  7,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Jan 5",Detroit ,W110-105  ,20-20,Mitchell  26,Gobert  11,Mitchell  5,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Jan 7",Milwaukee ,L114-102  ,20-21,Mitchell  26,Gobert  15,Ingles  6,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Jan 9", Orlando ,W106-93  ,21-21,Mitchell  33,Gobert  14,Mitchell  7,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Jan 11", Los Angeles ,W113-95  ,22-21,Mitchell  33,Gobert  18,Mitchell  9,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Jan 12", Chicago ,W110-102  ,23-21,Mitchell  34,Gobert  16,Gobert  8,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Jan 14", Detroit ,W100-94  ,24-21,Mitchell  28,Gobert  25,Ingles  8,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Jan 16",LA ,W129-109  ,25-21,Mitchell  28,Gobert  22,Ingles  8,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Jan 18", Cleveland ,W115-99  ,26-21,Mitchell  24,Gobert  15,Ingles  8,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Jan 21", Portland ,L109-104  ,26-22,Mitchell  36,Gobert  13,Ingles  6,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Jan 23", Denver ,W114-108  ,27-22,Mitchell  35,Gobert  10,Ingles  8,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Jan 25", Minnesota ,W106-102  ,28-22,Mitchell  24,Gobert  16,Mitchell  11,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sun, Jan 27",Minnesota ,W125-111  ,29-22,Mitchell  29,Favors  11,Rubio  8,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Jan 30",Portland ,L132-105  ,29-23,Mitchell  22,Gobert  9,Rubio  7,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Feb 1", Atlanta ,W128-112  ,30-23,Gobert  25,Gobert  13,Rubio  11,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Feb 2", Houston ,L125-98  ,30-24,Mitchell  26,Gobert  13,Mitchell  9,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Feb 6", Phoenix ,W116-88  ,31-24,Mitchell  21,Gobert  12,Ingles  11,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Feb 9", San Antonio ,W125-105  ,32-24,Mitchell  23,Gobert  13,Rubio  6,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Tue, Feb 12",Golden State ,L115-108  ,32-25,Mitchell  25,Gobert  16,Rubio  6,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Feb 22",Oklahoma City ,L148-147 2OT ,32-26,Mitchell  38,Gobert  17,Ingles  7,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Feb 23", Dallas ,W125-109  ,33-26,Mitchell  25,Gobert  12,Mitchell  6,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Feb 27", LA ,W111-105  ,34-26,Mitchell  32,Gobert  13,Ingles  6,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Thu, Feb 28",Denver ,W111-104  ,35-26,Mitchell  24,Favors  11,Ingles  10,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Mar 2", Milwaukee ,W115-111  ,36-26,Mitchell  46,Favors  18,Ingles  8,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Mar 4", New Orleans ,L115-112  ,36-27,Crowder  20,Gobert  19,Ingles  11,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Mar 6",New Orleans ,W114-104  ,37-27,Favors  25,Gobert  13,Ingles  10,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Mar 8",Memphis ,L114-104  ,37-28,Mitchell  38,Crowder  11,Ingles  7,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Mar 11", Oklahoma City ,L98-89  ,37-29,Mitchell  25,Gobert  12,Ingles  8,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Mar 13",Phoenix ,W114-97  ,38-29,Mitchell  26,Gobert  20,Favors  7,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Thu, Mar 14", Minnesota ,W120-100  ,39-29,Mitchell  24,Gobert  13,Ingles  8,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Mar 16", Brooklyn ,W114-98  ,40-29,Mitchell  24,Gobert  17,Rubio  6,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Mar 18",Washington ,W116-95  ,41-29,Mitchell  19,Gobert  14,Rubio  10,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Mar 20",New York ,W137-116  ,42-29,Mitchell  30,Gobert  9,Rubio  9,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Thu, Mar 21",Atlanta ,L117-114  ,42-30,Mitchell  34,Favors  15,Rubio  7,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sat, Mar 23",Chicago ,W114-83  ,43-30,Gobert  21,Gobert  14,Ingles  5,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Mar 25", Phoenix ,W125-92  ,44-30,Gobert  27,Gobert  10,Ingles  7,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Mar 27", Los Angeles ,W115-100  ,45-30,Gobert  22,Gobert  11,Ingles  14,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Mar 29", Washington ,W128-124  ,46-30,Mitchell  35,Gobert  17,Ingles  10,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Mon, Apr 1", Charlotte ,W111-102  ,47-30,Mitchell  25,Gobert  18,Rubio  13,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Apr 3",Phoenix ,W118-97  ,48-30,Mitchell  29,Gobert  13,Ingles  8,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Fri, Apr 5", Sacramento ,W119-98  ,49-30,Mitchell  23,Gobert  11,Mitchell  9,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Sun, Apr 7",Los Angeles ,L113-109  ,49-31,Gobert  21,Gobert  10,Ingles  8,H,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Tue, Apr 9", Denver ,W118-108  ,50-31,Mitchell  46,Gobert  10,Ingles  13,A,Utah Jazz 2018-19 Regular Season NBA Schedule
+"Wed, Apr 10",LA ,L143-137 OT ,50-32,Allen  40,Udoh  13,Mitrou-Long  9,H,Utah Jazz 2018-19 Regular Season NBA Schedule

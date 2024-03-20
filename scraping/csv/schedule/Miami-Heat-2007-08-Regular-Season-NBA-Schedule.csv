@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Thu, Nov 1", Detroit ,L91-80  ,0-1,Davis  23,Haslem  10,Williams  9,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Nov 2",Indiana ,L87-85  ,0-2,Cook  17,Davis  14,Williams  7,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sun, Nov 4", Charlotte ,L90-88  ,0-3,Haslem  18,Haslem  10,Williams  5,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Nov 7",San Antonio ,L88-78  ,0-4,O'Neal  17,Haslem  9,Williams  7,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Nov 9", Phoenix ,L106-101  ,0-5,O'Neal  25,Haslem  13,Williams  10,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sun, Nov 11",New York ,W75-72  ,1-5,Williams  17,Haslem  16,Hardaway  6,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Tue, Nov 13",Charlotte ,L91-76  ,1-6,O'Neal  17,Haslem  7,Williams  5,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Nov 14", Seattle ,L104-95  ,1-7,Davis  19,Haslem  11,Wade  5,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Nov 16",Boston ,L92-91  ,1-8,Wade  23,O'Neal  9,Wade  6,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sat, Nov 17",New Jersey ,W91-87  ,2-8,Wade  23,Wade  6,Wade  9,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Nov 21", Atlanta ,L82-79  ,2-9,O'Neal  18,O'Neal  10,Wade  5,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Nov 23", Houston ,W98-91  ,3-9,Wade  31,O'Neal  14,Wade  5,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sat, Nov 24",Orlando ,L120-99  ,3-10,Wade  32,Wade  6,Davis  7,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Tue, Nov 27", Charlotte ,W110-90  ,4-10,Davis  23,O'Neal  6,Williams  8,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Nov 30", Boston ,L95-85  ,4-11,Williams  22,O'Neal  11,Davis  4,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sun, Dec 2",Denver ,L115-89  ,4-12,Wade  13,Haslem  8,Williams  6,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Mon, Dec 3",Utah ,L110-101  ,4-13,Wade  26,Haslem  9,Wade  10,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Thu, Dec 6",Portland ,L112-106  ,4-14,Wade  21,Wade  10,Wade  9,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Dec 7",Golden State ,L120-113  ,4-15,Wade  33,Wright  18,Wade  10,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sun, Dec 9",LA ,W100-94  ,5-15,Wade  33,Haslem  9,Wade  10,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Mon, Dec 10",Phoenix ,W117-113  ,6-15,Wade  31,Haslem  12,Wade  6,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Thu, Dec 13", Washington ,L104-91  ,6-16,Quinn  22,Haslem  11,Wade  7,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sat, Dec 15", Indiana ,L106-103  ,6-17,Haslem  24,Davis  9,Wade  9,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Mon, Dec 17", Minnesota ,W91-87  ,7-17,Wade  30,Haslem  16,Davis  6,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Dec 19",Atlanta ,L114-111 OT ,7-18,Wade  36,Haslem  8,Wade  10,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Thu, Dec 20", New Jersey ,L107-103 OT ,7-19,Wade  41,Haslem  12,Wade  6,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sat, Dec 22", Utah ,W104-102  ,8-19,Wade  20,Haslem  13,Wade  6,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Tue, Dec 25",Cleveland ,L96-82  ,8-20,Wade  22,Haslem  13,Wade  8,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Dec 26",Philadelphia ,L96-85  ,8-21,Wade  27,O'Neal  10,Wade  9,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Dec 28", Orlando ,L121-114 OT ,8-22,Wade  48,Haslem  9,Wade  11,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sat, Dec 29",Washington ,L96-74  ,8-23,Davis  22,Haslem  9,Wade  6,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Jan 2", Milwaukee ,L103-98  ,8-24,Wade  27,Haslem  8,Wade  8,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Jan 4",Dallas ,L94-89  ,8-25,Davis  17,Haslem  9,Davis  7,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sun, Jan 6",Memphis ,L101-94  ,8-26,Davis  24,Haslem  12,Wade  9,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Tue, Jan 8",Minnesota ,L101-91  ,8-27,Wade  25,Haslem  7,Wade  7,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Jan 9",Milwaukee ,L98-92  ,8-28,Wade  34,Davis  10,Davis  6,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Jan 11",New Orleans ,L114-88  ,8-29,Blount  27,Davis  8,Wade  7,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Jan 16", Chicago ,L126-96  ,8-30,O'Neal  24,Haslem  12,Wade  6,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Jan 18", Portland ,L98-91  ,8-31,Wade  37,O'Neal  11,Williams  6,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sat, Jan 19", New York ,L88-84  ,8-32,Wade  22,Wright  9,Wade  9,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Mon, Jan 21", Cleveland ,L97-90  ,8-33,Wade  42,Haslem  13,Wade  7,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Thu, Jan 24", San Antonio ,L90-89  ,8-34,Wade  27,Haslem  12,Wade  9,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sat, Jan 26", Indiana ,W98-96  ,9-34,Wade  35,Wright  10,Williams  8,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Tue, Jan 29", Boston ,L117-87  ,9-35,Blount  20,Barron  6,Wade  6,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Jan 30",Orlando ,L107-91  ,9-36,Davis  21,Wright  8,Williams  8,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Feb 1", New Jersey ,L94-85  ,9-37,Wade  15,Wade  7,Wade  6,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Mon, Feb 4", Toronto ,L114-82  ,9-38,Wright  17,Johnson  10,Davis  5,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Feb 6",Detroit ,L100-95  ,9-39,Wade  30,Wright  8,Wade  12,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Thu, Feb 7",Philadelphia ,L101-84  ,9-40,Wade  19,Wright  10,Wade  9,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sun, Feb 10", Los Angeles ,L104-94  ,9-41,Blount  22,Marion  14,Wade  9,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Tue, Feb 12", Denver ,L114-113 OT ,9-42,Wade  29,Marion  18,Wade  10,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Thu, Feb 14",Chicago ,L99-92  ,9-43,Wade  30,Wade  7,Wade  7,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Thu, Feb 21",Houston ,L112-100  ,9-44,Wade  33,Marion  10,Wade  11,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sat, Feb 23", Philadelphia ,L101-96 OT ,9-45,Wade  33,Haslem  9,Wade  5,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Tue, Feb 26", Sacramento ,W107-86  ,10-45,Marion  24,Blount  9,Wade  9,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Thu, Feb 28",Los Angeles ,L106-88  ,10-46,Wade  18,Marion  11,Davis  9,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Feb 29",Seattle ,W103-93  ,11-46,Wade  31,Marion  13,Williams  7,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sun, Mar 2",Sacramento ,L120-109  ,11-47,Wade  26,Marion  8,Williams  8,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Mar 5", Toronto ,L108-83  ,11-48,Banks  21,Marion  14,Banks  4,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Mar 7", Golden State ,L134-99  ,11-49,Banks  20,Davis  12,Banks  4,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sat, Mar 8",Atlanta ,L97-94  ,11-50,Davis  27,Marion  13,Wade  8,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Mon, Mar 10", LA ,L99-98  ,11-51,Davis  27,Marion  17,Davis  6,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Mar 12", New York ,L91-88  ,11-52,Davis  27,Marion  17,Davis  5,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Mar 14", Orlando ,L103-94  ,11-53,Williams  34,Davis  7,Williams  7,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sun, Mar 16", Dallas ,L98-73  ,11-54,Barron  21,Cook  8,Quinn  6,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Tue, Mar 18",Milwaukee ,W112-106  ,12-54,Williams  21,Marion  12,Williams  10,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Mar 19",Toronto ,L96-54  ,12-55,Quinn  14,Jones  8,Quinn  3,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Mar 21", Washington ,L103-86  ,12-56,Jones  15,Barron  6,Williams  7,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sat, Mar 22",Charlotte ,L94-82  ,12-57,Williams  19,Davis  9,Williams  8,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Mon, Mar 24", Milwaukee ,W78-73  ,13-57,Quinn  24,Anthony  7,Quinn  4,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Mar 26",New York ,L103-96 OT ,13-58,Davis  28,Davis  9,Davis  6,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Thu, Mar 27",Detroit ,L85-69  ,13-59,Ahearn  15,Blount  6,Quinn  7,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sun, Mar 30",Boston ,L88-62  ,13-60,Davis  14,Anthony  7,Quinn  8,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Mon, Mar 31",Indiana ,L105-85  ,13-61,Cook  16,Anthony  9,Davis  7,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Apr 2", New Orleans ,L106-77  ,13-62,Quinn  18,Anthony  12,Quinn  9,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Apr 4",Washington ,L109-95  ,13-63,Davis  33,Cook  5,Davis  8,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sun, Apr 6", Detroit ,L91-75  ,13-64,Barron  20,Davis  9,Ahearn  5,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Tue, Apr 8", Chicago ,W95-88  ,14-64,Powell  18,Davis  8,Quinn  6,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Fri, Apr 11", Memphis ,L96-91  ,14-65,Barron  22,Lasme  9,Quinn  8,A,Miami Heat 2007-08 Regular Season NBA Schedule
+"Sun, Apr 13",Cleveland ,L84-76  ,14-66,Davis  17,Barron  8,Davis  7,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Mon, Apr 14",Toronto ,L91-75  ,14-67,Cook  22,Powell  10,Quinn  6,H,Miami Heat 2007-08 Regular Season NBA Schedule
+"Wed, Apr 16", Atlanta ,W113-99  ,15-67,Williams  17,Cook  9,Davis  9,A,Miami Heat 2007-08 Regular Season NBA Schedule

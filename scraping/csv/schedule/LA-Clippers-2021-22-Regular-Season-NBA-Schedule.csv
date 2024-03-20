@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Thu, Oct 21",Golden State ,L115-113  ,0-1,George  29,George  11,George  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sat, Oct 23", Memphis ,L120-114  ,0-2,George  41,George  10,Bledsoe  7,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Oct 25", Portland ,W116-86  ,1-2,Kennard  23,Zubac  8,Bledsoe  7,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Oct 27", Cleveland ,L92-79  ,1-3,Jackson  16,George  10,Jackson  3,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Oct 29",Portland ,L111-92  ,1-4,George  42,Batum  9,Mann  4,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Nov 1", Oklahoma City ,W99-94  ,2-4,George  32,Hartenstein  12,George  7,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Nov 3",Minnesota ,W126-115  ,3-4,George  32,George  6,George  8,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Nov 5",Minnesota ,W104-84  ,4-4,George  21,Zubac  14,George  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Nov 7", Charlotte ,W120-106  ,5-4,George  20,Zubac  11,George  8,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Tue, Nov 9", Portland ,W117-109  ,6-4,George  24,George  9,George  7,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Thu, Nov 11", Miami ,W112-109  ,7-4,George  27,Zubac  11,George  5,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sat, Nov 13", Minnesota ,W129-102  ,8-4,George  23,Zubac  12,Bledsoe  9,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Nov 14", Chicago ,L100-90  ,8-5,George  27,George  11,George  4,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Tue, Nov 16", San Antonio ,W106-92  ,9-5,George  34,Zubac  13,George  4,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Thu, Nov 18",Memphis ,L120-108  ,9-6,George  23,Zubac  7,George  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Nov 19",New Orleans ,L94-81  ,9-7,George  19,Zubac  11,George  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Nov 21", Dallas ,W97-91  ,10-7,George  29,Zubac  10,George  6,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Tue, Nov 23", Dallas ,L112-104 OT ,10-8,Jackson  31,Jackson  10,George  6,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Nov 26", Detroit ,W107-96  ,11-8,Jackson  21,Zubac  13,Jackson  4,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Nov 28", Golden State ,L105-90  ,11-9,George  30,Bledsoe  10,George  5,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Nov 29", New Orleans ,L123-104  ,11-10,George  27,Mann  7,Mann  5,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Dec 1", Sacramento ,L124-115  ,11-11,Mann  19,Hartenstein  8,Jackson  6,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Dec 3",Los Angeles ,W119-115  ,12-11,Morris Sr.  21,George  8,George  9,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sat, Dec 4",Sacramento ,L104-99  ,12-12,Morris Sr.  21,Zubac  11,George  10,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Dec 6",Portland ,W102-90  ,13-12,George  21,George  8,Jackson  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Dec 8", Boston ,W114-111  ,14-12,Boston Jr.  27,Zubac  10,Jackson  7,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sat, Dec 11", Orlando ,W106-104  ,15-12,Jackson  25,Mann  9,Kennard  5,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Dec 13", Phoenix ,W111-95  ,16-12,Morris Sr.  24,Morris Sr.  11,Hartenstein  7,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Dec 15",Utah ,L124-103  ,16-13,Morris Sr.  24,Morris Sr.  8,Jackson  9,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sat, Dec 18",Oklahoma City ,L104-103  ,16-14,Kennard  27,Winslow  9,Jackson  10,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Dec 20", San Antonio ,L116-92  ,16-15,George  25,Zubac  12,George  6,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Dec 22",Sacramento ,W105-89  ,17-15,Bledsoe  19,Bledsoe  8,Bledsoe  7,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Dec 26", Denver ,L103-100  ,17-16,Bledsoe  18,Zubac  11,Bledsoe  10,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Dec 27", Brooklyn ,L124-108  ,17-17,Morris Sr.  24,Zubac  9,Morris Sr.  6,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Dec 29",Boston ,W91-82  ,18-17,Morris Sr.  23,Zubac  14,Bledsoe  4,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Dec 31",Toronto ,L116-108  ,18-18,Morris Sr.  20,Mann  11,Kennard  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sat, Jan 1",Brooklyn ,W120-116  ,19-18,Bledsoe  27,Coffey  8,Coffey  5,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Jan 3", Minnesota ,L122-104  ,19-19,Ibaka  17,Coffey  5,Bledsoe  5,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Thu, Jan 6",Phoenix ,L106-89  ,19-20,Morris Sr.  26,Morris Sr.  8,Mann  4,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sat, Jan 8", Memphis ,L123-108  ,19-21,Morris Sr.  29,Morris Sr.  8,Coffey  3,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Jan 9", Atlanta ,W106-93  ,20-21,Coffey  21,Zubac  13,Bledsoe  7,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Tue, Jan 11", Denver ,W87-85  ,21-21,Coffey  18,Ibaka  9,Bledsoe  9,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Thu, Jan 13",New Orleans ,L113-89  ,21-22,Mann  15,Ibaka  6,Coffey  5,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sat, Jan 15",San Antonio ,L101-94  ,21-23,Coffey  20,Ibaka  10,Morris Sr.  5,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Jan 17", Indiana ,W139-133  ,22-23,Batum  32,Morris Sr.  8,Coffey  7,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Jan 19",Denver ,L130-128 OT ,22-24,Zubac  32,Zubac  10,Jackson  12,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Jan 21",Philadelphia ,W102-101  ,23-24,Jackson  19,Zubac  10,Jackson  9,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Jan 23",New York ,L110-102  ,23-25,Jackson  26,Zubac  14,Bledsoe  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Tue, Jan 25",Washington ,W116-115  ,24-25,Coffey  29,Kennard  8,Kennard  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Jan 26",Orlando ,W111-102  ,25-25,Coffey  19,Winslow  8,Coffey  5,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Jan 28",Miami ,L121-114  ,25-26,Kennard  23,Winslow  10,Bledsoe  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Jan 30",Charlotte ,W115-90  ,26-26,Boston Jr.  19,Zubac  11,Jackson  5,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Jan 31",Indiana ,L122-116  ,26-27,Coffey  27,Ibaka  11,Jackson  5,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Thu, Feb 3", Los Angeles ,W111-110  ,27-27,Morris Sr.  29,Jackson  8,Bledsoe  7,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Feb 6", Milwaukee ,L137-113  ,27-28,Powell  28,Morris Sr.  8,Jackson  5,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Tue, Feb 8",Memphis ,L135-109  ,27-29,Hartenstein  19,Hartenstein  7,Mann  7,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Thu, Feb 10",Dallas ,L112-105  ,27-30,Morris Sr.  21,Powell  6,Jackson  8,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sat, Feb 12",Dallas ,W99-97  ,28-30,Jackson  24,Zubac  10,Jackson  8,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Feb 14", Golden State ,W119-104  ,29-30,Mann  25,Jackson  8,Jackson  9,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Tue, Feb 15",Phoenix ,L103-96  ,29-31,Morris Sr.  23,Zubac  13,Jackson  8,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Thu, Feb 17", Houston ,W142-111  ,30-31,Morris Sr.  27,Zubac  10,Jackson  14,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Feb 25",Los Angeles ,W105-102  ,31-31,Mann  19,Mann  10,Jackson  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Feb 27",Houston ,W99-98  ,32-31,Jackson  26,Zubac  15,Jackson  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Tue, Mar 1",Houston ,W113-100  ,33-31,Zubac  22,Zubac  12,Jackson  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Thu, Mar 3", Los Angeles ,W132-111  ,34-31,Jackson  36,Zubac  9,Jackson  9,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Mar 6", New York ,L116-93  ,34-32,Coffey  16,Zubac  9,Hartenstein  4,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Tue, Mar 8",Golden State ,L112-97  ,34-33,Batum  17,Zubac  9,Jackson  7,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Mar 9", Washington ,W115-109  ,35-33,Jackson  31,Zubac  9,Jackson  7,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Mar 11",Atlanta ,L112-106  ,35-34,Zubac  24,Zubac  12,Jackson  5,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Mar 13",Detroit ,W106-102  ,36-34,Morris Sr.  31,Zubac  15,Jackson  9,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Mon, Mar 14",Cleveland ,L120-111 OT ,36-35,Zubac  24,Zubac  14,Batum  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Mar 16", Toronto ,L103-100  ,36-36,Jackson  23,Mann  9,Jackson  9,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Mar 18",Utah ,L121-92  ,36-37,Covington  18,Hartenstein  9,Hartenstein  8,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Tue, Mar 22",Denver ,L127-115  ,36-38,Mann  24,Mann  8,Jackson  6,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Mar 25", Philadelphia ,L122-97  ,36-39,Coffey  21,Hartenstein  9,Zubac  6,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Tue, Mar 29", Utah ,W121-115  ,37-39,George  34,Hartenstein  7,George  6,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Thu, Mar 31",Chicago ,L135-130 OT ,37-40,Jackson  34,Zubac  9,Jackson  7,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Fri, Apr 1",Milwaukee ,W153-119  ,38-40,Covington  43,Hartenstein  10,Coffey  7,H,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Apr 3", New Orleans ,W119-100  ,39-40,Morris Sr.  22,Zubac  14,Jackson  10,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Wed, Apr 6", Phoenix ,W113-109  ,40-40,Powell  24,Zubac  11,Hartenstein  5,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sat, Apr 9", Sacramento ,W117-98  ,41-40,George  23,Zubac  12,George  12,A,LA Clippers 2021-22 Regular Season NBA Schedule
+"Sun, Apr 10", Oklahoma City ,W138-88  ,42-40,Coffey  35,Coffey  13,Moon  7,A,LA Clippers 2021-22 Regular Season NBA Schedule

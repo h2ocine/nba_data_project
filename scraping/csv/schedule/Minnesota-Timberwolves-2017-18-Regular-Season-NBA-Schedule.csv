@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 18",San Antonio ,L107-99  ,0-1,Wiggins  26,Towns  13,Teague  6,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Oct 20", Utah ,W100-97  ,1-1,Wiggins  21,Towns  10,Jones  5,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Oct 22",Oklahoma City ,W115-113  ,2-1,Towns  27,Towns  12,Teague  9,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Tue, Oct 24", Indiana ,L130-107  ,2-2,Towns  28,Towns  7,Crawford  9,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Oct 25",Detroit ,L122-101  ,2-3,Towns  23,Towns  10,Teague  6,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Oct 27", Oklahoma City ,W119-116  ,3-3,Towns  33,Towns  19,Teague  10,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Oct 30",Miami ,W125-122 OT ,4-3,Teague  23,Towns  12,Teague  11,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Nov 1",New Orleans ,W104-98  ,5-3,Butler  23,Gibson  12,Teague  9,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sat, Nov 4", Dallas ,W112-99  ,6-3,Towns  31,Towns  12,Teague  10,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Nov 5", Charlotte ,W112-94  ,7-3,Wiggins  20,Dieng  11,Teague  12,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Nov 8",Golden State ,L125-101  ,7-4,Wiggins  17,Towns  12,Teague  5,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sat, Nov 11",Phoenix ,L118-110  ,7-5,Wiggins  27,Towns  12,Butler  5,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Nov 13",Utah ,W109-98  ,8-5,Towns  24,Towns  13,Butler  10,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Nov 15", San Antonio ,W98-86  ,9-5,Towns  26,Towns  16,Teague  6,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Nov 17",Dallas ,W111-87  ,10-5,Butler  21,Towns  11,Teague  10,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Nov 19", Detroit ,L100-97  ,10-6,Butler  26,Butler  10,Teague  9,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Nov 20",Charlotte ,L118-102  ,10-7,Crawford  19,Towns  12,Jones  3,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Nov 22", Orlando ,W124-118  ,11-7,Butler  26,Towns  13,Teague  11,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Nov 24", Miami ,L109-97  ,11-8,Towns  18,Towns  11,Jones  6,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Nov 26", Phoenix ,W119-108  ,12-8,Towns  32,Gibson  14,Jones  7,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Tue, Nov 28", Washington ,L92-89  ,12-9,Towns  20,Towns  17,Butler  10,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Nov 29",New Orleans ,W120-102  ,13-9,Wiggins  28,Towns  10,Jones  6,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Dec 1",Oklahoma City ,L111-107  ,13-10,Towns  23,Towns  9,Teague  10,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Dec 3", LA ,W112-106  ,14-10,Butler  33,Towns  12,Teague  10,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Dec 4",Memphis ,L95-92  ,14-11,Butler  30,Towns  11,Butler  5,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Dec 6",LA ,W113-107  ,15-11,Towns  21,Gibson  14,Butler  8,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Dec 10", Dallas ,W97-92  ,16-11,Towns  28,Towns  12,Butler  5,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Tue, Dec 12", Philadelphia ,L118-112 OT ,16-12,Butler  38,Towns  16,Crawford  5,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Thu, Dec 14", Sacramento ,W119-96  ,17-12,Towns  30,Towns  14,Butler  9,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sat, Dec 16", Phoenix ,L108-106  ,17-13,Towns  28,Towns  11,Teague  8,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Dec 18", Portland ,W108-107  ,18-13,Butler  37,Towns  7,Teague  5,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Dec 20",Denver ,W112-104  ,19-13,Towns  25,Towns  10,Teague  8,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sat, Dec 23",Phoenix ,W115-106  ,20-13,Butler  32,Towns  14,Teague  6,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Dec 25",Los Angeles ,W121-104  ,21-13,Gibson  23,Towns  10,Teague  10,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Dec 27", Denver ,W128-125 OT ,22-13,Butler  39,Towns  13,Teague  10,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Thu, Dec 28",Milwaukee ,L102-96  ,22-14,Towns  22,Dieng  8,Butler  7,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Dec 31",Indiana ,W107-90  ,23-14,Butler  26,Towns  14,Jones  6,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Jan 1", Los Angeles ,W114-96  ,24-14,Butler  28,Towns  13,Butler  9,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Jan 3",Brooklyn ,L98-97  ,24-15,Butler  30,Towns  10,Butler  4,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Jan 5",Boston ,L91-84  ,24-16,Towns  25,Towns  23,Butler  6,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sat, Jan 6", New Orleans ,W116-98  ,25-16,Towns  21,Towns  16,Butler  8,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Jan 8", Cleveland ,W127-99  ,26-16,Wiggins  25,Gibson  13,Butler  9,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Jan 10", Oklahoma City ,W104-88  ,27-16,Butler  26,Towns  12,Butler  8,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Jan 12", New York ,W118-108  ,28-16,Towns  23,Towns  15,Towns  9,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Jan 14", Portland ,W120-103  ,29-16,Butler  24,Towns  11,Teague  8,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Tue, Jan 16",Orlando ,L108-102  ,29-17,Butler  28,Towns  12,Teague  6,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Thu, Jan 18",Houston ,L116-98  ,29-18,Butler  23,Towns  16,Crawford  5,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sat, Jan 20", Toronto ,W115-109  ,30-18,Wiggins  29,Towns  10,Teague  10,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Jan 22",LA ,W126-118  ,31-18,Wiggins  40,Towns  17,Teague  6,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Jan 24",Portland ,L123-114  ,31-19,Wiggins  24,Towns  9,Crawford  5,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Thu, Jan 25",Golden State ,L126-113  ,31-20,Towns  31,Towns  11,Teague  7,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sat, Jan 27", Brooklyn ,W111-97  ,32-20,Butler  21,Towns  19,Butler  5,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Jan 29",Atlanta ,L105-100  ,32-21,Butler  24,Towns  13,Teague  10,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Tue, Jan 30",Toronto ,L109-104  ,32-22,Butler  25,Towns  10,Butler  6,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Thu, Feb 1", Milwaukee ,W108-89  ,33-22,Butler  28,Towns  11,Teague  8,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sat, Feb 3", New Orleans ,W118-107  ,34-22,Butler  30,Towns  16,Butler  7,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Feb 7",Cleveland ,L140-138 OT ,34-23,Butler  35,Towns  10,Teague  15,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Feb 9",Chicago ,L114-113  ,34-24,Butler  38,Towns  10,Butler  5,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Feb 11", Sacramento ,W111-106  ,35-24,Towns  29,Towns  8,Teague  10,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Tue, Feb 13", Houston ,L126-108  ,35-25,Towns  35,Towns  12,Teague  8,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Thu, Feb 15", Los Angeles ,W119-111  ,36-25,Gibson  28,Towns  18,Teague  6,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Feb 23",Houston ,L120-102  ,36-26,Wiggins  21,Towns  13,Teague  4,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sat, Feb 24", Chicago ,W122-104  ,37-26,Teague  25,Towns  13,Teague  7,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Feb 26",Sacramento ,W118-100  ,38-26,Towns  26,Towns  17,Teague  7,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Thu, Mar 1",Portland ,L108-99  ,38-27,Towns  34,Towns  17,Teague  5,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Mar 2",Utah ,L116-108  ,38-28,Wiggins  27,Teague  4,Crawford  4,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Thu, Mar 8", Boston ,L117-109  ,38-29,Bjelica  30,Bjelica  12,Teague  8,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Mar 11", Golden State ,W109-103  ,39-29,Towns  31,Towns  16,Teague  10,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Tue, Mar 13",Washington ,W116-111  ,40-29,Towns  37,Towns  10,Bjelica  7,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sat, Mar 17",San Antonio ,L117-101  ,40-30,Towns  23,Towns  9,Teague  8,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Mar 18", Houston ,L129-120  ,40-31,Teague  23,Towns  18,Teague  11,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Tue, Mar 20", LA ,W123-109  ,41-31,Towns  30,Towns  9,Teague  12,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Mar 23",New York ,W108-104  ,42-31,Towns  24,Towns  13,Teague  8,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sat, Mar 24",Philadelphia ,L120-108  ,42-32,Wiggins  16,Dieng  11,Jones  6,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Mar 26", Memphis ,L101-93  ,42-33,Teague  25,Towns  12,Teague  7,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Mar 28", Atlanta ,W126-114  ,43-33,Towns  56,Towns  15,Jones  9,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Mar 30",Dallas ,W93-92  ,44-33,Crawford  24,Towns  20,Jones  4,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Sun, Apr 1", Utah ,L121-97  ,44-34,Wiggins  23,Towns  7,Wiggins  4,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Thu, Apr 5",Denver ,L100-96  ,44-35,Towns  26,Gibson  14,Teague  6,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Fri, Apr 6",Los Angeles ,W113-96  ,45-35,Teague  25,Towns  11,Teague  8,H,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Mon, Apr 9", Memphis ,W113-94  ,46-35,Towns  24,Towns  18,Teague  8,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule
+"Wed, Apr 11", Denver ,W112-106 OT ,47-35,Butler  31,Towns  14,Teague  7,A,Minnesota Timberwolves 2017-18 Regular Season NBA Schedule

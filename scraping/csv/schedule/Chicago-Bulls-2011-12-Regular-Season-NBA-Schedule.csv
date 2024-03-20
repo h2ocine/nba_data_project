@@ -1,0 +1,67 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Sun, Dec 25",Los Angeles ,W88-87  ,1-0,Rose  22,Noah  9,Rose  5,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Dec 26",Golden State ,L99-91  ,1-1,Deng  22,Deng  10,Rose  8,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Thu, Dec 29",Sacramento ,W108-98  ,2-1,Rose  19,Boozer  15,Watson  9,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Fri, Dec 30",LA ,W114-101  ,3-1,Rose  29,Rose  8,Rose  16,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sun, Jan 1", Memphis ,W104-64  ,4-1,Boozer  17,Boozer  11,Rose  6,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Tue, Jan 3", Atlanta ,W76-74  ,5-1,Rose  30,Boozer  9,Rose  7,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Jan 4",Detroit ,W99-83  ,6-1,Boozer  19,Noah  11,Rose  10,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Fri, Jan 6",Orlando ,W97-83  ,7-1,Rose  21,Boozer  13,Rose  10,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sat, Jan 7",Atlanta ,L109-94  ,7-2,Lucas III  16,Asik  13,Rose  6,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Jan 9", Detroit ,W92-68  ,8-2,Boozer  23,Boozer  8,Rose  8,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Tue, Jan 10",Minnesota ,W111-100  ,9-2,Rose  31,Deng  11,Rose  11,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Jan 11", Washington ,W78-64  ,10-2,Lucas III  25,Deng  15,Lucas III  8,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Fri, Jan 13",Boston ,W88-79  ,11-2,Rose  25,Deng  16,Rose  7,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sat, Jan 14", Toronto ,W77-64  ,12-2,Rose  18,Boozer  13,Rose  11,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Jan 16",Memphis ,L102-86  ,12-3,Deng  20,Boozer  7,Deng  3,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Tue, Jan 17", Phoenix ,W118-97  ,13-3,Boozer  31,Noah  12,Hamilton  6,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Fri, Jan 20",Cleveland ,W114-75  ,14-3,Deng  21,Boozer  14,Watson  7,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sat, Jan 21", Charlotte ,W95-89  ,15-3,Boozer  23,Asik  15,James  10,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Jan 23", New Jersey ,W110-95  ,16-3,Rose  22,Noah  10,Hamilton  10,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Jan 25", Indiana ,L95-90  ,16-4,Rose  24,Noah  13,Brewer  5,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Fri, Jan 27", Milwaukee ,W107-100  ,17-4,Rose  34,Noah  16,Brewer  6,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sun, Jan 29",Miami ,L97-93  ,17-5,Rose  34,Noah  11,Rose  6,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Jan 30",Washington ,W98-88  ,18-5,Rose  35,Noah  13,Rose  8,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Feb 1",Philadelphia ,L98-82  ,18-6,Watson  20,Boozer  9,Rose  6,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Thu, Feb 2",New York ,W105-102  ,19-6,Rose  32,Boozer  9,Rose  13,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sat, Feb 4",Milwaukee ,W113-90  ,20-6,Rose  26,Deng  9,Rose  13,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Feb 6",New Jersey ,W108-87  ,21-6,Boozer  24,Noah  12,Watson  11,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Feb 8",New Orleans ,W90-67  ,22-6,Boozer  18,Noah  10,Rose  6,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Fri, Feb 10",Charlotte ,W95-64  ,23-6,Noah  17,Noah  14,Watson  5,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sun, Feb 12",Boston ,L95-91  ,23-7,Boozer  22,Noah  9,Watson  6,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Tue, Feb 14", Sacramento ,W121-115  ,24-7,Deng  23,Noah  11,Deng  11,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Thu, Feb 16", Boston ,W89-80  ,25-7,Boozer  23,Noah  16,Deng  10,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sat, Feb 18", New Jersey ,L97-85  ,25-8,Boozer  16,Boozer  9,James  7,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Feb 20", Atlanta ,W90-79  ,26-8,Rose  23,Noah  16,Rose  6,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Feb 22", Milwaukee ,W110-91  ,27-8,Boozer  20,Noah  13,Noah  10,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Tue, Feb 28", New Orleans ,W99-95  ,28-8,Rose  32,Noah  16,Rose  9,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Feb 29",San Antonio ,W96-89  ,29-8,Rose  29,Noah  13,Rose  4,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Fri, Mar 2",Cleveland ,W112-91  ,30-8,Deng  24,Boozer  11,Rose  9,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sun, Mar 4",Philadelphia ,W96-91  ,31-8,Rose  35,Noah  18,Rose  8,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Mar 5", Indiana ,W92-72  ,32-8,Deng  20,Noah  17,Rose  9,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Mar 7",Milwaukee ,W106-104  ,33-8,Rose  30,Noah  10,Rose  11,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Thu, Mar 8", Orlando ,L99-94  ,33-9,Boozer  26,Noah  10,Rose  9,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sat, Mar 10", Utah ,W111-97  ,34-9,Boozer  27,Boozer  8,Rose  13,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Mar 12", New York ,W104-99  ,35-9,Rose  32,Gibson  13,Rose  7,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Mar 14", Miami ,W106-102  ,36-9,Lucas III  24,Gibson  8,Boozer  5,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Fri, Mar 16", Portland ,L100-89  ,36-10,Boozer  22,Boozer  14,Noah  5,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sat, Mar 17", Philadelphia ,W89-80  ,37-10,Watson  20,Noah  11,Noah  4,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Mar 19",Orlando ,W85-59  ,38-10,Boozer  24,Boozer  13,Noah  5,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Mar 21",Toronto ,W94-82  ,39-10,Deng  17,Deng  10,Noah  5,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sat, Mar 24", Toronto ,W102-101 OT ,40-10,Boozer  24,Boozer  10,Lucas III  6,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Mar 26", Denver ,L108-91  ,40-11,Watson  17,Boozer  7,Watson  8,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Mar 28",Atlanta ,W98-77  ,41-11,Deng  22,Boozer  9,Lucas III  5,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Fri, Mar 30", Detroit ,W83-71  ,42-11,Deng  20,Noah  12,Watson  5,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sun, Apr 1",Oklahoma City ,L92-78  ,42-12,Lucas III  19,Gibson  11,Lucas III  4,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Apr 2", Houston ,L99-93  ,42-13,Deng  24,Boozer  13,Boozer  7,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Thu, Apr 5", Boston ,W93-86  ,43-13,Deng  26,Boozer  14,Watson  8,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sun, Apr 8",New York ,L100-99 OT ,43-14,Rose  29,Boozer  16,Rose  4,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Tue, Apr 10", New York ,W98-86  ,44-14,Hamilton  20,Deng  10,Watson  7,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Thu, Apr 12", Miami ,W96-86 OT ,45-14,Boozer  19,Boozer  11,Watson  9,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sun, Apr 15",Detroit ,W100-94 OT ,46-14,Rose  24,Noah  17,Rose  9,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Mon, Apr 16", Washington ,L87-84  ,46-15,Hamilton  22,Boozer  13,Watson  8,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Apr 18",Charlotte ,W100-68  ,47-15,Hamilton  22,Asik  15,Hamilton  6,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Thu, Apr 19",Miami ,L83-72  ,47-16,Lucas III  16,Noah  10,Lucas III  4,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Sat, Apr 21", Dallas ,W93-83  ,48-16,Deng  22,Noah  14,Rose  8,A,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Wed, Apr 25",Indiana ,W92-87  ,49-16,Korver  20,Noah  14,Rose  7,H,Chicago Bulls 2011-12 Regular Season NBA Schedule
+"Thu, Apr 26", Cleveland ,W107-75  ,50-16,Lucas III  25,Noah  12,Watson  8,A,Chicago Bulls 2011-12 Regular Season NBA Schedule

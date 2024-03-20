@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Nov 1",Memphis ,W118-117 3OT ,1-0,Richardson  31,Curry  14,Marbury  8,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Nov 3",Atlanta ,L102-92  ,1-1,Curry  20,Lee  8,Francis  9,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Nov 4", Indiana ,L109-95  ,1-2,Francis  25,Richardson  9,Francis  6,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Nov 6", San Antonio ,L105-93  ,1-3,Marbury  18,Curry  11,Marbury  3,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Nov 8",Denver ,W109-107  ,2-3,Crawford  35,Lee  10,Crawford  7,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Nov 10",Houston ,L103-94  ,2-4,Marbury  22,Lee  7,Marbury  5,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Nov 11",San Antonio ,L100-92  ,2-5,Richardson  21,Richardson  11,Crawford  5,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Nov 13", Cleveland ,L102-96  ,2-6,Robinson  19,Frye  9,Marbury  7,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Nov 15", Washington ,W102-82  ,3-6,Balkman  18,Lee  15,Crawford  6,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Nov 17",Miami ,W100-76  ,4-6,Crawford  19,Richardson  11,Richardson  6,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Nov 18", Boston ,L122-118  ,4-7,Crawford  37,Lee  8,Marbury  8,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Nov 20", Houston ,L97-90  ,4-8,Crawford  25,Lee  12,Robinson  4,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Nov 22",Minnesota ,L107-89  ,4-9,Francis  19,Curry  7,Crawford  3,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Nov 24",Boston ,W101-77  ,5-9,Francis  22,Lee  13,Lee  8,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Nov 25", Chicago ,L106-95  ,5-10,Crawford  26,Balkman  13,Crawford  4,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Tue, Nov 28",Chicago ,L102-85  ,5-11,Curry  24,Lee  11,Francis  8,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Nov 29",Cleveland ,W101-98  ,6-11,Richardson  27,Richardson  9,Francis  7,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Dec 1",Detroit ,L108-100  ,6-12,Curry  24,Lee  9,Marbury  6,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Dec 2", Toronto ,L103-100  ,6-13,Curry  27,Richardson  16,Crawford  9,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Dec 4", Memphis ,W98-90  ,7-13,Curry  26,Curry  15,Francis  7,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Dec 6", Washington ,L113-102  ,7-14,Curry  22,Balkman  12,Crawford  5,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Dec 9", Milwaukee ,W115-107  ,8-14,Curry  36,Lee  13,Crawford  9,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Dec 11", Boston ,L97-90  ,8-15,Curry  30,Lee  13,Crawford  6,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Dec 13", Atlanta ,W94-82  ,9-15,Curry  20,Curry  9,Marbury  6,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Dec 15",Indiana ,L112-96  ,9-16,Crawford  29,Lee  8,Crawford  4,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Dec 16", Denver ,L123-100  ,9-17,Marbury  31,Lee  15,Marbury  8,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Dec 18", Utah ,W97-96 OT ,10-17,Marbury  29,Lee  20,Marbury  8,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Dec 20", Charlotte ,W111-109 2OT ,11-17,Frye  30,Lee  19,Crawford  9,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Dec 22", Chicago ,W103-92  ,12-17,Crawford  30,Lee  14,Marbury  8,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Dec 23",Philadelphia ,L98-77  ,12-18,Crawford  21,Lee  13,Crawford  6,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Dec 27", Detroit ,W151-145 3OT ,13-18,Marbury  41,Lee  13,Crawford  11,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Dec 29",Phoenix ,L108-86  ,13-19,Crawford  21,Lee  14,Marbury  4,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sun, Dec 31",LA ,L90-80  ,13-20,Curry  15,Lee  9,Marbury  8,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Tue, Jan 2",Sacramento ,L112-100  ,13-21,Crawford  28,Lee  15,Marbury  8,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Jan 3",Portland ,W99-81  ,14-21,Curry  27,Lee  14,Marbury  7,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Jan 5",Seattle ,W111-93  ,15-21,Marbury  28,Lee  10,Crawford  7,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Jan 10", Philadelphia ,W106-99  ,16-21,Marbury  24,Curry  10,Marbury  6,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Jan 12", Charlotte ,L126-110  ,16-22,Marbury  28,Richardson  13,Crawford  7,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Jan 15", Sacramento ,W102-97  ,17-22,Marbury  25,Lee  12,Marbury  8,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Jan 17",Washington ,L99-98  ,17-23,Richardson  35,Richardson  10,Marbury  8,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Jan 19", New Jersey ,L101-100  ,17-24,Richardson  24,Curry  11,Marbury  7,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Jan 20",Indiana ,W108-106  ,18-24,Curry  26,Lee  16,Marbury  6,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Jan 22",Miami ,L101-83  ,18-25,Curry  26,Lee  15,Crawford  9,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Jan 24", Phoenix ,L112-107  ,18-26,Crawford  29,Lee  14,Crawford  11,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Jan 26", Miami ,W116-96  ,19-26,Crawford  52,Lee  12,Marbury  13,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sun, Jan 28",Milwaukee ,L107-105  ,19-27,Crawford  26,Lee  14,Marbury  8,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Tue, Jan 30", Los Angeles ,W99-94  ,20-27,Curry  27,Lee  13,Jeffries  4,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Jan 31",Charlotte ,L104-87  ,20-28,Crawford  28,Lee  13,Crawford  4,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Feb 3",Orlando ,W94-86  ,21-28,Curry  27,Richardson  12,Richardson  4,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Tue, Feb 6", LA ,W102-90  ,22-28,Curry  23,Lee  10,Marbury  7,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Feb 10",Utah ,L104-102 OT ,22-29,Crawford  29,Lee  11,Marbury  6,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Tue, Feb 13",Los Angeles ,W107-106  ,23-29,Crawford  24,Richardson  12,Marbury  9,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Feb 14",Golden State ,L120-101  ,23-30,Robinson  23,Lee  10,Francis  9,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Tue, Feb 20", Orlando ,W100-94  ,24-30,Curry  20,Lee  16,Marbury  4,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Feb 21",Philadelphia ,L104-84  ,24-31,Curry  22,Curry  7,Crawford  4,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Feb 23", Milwaukee ,W95-93  ,25-31,Marbury  22,Curry  11,Marbury  8,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sun, Feb 25",New Jersey ,L101-92  ,25-32,Marbury  22,Richardson  9,Crawford  10,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Feb 26", Miami ,W99-93  ,26-32,Curry  28,Curry  11,Crawford  6,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Feb 28",Boston ,L102-94  ,26-33,Richardson  24,Frye  9,Marbury  6,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Mar 2", Golden State ,W106-97  ,27-33,Marbury  34,Richardson  12,Francis  7,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Mar 3",Atlanta ,W104-100 OT ,28-33,Marbury  38,Balkman  13,Marbury  9,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Tue, Mar 6", Seattle ,L100-99  ,28-34,Marbury  40,Richardson  9,Richardson  5,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Mar 10",Washington ,W90-89  ,29-34,Francis  26,Curry  9,Marbury  5,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Mar 14",Toronto ,L104-94  ,29-35,Marbury  31,Curry  6,Marbury  9,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Mar 16", NO/Oklahoma City ,L92-90  ,29-36,Francis  21,Frye  7,Francis  10,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sun, Mar 18", Toronto ,W92-74  ,30-36,Marbury  21,Balkman  12,Marbury  9,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Tue, Mar 20", Dallas ,L92-77  ,30-37,Curry  22,Curry  12,Jeffries  5,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Thu, Mar 22", Portland ,L92-86  ,30-38,Robinson  31,Francis  10,Marbury  6,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Mar 23",Cleveland ,L90-68  ,30-39,Curry  27,Curry  9,Marbury  4,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Mar 26", Orlando ,L94-89  ,30-40,Marbury  32,Frye  7,Marbury  4,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Mar 28", Cleveland ,W97-93  ,31-40,Curry  25,Frye  7,Marbury  8,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Mar 30",Dallas ,L105-103  ,31-41,Marbury  43,James  7,Marbury  3,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Mar 31",NO/Oklahoma City ,L103-94 OT ,31-42,Curry  34,Curry  13,Collins  6,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Apr 4", Philadelphia ,L92-90  ,31-43,Marbury  30,Balkman  16,Marbury  6,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Apr 6", Minnesota ,L99-94  ,31-44,Robinson  21,Balkman  8,Collins  5,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sat, Apr 7",Milwaukee ,W118-113 OT ,32-44,Curry  43,Curry  13,Collins  8,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Apr 9", Detroit ,L91-83  ,32-45,Robinson  24,Rose  8,Collins  6,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Tue, Apr 10",Chicago ,L98-69  ,32-46,Robinson  24,Frye  11,Collins  5,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Fri, Apr 13",New Jersey ,L100-86  ,32-47,Francis  22,Collins  9,Francis  7,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Sun, Apr 15",Toronto ,L107-105  ,32-48,Curry  30,Curry  8,Collins  11,H,New York Knicks 2006-07 Regular Season NBA Schedule
+"Mon, Apr 16", New Jersey ,L104-95  ,32-49,Francis  26,Collins  10,Collins  7,A,New York Knicks 2006-07 Regular Season NBA Schedule
+"Wed, Apr 18",Charlotte ,W94-93  ,33-49,Curry  28,Rose  15,Rose  9,H,New York Knicks 2006-07 Regular Season NBA Schedule

@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 31", Houston ,L105-96  ,0-1,Knight  15,Monroe  8,Stuckey  6,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Nov 2",Phoenix ,L92-89  ,0-2,Prince  18,Drummond  8,Knight  10,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Nov 4",Los Angeles ,L108-79  ,0-3,Jerebko  18,Monroe  7,Knight  6,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Tue, Nov 6",Denver ,L109-97  ,0-4,Monroe  27,Monroe  10,Knight  9,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Nov 7",Sacramento ,L105-103  ,0-5,Monroe  21,Monroe  12,Monroe  11,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Nov 9",Oklahoma City ,L105-94  ,0-6,Drummond  22,Monroe  10,Stuckey  6,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sat, Nov 10",Houston ,L96-82  ,0-7,Knight  16,Monroe  11,Knight  7,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Nov 12", Oklahoma City ,L92-90  ,0-8,Stuckey  19,Maxiell  7,Knight  6,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Nov 14",Philadelphia ,W94-76  ,1-8,Monroe  19,Monroe  18,Knight  7,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Nov 16", Orlando ,L110-106  ,1-9,Monroe  23,Monroe  7,Knight  12,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Nov 18", Boston ,W103-83  ,2-9,Monroe  20,Monroe  13,Stuckey  5,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Nov 21",Orlando ,L90-74  ,2-10,Monroe  19,Monroe  8,Knight  5,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Nov 23", Toronto ,W91-90  ,3-10,Monroe  19,Drummond  13,Monroe  5,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Nov 25",New York ,L121-100  ,3-11,Knight  21,Drummond  11,Monroe  7,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Nov 26", Portland ,W108-101  ,4-11,Knight  26,Monroe  10,Singler  5,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Nov 28", Phoenix ,W117-77  ,5-11,Villanueva  19,Drummond  9,Knight  6,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Nov 30",Memphis ,L90-78  ,5-12,Monroe  17,Monroe  9,Prince  4,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sat, Dec 1",Dallas ,L92-77  ,5-13,Knight  20,Monroe  15,Stuckey  6,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Dec 3", Cleveland ,W89-79  ,6-13,Knight  17,Monroe  14,Stuckey  6,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Dec 5", Golden State ,L104-97  ,6-14,Prince  24,Drummond  12,Stuckey  9,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Dec 7", Chicago ,L108-104  ,6-15,Stuckey  24,Maxiell  9,Stuckey  7,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sat, Dec 8",Cleveland ,W104-97  ,7-15,Knight  30,Prince  8,Stuckey  6,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Dec 10",Philadelphia ,L104-97  ,7-16,Monroe  22,Maxiell  11,Stuckey  5,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Tue, Dec 11", Denver ,L101-94  ,7-17,Knight  20,Monroe  12,Knight  5,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Dec 14",Brooklyn ,L107-105 2OT ,7-18,Knight  22,Prince  10,Prince  6,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sat, Dec 15", Indiana ,L88-77  ,7-19,Monroe  18,Drummond  9,Stuckey  7,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Dec 17", LA ,L88-76  ,7-20,Knight  16,Prince  7,Monroe  6,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Dec 19",Toronto ,L97-91  ,7-21,Monroe  35,Monroe  10,Knight  6,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Dec 21", Washington ,W100-68  ,8-21,Monroe  15,Drummond  14,Stuckey  5,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sat, Dec 22",Washington ,W96-87  ,9-21,Villanueva  19,Drummond  11,Stuckey  8,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Dec 26",Atlanta ,L126-119 2OT ,9-22,Bynum  31,Drummond  12,Stuckey  11,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Dec 28", Miami ,W109-99  ,10-22,Bynum  25,Drummond  10,Bynum  10,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Dec 30", Milwaukee ,W96-94  ,11-22,Prince  20,Monroe  10,Bynum  5,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Tue, Jan 1", Sacramento ,W103-97  ,12-22,Knight  20,Monroe  11,Knight  4,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Jan 4", Atlanta ,W85-84  ,13-22,Daye  20,Maxiell  10,Bynum  5,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Jan 6", Charlotte ,L108-101 OT ,13-23,Prince  21,Monroe  14,Bynum  9,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Jan 11",Milwaukee ,W103-87  ,14-23,Monroe  26,Monroe  11,Knight  5,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sat, Jan 12", Utah ,L90-87  ,14-24,Knight  16,Monroe  11,Bynum  4,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Thu, Jan 17", New York,L102-87  ,14-25,Bynum  22,Monroe  10,Monroe  5,N,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Jan 20", Boston ,W103-88  ,15-25,Drummond  16,Monroe  11,Monroe  5,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Tue, Jan 22", Orlando ,W105-90  ,16-25,Knight  18,Maxiell  11,Bynum  6,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Jan 23",Chicago ,L85-82  ,16-26,Knight  13,Maxiell  11,Knight  7,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Jan 25",Miami ,L110-88  ,16-27,Monroe  31,Monroe  12,Knight  5,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Jan 27",Orlando ,W104-102  ,17-27,Knight  31,Monroe  7,Bynum  12,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Tue, Jan 29", Milwaukee ,L117-90  ,17-28,,,,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Jan 30",Indiana ,L98-79  ,17-29,Monroe  18,Drummond  14,Knight  4,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Feb 1", Cleveland ,W117-99  ,18-29,Singler  20,Monroe  16,Knight  10,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Feb 3", Los Angeles ,L98-97  ,18-30,Monroe  20,Monroe  12,Bynum  10,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Feb 4",New York ,L99-85  ,18-31,Calderon  15,Monroe  10,Stuckey  4,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Feb 6", Brooklyn ,L93-90  ,18-32,Monroe  23,Monroe  10,Calderon  9,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Feb 8", San Antonio ,W119-109  ,19-32,Monroe  26,Monroe  16,Calderon  8,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sat, Feb 9",Milwaukee ,W105-100  ,20-32,Calderon  23,Villanueva  13,Calderon  10,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Feb 11", New Orleans ,L105-86  ,20-33,Stuckey  19,Monroe  11,Calderon  9,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Feb 13", Washington ,W96-85  ,21-33,Calderon  24,Monroe  18,Bynum  8,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Tue, Feb 19", Memphis ,L105-91  ,21-34,Knight  13,Monroe  6,Calderon  7,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Feb 20",Charlotte ,W105-99  ,22-34,Knight  21,Villanueva  9,Monroe  7,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Feb 22",Indiana ,L114-82  ,22-35,Bynum  17,Kravtsov  10,Bynum  4,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sat, Feb 23", Indiana ,L90-72  ,22-36,Bynum  15,Monroe  12,Calderon  5,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Feb 25", Atlanta ,L114-103  ,22-37,Stuckey  22,Monroe  8,Calderon  9,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Feb 27",Washington ,W96-95  ,23-37,Knight  32,Monroe  11,Calderon  18,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Mar 1",New Orleans ,L100-95  ,23-38,Monroe  27,Monroe  10,Calderon  11,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Mar 3",San Antonio ,L114-75  ,23-39,Monroe  16,Villanueva  10,Knight  6,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Mar 6", New York ,L87-77  ,23-40,Knight  17,Maxiell  9,Calderon  16,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Mar 8", Dallas ,L102-99  ,23-41,Knight  21,Maxiell  13,Calderon  7,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Mar 10",LA ,L129-97  ,23-42,Calderon  18,Jerebko  8,Stuckey  5,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Mar 11",Utah ,L103-90  ,23-43,Monroe  15,Monroe  13,Calderon  7,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Mar 13",Golden State ,L105-97  ,23-44,Stuckey  22,Maxiell  14,Calderon  6,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sat, Mar 16",Portland ,L112-101  ,23-45,Stuckey  32,Monroe  9,Monroe  6,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Mar 18", Brooklyn ,L119-82  ,23-46,Bynum  18,Monroe  7,Bynum  6,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Mar 22",Miami ,L103-89  ,23-47,Monroe  23,Monroe  15,Calderon  7,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sat, Mar 23",Charlotte ,W92-91  ,24-47,Villanueva  18,Monroe  9,Stuckey  8,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Tue, Mar 26", Minnesota ,L105-82  ,24-48,Calderon  14,Monroe  12,Villanueva  4,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Mar 29", Toronto ,L99-82  ,24-49,Jerebko  20,Monroe  13,Calderon  7,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Mar 31",Chicago ,L95-94  ,24-50,Stuckey  25,Drummond  14,Calderon  5,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Apr 1",Toronto ,W108-98  ,25-50,Monroe  24,Jerebko  6,Calderon  9,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Apr 3",Boston ,L98-93  ,25-51,Monroe  24,Monroe  17,Villanueva  5,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sat, Apr 6",Minnesota ,L107-101  ,25-52,Knight  25,Drummond  10,Knight  6,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Sun, Apr 7", Chicago ,W99-85  ,26-52,Knight  20,Drummond  10,Monroe  7,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Apr 10",Cleveland ,W111-104  ,27-52,Drummond  29,Drummond  11,Stuckey  7,H,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Fri, Apr 12", Charlotte ,W113-93  ,28-52,Jerebko  21,Drummond  9,Bynum  10,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Mon, Apr 15", Philadelphia ,W109-101  ,29-52,Monroe  27,Monroe  16,Bynum  6,A,Detroit Pistons 2012-13 Regular Season NBA Schedule
+"Wed, Apr 17",Brooklyn ,L103-99  ,29-53,Bynum  23,Monroe  12,Knight  5,H,Detroit Pistons 2012-13 Regular Season NBA Schedule

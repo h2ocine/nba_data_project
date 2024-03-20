@@ -1,0 +1,73 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Dec 22", Golden State ,W125-99  ,1-0,Irving  26,Jordan  11,LeVert  5,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Fri, Dec 25",Boston ,W123-95  ,2-0,Irving  37,Allen  11,Irving  8,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sun, Dec 27",Charlotte ,L106-104  ,2-1,Durant  29,Allen  14,Irving  6,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Mon, Dec 28", Memphis ,L116-111 OT ,2-2,LeVert  28,Allen  15,LeVert  11,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Dec 30", Atlanta ,W145-141  ,3-2,Durant  33,Allen  13,Durant  9,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Fri, Jan 1", Atlanta ,L114-96  ,3-3,Durant  28,Irving  11,Durant  4,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sun, Jan 3", Washington ,L123-122  ,3-4,Irving  30,Durant  11,Irving  10,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, Jan 5", Utah ,W130-96  ,4-4,Irving  29,Allen  18,Johnson  7,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Thu, Jan 7", Philadelphia ,W122-109  ,5-4,Harris  28,Allen  11,LeVert  10,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Fri, Jan 8",Memphis ,L115-110  ,5-5,LeVert  43,Green  9,LeVert  6,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sun, Jan 10", Oklahoma City ,L129-116  ,5-6,Durant  36,Durant  11,LeVert  6,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, Jan 12", Denver ,W122-116  ,6-6,Durant  34,Durant  9,Durant  13,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Jan 13",New York ,W116-109  ,7-6,Durant  26,Brown  14,Chiozza  7,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sat, Jan 16", Orlando ,W122-115  ,8-6,Durant  42,Harden  12,Harden  14,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Mon, Jan 18", Milwaukee ,W125-123  ,9-6,Harden  34,Jordan  12,Harden  12,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Jan 20",Cleveland ,L147-135 2OT ,9-7,Durant  38,Durant  12,Harden  12,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Fri, Jan 22",Cleveland ,L125-113  ,9-8,Irving  38,Harris  7,Harden  11,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sat, Jan 23", Miami ,W128-124  ,10-8,Durant  31,Jordan  8,Harden  11,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Mon, Jan 25", Miami ,W98-85  ,11-8,Durant  20,Durant  13,Harden  8,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Jan 27",Atlanta ,W132-128 OT ,12-8,Durant  32,Harden  8,Harden  15,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Fri, Jan 29",Oklahoma City ,W147-125  ,13-8,Harden  25,Harden  10,Harden  11,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sun, Jan 31",Washington ,L149-146  ,13-9,Durant  37,Brown  9,Irving  8,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, Feb 2", LA ,W124-120  ,14-9,Irving  39,Harden  12,Harden  14,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Fri, Feb 5", Toronto ,L123-117  ,48-24,Harris  19,Harden  7,Harden  12,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sat, Feb 6",Philadelphia ,L124-108  ,14-11,Harden  26,Harden  8,Harden  10,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, Feb 9",Detroit ,L122-111  ,14-12,Irving  27,Brown  9,Harden  12,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Feb 10", Indiana ,W104-94  ,15-12,Irving  35,Jordan  13,Irving  8,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sat, Feb 13",Golden State ,W134-117  ,16-12,Irving  23,Harden  8,Harden  16,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Mon, Feb 15",Sacramento ,W136-125  ,17-12,Irving  40,Harden  13,Harden  14,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, Feb 16",Phoenix ,W128-124  ,18-12,Harden  38,Green  8,Harden  11,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Thu, Feb 18",Los Angeles ,W109-98  ,19-12,Harden  23,Jordan  8,Harden  11,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sun, Feb 21",LA ,W112-108  ,20-12,Harden  37,Harden  11,Irving  8,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, Feb 23", Sacramento ,W127-118  ,21-12,Harden  29,Harden  11,Harden  14,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Thu, Feb 25", Orlando ,W129-92  ,22-12,Irving  27,Jordan  11,Irving  9,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sat, Feb 27", Dallas ,L115-98  ,22-13,Harden  29,Brown  9,Harden  6,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Mon, Mar 1",San Antonio ,W124-113 OT ,23-13,Harden  30,Harden  14,Harden  15,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Mar 3",Houston ,W132-114  ,24-13,Harden  29,Harden  10,Harden  14,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Thu, Mar 11", Boston ,W121-109  ,25-13,Irving  40,Harden  10,Harden  8,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sat, Mar 13", Detroit ,W100-95  ,26-13,Harden  24,Harden  10,Harden  10,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Mon, Mar 15", New York ,W117-112  ,27-13,Irving  34,Harden  14,Harden  15,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Mar 17",Indiana ,W124-115  ,28-13,Harden  40,Harden  10,Harden  15,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Fri, Mar 19",Orlando ,L121-113  ,28-14,Irving  43,Brown  7,Harden  9,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sun, Mar 21", Washington ,W113-106  ,29-14,Irving  28,Irving  7,Harden  8,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, Mar 23",Portland ,W116-112  ,30-14,Harden  25,Jordan  10,Harden  17,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Mar 24",Utah ,L118-88  ,30-15,Johnson  23,Johnson  15,Chiozza  11,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Fri, Mar 26",Detroit ,W113-111  ,31-15,Harden  44,Harden  14,Harden  8,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Mon, Mar 29", Minnesota ,W112-107  ,32-15,Harden  38,Harden  11,Harden  13,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Mar 31", Houston ,W120-108  ,33-15,Irving  31,Harden  8,Irving  12,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Thu, Apr 1", Charlotte ,W111-89  ,34-15,Green  21,Irving  11,Irving  8,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sun, Apr 4",Chicago ,L115-107  ,34-16,Irving  24,Griffin  8,Irving  15,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Mon, Apr 5", New York ,W114-112  ,35-16,Irving  40,Harris  8,Irving  7,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Apr 7", New Orleans ,W139-111  ,36-16,Irving  24,Brown  8,Chiozza  8,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sat, Apr 10", Los Angeles ,L126-101  ,36-17,Durant  22,Durant  7,Durant  5,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, Apr 13",Minnesota ,W127-97  ,37-17,Durant  31,Brown  12,Shamet  5,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Apr 14",Philadelphia ,L123-117  ,37-18,Irving  37,Jordan  14,Irving  9,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Fri, Apr 16", Charlotte ,W130-115  ,38-18,Harris  26,Claxton  9,Durant  11,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sun, Apr 18",Miami ,L109-107  ,38-19,Shamet  30,Brown  11,Irving  9,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, Apr 20",New Orleans ,W134-129  ,39-19,Irving  32,Brown  11,Irving  8,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, Apr 21",Toronto ,L114-103  ,39-20,Irving  28,Brown  14,Irving  8,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Fri, Apr 23", Boston ,W109-104  ,40-20,Harris  20,Jordan  11,Irving  11,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sun, Apr 25", Phoenix ,W128-119  ,41-20,Irving  34,Jordan  12,Irving  12,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, Apr 27",Toronto ,W116-103  ,42-20,Green  22,Durant  10,James  8,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Thu, Apr 29",Indiana ,W130-113  ,43-20,Durant  42,Johnson  21,Durant  10,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Fri, Apr 30", Portland ,L128-109  ,43-21,Irving  28,Johnson  12,Griffin  4,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sun, May 2",Milwaukee ,L117-114  ,43-22,Durant  42,Jordan  11,Irving  6,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, May 4",Milwaukee ,L124-118  ,43-23,Irving  38,Durant  9,Durant  6,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Thu, May 6",Dallas ,L113-109  ,43-24,Irving  45,Griffin  10,Irving  4,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sat, May 8",Denver ,W125-119  ,44-24,Durant  33,Durant  11,Durant  7,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Tue, May 11",Chicago ,W115-107  ,45-24,Durant  21,Brown  10,Durant  8,H,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Wed, May 12", San Antonio ,W128-116  ,46-24,Shamet  21,Brown  11,Harden  11,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sat, May 15", Chicago ,W105-91  ,47-24,Irving  22,Brown  12,Harden  7,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule
+"Sun, May 16", Cleveland ,W123-109  ,48-24,Durant  23,Durant  8,Durant  13,A,Brooklyn Nets 2020-21 Regular Season NBA Schedule

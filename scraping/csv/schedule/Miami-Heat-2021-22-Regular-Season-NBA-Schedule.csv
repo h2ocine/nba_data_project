@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Thu, Oct 21", Milwaukee ,W137-95  ,1-0,Herro  27,Adebayo  13,Butler  6,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Oct 23",Indiana ,L102-91 OT ,1-1,Herro  30,Adebayo  16,Butler  6,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Oct 25", Orlando ,W107-90  ,2-1,Butler  36,Adebayo  13,Herro  9,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Oct 27",Brooklyn ,W106-93  ,3-1,Adebayo  24,Butler  14,Lowry  9,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Oct 29", Charlotte ,W114-99  ,4-1,Butler  32,Adebayo  19,Herro  6,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Oct 30",Memphis ,W129-103  ,5-1,Butler  27,Dedmon  9,Lowry  8,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Tue, Nov 2",Dallas ,W125-110  ,6-1,Herro  25,Adebayo  13,Lowry  9,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Thu, Nov 4", Boston ,L95-78  ,6-2,Butler  20,Adebayo  7,Lowry  5,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Nov 6", Utah ,W118-115  ,7-2,Herro  29,Lowry  12,Lowry  10,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Nov 8",Denver ,L113-96  ,7-3,Butler  31,Adebayo  10,Butler  8,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Nov 10",Los Angeles ,L120-117 OT ,7-4,Adebayo  28,Tucker  13,Lowry  11,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Thu, Nov 11",LA ,L112-109  ,7-5,Adebayo  30,Adebayo  11,Vincent  6,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Nov 13",Utah ,W111-105  ,8-5,Herro  27,Tucker  11,Adebayo  7,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Nov 15",Oklahoma City ,W103-90  ,9-5,Herro  26,Herro  7,Lowry  11,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Nov 17", New Orleans ,W113-98  ,10-5,Butler  31,Butler  10,Butler  10,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Thu, Nov 18", Washington ,W112-97  ,11-5,Butler  32,Adebayo  9,Lowry  12,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Nov 20",Washington ,L103-100  ,11-6,Butler  29,Adebayo  6,Lowry  7,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Tue, Nov 23",Detroit ,W100-92  ,12-6,Herro  31,Adebayo  9,Lowry  8,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Nov 24",Minnesota ,L113-101  ,12-7,Adebayo  18,Butler  8,Butler  5,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Nov 27",Chicago ,W107-104  ,13-7,Vincent  20,Adebayo  7,Lowry  6,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Nov 29", Denver ,L120-111  ,13-8,Adebayo  24,Adebayo  13,Lowry  14,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Dec 1", Cleveland ,L111-85  ,13-9,Herro  21,Dedmon  13,Herro  6,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Dec 3",Indiana ,W113-104  ,14-9,Lowry  26,Dedmon  6,Lowry  9,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Dec 4",Milwaukee ,L124-102  ,14-10,Strus  25,Dedmon  13,Lowry  7,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Dec 6", Memphis ,L105-90  ,14-11,Herro  24,Dedmon  6,Lowry  8,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Dec 8", Milwaukee ,W113-104  ,15-11,Martin  28,Okpala  9,Lowry  13,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Dec 11", Chicago ,W118-92  ,16-11,Robinson  26,Dedmon  12,Lowry  14,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Dec 13",Cleveland ,L105-94  ,16-12,Tucker  23,Tucker  9,Tucker  5,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Dec 15",Philadelphia ,W101-96  ,17-12,Vincent  26,Dedmon  14,Lowry  5,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Dec 17",Orlando ,W115-105  ,18-12,Strus  32,Yurtseven  12,Lowry  15,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sun, Dec 19",Detroit ,L100-90  ,18-13,Strus  24,Yurtseven  12,Lowry  10,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Tue, Dec 21", Indiana ,W125-96  ,19-13,Herro  26,Yurtseven  13,Lowry  12,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Thu, Dec 23", Detroit ,W115-112  ,20-13,Herro  29,Yurtseven  12,Vincent  7,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sun, Dec 26", Orlando ,W93-83  ,21-13,Butler  17,Yurtseven  15,Vincent  8,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Tue, Dec 28", Washington ,W119-112  ,22-13,Herro  32,Yurtseven  14,Butler  15,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Dec 31",Houston ,W120-110  ,23-13,Butler  37,Yurtseven  13,Herro  9,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sun, Jan 2",Sacramento ,L115-113  ,23-14,Yurtseven  22,Yurtseven  16,Lowry  12,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Jan 3",Golden State ,L115-108  ,23-15,Butler  22,Yurtseven  17,Lowry  11,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Jan 5",Portland ,W115-109  ,24-15,Strus  25,Yurtseven  16,Lowry  9,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Jan 8",Phoenix ,W123-100  ,25-15,Herro  33,Yurtseven  16,Lowry  13,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Jan 12",Atlanta ,W115-91  ,26-15,Herro  21,Martin  10,Herro  11,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Jan 14", Atlanta ,W124-118  ,27-15,Herro  24,Yurtseven  11,Butler  10,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Jan 15", Philadelphia ,L109-98  ,27-16,Yurtseven  22,Yurtseven  11,Butler  9,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Jan 17", Toronto ,W104-99  ,28-16,Herro  23,Butler  10,Butler  10,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Jan 19", Portland ,W104-92  ,29-16,Martin  26,Adebayo  11,Vincent  7,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Jan 21",Atlanta ,L110-108  ,29-17,Adebayo  21,Butler  8,Vincent  9,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sun, Jan 23", Los Angeles ,W113-107  ,30-17,Robinson  25,Butler  10,Butler  12,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Jan 26", New York ,W110-96  ,31-17,Robinson  25,Adebayo  8,Adebayo  11,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Jan 28", LA ,W121-114  ,32-17,Butler  26,Adebayo  12,Butler  9,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Jan 29", Toronto ,L124-120 3OT ,32-18,Butler  37,Adebayo  16,Butler  10,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Jan 31",Boston ,L122-92  ,32-19,Strus  27,Silva  9,Vincent  9,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Tue, Feb 1",Toronto ,L110-106  ,32-20,Adebayo  32,Adebayo  11,Butler  12,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Thu, Feb 3",San Antonio ,W112-95  ,33-20,Herro  24,Adebayo  11,Herro  5,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Feb 5",Charlotte ,W104-86  ,34-20,Butler  27,Adebayo  12,Lowry  6,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Feb 7",Washington ,W121-100  ,35-20,Adebayo  21,Adebayo  7,Vincent  8,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Thu, Feb 10",New Orleans ,W112-97  ,36-20,Adebayo  29,Lowry  11,Lowry  11,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Feb 12", Brooklyn ,W115-111  ,37-20,Adebayo  19,Adebayo  14,Lowry  6,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Tue, Feb 15", Dallas ,L107-99  ,37-21,Butler  29,Adebayo  12,Vincent  5,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Thu, Feb 17",Charlotte ,W111-107 2OT ,38-21,Lowry  25,Adebayo  13,Butler  8,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Feb 25",New York ,W115-100  ,39-21,Herro  25,Adebayo  16,Lowry  4,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Feb 26", San Antonio ,W133-129  ,40-21,Adebayo  36,Adebayo  7,Lowry  10,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Feb 28", Chicago ,W112-99  ,41-21,Herro  20,Adebayo  7,Herro  5,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Mar 2",Milwaukee ,L120-119  ,41-22,Herro  30,Adebayo  12,Vincent  6,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Thu, Mar 3",Brooklyn ,W113-107  ,42-22,Adebayo  30,Adebayo  11,Herro  8,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Mar 5", Philadelphia ,W99-82  ,43-22,Herro  21,Adebayo  10,Butler  5,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Mar 7", Houston ,W123-106  ,44-22,Herro  31,Tucker  12,Lowry  5,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Mar 9", Phoenix ,L111-90  ,44-23,Robinson  22,Adebayo  6,Lowry  10,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Mar 11", Cleveland ,W117-105  ,45-23,Adebayo  30,Adebayo  17,Lowry  10,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Mar 12", Minnesota ,L113-104  ,45-24,Herro  30,Adebayo  12,Lowry  7,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Tue, Mar 15", Detroit ,W105-98  ,46-24,Herro  29,Adebayo  8,Herro  4,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Mar 18", Oklahoma City ,W120-108  ,47-24,Herro  26,Adebayo  9,Herro  4,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Mar 21",Philadelphia ,L113-106  ,47-25,Butler  27,Adebayo  9,Butler  6,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Mar 23", Golden State ,L118-104  ,47-26,Lowry  26,Adebayo  9,Lowry  9,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Mar 25", New York ,L111-103  ,47-27,Butler  30,Adebayo  9,Butler  7,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Mar 26", Brooklyn ,L110-95  ,47-28,Adebayo  14,Dedmon  9,Oladipo  6,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Mon, Mar 28", Sacramento ,W123-100  ,48-28,Butler  27,Adebayo  15,Butler  7,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Wed, Mar 30",Boston ,W106-98  ,49-28,Butler  24,Adebayo  12,Lowry  8,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sat, Apr 2",Chicago ,W127-109  ,50-28,Butler  22,Herro  8,Lowry  10,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sun, Apr 3",Toronto ,W114-109  ,51-28,Strus  23,Herro  9,Lowry  10,H,Miami Heat 2021-22 Regular Season NBA Schedule
+"Tue, Apr 5", Charlotte ,W144-115  ,52-28,Herro  35,Adebayo  9,Butler  8,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Fri, Apr 8", Atlanta ,W113-109  ,53-28,Adebayo  24,Adebayo  6,Herro  9,A,Miami Heat 2021-22 Regular Season NBA Schedule
+"Sun, Apr 10",Orlando ,L125-111  ,53-29,Oladipo  40,Oladipo  10,Oladipo  7,H,Miami Heat 2021-22 Regular Season NBA Schedule

@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Nov 3",Boston ,W98-95  ,1-0,Iverson  30,Thomas  10,Iverson  6,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Nov 5", Phoenix ,L108-98  ,1-1,Iverson  25,Thomas  10,Iverson  9,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Nov 6",Detroit ,L99-91  ,1-2,Iverson  31,Thomas  14,Iverson  5,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Tue, Nov 9",New York ,L96-88  ,1-3,Iverson  29,Iguodala  7,Iverson  10,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Nov 10", New Jersey ,W108-100 OT ,2-3,Iverson  26,Iguodala  8,Iverson  6,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Nov 12", Indiana ,W106-104 OT ,3-3,Korver  23,Jackson  10,Iverson  9,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sun, Nov 14", Orlando ,W96-87  ,4-3,Iverson  29,Iguodala  8,Iverson  12,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Tue, Nov 16", Seattle ,L103-95  ,4-4,Iverson  26,Korver  7,Korver  5,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Thu, Nov 18", San Antonio ,L88-80  ,4-5,Iverson  24,Iguodala  9,Iverson  4,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sun, Nov 21",Miami ,L93-83  ,4-6,Jackson  21,Iguodala  11,Green  10,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Nov 24", Boston ,W110-97  ,5-6,Iverson  28,Iguodala  9,Iverson  10,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Nov 26", Washington ,W116-114 OT ,6-6,Iverson  28,Korver  8,Iverson  13,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Nov 27",Orlando ,L105-99  ,6-7,Iverson  27,Jackson  11,Iverson  10,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Dec 1",San Antonio ,L105-72  ,6-8,Jackson  18,Dalembert  7,Iverson  2,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Dec 3",Memphis ,L94-86  ,6-9,Iverson  25,Thomas  8,Iguodala  4,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Dec 4",Houston ,L77-76  ,6-10,Iverson  20,Thomas  8,Iverson  8,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Dec 6",Atlanta ,L96-92  ,6-11,Iverson  36,Jackson  9,Iverson  4,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Dec 8", Minnesota ,L119-84  ,6-12,Iguodala  18,Iverson  8,Iguodala  5,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Dec 10",Chicago ,W93-88  ,7-12,Iverson  22,Dalembert  14,Iverson  10,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sun, Dec 12", Milwaukee ,W107-101  ,8-12,Iverson  40,Thomas  17,Iverson  10,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Tue, Dec 14", Denver ,W110-102  ,9-12,Iverson  31,Dalembert  11,Iverson  8,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Dec 17", New York ,L113-107 OT ,9-13,Thomas  26,Jackson  9,Iverson  8,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Dec 18",Milwaukee ,W116-97  ,10-13,Iverson  54,Dalembert  15,Iverson  5,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Dec 20", Utah ,L103-101  ,10-14,Iverson  51,Jackson  13,Iverson  6,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Dec 22",Indiana ,W102-90  ,11-14,Iverson  40,Williamson  8,Iverson  5,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Dec 27",Portland ,W111-104  ,12-14,Iverson  28,Iguodala  10,Iverson  6,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Tue, Dec 28",Seattle ,W114-107  ,13-14,Iverson  34,Iverson  9,Iverson  7,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Dec 31",Denver ,L97-92  ,13-15,Iverson  29,Korver  10,Iverson  8,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sun, Jan 2",LA ,L89-83  ,13-16,Iverson  35,Thomas  6,Iverson  6,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Jan 3",Golden State ,W112-104  ,14-16,Iverson  29,Iguodala  9,Iverson  6,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Jan 5",Utah ,W106-99  ,15-16,Thomas  30,Iverson  6,Iverson  9,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Jan 7",Minnesota ,L89-84  ,15-17,Williamson  21,Jackson  9,Salmons  4,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Jan 10", Portland ,L109-100  ,15-18,Iguodala  22,Iverson  9,Iverson  9,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Jan 12",Chicago ,L110-78  ,15-19,Iverson  21,Iguodala  6,Iverson  8,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Jan 14", Toronto ,W106-96  ,16-19,Iverson  32,Thomas  14,Iverson  10,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Jan 15",Detroit ,L99-95  ,16-20,Iverson  28,Thomas  12,Iverson  13,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Jan 17", New Orleans ,W95-91  ,17-20,Iverson  29,Thomas  15,Salmons  4,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Jan 19",Charlotte ,W107-105  ,18-20,Iverson  24,Thomas  9,Iverson  6,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Jan 22",Orlando ,L115-111  ,18-21,Iverson  38,Dalembert  16,Iverson  10,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Jan 24", Miami ,W106-98  ,19-21,Iverson  45,Dalembert  11,Iverson  10,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Jan 26",Washington ,L117-107  ,19-22,Green  32,Dalembert  11,Iguodala  6,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Jan 28",New Orleans ,L99-95 OT ,19-23,Williamson  20,Iguodala  10,Korver  9,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Jan 29",Dallas ,W93-89  ,20-23,Salmons  19,Korver  10,Salmons  6,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Jan 31", Indiana ,W89-88  ,21-23,Iverson  27,Iverson  9,Iverson  8,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Feb 2", Houston ,L118-95  ,21-24,Iverson  28,Dalembert  7,Iverson  10,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Feb 4", Atlanta ,W103-85  ,22-24,Iverson  22,Thomas  13,Iverson  12,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sun, Feb 6", LA ,W106-104  ,23-24,Iverson  28,Dalembert  6,Iverson  5,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Feb 7",New Jersey ,L107-97 OT ,23-25,Green  28,Korver  10,Green  6,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Feb 9", Memphis ,L98-95  ,23-26,Iverson  38,Dalembert  9,Iverson  10,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Feb 11",Toronto ,W106-91  ,24-26,Iverson  30,Thomas  8,Iverson  8,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Feb 12", Orlando ,W112-99  ,25-26,Iverson  60,Williamson  10,Iverson  6,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Feb 14", New York ,W106-105  ,26-26,Iverson  38,Dalembert  12,Iverson  10,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Feb 16", Detroit ,L93-75  ,26-27,Iverson  23,Thomas  11,Iverson  7,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Thu, Feb 24",New York ,L113-101  ,26-28,Iverson  29,Dalembert  15,Iverson  8,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Feb 26", Sacramento ,L101-99  ,26-29,Iverson  27,Webber  11,Iverson  14,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Tue, Mar 1",Milwaukee ,W118-111  ,27-29,Iverson  48,Dalembert  8,Iverson  8,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Mar 2", New Jersey ,L99-93  ,27-30,Iverson  37,Rogers  9,Iverson  5,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Mar 4", Cleveland ,W98-89  ,28-30,Iverson  31,Webber  12,Iverson  9,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Mar 5",Atlanta ,W98-97  ,29-30,Iverson  33,Webber  8,Iverson  6,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Mar 7",Miami ,L108-100  ,29-31,Iverson  27,Webber  7,Iverson  6,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Tue, Mar 8", Golden State ,L104-85  ,29-32,Iverson  33,Dalembert  8,Iverson  5,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Mar 11", Charlotte ,W112-80  ,30-32,Iverson  25,Jackson  9,Iverson  12,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sun, Mar 13",Toronto ,L128-110  ,30-33,Iverson  32,Jackson  8,Iverson  8,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Tue, Mar 15", Los Angeles ,W108-91  ,31-33,Iverson  36,Dalembert  11,Iverson  9,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Mar 18",Cleveland ,W93-81  ,32-33,Iverson  31,Korver  11,Iverson  5,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Mar 19", Chicago ,L94-88  ,32-34,Iverson  31,Dalembert  17,Iverson  7,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Mar 23", Detroit ,W107-84  ,33-34,Iverson  39,Iguodala  10,Iverson  10,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Mar 25", Toronto ,W103-101  ,34-34,Iverson  36,Dalembert  7,Iverson  7,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sun, Mar 27",Los Angeles ,W96-89  ,35-34,Iverson  20,Webber  14,Iverson  15,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Mar 28",Sacramento ,L118-109  ,35-35,Iverson  34,Dalembert  16,Iverson  8,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Mar 30",Phoenix ,L116-87  ,35-36,Iverson  26,Iverson  9,Iverson  4,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Apr 1", Dallas ,L100-83  ,35-37,Jackson  22,Davis  11,Iguodala  4,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sun, Apr 3",Boston ,W97-93  ,36-37,Iverson  38,Dalembert  15,Iverson  9,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Apr 6", Charlotte ,W106-103  ,37-37,Iverson  48,Iguodala  11,Iverson  8,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Apr 8", Cleveland ,W103-98  ,38-37,Jackson  24,Dalembert  16,Iverson  16,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sat, Apr 9",Washington ,W112-106  ,39-37,Iguodala  20,Iguodala  8,Green  9,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Tue, Apr 12", Boston ,L105-98  ,39-38,Iverson  28,Korver  9,Iverson  11,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Thu, Apr 14", Miami ,W126-119 OT ,40-38,Iverson  38,Iguodala  10,Iverson  16,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Fri, Apr 15",Indiana ,W90-86  ,41-38,Iverson  43,Dalembert  9,Iverson  7,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Sun, Apr 17",New Jersey ,L104-83  ,41-39,Iverson  33,Dalembert  10,Iverson  8,H,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Mon, Apr 18", Milwaukee ,W122-106  ,42-39,Iverson  39,Webber  8,Iverson  12,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule
+"Wed, Apr 20", Atlanta ,W110-86  ,43-39,Korver  21,Dalembert  9,Iguodala  5,A,Philadelphia 76ers 2004-05 Regular Season NBA Schedule

@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Thu, Oct 30",Seattle ,L109-100  ,0-1,House  22,Brand  15,House  6,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Oct 31", Seattle ,L124-105  ,0-2,Maggette  26,Drobnjak  8,Jaric  5,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Nov 7",Denver ,W104-102 OT ,1-2,Maggette  29,Wilcox  12,Jaric  8,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Nov 11", Atlanta ,W115-103  ,2-2,Richardson  32,Richardson  16,Richardson  5,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Nov 14",Golden State ,W104-98  ,3-2,Wilcox  21,Wilcox  9,Maggette  6,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Nov 15", Orlando ,W95-92  ,4-2,Richardson  31,Richardson  9,Jaric  8,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Nov 18",Cleveland ,L103-95  ,4-3,Drobnjak  20,Drobnjak  13,Dooling  7,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Nov 19",Indiana ,L91-78  ,4-4,Dooling  18,Drobnjak  14,Dooling  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Nov 22",Minnesota ,L103-91  ,4-5,Richardson  36,Kaman  15,Maggette  6,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Mon, Nov 24", Houston ,L105-90  ,4-6,Maggette  33,Drobnjak  7,House  5,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Thu, Nov 27", New Jersey ,L102-96  ,4-7,Maggette  20,Wilcox  10,Jaric  4,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Nov 29", Denver ,L98-86  ,4-8,Maggette  22,Richardson  9,Maggette  3,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Mon, Dec 1", San Antonio ,W91-83  ,5-8,Maggette  24,Kaman  12,Jaric  3,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Dec 3", Cleveland ,W90-80  ,6-8,Richardson  25,Kaman  14,Overton  7,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Dec 5",Utah ,L86-67  ,6-9,Maggette  15,Kaman  7,Jaric  3,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Dec 7", Minnesota ,L96-94  ,6-10,Maggette  26,Richardson  9,Overton  4,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Dec 9",Sacramento ,L105-95  ,6-11,Maggette  27,Kaman  14,Richardson  4,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Dec 10", Dallas ,W100-99  ,7-11,Maggette  30,Brand  10,Jaric  7,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Dec 13", Phoenix ,W106-91  ,8-11,Richardson  25,Brand  14,Maggette  5,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Mon, Dec 15", New Orleans ,W109-80  ,9-11,Brand  27,Brand  13,Jaric  8,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Dec 17", Milwaukee ,W93-83  ,10-11,Simmons  20,Brand  16,Maggette  5,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Dec 19",Houston ,L99-85  ,10-12,Richardson  20,Brand  11,Jaric  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Dec 20",Dallas ,W115-105  ,11-12,Maggette  26,Brand  20,Simmons  7,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Dec 23",San Antonio ,L111-90  ,11-13,Brand  22,Brand  13,Brand  3,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Dec 26", Philadelphia ,W101-98  ,12-13,Richardson  22,Brand  9,Jaric  7,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Dec 28", Toronto ,L94-88  ,12-14,Richardson  16,Richardson  13,Jaric  7,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Mon, Dec 29", Phoenix ,L113-105  ,12-15,Maggette  26,Richardson  12,Brand  5,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Dec 31", Denver ,W120-104  ,13-15,Richardson  44,Richardson  10,Jaric  8,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Jan 3", Sacramento ,L116-109  ,13-16,Drobnjak  22,Brand  9,Overton  6,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Jan 4", Los Angeles ,W101-98  ,14-16,Brand  30,Brand  15,Brand  6,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Jan 6",New Jersey ,L92-75  ,14-17,Brand  11,Brand  16,Jaric  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Jan 7",Philadelphia ,L100-80  ,14-18,Brand  26,Brand  12,House  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 9",Toronto ,W78-68  ,15-18,Brand  19,Brand  14,Simmons  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Jan 11", Memphis ,L108-107 OT ,15-19,Jaric  23,Brand  12,Jaric  8,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Jan 13", Portland ,W103-96 OT ,16-19,Maggette  32,Kaman  10,Brand  7,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 16", Miami ,L87-85  ,16-20,Brand  22,Brand  12,Jaric  11,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Jan 17",Los Angeles ,L91-89  ,16-21,Brand  35,Brand  20,House  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Mon, Jan 19", Sacramento ,L125-100  ,16-22,Brand  24,Maggette  9,Maggette  5,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Jan 21", Golden State ,W106-102  ,17-22,Richardson  25,Brand  13,Brand  8,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 23", Utah ,W93-82  ,18-22,Richardson  29,Brand  9,Richardson  6,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Jan 24",Seattle ,L102-97  ,18-23,Maggette  28,Brand  16,Jaric  7,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Mon, Jan 26",Utah ,L98-93  ,18-24,Brand  18,Brand  9,Brand  6,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Jan 27", Chicago ,W102-92  ,19-24,Maggette  28,Brand  11,Jaric  10,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 30",Miami ,L97-88  ,19-25,Brand  23,Brand  15,Jaric  4,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Jan 31",Orlando ,W115-106  ,20-25,Jaric  23,Brand  8,Jaric  6,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Mon, Feb 2",Atlanta ,W101-95  ,21-25,Brand  22,Brand  12,Brand  6,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Feb 4",Boston ,W95-86  ,22-25,Richardson  36,Brand  11,Jaric  9,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Feb 6",Washington ,L112-100  ,22-26,Richardson  24,Brand  10,Brand  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Feb 8",New York ,L110-104  ,22-27,Maggette  28,Maggette  8,Jaric  6,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Feb 10",Minnesota ,L96-84  ,22-28,Maggette  34,Wilcox  9,Jaric  12,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Feb 11",Memphis ,L110-102  ,22-29,Brand  24,Brand  15,House  7,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Feb 18",Portland ,L101-86  ,22-30,Maggette  23,Brand  10,House  6,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Thu, Feb 19", Boston ,W102-100  ,23-30,Brand  39,Brand  11,Jaric  6,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Feb 21",Milwaukee ,W105-103  ,24-30,Brand  31,Brand  10,Jaric  6,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Feb 24",Dallas ,L116-91  ,24-31,Maggette  21,Wilcox  7,Jaric  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Feb 25",New Orleans ,L99-93  ,24-32,Brand  19,Brand  12,Maggette  6,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Feb 27", New York ,W96-94  ,25-32,Richardson  23,Brand  12,Jaric  7,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Feb 29", Detroit ,L100-88  ,25-33,Brand  26,Brand  10,Jaric  8,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Mar 2",Sacramento ,L113-106  ,25-34,Maggette  32,Brand  8,Jaric  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 3", Indiana ,L101-94 OT ,25-35,Brand  24,Wilcox  10,Brand  7,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Mar 6", Memphis ,L98-92  ,25-36,Brand  18,Kaman  11,Maggette  7,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Mar 7", Portland ,W91-71  ,26-36,Brand  21,Brand  14,Maggette  9,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Mar 9",Houston ,L90-85  ,26-37,Maggette  26,Brand  9,House  7,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 10",San Antonio ,L108-90  ,26-38,Maggette  21,Maggette  7,Dooling  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Mar 12",Memphis ,L98-89  ,26-39,Richardson  25,Richardson  11,Richardson  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Mar 14", Dallas ,L101-88  ,26-40,Richardson  32,Richardson  11,Maggette  6,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Mar 16",Phoenix ,W110-98  ,27-40,Richardson  32,Richardson  12,Overton  8,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 17", Los Angeles ,L106-103  ,27-41,Brand  26,Brand  9,Overton  4,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Mar 19",Los Angeles ,L106-100  ,27-42,Maggette  31,Kaman  8,Maggette  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Mar 21", Golden State ,L96-85  ,27-43,Brand  20,Brand  10,House  7,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Mon, Mar 22",Denver ,L102-80  ,27-44,Drobnjak  24,Brand  7,Overton  4,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 24",Portland ,L91-85  ,27-45,Maggette  22,Brand  9,House  5,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Thu, Mar 25", Washington ,L103-94  ,27-46,Maggette  25,Simmons  10,Simmons  6,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sat, Mar 27", Minnesota ,L98-82  ,27-47,Brand  22,Kaman  12,Simmons  4,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Mar 28",Golden State ,L105-77  ,27-48,Maggette  21,Kaman  9,House  7,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 31",Detroit ,L108-99  ,27-49,Brand  27,Brand  10,Dooling  10,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Fri, Apr 2",Chicago ,L114-110 OT ,27-50,Maggette  34,Brand  19,Overton  6,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Apr 4", Utah ,L97-92  ,27-51,Maggette  26,Maggette  6,Barnes  4,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Apr 7", Houston ,L102-79  ,27-52,Maggette  22,Brand  10,Barnes  3,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Sun, Apr 11", San Antonio ,L88-79  ,27-53,Brand  23,Brand  12,Brand  5,A,LA Clippers 2003-04 Regular Season NBA Schedule
+"Tue, Apr 13",Phoenix ,W98-96  ,28-53,Brand  30,Wilcox  13,Richardson  9,H,LA Clippers 2003-04 Regular Season NBA Schedule
+"Wed, Apr 14", Seattle ,L118-87  ,28-54,Simmons  24,Simmons  10,Simmons  3,A,LA Clippers 2003-04 Regular Season NBA Schedule

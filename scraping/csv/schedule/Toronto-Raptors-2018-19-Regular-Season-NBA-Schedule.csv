@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 17", Cleveland ,W116-104  ,1-0,Lowry  27,Leonard  12,Lowry  8,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Oct 19", Boston ,W113-101  ,2-0,Leonard  31,Leonard  10,VanVleet  7,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sat, Oct 20",Washington ,W117-113  ,3-0,Lowry  28,Siakam  10,Lowry  12,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Mon, Oct 22", Charlotte ,W127-106  ,4-0,Leonard  22,Valanciunas  10,Lowry  14,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Oct 24", Minnesota ,W112-105  ,5-0,Leonard  35,Valanciunas  9,Lowry  10,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Oct 26", Dallas ,W116-107  ,6-0,Leonard  21,Leonard  9,Lowry  12,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Mon, Oct 29",Milwaukee ,L124-109  ,6-1,Ibaka  30,Ibaka  9,Lowry  15,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Oct 30", Philadelphia ,W129-112  ,7-1,Leonard  31,Siakam  15,Lowry  12,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Nov 2",Phoenix ,W107-98  ,8-1,Leonard  19,Valanciunas  7,Lowry  12,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Nov 4",Los Angeles ,W121-107  ,9-1,Ibaka  34,Siakam  13,Lowry  15,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Mon, Nov 5",Utah ,W124-111  ,10-1,Lowry  17,Lowry  7,Lowry  11,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Nov 7",Sacramento ,W114-105  ,11-1,Leonard  25,Ibaka  14,Lowry  8,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sat, Nov 10", New York ,W128-112  ,12-1,Siakam  23,Valanciunas  10,Lowry  8,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Mon, Nov 12", New Orleans ,L126-110  ,12-2,Siakam  22,Ibaka  14,Lowry  11,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Nov 14", Detroit ,L106-104  ,12-3,Leonard  26,Leonard  9,Lowry  7,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Nov 16",Boston ,L123-116 OT ,12-4,Leonard  31,Leonard  15,Lowry  7,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sat, Nov 17",Chicago ,W122-83  ,13-4,VanVleet  18,Valanciunas  9,Lowry  8,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Nov 20",Orlando ,W93-91  ,14-4,Leonard  18,Siakam  9,Lowry  7,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Nov 21",Atlanta ,W124-108  ,15-4,Valanciunas  24,Valanciunas  13,Lowry  17,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Nov 23", Washington ,W125-107  ,16-4,Leonard  27,Leonard  10,Lowry  9,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Nov 25", Miami ,W125-115  ,17-4,Leonard  29,Leonard  10,Lowry  10,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Nov 27",Memphis ,W122-114  ,18-4,Lowry  24,Leonard  10,Lowry  6,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Thu, Nov 29", Golden State ,W131-128 OT ,19-4,Leonard  37,Leonard  8,Lowry  12,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sat, Dec 1",Cleveland ,W106-95  ,20-4,Leonard  34,Leonard  9,Siakam  5,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Mon, Dec 3", Denver ,L106-103  ,20-5,Leonard  27,Valanciunas  10,Lowry  11,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Dec 5", Philadelphia ,W113-102  ,21-5,Leonard  36,Leonard  9,Siakam  6,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Dec 7",Brooklyn ,L106-105 OT ,21-6,Leonard  32,Valanciunas  8,Lowry  11,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Dec 9", Milwaukee ,L104-99  ,21-7,Ibaka  22,Leonard  8,Lowry  7,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Dec 11",LA ,W123-99  ,22-7,Ibaka  25,Ibaka  9,VanVleet  14,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Dec 12",Golden State ,W113-93  ,23-7,Lowry  23,Ibaka  12,Lowry  12,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Dec 14",Portland ,L128-122  ,23-8,Leonard  28,Green  12,VanVleet  8,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Dec 16",Denver ,L95-86  ,23-9,Leonard  29,Leonard  14,Leonard  4,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Dec 19", Indiana ,W99-96  ,24-9,Leonard  28,Leonard  10,Leonard  6,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Dec 21", Cleveland ,W126-110  ,25-9,Leonard  37,Siakam  10,VanVleet  8,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sat, Dec 22",Philadelphia ,L126-101  ,25-10,Siakam  26,Monroe  8,Lowry  5,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Dec 26",Miami ,W106-104  ,26-10,Leonard  30,Siakam  9,Ibaka  4,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Dec 28",Orlando ,L116-87  ,26-11,Leonard  21,Ibaka  8,Wright  6,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Dec 30", Chicago ,W95-89  ,27-11,Leonard  27,Siakam  12,VanVleet  7,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Jan 1", Utah ,W122-116  ,28-11,Leonard  45,Siakam  10,VanVleet  5,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Thu, Jan 3",San Antonio ,L125-107  ,28-12,Leonard  21,Ibaka  6,Siakam  7,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sat, Jan 5",Milwaukee ,W123-116  ,29-12,Leonard  30,Ibaka  9,VanVleet  8,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Jan 6", Indiana ,W121-105  ,30-12,Powell  23,Siakam  10,Lowry  8,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Jan 8", Atlanta ,W104-101  ,31-12,Leonard  31,Siakam  10,Leonard  6,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Jan 11", Brooklyn ,W122-105  ,32-12,Leonard  20,Leonard  11,Lowry  8,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Jan 13",Washington ,W140-138 2OT ,33-12,Leonard  41,Siakam  19,Lowry  11,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Jan 16",Boston ,L117-108  ,33-13,Leonard  33,Ibaka  10,Lowry  7,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Thu, Jan 17", Phoenix ,W111-109  ,34-13,Ibaka  22,Siakam  12,Lowry  8,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sat, Jan 19", Memphis ,W119-90  ,35-13,Green  24,Siakam  8,Lowry  7,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Jan 22", Sacramento ,W120-105  ,36-13,VanVleet  19,Ibaka  10,Lowry  9,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Jan 23",Indiana ,L110-106  ,36-14,Ibaka  23,Ibaka  11,Lowry  7,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Jan 25",Houston ,L121-119  ,36-15,Leonard  32,Ibaka  14,Lowry  11,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Jan 27",Dallas ,W123-120  ,37-15,Leonard  33,Ibaka  11,Lowry  9,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Thu, Jan 31", Milwaukee ,L105-92  ,37-16,Siakam  28,Ibaka  10,Siakam  3,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Feb 3", LA ,W121-103  ,38-16,Leonard  18,Ibaka  12,VanVleet  7,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Feb 5",Philadelphia ,W119-107  ,39-16,Leonard  24,Ibaka  10,Lowry  6,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Thu, Feb 7",Atlanta ,W119-101  ,40-16,Siakam  33,Siakam  14,Lowry  13,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sat, Feb 9",New York ,W104-99  ,41-16,Lowry  22,Ibaka  13,Leonard  6,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Mon, Feb 11", Brooklyn ,W127-125  ,42-16,Leonard  30,Ibaka  12,Leonard  8,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Feb 13", Washington ,W129-120  ,43-16,Siakam  44,Ibaka  13,Lowry  13,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Feb 22", San Antonio ,W120-117  ,44-16,Leonard  25,Ibaka  15,Siakam  6,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Feb 24", Orlando ,L113-98  ,44-17,Lowry  19,Siakam  11,Lowry  10,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Feb 26", Boston ,W118-95  ,45-17,Siakam  25,Siakam  8,Lowry  11,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Mar 1", Portland ,W119-117  ,46-17,Leonard  38,Gasol  8,Lowry  10,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Mar 3",Detroit ,L112-107 OT ,46-18,Lowry  35,Ibaka  11,Lowry  5,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Mar 5", Houston ,L107-95  ,46-19,Leonard  26,Ibaka  15,Lowry  6,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Mar 8",New Orleans ,W127-104  ,47-19,Leonard  31,Lowry  11,Lowry  12,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Mar 10",Miami ,W125-104  ,48-19,Lowry  24,Ibaka  8,Lowry  10,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Mon, Mar 11",Cleveland ,L126-101  ,48-20,Leonard  25,Leonard  9,Lowry  6,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Thu, Mar 14", Los Angeles ,W111-98  ,49-20,Leonard  25,Leonard  8,Siakam  6,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Mar 17",Detroit ,L110-107  ,49-21,Leonard  33,Gasol  11,Gasol  8,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Mon, Mar 18", New York ,W128-92  ,50-21,Lin  20,Gasol  11,VanVleet  12,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Mar 20",Oklahoma City ,W123-114 OT ,51-21,Siakam  33,Siakam  13,Siakam  6,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Mar 22", Oklahoma City ,L116-109  ,51-22,Leonard  37,Powell  11,Gasol  6,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Mar 24", Charlotte ,L115-114  ,51-23,Leonard  28,Leonard  9,Gasol  6,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Mar 26", Chicago ,W112-103  ,52-23,Powell  20,Ibaka  8,Lowry  6,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Thu, Mar 28",New York ,W117-92  ,53-23,Siakam  31,Ibaka  10,VanVleet  8,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sat, Mar 30",Chicago ,W124-101  ,54-23,Ibaka  23,Ibaka  12,Lowry  8,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Mon, Apr 1", Orlando ,W121-109  ,55-23,Green  29,Leonard  7,Lowry  7,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Wed, Apr 3",Brooklyn ,W115-105  ,56-23,Siakam  28,Ibaka  12,Gasol  6,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Fri, Apr 5",Charlotte ,L113-111  ,56-24,Leonard  29,Ibaka  12,Lowry  11,H,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Sun, Apr 7", Miami ,W117-109 OT ,57-24,Siakam  23,Siakam  10,Gasol  7,A,Toronto Raptors 2018-19 Regular Season NBA Schedule
+"Tue, Apr 9",Minnesota ,W120-100  ,58-24,Leonard  20,Boucher  13,Lin  5,H,Toronto Raptors 2018-19 Regular Season NBA Schedule

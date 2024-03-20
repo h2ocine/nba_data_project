@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 18",Orlando ,L116-109  ,0-1,Whiteside  26,Whiteside  22,Johnson  8,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Oct 21", Indiana ,W112-108  ,1-1,Dragic  23,Olynyk  9,Johnson  8,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Oct 23", Atlanta ,W104-93  ,2-1,Richardson  21,Olynyk  10,Dragic  6,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Oct 25", San Antonio ,L117-100  ,2-2,Johnson  23,Johnson  9,Waiters  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Oct 28", Boston ,L96-90  ,2-3,Dragic  22,Winslow  12,Dragic  4,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Oct 30", Minnesota ,L125-122 OT ,2-4,Waiters  33,Adebayo  13,Dragic  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Nov 1", Chicago ,W97-91  ,3-4,Dragic  20,Whiteside  14,Waiters  7,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Nov 3",Denver ,L95-94  ,3-5,Dragic  23,Johnson  10,Dragic  7,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sun, Nov 5",LA ,W104-101  ,4-5,Whiteside  21,Whiteside  17,Dragic  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Nov 6",Golden State ,L97-80  ,4-6,Johnson  21,Johnson  9,Johnson  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Nov 8",Phoenix ,W126-115  ,5-6,Dragic  29,Whiteside  10,Johnson  5,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Nov 10",Utah ,W84-74  ,6-6,Waiters  21,Whiteside  20,Dragic  3,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sun, Nov 12",Detroit ,L112-103  ,6-7,Whiteside  20,Whiteside  12,Dragic  7,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Nov 15", Washington ,L102-93  ,6-8,Dragic  21,Whiteside  21,Waiters  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Nov 17",Washington ,W91-88  ,7-8,Whiteside  22,Whiteside  16,Dragic  7,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sun, Nov 19", Indiana ,L120-95  ,7-9,Ellington  21,Whiteside  7,Johnson  6,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Nov 22", Boston ,W104-98  ,8-9,Dragic  27,Whiteside  10,Waiters  6,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Nov 24",Minnesota ,W109-97  ,9-9,Ellington  21,Whiteside  10,Johnson  8,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sun, Nov 26",Chicago ,W100-93  ,10-9,Dragic  24,Whiteside  9,Johnson  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Tue, Nov 28",Cleveland ,L108-97  ,10-10,Waiters  21,Whiteside  14,Waiters  7,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Nov 29",New York ,L115-86  ,10-11,Olynyk  18,Olynyk  5,Waiters  8,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Dec 1", Charlotte ,W105-100  ,11-11,Richardson  27,Winslow  11,Olynyk  6,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sun, Dec 3", Golden State ,L123-95  ,11-12,Dragic  20,Olynyk  7,Olynyk  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Dec 6",San Antonio ,L117-105  ,11-13,Johnson  25,Olynyk  8,Johnson  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Dec 9", Brooklyn,W101-89  ,12-13,Dragic  20,Dragic  7,Dragic  3,N,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Dec 11",Memphis ,W107-82  ,13-13,Dragic  19,Dragic  5,Dragic  5,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Dec 13", Portland ,L102-95  ,13-14,Ellington  24,Johnson  10,Johnson  8,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Dec 15",Charlotte ,W104-98  ,14-14,Ellington  16,Mickey  7,Dragic  7,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Dec 16", LA ,W90-85  ,15-14,Richardson  28,Waiters  6,Olynyk  4,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Dec 18",Atlanta ,L110-104  ,15-15,Richardson  26,Adebayo  10,Waiters  5,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Dec 20",Boston ,W90-89  ,16-15,Olynyk  32,Johnson  11,Richardson  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Dec 22", Dallas ,W113-101  ,17-15,Ellington  28,Adebayo  8,Richardson  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Dec 23", New Orleans ,L109-94  ,17-16,Johnson  20,Olynyk  8,Adebayo  4,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Tue, Dec 26", Orlando ,W107-89  ,18-16,Richardson  20,Olynyk  12,Dragic  6,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Dec 29", Brooklyn ,L111-87  ,18-17,Richardson  19,Mickey  9,Dragic  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Dec 30",Orlando ,W117-111  ,19-17,Johnson  31,Whiteside  13,Dragic  8,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Jan 3", Detroit ,W111-104  ,20-17,Olynyk  25,Olynyk  13,Dragic  13,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Jan 5", New York ,W107-103 OT ,21-17,Ellington  24,Olynyk  10,Dragic  6,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sun, Jan 7", Utah ,W103-102  ,22-17,Dragic  16,Johnson  11,Richardson  7,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Tue, Jan 9",Toronto ,W90-89  ,23-17,Dragic  24,Adebayo  15,Dragic  4,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Jan 10",Indiana ,W114-106  ,24-17,Dragic  20,Whiteside  15,Dragic  9,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sun, Jan 14", Milwaukee ,W97-79  ,25-17,Dragic  25,Whiteside  10,Johnson  8,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Jan 15",Chicago ,L119-111  ,25-18,Dragic  22,Whiteside  8,Dragic  9,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Jan 17",Milwaukee ,W106-101  ,26-18,Whiteside  27,Whiteside  14,Johnson  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Jan 19",Brooklyn ,L101-95  ,26-19,Whiteside  22,Whiteside  13,Richardson  7,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Jan 20",Charlotte ,W106-105  ,27-19,Ellington  26,Whiteside  14,Johnson  7,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Jan 22",Houston ,L99-90  ,27-20,Whiteside  22,Whiteside  13,Johnson  4,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Thu, Jan 25", Sacramento ,L89-88  ,27-21,Dragic  23,Whiteside  14,Richardson  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Jan 27", Charlotte ,W95-91  ,28-21,Richardson  19,Adebayo  12,Olynyk  6,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Jan 29",Dallas ,W95-88  ,29-21,Whiteside  25,Whiteside  14,Johnson  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Jan 31",Cleveland ,L91-89  ,29-22,Dragic  18,Winslow  10,Dragic  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Feb 2",Philadelphia ,L103-97  ,29-23,Olynyk  19,Adebayo  13,Adebayo  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Feb 3",Detroit ,L111-107  ,29-24,Dragic  33,Olynyk  8,Johnson  7,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Feb 5", Orlando ,L111-109  ,29-25,Richardson  20,Whiteside  14,Dragic  7,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Feb 7", Houston ,L109-101  ,29-26,Richardson  30,Whiteside  17,Dragic  6,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Feb 9", Milwaukee ,W91-85  ,30-26,Johnson  19,Whiteside  16,Johnson  3,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Tue, Feb 13",Toronto ,L115-112  ,30-27,Dragic  28,Wade  11,Wade  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Feb 14",Philadelphia ,L104-102  ,30-28,Johnson  22,Whiteside  10,Johnson  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Feb 23",New Orleans ,L124-123 OT ,30-29,Dragic  30,Whiteside  16,Dragic  8,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Feb 24", Memphis ,W115-89  ,31-29,Johnson  23,Whiteside  8,Dragic  8,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Tue, Feb 27", Philadelphia ,W102-101  ,32-29,Wade  27,Whiteside  11,Dragic  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Thu, Mar 1", Los Angeles ,L131-113  ,32-30,Wade  25,Adebayo  10,Dragic  7,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Mar 3", Detroit ,W105-96  ,33-30,Olynyk  17,Whiteside  19,Dragic  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Mar 5", Phoenix ,W125-103  ,34-30,Whiteside  24,Whiteside  14,Olynyk  8,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Tue, Mar 6",Washington ,L117-113 OT ,34-31,Wade  22,Olynyk  9,Wade  6,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Thu, Mar 8", Philadelphia ,W108-99  ,35-31,Whiteside  26,Whiteside  8,Dragic  7,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Mar 10", Washington ,W129-102  ,36-31,Johnson  20,Olynyk  11,Johnson  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Mar 12",Portland ,L115-99  ,36-32,Dragic  23,Winslow  13,Olynyk  7,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Mar 14",Sacramento ,L123-119 OT ,36-33,Dragic  33,Adebayo  16,Johnson  7,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Mar 16",Los Angeles ,W92-91  ,37-33,Dragic  30,Adebayo  8,Johnson  5,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Mar 19", Denver ,W149-141 2OT ,38-33,Johnson  31,Johnson  11,Dragic  8,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Mar 21", New York ,W119-98  ,39-33,Olynyk  22,Olynyk  5,Olynyk  10,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Mar 23",Oklahoma City ,L105-99  ,39-34,Johnson  23,Adebayo  7,Dragic  5,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sun, Mar 25",Indiana ,L113-107 OT ,39-35,Johnson  19,Johnson  9,Olynyk  9,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Tue, Mar 27", Cleveland ,W98-79  ,40-35,Olynyk  19,Johnson  9,Johnson  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Thu, Mar 29", Chicago ,W103-92  ,41-35,Richardson  22,Winslow  9,Dragic  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Sat, Mar 31", Brooklyn ,L110-109 OT ,41-36,Dragic  18,Dragic  8,Johnson  5,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Tue, Apr 3", Atlanta ,W101-98  ,42-36,Dragic  22,Whiteside  12,Wade  6,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Apr 4",Atlanta ,W115-86  ,43-36,Olynyk  19,Whiteside  13,Olynyk  5,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Fri, Apr 6",New York ,L122-98  ,43-37,Dragic  15,Whiteside  6,Johnson  4,H,Miami Heat 2017-18 Regular Season NBA Schedule
+"Mon, Apr 9", Oklahoma City ,L115-93  ,43-38,Richardson  18,Winslow  9,Dragic  7,A,Miami Heat 2017-18 Regular Season NBA Schedule
+"Wed, Apr 11", Toronto ,W116-109 OT ,44-38,Ellington  32,Whiteside  12,Olynyk  5,A,Miami Heat 2017-18 Regular Season NBA Schedule

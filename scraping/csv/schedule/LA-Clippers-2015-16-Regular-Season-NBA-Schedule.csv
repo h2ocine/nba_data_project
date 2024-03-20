@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 28",Sacramento ,W111-104  ,1-0,Griffin  33,Jordan  12,Paul  11,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Thu, Oct 29", Dallas ,W104-88  ,2-0,Griffin  26,Jordan  15,Paul  5,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Oct 31", Sacramento ,W114-109  ,3-0,Griffin  37,Jordan  18,Paul  11,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Nov 2", Phoenix ,W102-96  ,4-0,Griffin  22,Griffin  10,Paul  5,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Nov 4",Golden State ,L112-108  ,4-1,Paul  24,Jordan  13,Paul  9,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Nov 7", Houston ,L109-105  ,4-2,Griffin  35,Jordan  14,Griffin  5,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Nov 9", Memphis ,W94-92  ,5-2,Griffin  24,Griffin  12,Paul  4,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Nov 11",Dallas ,L118-108  ,5-3,Griffin  21,Jordan  11,Paul  11,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Thu, Nov 12",Phoenix ,L118-104  ,5-4,Crawford  18,Jordan  9,Griffin  4,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Nov 14", Detroit ,W101-96  ,6-4,Crawford  37,Jordan  16,Griffin  9,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Thu, Nov 19", Golden State ,L124-117  ,6-5,Paul  35,Jordan  10,Paul  8,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Fri, Nov 20",Portland ,L102-91  ,6-6,Griffin  21,Jordan  15,Paul  8,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sun, Nov 22", Toronto ,L91-80  ,6-7,Redick  17,Jordan  15,Paul  11,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Tue, Nov 24",Denver ,W111-94  ,7-7,Jordan  18,Jordan  11,Paul  10,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Nov 25", Utah ,L102-91  ,7-8,Griffin  40,Griffin  12,Paul  8,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Fri, Nov 27", New Orleans ,W111-90  ,8-8,Griffin  20,Smith  12,Paul  8,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sun, Nov 29", Minnesota ,W107-99  ,9-8,Griffin  26,Jordan  9,Paul  9,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Nov 30", Portland ,W102-87  ,10-8,Griffin  23,Jordan  24,Griffin  6,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Dec 2", Indiana ,L103-91  ,10-9,Griffin  19,Jordan  15,Griffin  6,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Dec 5", Orlando ,W103-101  ,11-9,Crawford  32,Jordan  14,Griffin  7,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Dec 7",Minnesota ,W110-106  ,12-9,Jordan  20,Jordan  12,Crawford  7,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Dec 9",Milwaukee ,W109-95  ,13-9,Redick  31,Jordan  19,Paul  18,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Thu, Dec 10",Chicago ,L83-80  ,13-10,Griffin  18,Jordan  14,Paul  5,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Dec 12",Brooklyn ,W105-100  ,14-10,Griffin  21,Jordan  12,Paul  14,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Dec 14",Detroit ,W105-103 OT ,15-10,Griffin  34,Jordan  14,Paul  12,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Dec 16", Milwaukee ,W103-90  ,16-10,Paul  21,Griffin  8,Paul  8,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Fri, Dec 18",San Antonio ,L115-107  ,16-11,Paul  27,Jordan  17,Paul  10,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Dec 19",Houston ,L107-97  ,16-12,Griffin  22,Jordan  11,Paul  10,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Dec 21", Oklahoma City ,L100-99  ,16-13,Paul  32,Jordan  10,Paul  10,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Fri, Dec 25",Los Angeles ,W94-84  ,17-13,Paul  23,Jordan  14,Griffin  7,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Dec 26",Utah ,W109-104  ,18-13,Redick  25,Jordan  13,Paul  11,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Dec 28",Washington ,W108-91  ,19-13,Paul  23,Jordan  13,Paul  7,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Dec 30",Charlotte ,W122-117  ,20-13,Redick  26,Jordan  13,Paul  11,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Thu, Dec 31",New Orleans ,W95-89  ,21-13,Redick  26,Jordan  20,Paul  12,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Jan 2", Philadelphia ,W130-99  ,22-13,Rivers  26,Jordan  13,Paul  14,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Jan 6",Portland ,W109-98  ,23-13,Paul  21,Jordan  14,Paul  19,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Jan 9", Charlotte ,W97-83  ,24-13,Paul  25,Jordan  19,Paul  7,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sun, Jan 10", New Orleans ,W114-111 OT ,25-13,Paul  25,Jordan  11,Paul  11,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Jan 13", Miami ,W104-90  ,26-13,Aldrich  19,Pierce  9,Paul  12,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Jan 16", Sacramento ,L110-103  ,26-14,Redick  22,Aldrich  10,Paul  7,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Jan 18", Houston ,W140-132 OT ,27-14,Redick  40,Jordan  15,Paul  12,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Thu, Jan 21",Cleveland ,L115-102  ,27-15,Paul  30,Jordan  13,Paul  9,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Fri, Jan 22",New York ,W116-88  ,28-15,Jordan  20,Jordan  8,Paul  13,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sun, Jan 24",Toronto ,L112-94  ,28-16,Paul  23,Jordan  13,Paul  11,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Tue, Jan 26",Indiana ,W91-89  ,29-16,Paul  26,Jordan  19,Paul  7,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Jan 27",Atlanta ,W85-83  ,30-16,Crawford  21,Jordan  19,Paul  10,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Fri, Jan 29", Los Angeles ,W105-93  ,31-16,Paul  27,Jordan  17,Paul  7,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sun, Jan 31", Chicago ,W120-93  ,32-16,Crawford  26,Jordan  20,Paul  7,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Feb 3", Minnesota ,L108-102  ,32-17,Paul  22,Jordan  15,Paul  8,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Fri, Feb 5",Orlando ,W107-93  ,33-17,Paul  21,Jordan  18,Paul  6,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sun, Feb 7",Miami ,W100-93  ,34-17,Paul  22,Jordan  11,Paul  7,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Feb 8",Philadelphia ,W98-92 OT ,35-17,Crawford  23,Jordan  21,Paul  7,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Feb 10",Boston ,L139-134 OT ,35-18,Paul  35,Jordan  16,Paul  13,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Thu, Feb 18", San Antonio ,W105-86  ,36-18,Paul  28,Jordan  17,Paul  12,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Feb 20", Golden State ,L115-112  ,36-19,Crawford  25,Jordan  21,Paul  6,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Feb 22", Phoenix ,W124-84  ,37-19,Redick  22,Jordan  11,Paul  14,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Feb 24", Denver ,L87-81  ,37-20,Crawford  20,Jordan  12,Paul  10,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Fri, Feb 26",Sacramento ,W117-107  ,38-20,Paul  40,Jordan  11,Paul  13,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Feb 29", Brooklyn ,W105-95  ,39-20,Crawford  26,Jordan  10,Paul  12,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Mar 2", Oklahoma City ,W103-98  ,40-20,Paul  21,Jordan  18,Paul  13,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Mar 5", Atlanta ,L107-97  ,40-21,Jordan  17,Jordan  11,Paul  11,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Mar 7",Dallas ,W109-90  ,41-21,Paul  27,Jordan  20,Paul  7,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Mar 9",Oklahoma City ,L120-108  ,41-22,Green  23,Jordan  7,Paul  16,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Fri, Mar 11", New York ,W101-94  ,42-22,Paul  24,Jordan  19,Paul  15,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sun, Mar 13", Cleveland ,L114-90  ,42-23,Redick  19,Jordan  11,Paul  10,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Tue, Mar 15",San Antonio ,L108-87  ,42-24,Paul  22,Jordan  14,Paul  8,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Mar 16",Houston ,W122-106  ,43-24,Redick  25,Jordan  16,Paul  16,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sat, Mar 19",Memphis ,L113-102  ,43-25,Paul  25,Jordan  7,Paul  6,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sun, Mar 20",New Orleans ,L109-105  ,43-26,Paul  24,Jordan  9,Paul  13,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Mar 23",Golden State ,L114-98  ,43-27,Jordan  19,Jordan  20,Paul  8,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Thu, Mar 24", Portland ,W96-94  ,44-27,Paul  25,Jordan  13,Paul  7,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sun, Mar 27", Denver ,W105-90  ,45-27,Jordan  16,Jordan  16,Paul  9,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Mon, Mar 28", Boston ,W114-90  ,46-27,Rivers  16,Jordan  13,Paul  14,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Mar 30",Minnesota ,W99-79  ,47-27,Paul  20,Paul  8,Paul  16,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Thu, Mar 31",Oklahoma City ,L119-117  ,47-28,Rivers  32,Aldrich  10,Crawford  7,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sun, Apr 3", Washington ,W114-109  ,48-28,Paul  27,Jordan  12,Paul  12,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Tue, Apr 5", Los Angeles ,W103-81  ,49-28,Paul  25,Jordan  14,Paul  8,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Apr 6",Los Angeles ,W91-81  ,50-28,Jordan  15,Jordan  11,Paul  8,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Fri, Apr 8",Utah ,W102-99 OT ,51-28,Crawford  30,Aldrich  18,Prigioni  7,H,LA Clippers 2015-16 Regular Season NBA Schedule
+"Sun, Apr 10", Dallas ,W98-91  ,52-28,Crawford  22,Griffin  11,Paul  11,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Tue, Apr 12", Memphis ,W110-84  ,53-28,Rivers  14,Jordan  12,Paul  13,A,LA Clippers 2015-16 Regular Season NBA Schedule
+"Wed, Apr 13",Phoenix ,L114-105  ,53-29,Wilcox  19,Aldrich  10,Prigioni  9,H,LA Clippers 2015-16 Regular Season NBA Schedule

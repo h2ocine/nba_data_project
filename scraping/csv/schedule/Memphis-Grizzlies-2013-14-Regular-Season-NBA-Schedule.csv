@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 30",San Antonio ,L101-94  ,0-1,Allen  15,Gasol  9,Conley  8,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Nov 1", Detroit ,W111-108 OT ,1-1,Conley  22,Randolph  10,Gasol  5,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Nov 2",Dallas ,L111-99  ,1-2,Conley  24,Randolph  14,Conley  8,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Nov 4", Boston ,W95-88  ,2-2,Randolph  15,Gasol  8,Conley  8,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Nov 6", New Orleans ,L99-84  ,2-3,Conley  26,Miller  6,Gasol  4,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Nov 9", Golden State ,W108-90  ,3-3,Randolph  23,Randolph  11,Conley  6,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Nov 11",Indiana ,L95-79  ,3-4,Gasol  15,Davis  7,Calathes  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Nov 13", Toronto ,L103-87  ,3-5,Conley  29,Gasol  10,Conley  5,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Nov 15",Los Angeles ,W89-86  ,4-5,Randolph  28,Randolph  11,Gasol  8,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sun, Nov 17",Sacramento ,W97-86  ,5-5,Randolph  22,Randolph  10,Gasol  9,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Nov 18",LA ,W106-102  ,6-5,Randolph  26,Randolph  15,Gasol  8,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Nov 20",Golden State ,W88-81 OT ,7-5,Randolph  21,Randolph  12,Conley  4,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Nov 22", San Antonio ,L102-86  ,7-6,Conley  28,Randolph  10,Allen  4,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Nov 25", Houston ,L93-86  ,7-7,Prince  16,Koufos  13,Conley  10,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Nov 27",Boston ,W100-93  ,8-7,Bayless  22,Koufos  13,Conley  9,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Nov 30", Brooklyn ,L97-88  ,8-8,Pondexter  22,Koufos  11,Conley  10,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Tue, Dec 3", Phoenix ,W110-91  ,9-8,Leuer  23,Davis  12,Conley  14,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Thu, Dec 5", LA ,L101-81  ,9-9,Koufos  17,Randolph  12,Pondexter  5,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Dec 7", Golden State ,L108-82  ,9-10,Miller  16,Koufos  16,Randolph  4,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Dec 9", Orlando ,W94-85  ,10-10,Randolph  19,Randolph  12,Calathes  8,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Dec 11", Oklahoma City ,L116-100  ,10-11,Conley  20,Randolph  8,Conley  9,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Dec 13",New Orleans ,L104-98  ,10-12,Leuer  19,Randolph  10,Conley  7,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sun, Dec 15", Minnesota ,L101-93  ,10-13,Conley  28,Randolph  12,Randolph  5,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Tue, Dec 17", Los Angeles ,L96-92  ,10-14,Randolph  18,Randolph  16,Randolph  5,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Dec 18",Dallas ,L105-91  ,10-15,Allen  16,Allen  11,Bayless  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Dec 21",New York ,W95-87  ,11-15,Randolph  25,Randolph  15,Conley  8,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Dec 23", Utah ,W104-94  ,12-15,Randolph  22,Randolph  10,Randolph  7,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Thu, Dec 26",Houston ,L100-92  ,12-16,Randolph  23,Randolph  17,Conley  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Dec 28", Denver ,W120-99  ,13-16,Randolph  20,Koufos  12,Johnson  6,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Dec 30", Chicago ,L95-91  ,13-17,Conley  26,Johnson  10,Conley  9,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Thu, Jan 2",Phoenix ,W99-91  ,14-17,Randolph  20,Randolph  15,Conley  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Jan 3",Denver ,L111-108  ,14-18,Randolph  25,Randolph  13,Conley  8,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sun, Jan 5",Detroit ,W112-84  ,15-18,Leuer  23,Randolph  16,Conley  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Tue, Jan 7", San Antonio ,L110-108 OT ,15-19,Conley  30,Leuer  9,Conley  5,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Jan 10", Phoenix ,W104-99  ,16-19,Conley  31,Davis  17,Conley  7,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sun, Jan 12", Atlanta ,W108-101  ,17-19,Conley  21,Randolph  12,Conley  13,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Tue, Jan 14", Oklahoma City ,W90-87  ,18-19,Lee  24,Randolph  13,Conley  7,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Jan 15",Milwaukee ,W82-77  ,19-19,Conley  15,Davis  9,Conley  5,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Jan 17", Sacramento ,W91-90  ,20-19,Conley  25,Randolph  9,Conley  6,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Jan 20", New Orleans ,L95-92  ,20-20,Randolph  23,Randolph  20,Gasol  4,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Jan 24",Houston ,W88-87  ,21-20,Lee  19,Randolph  8,Johnson  5,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Jan 25", Houston ,W99-81  ,22-20,Conley  17,Randolph  17,Johnson  8,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Tue, Jan 28",Portland ,W98-81  ,23-20,Randolph  23,Randolph  10,Conley  7,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Jan 29",Sacramento ,W99-89  ,24-20,Conley  27,Randolph  7,Conley  10,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Jan 31",Minnesota ,W94-90  ,25-20,Randolph  26,Randolph  12,Conley  8,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Feb 1", Milwaukee ,W99-90  ,26-20,Randolph  23,Randolph  10,Lee  7,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Feb 3",Oklahoma City ,L86-77  ,26-21,Randolph  13,Randolph  13,Prince  5,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Feb 5", Dallas ,L110-96  ,26-22,Randolph  25,Randolph  9,Calathes  5,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Feb 8",Atlanta ,W79-76  ,27-22,Randolph  20,Gasol  8,Gasol  7,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sun, Feb 9",Cleveland ,L91-83 OT ,27-23,Calathes  17,Gasol  9,Calathes  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Tue, Feb 11", Washington ,W92-89  ,28-23,Calathes  18,Randolph  10,Calathes  6,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Feb 12",Orlando ,W86-81  ,29-23,Randolph  20,Lee  6,Calathes  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Tue, Feb 18", New York ,W98-93  ,30-23,Conley  22,Randolph  8,Calathes  5,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Feb 21", LA ,W102-96  ,31-23,Randolph  21,Randolph  11,Conley  6,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Feb 22",Charlotte ,L92-89  ,31-24,Conley  16,Randolph  11,Conley  5,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Feb 26", Los Angeles ,W108-103  ,32-24,Lee  18,Gasol  12,Lee  5,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Feb 28",Oklahoma City ,L113-107  ,32-25,Miller  19,Randolph  10,Conley  9,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Mar 1", Cleveland ,W110-96  ,33-25,Randolph  23,Randolph  14,Conley  7,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Mar 3",Washington ,W110-104  ,34-25,Prince  21,Randolph  10,Gasol  8,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Mar 5",Brooklyn ,L103-94  ,34-26,Leuer  19,Koufos  8,Calathes  5,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Mar 7",Chicago ,W85-77  ,35-26,Gasol  18,Randolph  11,Conley  7,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Mar 8", Charlotte ,W111-89  ,36-26,Conley  20,Koufos  10,Conley  4,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Tue, Mar 11", Portland ,W109-99  ,37-26,Gasol  19,Randolph  12,Calathes  9,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Mar 12",New Orleans ,W90-88  ,38-26,Conley  16,Gasol  9,Calathes  7,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Mar 14",Toronto ,L99-86  ,38-27,Randolph  16,Randolph  8,Conley  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Mar 15",Philadelphia ,W103-77  ,39-27,Conley  19,Davis  11,Gasol  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Mar 19", Utah ,W96-86  ,40-27,Randolph  21,Randolph  11,Conley  7,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Mar 21",Miami ,L91-86  ,40-28,Randolph  25,Randolph  14,Conley  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sat, Mar 22", Indiana ,W82-71  ,41-28,Conley  21,Randolph  13,Conley  4,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Mar 24", Minnesota ,W109-92  ,42-28,Conley  23,Gasol  12,Conley  6,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Mar 26",Utah ,W91-87  ,43-28,Randolph  22,Randolph  13,Conley  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Mar 28",Golden State ,L100-93  ,43-29,Randolph  21,Randolph  7,Conley  6,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sun, Mar 30",Portland ,L105-98  ,43-30,Randolph  21,Randolph  7,Conley  9,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Mar 31",Denver ,W94-92  ,44-30,Randolph  20,Randolph  11,Randolph  3,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Apr 2",Minnesota ,L102-88  ,44-31,Gasol  18,Gasol  7,Conley  8,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Apr 4", Denver ,W100-92  ,45-31,Gasol  24,Randolph  15,Conley  4,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sun, Apr 6",San Antonio ,L112-92  ,45-32,Johnson  20,Randolph  6,Conley  7,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Apr 9", Miami ,W107-102  ,46-32,Conley  26,Gasol  14,Conley  6,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Fri, Apr 11", Philadelphia ,W117-95  ,47-32,Gasol  21,Randolph  11,Conley  8,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Sun, Apr 13",Los Angeles ,W102-90  ,48-32,Conley  24,Gasol  15,Conley  8,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Mon, Apr 14",Phoenix ,W97-91  ,49-32,Randolph  32,Randolph  9,Conley  7,H,Memphis Grizzlies 2013-14 Regular Season NBA Schedule
+"Wed, Apr 16", Dallas ,W106-105 OT ,50-32,Randolph  27,Randolph  14,Gasol  9,A,Memphis Grizzlies 2013-14 Regular Season NBA Schedule

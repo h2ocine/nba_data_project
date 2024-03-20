@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 29", Denver ,W98-94  ,1-0,Boozer  25,Boozer  14,Price  6,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Nov 1", LA ,W101-79  ,2-0,Boozer  25,Boozer  10,Price  7,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Mon, Nov 3",LA ,W89-73  ,3-0,Millsap  24,Kirilenko  11,Price  5,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Nov 5", Portland ,W103-96  ,4-0,Okur  22,Okur  9,Knight  6,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Nov 7", Oklahoma City ,W104-97  ,5-0,Boozer  21,Kirilenko  12,Knight  11,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sun, Nov 9",New York ,L107-99  ,5-1,Boozer  19,Boozer  18,Brewer  7,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Nov 11",Philadelphia ,W93-80  ,6-1,Boozer  19,Boozer  16,Brewer  9,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Nov 12",Washington ,L95-87  ,6-2,Boozer  20,Boozer  7,Williams  7,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Nov 14",Charlotte ,L104-96  ,6-3,Boozer  26,Boozer  15,Brewer  4,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Nov 15",Cleveland ,L105-93  ,6-4,Boozer  17,Boozer  9,Knight  6,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Mon, Nov 17", Phoenix ,W109-97  ,7-4,Boozer  21,Boozer  15,Knight  6,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Nov 19", Milwaukee ,W105-94  ,8-4,Miles  25,Boozer  11,Price  6,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Nov 21",San Antonio ,L119-94  ,8-5,Brewer  17,Miles  10,Miles  5,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Nov 22",Memphis ,W103-94  ,9-5,Okur  23,Kirilenko  6,Kirilenko  10,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Mon, Nov 24", Chicago ,L101-100  ,9-6,Okur  26,Millsap  10,Price  8,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Nov 26", Memphis ,W117-100  ,10-6,Millsap  24,Millsap  16,Williams  15,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Nov 28", Sacramento ,W120-94  ,11-6,Okur  20,Okur  12,Williams  15,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Nov 29", New Jersey ,L105-88  ,11-7,Millsap  20,Okur  11,Williams  13,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Dec 2",Sacramento ,W99-94  ,12-7,Korver  15,Millsap  11,Williams  7,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Dec 3", Miami ,L93-89  ,12-8,Millsap  20,Millsap  13,Williams  5,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Dec 5", Toronto ,W114-87  ,13-8,Okur  21,Millsap  11,Millsap  7,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Dec 6",Phoenix ,L106-104  ,13-9,Millsap  20,Okur  13,Williams  15,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Dec 9",Minnesota ,W99-96  ,14-9,Brewer  25,Okur  13,Williams  11,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Thu, Dec 11", Portland ,W97-88  ,15-9,Okur  27,Millsap  12,Williams  11,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Dec 13", Orlando ,L103-94  ,15-10,Kirilenko  17,Millsap  14,Williams  11,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Mon, Dec 15",Boston ,L100-91  ,15-11,Millsap  32,Millsap  10,Williams  7,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Dec 17",New Jersey ,W103-92  ,16-11,Okur  23,Millsap  12,Williams  11,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Dec 19",Detroit ,W120-114 2OT ,17-11,Williams  29,Millsap  13,Williams  8,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Dec 20",Chicago ,L106-98  ,17-12,Okur  23,Okur  13,Williams  6,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Dec 23",Milwaukee ,L94-86  ,17-13,Kirilenko  22,Kirilenko  11,Williams  8,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Dec 26", Dallas ,W97-88  ,18-13,Brewer  21,Kirilenko  14,Williams  13,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Dec 27",Houston ,L120-115 2OT ,18-14,Brewer  23,Fesenko  11,Williams  11,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Mon, Dec 29", Philadelphia ,W112-95  ,19-14,Williams  27,Kirilenko  13,Williams  6,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Jan 2",Los Angeles ,L113-100  ,19-15,Okur  21,Millsap  17,Williams  12,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Mon, Jan 5", Golden State ,W119-114  ,20-15,Williams  25,Millsap  14,Williams  15,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Jan 7", New Orleans ,W116-90  ,21-15,Millsap  27,Millsap  14,Williams  8,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Jan 10", Detroit ,W99-82  ,22-15,Okur  22,Kirilenko  7,Williams  9,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Mon, Jan 12", Indiana ,W120-113  ,23-15,Okur  43,Kirilenko  12,Williams  11,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Jan 14",Oklahoma City ,L114-93  ,23-16,Williams  25,Okur  9,Williams  6,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Jan 16",Memphis ,W101-91  ,24-16,Williams  27,Okur  8,Williams  12,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Jan 17",Dallas ,L115-108  ,24-17,Williams  30,Okur  11,Williams  9,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Jan 20", Minnesota ,W112-107  ,25-17,Millsap  28,Millsap  15,Williams  11,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Jan 21",Houston ,L108-99  ,25-18,Williams  32,Millsap  12,Williams  11,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Jan 24", Cleveland ,L102-97  ,25-19,Millsap  24,Millsap  15,Williams  16,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sun, Jan 25",Denver ,L117-97  ,25-20,Brewer  16,Okur  10,Williams  10,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Jan 27", San Antonio ,L106-100  ,25-21,Brewer  23,Okur  17,Williams  13,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Jan 30", Oklahoma City ,W110-90  ,26-21,Williams  24,Millsap  9,Williams  12,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Jan 31",Portland ,L122-108  ,26-22,Williams  35,Okur  7,Williams  5,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Mon, Feb 2", Charlotte ,W105-86  ,27-22,Okur  22,Korver  8,Knight  7,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Thu, Feb 5", Dallas ,W115-87  ,28-22,Williams  34,Okur  13,Williams  12,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Feb 6",Sacramento ,W111-107  ,29-22,Williams  34,Okur  11,Williams  4,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sun, Feb 8",Golden State ,L116-96  ,29-23,Williams  31,Okur  9,Williams  10,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Feb 11", Los Angeles ,W113-109  ,30-23,Williams  31,Okur  8,Williams  11,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Feb 17", Memphis ,W117-99  ,31-23,Miles  24,Korver  9,Williams  15,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Thu, Feb 19", Boston ,W90-85  ,32-23,Okur  19,Millsap  10,Williams  10,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Feb 21", New Orleans ,W102-88  ,33-23,Okur  25,Millsap  10,Williams  13,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Mon, Feb 23", Atlanta ,W108-89  ,34-23,Brewer  19,Millsap  12,Williams  10,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Feb 25",Minnesota ,W120-103  ,35-23,Okur  25,Millsap  7,Williams  13,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Feb 28", Sacramento ,W102-89  ,36-23,Brewer  26,Millsap  12,Williams  11,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sun, Mar 1",Golden State ,W112-104  ,37-23,Okur  23,Brewer  9,Williams  20,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Mar 4", Houston ,W101-94  ,38-23,Williams  26,Boozer  17,Williams  14,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Mar 6", Denver ,W97-91  ,39-23,Williams  25,Boozer  16,Williams  11,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sun, Mar 8",Toronto ,W109-101  ,40-23,Williams  25,Okur  11,Williams  9,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Mar 10",Indiana ,W112-100  ,41-23,Okur  24,Millsap  9,Williams  12,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Mar 11",Atlanta ,L100-93  ,41-24,Williams  20,Okur  10,Williams  9,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Mar 14",Miami ,L140-129 3OT ,41-25,Williams  30,Boozer  13,Williams  13,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sun, Mar 15",Orlando ,L105-87  ,41-26,Boozer  23,Boozer  13,Williams  9,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Mar 17", Washington ,W103-88  ,42-26,Korver  15,Boozer  15,Williams  8,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Mar 20",Oklahoma City ,W101-94  ,43-26,Williams  24,Boozer  10,Williams  11,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Mar 24", Houston ,W99-86  ,44-26,Williams  19,Millsap  9,Williams  12,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Mar 25",Phoenix ,L118-114  ,44-27,Williams  25,Okur  12,Williams  10,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Mar 28", Phoenix ,W104-99 OT ,45-27,Okur  26,Okur  11,Williams  13,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Mon, Mar 30", New York ,W112-104  ,46-27,Williams  24,Boozer  11,Williams  13,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Mar 31",Portland ,L125-104  ,46-28,Boozer  20,Kirilenko  7,Williams  8,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Thu, Apr 2",Denver ,L114-104  ,46-29,Miles  19,Okur  15,Williams  10,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Apr 3", Minnesota ,L103-102  ,46-30,Williams  34,Millsap  6,Williams  11,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sun, Apr 5",New Orleans ,W108-94  ,47-30,Brewer  23,Boozer  10,Williams  11,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Wed, Apr 8",Dallas ,L130-101  ,47-31,Williams  18,Boozer  11,Williams  12,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Fri, Apr 10",San Antonio ,L105-99  ,47-32,Williams  25,Okur  10,Williams  10,H,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Sat, Apr 11", Golden State ,L118-108  ,47-33,Williams  26,Boozer  12,Williams  14,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Mon, Apr 13", LA ,W106-85  ,48-33,Boozer  20,Boozer  13,Williams  9,A,Utah Jazz 2008-09 Regular Season NBA Schedule
+"Tue, Apr 14",Los Angeles ,L125-112  ,48-34,Williams  25,Boozer  9,Williams  13,H,Utah Jazz 2008-09 Regular Season NBA Schedule

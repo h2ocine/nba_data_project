@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 28", Houston ,L108-107  ,0-1,Ellis  26,Maggette  9,Curry  7,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Oct 30",Phoenix ,L123-101  ,0-2,Ellis  19,Biedrins  10,Curry  4,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Nov 4", Memphis ,W113-105  ,1-2,Ellis  24,Biedrins  8,Ellis  12,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Nov 6", LA ,L118-90  ,1-3,Morrow  18,Randolph  14,Ellis  6,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sun, Nov 8",Sacramento ,L120-107  ,1-4,Jackson  21,Azubuike  7,Curry  6,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Mon, Nov 9", Minnesota ,W146-105  ,2-4,Azubuike  31,Ellis  10,Jackson  15,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Nov 11",Indiana ,L108-94  ,2-5,Maggette  21,Randolph  13,Ellis  5,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Nov 13",New York ,W121-107  ,3-5,Jackson  23,Jackson  8,Azubuike  5,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Nov 14",Milwaukee ,L129-125  ,3-6,Ellis  26,Randolph  6,Jackson  5,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Nov 17",Cleveland ,L114-108  ,3-7,Ellis  23,Maggette  11,Ellis  8,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Nov 18",Boston ,L109-95  ,3-8,Maggette  23,Maggette  8,Curry  7,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Nov 20", Portland ,W108-94  ,4-8,Ellis  34,Randolph  11,Ellis  8,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Nov 24",Dallas ,W111-103  ,5-8,Ellis  37,Radmanovic  12,Ellis  8,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Nov 25",San Antonio ,L118-104  ,5-9,Ellis  42,Randolph  7,Curry  5,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Nov 28", Los Angeles ,L130-97  ,5-10,Ellis  18,Radmanovic  10,Curry  8,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Mon, Nov 30", Indiana ,W126-107  ,6-10,Ellis  45,Morrow  6,Watson  6,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Dec 1",Denver ,L135-107  ,6-11,Morrow  27,Maggette  7,Curry  6,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Thu, Dec 3", Houston ,L111-109  ,6-12,Ellis  24,Radmanovic  8,Ellis  8,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Dec 5", Orlando ,L126-118  ,6-13,Ellis  33,Randolph  13,Ellis  7,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Mon, Dec 7",Oklahoma City ,L104-88  ,6-14,Ellis  31,Radmanovic  8,Watson  3,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Dec 9",New Jersey ,W105-89  ,7-14,Ellis  18,Maggette  9,Ellis  8,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Dec 11",Chicago ,L96-91 OT ,7-15,Ellis  27,Maggette  10,Ellis  5,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Dec 12",Detroit ,L104-95  ,7-16,Ellis  29,Ellis  7,Watson  6,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Mon, Dec 14",Philadelphia ,L117-101  ,7-17,Maggette  24,Randolph  5,Curry  4,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Dec 16", San Antonio ,L103-91  ,7-18,Ellis  35,Watson  7,Ellis  5,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Dec 18", Washington ,L118-109  ,7-19,Ellis  30,Randolph  9,Ellis  7,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Dec 22",Memphis ,L121-108  ,7-20,Maggette  25,Curry  7,Curry  8,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Dec 23",New Orleans ,L108-102  ,7-21,Ellis  35,Maggette  10,Curry  7,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Dec 26", Phoenix ,W132-127  ,8-21,Maggette  33,Maggette  8,Ellis  10,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Mon, Dec 28", Boston ,W103-99  ,9-21,Ellis  37,Radmanovic  10,Watson  7,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Dec 29",Los Angeles ,L124-118  ,9-22,Maggette  25,Biedrins  8,Ellis  7,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Jan 2",Portland ,L105-89  ,9-23,Ellis  30,Randolph  11,Ellis  4,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Jan 5",Denver ,L123-122  ,9-24,Maggette  35,Maggette  7,Ellis  6,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Jan 6",Minnesota ,W107-101  ,10-24,Maggette  28,Maggette  10,Ellis  6,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Jan 8", Sacramento ,W108-101  ,11-24,Ellis  39,Biedrins  9,Ellis  6,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Mon, Jan 11", Cleveland ,L117-114  ,11-25,Maggette  32,Radmanovic  9,Ellis  5,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Jan 13", Miami ,L115-102  ,11-26,Maggette  25,Biedrins  8,Ellis  6,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Jan 15", Milwaukee ,L113-104  ,11-27,Ellis  33,Biedrins  10,Ellis  8,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Mon, Jan 18", Chicago ,W114-97  ,12-27,Ellis  36,Biedrins  19,Ellis  8,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Jan 20", Denver ,L123-118 OT ,12-28,Ellis  39,Biedrins  13,Ellis  10,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Jan 22", New Jersey ,W111-79  ,13-28,Curry  32,Tolliver  10,Curry  7,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Jan 23",Phoenix ,L112-103  ,13-29,Maggette  27,Tolliver  11,Maggette  4,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Jan 26",Sacramento ,L99-96  ,13-30,Curry  27,Maggette  12,Curry  6,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Jan 27", New Orleans ,L123-110  ,13-31,Watson  23,Ellis  6,Ellis  9,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Jan 29", Charlotte ,L121-110  ,13-32,Maggette  25,Biedrins  7,Curry  9,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sun, Jan 31",Oklahoma City ,L112-104  ,13-33,Maggette  26,Turiaf  8,Karl  6,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Feb 2",Houston ,L119-97  ,13-34,Ellis  34,Biedrins  8,Karl  7,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Feb 3",Dallas ,L110-101  ,13-35,Ellis  46,Maggette  9,Biedrins  3,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Feb 6", Oklahoma City ,L104-95  ,13-36,Maggette  24,Biedrins  18,Ellis  6,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Mon, Feb 8", Dallas ,L127-117  ,13-37,Morrow  33,Morrow  11,Curry  9,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Feb 10", LA ,W132-102  ,14-37,Curry  36,Curry  10,Curry  13,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Feb 16",Los Angeles ,L104-94  ,14-38,Morrow  23,Curry  10,Curry  8,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Feb 17", Sacramento ,W130-98  ,15-38,Watson  40,Tolliver  8,Curry  15,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Feb 19", Utah ,L100-89  ,15-39,Watson  22,Hunter  9,Curry  7,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sun, Feb 21", Atlanta ,W108-104  ,16-39,Curry  32,Biedrins  13,Watson  6,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Feb 23", Philadelphia ,L110-102  ,16-40,Ellis  22,Hunter  8,Curry  5,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Thu, Feb 25", Denver ,L127-112  ,16-41,Curry  30,George  9,Curry  13,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Feb 27", Detroit ,W95-88  ,17-41,Curry  27,Tolliver  14,Tolliver  5,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Mar 2",Miami ,L110-106  ,17-42,Morrow  24,Tolliver  8,Curry  8,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Mar 3",Orlando ,L117-90  ,17-43,Watson  18,Williams  6,Curry  7,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Mar 5",Atlanta ,L127-122  ,17-44,Curry  31,Turiaf  10,Curry  11,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Mar 6",Charlotte ,L101-90  ,17-45,Curry  25,Hunter  13,Tolliver  5,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Mon, Mar 8",New Orleans ,L135-131  ,17-46,Morrow  28,Tolliver  5,Watson  7,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Thu, Mar 11", Portland ,L110-105  ,17-47,Maggette  24,Tolliver  11,Maggette  6,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Mar 13", Toronto ,W124-112  ,18-47,Curry  35,Tolliver  11,Curry  10,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Mon, Mar 15", Los Angeles ,L124-121  ,18-48,Curry  29,Hunter  7,Ellis  11,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Mar 17", New Orleans ,W131-121  ,19-48,Tolliver  30,Hunter  8,Ellis  13,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Mar 19",San Antonio ,L147-116  ,19-49,Ellis  39,Williams  7,Watson  8,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Mar 20",Memphis ,L123-107  ,19-50,Ellis  28,Tolliver  11,Curry  6,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Mon, Mar 22", Phoenix ,L133-131  ,19-51,Ellis  30,Tolliver  12,Curry  8,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Mar 24", Memphis ,W128-110  ,20-51,Curry  30,Hunter  10,Curry  11,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Mar 27", Dallas ,L111-90  ,20-52,Maggette  21,Tolliver  21,Curry  6,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sun, Mar 28",LA ,W121-103  ,21-52,Williams  25,Turiaf  8,Williams  7,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Mar 31",Utah ,L128-104  ,21-53,Maggette  22,Hunter  8,Curry  6,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Fri, Apr 2", New York ,W128-117  ,22-53,Morrow  35,Tolliver  8,Curry  10,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sun, Apr 4",Toronto ,W113-112  ,23-53,Maggette  31,Morrow  10,Curry  12,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Apr 6",Washington ,L112-94  ,23-54,Curry  27,Morrow  7,Curry  4,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Apr 7",Minnesota ,W116-107  ,24-54,Tolliver  34,Tolliver  8,Curry  14,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sat, Apr 10",LA ,L107-104  ,24-55,Curry  29,Tolliver  10,Maggette  5,H,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Sun, Apr 11", Oklahoma City ,W120-117  ,25-55,Ellis  27,Tolliver  13,Curry  7,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Tue, Apr 13", Utah ,L103-94  ,25-56,George  21,Tolliver  9,Curry  6,A,Golden State Warriors 2009-10 Regular Season NBA Schedule
+"Wed, Apr 14",Portland ,W122-116  ,26-56,Curry  42,Tolliver  15,Curry  8,H,Golden State Warriors 2009-10 Regular Season NBA Schedule

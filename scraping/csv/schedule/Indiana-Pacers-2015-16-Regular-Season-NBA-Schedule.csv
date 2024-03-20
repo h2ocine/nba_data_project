@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 28",Toronto ,L106-99  ,0-1,Hill  19,George  12,George  8,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Thu, Oct 29", Memphis ,L112-103  ,0-2,Hill  20,Mahinmi  9,George  5,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Oct 31", Utah ,L97-76  ,0-3,Hill  17,Hill  6,Ellis  3,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Tue, Nov 3",Detroit ,W94-82  ,1-3,Stuckey  23,George  9,George  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Nov 4", Boston ,W100-98  ,2-3,George  26,Allen  11,Ellis  8,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Nov 6", Miami ,W90-87  ,3-3,George  36,George  12,Ellis  8,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sun, Nov 8",Cleveland ,L101-97  ,3-4,George  32,George  11,George  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Nov 9", Orlando ,W97-84  ,4-4,George  27,Mahinmi  9,George  7,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Nov 11",Boston ,W102-91  ,5-4,George  26,George  10,Ellis  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Nov 13", Minnesota ,W107-103  ,6-4,George  29,George  9,Ellis  5,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Nov 16",Chicago ,L96-95  ,6-5,George  26,Hill  12,Ellis  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Nov 18",Philadelphia ,W112-85  ,7-5,George  34,George  8,Ellis  9,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Nov 21", Milwaukee ,W123-86  ,8-5,Miles  21,Hill  11,George  7,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Tue, Nov 24",Washington ,W123-106  ,9-5,George  40,Mahinmi  9,Hill  5,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Nov 27", Chicago ,W104-92  ,10-5,George  33,Allen  10,Ellis  5,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sun, Nov 29",Los Angeles ,W107-103  ,11-5,George  39,Mahinmi  10,Ellis  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Dec 2",LA ,W103-91  ,12-5,George  31,George  10,George  4,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Thu, Dec 3",Portland ,L123-111  ,12-6,Miles  27,Mahinmi  11,Stuckey  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Dec 5",Utah ,L122-119 OT ,12-7,George  48,George  8,Hill  5,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Tue, Dec 8", Golden State ,L131-123  ,12-8,George  33,Hill  9,George  6,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Dec 11", Miami ,W96-83  ,13-8,Ellis  24,Mahinmi  12,Ellis  6,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Dec 12",Detroit ,L118-96  ,13-9,Hill  14,Hill  8,Hill  3,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Dec 14", Toronto ,W106-90  ,14-9,Hill  20,Hill  13,Allen  4,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Dec 16", Dallas ,W107-81  ,15-9,Miles  20,Mahinmi  10,Stuckey  7,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Dec 18", Brooklyn ,W104-97  ,16-9,George  23,Hill  11,Ellis  5,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Dec 19",Memphis ,L96-84  ,16-10,George  29,Hill  13,George  2,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Dec 21",San Antonio ,L106-92  ,16-11,Stuckey  16,Mahinmi  11,George  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Dec 23", Sacramento ,L108-106  ,16-12,Ellis  21,George  10,Ellis  6,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Dec 26",Minnesota ,W102-88  ,17-12,Ellis  22,Ellis  6,Stuckey  8,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Dec 28", Atlanta ,W93-87  ,18-12,Ellis  26,Mahinmi  9,George  3,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Dec 30",Chicago ,L102-100 OT ,18-13,Hill  20,Allen  12,Ellis  5,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Thu, Dec 31", Milwaukee ,L120-116  ,18-14,George  31,Turner  9,Ellis  7,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Jan 2", Detroit ,W94-82  ,19-14,George  32,George  14,George  3,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Jan 4",Miami ,L103-100 OT ,19-15,George  32,Hill  12,Ellis  9,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Jan 6",Orlando ,W95-86  ,20-15,George  20,Mahinmi  12,Ellis  7,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Jan 8",New Orleans ,W91-86  ,21-15,Mahinmi  17,Mahinmi  10,Ellis  8,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sun, Jan 10",Houston ,L107-103 OT ,21-16,George  20,Mahinmi  7,Ellis  13,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Tue, Jan 12", Phoenix ,W116-97  ,22-16,George  21,Miles  8,Ellis  7,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Jan 13",Boston ,L103-94  ,22-17,George  23,Mahinmi  10,Ellis  5,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Jan 15", Washington ,L118-104  ,22-18,George  21,Hill  8,George  7,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sun, Jan 17",Denver ,L129-126  ,22-19,Turner  25,Turner  7,Young  7,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Tue, Jan 19",Phoenix ,W97-94  ,23-19,Ellis  20,George  8,Young  5,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Jan 22",Golden State ,L122-110  ,23-20,Turner  31,Turner  8,Young  8,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Jan 23",Sacramento ,L108-97  ,23-21,George  34,Hill  13,Ellis  7,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Tue, Jan 26", LA ,L91-89  ,23-22,George  31,George  11,Ellis  5,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Thu, Jan 28", Atlanta ,W111-92  ,24-22,Ellis  25,Allen  12,Ellis  6,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Jan 30", Denver ,W109-105 OT ,25-22,Ellis  32,Ellis  9,George  7,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Feb 1", Cleveland ,L111-106 OT ,25-23,Hill  23,Turner  10,George  8,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Feb 3",Brooklyn ,W114-100  ,26-23,Miles  27,Allen  8,George  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Feb 5",Atlanta ,L102-96  ,26-24,George  31,Allen  14,Hill  8,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Feb 6", Detroit ,W112-104  ,27-24,George  30,George  8,Ellis  5,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Feb 8", Los Angeles ,W89-87  ,28-24,George  21,Turner  13,Hill  6,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Feb 10", Charlotte ,L117-95  ,28-25,George  22,George  8,George  6,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Feb 19",Oklahoma City ,W101-98  ,29-25,Ellis  27,Mahinmi  11,George  10,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sun, Feb 21",Orlando ,W105-102  ,30-25,Ellis  21,Hill  10,Hill  7,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Feb 22",Miami ,L101-93 OT ,30-26,George  31,George  11,George  4,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Feb 24", New York ,W108-105  ,31-26,George  27,Ellis  8,Ellis  7,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Feb 26", Charlotte ,L96-95  ,31-27,George  32,Mahinmi  9,Hill  7,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sun, Feb 28", Portland ,L111-102  ,31-28,Ellis  18,Allen  8,Ellis  5,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Feb 29",Cleveland ,L100-96  ,31-29,Ellis  28,George  8,George  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Mar 2",Milwaukee ,W104-99  ,32-29,Hill  19,George  10,Ellis  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Mar 4",Charlotte ,L108-101  ,32-30,George  35,Mahinmi  14,George  7,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Mar 5",Washington ,W100-99  ,33-30,George  38,Hill  9,Hill  5,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Mar 7", San Antonio ,W99-91  ,34-30,Ellis  26,Turner  10,Hill  5,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Mar 12",Dallas ,W112-105  ,35-30,George  20,George  10,Ellis  7,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sun, Mar 13",Atlanta ,L104-75  ,35-31,Turner  19,Mahinmi  7,George  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Tue, Mar 15", Boston ,W103-98  ,36-31,George  25,George  7,Ellis  6,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Thu, Mar 17", Toronto ,L101-94 OT ,36-32,George  18,Turner  10,Ellis  7,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Mar 19", Oklahoma City ,L115-111  ,36-33,George  45,Turner  8,Hill  9,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Mon, Mar 21", Philadelphia ,W91-75  ,37-33,George  15,Mahinmi  10,Ellis  5,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Thu, Mar 24", New Orleans ,W92-84  ,38-33,Turner  24,Turner  16,Hill  8,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Mar 26",Brooklyn ,L120-110  ,38-34,George  27,Hill  6,Ellis  6,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sun, Mar 27", Houston ,W104-101  ,39-34,George  25,George  11,Ellis  7,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Tue, Mar 29", Chicago ,L98-96  ,39-35,George  20,George  9,George  5,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Thu, Mar 31", Orlando ,L114-94  ,39-36,George  27,Allen  11,George  3,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sat, Apr 2",Philadelphia ,W115-102  ,40-36,Miles  25,Mahinmi  12,George  7,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sun, Apr 3",New York ,W92-87  ,41-36,George  20,George  9,Lawson  5,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Apr 6", Cleveland ,W123-109  ,42-36,George  29,Mahinmi  8,Ellis  8,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Fri, Apr 8",Toronto ,L111-98  ,42-37,Ellis  17,Allen  8,Lawson  5,H,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Sun, Apr 10", Brooklyn ,W129-105  ,43-37,Turner  28,Hill  12,Lawson  9,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Tue, Apr 12", New York ,W102-90  ,44-37,George  19,Hill  11,Lawson  8,A,Indiana Pacers 2015-16 Regular Season NBA Schedule
+"Wed, Apr 13",Milwaukee ,W97-92  ,45-37,Hill  25,Hill  11,Young  7,H,Indiana Pacers 2015-16 Regular Season NBA Schedule

@@ -1,0 +1,68 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 25", Detroit ,W103-102  ,1-0,Adebayo  22,Butler  13,Butler  4,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Oct 27",Boston ,L119-111  ,1-1,Herro  28,Love  9,Herro  6,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sat, Oct 28",Minnesota ,L106-90  ,1-2,Herro  22,Jovic  11,Lowry  7,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Mon, Oct 30",Milwaukee ,L122-114  ,1-3,Herro  35,Herro  8,Robinson  7,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Nov 1", Brooklyn ,L109-105  ,1-4,Herro  30,Adebayo  14,Herro  5,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Nov 3", Washington ,W121-114  ,2-4,Herro  24,Herro  10,Herro  9,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Mon, Nov 6", Los Angeles ,W108-107  ,3-4,Butler  28,Adebayo  19,Adebayo  10,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Nov 8",Memphis ,W108-102  ,4-4,Adebayo  30,Adebayo  11,Lowry  9,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sat, Nov 11",Atlanta ,W117-109  ,5-4,Adebayo  26,Adebayo  17,Highsmith  5,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sun, Nov 12",San Antonio ,W118-113  ,6-4,Robinson  26,Adebayo  11,Adebayo  6,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Tue, Nov 14",Charlotte ,W111-105  ,7-4,Butler  32,Adebayo  11,Richardson  6,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Thu, Nov 16", Brooklyn ,W122-115  ,8-4,Butler  36,Love  9,Jaquez Jr.  5,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sat, Nov 18",Chicago ,L102-97  ,8-5,Butler  25,Adebayo  10,Robinson  7,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Mon, Nov 20",Chicago ,W118-100  ,9-5,Adebayo  23,Adebayo  11,Adebayo  6,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Nov 22",Cleveland ,W129-96  ,10-5,Lowry  28,Robinson  9,Butler  9,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Nov 24",New York ,L100-98  ,10-6,Butler  23,Adebayo  12,Jaquez Jr.  4,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sat, Nov 25",Brooklyn ,L112-97  ,10-7,Martin  22,Love  10,Richardson  5,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Tue, Nov 28", Milwaukee ,L131-124  ,10-8,Adebayo  31,Adebayo  10,Richardson  7,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Thu, Nov 30", Indiana ,W142-132  ,11-8,Butler  36,Butler  11,Love  6,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sat, Dec 2", Indiana ,L144-129  ,11-9,Butler  33,Lowry  8,Butler  5,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Dec 6",Toronto ,W112-103  ,12-9,Martin  24,Martin  12,Butler  8,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Dec 8", Cleveland ,L111-99  ,12-10,Lowry  17,Love  12,Lowry  5,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Mon, Dec 11",Charlotte ,W116-114  ,13-10,Robinson  24,Martin  9,Butler  8,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Dec 13", Charlotte ,W115-104  ,14-10,Robinson  23,Bryant  9,Butler  10,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Thu, Dec 14", Chicago ,L124-116  ,14-11,Jaquez Jr.  22,Martin  12,Butler  7,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sat, Dec 16", Chicago ,W118-116  ,15-11,Butler  28,Love  7,Lowry  7,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Mon, Dec 18", Minnesota ,L112-108  ,15-12,Herro  25,Love  10,Adebayo  6,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Dec 20",Orlando ,W115-106  ,16-12,Herro  28,Herro  8,Herro  7,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Dec 22", Atlanta ,W122-113  ,17-12,Herro  30,Adebayo  11,Adebayo  6,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Mon, Dec 25", Philadelphia ,W119-113  ,18-12,Jaquez Jr.  31,Adebayo  15,Adebayo  5,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Thu, Dec 28",Golden State ,W114-102  ,19-12,Herro  26,Adebayo  11,Jaquez Jr.  6,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sat, Dec 30",Utah ,L117-109  ,19-13,Adebayo  28,Adebayo  16,Herro  6,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Mon, Jan 1",LA ,L121-104  ,19-14,Adebayo  21,Adebayo  15,Herro  6,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Jan 3",Los Angeles ,W110-96  ,20-14,Herro  21,Love  14,Jaquez Jr.  8,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Jan 5",Phoenix ,L113-97  ,20-15,Adebayo  28,Adebayo  10,Richardson  7,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Mon, Jan 8", Houston ,W120-113  ,21-15,Herro  28,Adebayo  12,Robinson  7,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Jan 10", Oklahoma City ,L128-120  ,21-16,Adebayo  25,Adebayo  11,Adebayo  6,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Jan 12", Orlando ,W99-96  ,22-16,Robinson  23,Adebayo  11,Adebayo  7,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sun, Jan 14", Charlotte ,W104-87  ,23-16,Adebayo  24,Adebayo  10,Adebayo  7,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Mon, Jan 15",Brooklyn ,W96-95 OT ,24-16,Butler  31,Adebayo  20,Lowry  5,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Jan 17",Toronto ,L121-97  ,24-17,Herro  16,Herro  7,Butler  5,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Jan 19", Atlanta ,L109-108  ,24-18,Herro  25,Adebayo  9,Butler  6,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sun, Jan 21",Orlando ,L105-87  ,24-19,Adebayo  22,Adebayo  11,Adebayo  7,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Jan 24", Memphis ,L105-96  ,24-20,Herro  18,Adebayo  15,Adebayo  6,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Thu, Jan 25", Boston ,L143-110  ,24-21,Adebayo  19,Adebayo  5,Herro  6,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sat, Jan 27",New York ,L125-109  ,24-22,Butler  28,Adebayo  13,Rozier  7,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Mon, Jan 29", Phoenix ,L118-105  ,24-23,Butler  26,Adebayo  11,Adebayo  5,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Jan 31", Sacramento ,W115-106  ,25-23,Butler  31,Adebayo  11,Rozier  10,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Feb 2",Washington ,W110-102  ,26-23,Butler  24,Adebayo  14,Rozier  5,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sun, Feb 4", LA ,L103-95  ,26-24,Butler  21,Adebayo  13,Rozier  5,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Tue, Feb 6", Orlando ,W121-95  ,27-24,Butler  23,Butler  8,Butler  8,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Feb 7", San Antonio ,W116-104  ,28-24,Herro  24,Butler  11,Butler  11,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sun, Feb 11", Boston ,L110-106  ,28-25,Herro  24,Adebayo  13,Rozier  6,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Tue, Feb 13",Milwaukee ,W123-97  ,29-25,Jovic  24,Adebayo  12,Adebayo  11,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Feb 14",Philadelphia ,W109-104  ,30-25,Adebayo  23,Adebayo  13,Herro  7,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Feb 23",New Orleans ,W106-95  ,31-25,Adebayo  24,Butler  9,Butler  6,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Mon, Feb 26",Sacramento ,W121-110  ,32-25,Adebayo  28,Adebayo  10,Robinson  11,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Tue, Feb 27",Portland ,W106-96  ,33-25,Butler  22,Adebayo  9,Butler  9,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Thu, Feb 29",Denver ,L103-97  ,33-26,Adebayo  22,Martin  9,Jaquez Jr.  5,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sat, Mar 2", Utah ,W126-120  ,34-26,Butler  37,Adebayo  7,Rozier  8,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Tue, Mar 5", Detroit ,W118-110  ,35-26,Butler  26,Adebayo  7,Butler  8,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Thu, Mar 7",Dallas ,L114-108  ,35-27,Rozier  27,Adebayo  9,Rozier  11,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Mar 8",Oklahoma City ,L107-100  ,35-28,Jaquez Jr.  25,Butler  10,Butler  8,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sun, Mar 10", Washington ,L110-108  ,35-29,Butler  23,Adebayo  16,Butler  4,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Wed, Mar 13", Denver ,L100-88  ,35-30,Adebayo  17,Adebayo  13,Rozier  4,A,Miami Heat 2023-24 Regular Season NBA Schedule
+"Fri, Mar 15",Detroit ,W108-95  ,36-30,Adebayo  22,Adebayo  9,Martin  6,H,Miami Heat 2023-24 Regular Season NBA Schedule
+"Sun, Mar 17",Detroit ,W104-101  ,37-30,Robinson  30,Adebayo  17,Rozier  9,H,Miami Heat 2023-24 Regular Season NBA Schedule

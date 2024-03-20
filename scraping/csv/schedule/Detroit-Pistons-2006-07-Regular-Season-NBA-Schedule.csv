@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Nov 1", Milwaukee ,L105-97  ,0-1,Billups  25,Mohammed  12,Billups  8,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Nov 3",Boston ,W101-88  ,1-1,Hamilton  27,McDyess  10,Billups  11,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sat, Nov 4", Memphis ,W95-86  ,2-1,Hamilton  24,Wallace  13,Billups  10,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Mon, Nov 6",Utah ,L103-101  ,2-2,Wallace  25,Wallace  12,Prince  5,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Nov 8",Sacramento ,L99-86  ,2-3,Billups  25,Wallace  15,Billups  4,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Nov 10",Los Angeles ,W97-83  ,3-3,Prince  31,McDyess  12,Billups  9,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sat, Nov 11",Golden State ,L111-79  ,3-4,Hunter  14,Wallace  8,Delfino  6,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Nov 15", NO/Oklahoma City ,L100-99  ,3-5,Billups  29,Prince  10,Billups  9,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Nov 17", Washington ,W100-91  ,4-5,Hamilton  27,Wallace  10,Billups  10,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sat, Nov 18", Houston ,W104-92  ,5-5,Hamilton  30,Wallace  11,Billups  9,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Tue, Nov 21",Philadelphia ,W97-87  ,6-5,Prince  25,Wallace  11,Billups  11,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Nov 22", Atlanta ,W103-98  ,7-5,Billups  24,Wallace  13,Billups  10,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Nov 24", Charlotte ,W104-95  ,8-5,Hamilton  26,Wallace  9,Billups  10,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sat, Nov 25",Washington ,W115-111  ,9-5,Billups  29,Hamilton  6,Billups  7,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Thu, Nov 30",Miami ,W87-85  ,10-5,Hamilton  24,Wallace  9,Billups  7,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Dec 1", New York ,W108-100  ,11-5,Prince  31,Wallace  15,Billups  16,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Dec 3",Charlotte ,L97-89  ,11-6,Wallace  19,Wallace  8,Billups  7,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Tue, Dec 5", Portland ,L88-85  ,11-7,Hamilton  25,Wallace  9,Billups  8,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Thu, Dec 7",Dallas ,W92-82  ,12-7,Prince  20,Wallace  9,Billups  11,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Dec 8",Orlando ,W87-83  ,13-7,Billups  31,Hamilton  10,Prince  6,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Dec 13",Indiana ,L101-90  ,13-8,Billups  22,Hamilton  7,Billups  5,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sat, Dec 16",New Jersey ,W90-82  ,14-8,Billups  27,Davis  9,Billups  11,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Dec 17", Seattle ,W97-93  ,15-8,Hamilton  24,Davis  13,Billups  8,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Thu, Dec 21",Cleveland ,W87-71  ,16-8,Billups  17,McDyess  11,Billups  10,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sat, Dec 23", Atlanta ,W108-81  ,17-8,Mohammed  19,Mohammed  10,Billups  5,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Tue, Dec 26", New Jersey ,W92-91  ,18-8,Wallace  21,Mohammed  7,Billups  7,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Dec 27",New York ,L151-145 3OT ,18-9,Hamilton  51,Mohammed  14,Billups  10,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Dec 29", Indiana ,L93-92  ,18-10,Billups  23,Billups  12,Billups  5,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Dec 31", Phoenix ,L108-101  ,18-11,Hamilton  31,Delfino  7,Murray  7,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Thu, Jan 4",NO/Oklahoma City ,W92-68  ,19-11,Hamilton  27,Prince  10,Hamilton  5,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sat, Jan 6",Chicago ,L106-89  ,19-12,Hamilton  27,Delfino  7,Hamilton  6,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Tue, Jan 9",Philadelphia ,W98-89  ,20-12,Prince  33,Wallace  6,Murray  12,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Jan 10", Charlotte ,L103-96  ,20-13,Hamilton  23,Maxiell  7,Hamilton  6,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Jan 12",Atlanta ,L99-93  ,20-14,Hamilton  32,Davis  10,Murray  8,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sat, Jan 13", Boston ,W81-73  ,21-14,Hamilton  22,Wallace  11,Hamilton  5,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Mon, Jan 15", Minnesota ,L94-90 OT ,21-15,Hamilton  32,Wallace  10,Murray  9,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Jan 17", Utah ,L100-99  ,21-16,Billups  26,McDyess  9,Billups  7,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Jan 19",Minnesota ,W104-98 2OT ,22-16,Hamilton  26,Wallace  9,Billups  8,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sat, Jan 20", Sacramento ,W91-74  ,23-16,Hamilton  19,Webber  10,Hamilton  7,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Jan 24",Charlotte ,W103-92  ,24-16,Hamilton  22,Webber  6,Billups  6,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Jan 26", Washington ,L99-96  ,24-17,Hamilton  27,Billups  9,Hamilton  5,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Jan 28", Indiana ,W95-87  ,25-17,Hamilton  21,Webber  13,Billups  6,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Tue, Jan 30",Washington ,L104-99  ,25-18,Billups  24,Wallace  8,Billups  8,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Jan 31",New Jersey ,W113-89  ,26-18,Hamilton  24,McDyess  12,Webber  5,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Feb 2", Milwaukee ,W96-86  ,27-18,Billups  20,Prince  12,Billups  8,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Feb 4",Cleveland ,W90-78  ,28-18,Billups  18,Wallace  13,Billups  10,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Tue, Feb 6", Boston ,W109-102  ,29-18,Billups  24,Webber  6,Hamilton  11,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Thu, Feb 8", Los Angeles ,W93-78  ,30-18,Prince  20,Webber  11,Billups  9,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sat, Feb 10", Toronto ,W98-92  ,31-18,Wallace  28,Wallace  7,Billups  9,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Mon, Feb 12", LA ,W92-74  ,32-18,Webber  19,Webber  9,Hamilton  5,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Feb 14", San Antonio ,L90-81  ,32-19,Hamilton  20,Billups  7,Billups  6,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Tue, Feb 20",Milwaukee ,W84-83  ,33-19,Billups  19,Wallace  11,Billups  6,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Feb 21", Orlando ,W110-88  ,34-19,Hamilton  18,Delfino  7,Billups  7,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Feb 23",Orlando ,W94-89  ,35-19,Billups  28,Wallace  10,Billups  4,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Feb 25", Chicago ,W95-93  ,36-19,Hamilton  22,Webber  9,Billups  9,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Mar 2",Miami ,L85-82  ,36-20,Prince  22,Webber  13,Hamilton  5,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sat, Mar 3",Memphis ,W92-89  ,37-20,Billups  19,Webber  8,Billups  9,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Mon, Mar 5", Golden State ,L111-93  ,37-21,Hunter  20,Maxiell  8,Billups  5,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Mar 7", Cleveland ,L101-97 OT ,37-22,Hamilton  29,Webber  11,Billups  14,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Mar 9",Denver ,W95-82  ,38-22,Webber  20,Wallace  10,Hamilton  6,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Mar 11",LA ,W98-80  ,39-22,Hamilton  23,Webber  11,Billups  12,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Tue, Mar 13",Seattle ,W101-97  ,40-22,Webber  24,Webber  8,Hamilton  7,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Mar 14",Portland ,W87-75  ,41-22,Hamilton  21,Maxiell  6,Billups  9,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Mar 16",Phoenix ,W105-83  ,42-22,Murray  25,Webber  9,Prince  4,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Mar 18", Dallas ,L92-88  ,42-23,Murray  18,McDyess  6,Murray  6,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Tue, Mar 20", Philadelphia ,W96-75  ,43-23,Prince  30,Webber  7,Murray  7,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Thu, Mar 22",Houston ,L91-85  ,43-24,McDyess  16,Wallace  9,Billups  6,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Mar 23",San Antonio ,L90-89  ,43-25,Wallace  21,McDyess  11,Murray  8,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Mar 25",Milwaukee ,W121-95  ,44-25,Prince  28,Maxiell  15,Murray  5,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Mon, Mar 26", Denver ,W113-109 OT ,45-25,Billups  34,McDyess  11,Billups  10,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Thu, Mar 29",Chicago ,L83-81  ,45-26,Prince  26,McDyess  10,Billups  7,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Mar 30", New Jersey ,W110-105  ,46-26,Billups  32,Prince  8,Billups  14,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Apr 1", Miami ,W94-88  ,47-26,Hamilton  19,McDyess  7,Murray  5,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Tue, Apr 3",Indiana ,W100-85  ,48-26,Prince  24,Webber  10,Billups  4,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Apr 4", Chicago ,L106-88  ,48-27,Billups  17,Webber  8,Prince  7,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Apr 8", Cleveland ,W87-82  ,49-27,Hamilton  21,McDyess  13,Billups  12,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Mon, Apr 9",New York ,W91-83  ,50-27,Billups  22,McDyess  13,Billups  6,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Apr 11", Orlando ,W104-99  ,51-27,Billups  28,McDyess  6,Billups  8,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Fri, Apr 13",Toronto ,L87-84  ,51-28,Hamilton  24,McDyess  7,Murray  6,H,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Sun, Apr 15", Philadelphia ,L102-91  ,51-29,Prince  15,Johnson  10,Murray  6,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Tue, Apr 17", Toronto ,W100-84  ,52-29,Murray  16,McDyess  6,Hunter  11,A,Detroit Pistons 2006-07 Regular Season NBA Schedule
+"Wed, Apr 18",Boston ,W91-89  ,53-29,Johnson  20,Johnson  12,Hunter  8,H,Detroit Pistons 2006-07 Regular Season NBA Schedule

@@ -1,0 +1,74 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 23", Boston ,W107-93  ,1-0,Simmons  24,Harris  15,Simmons  9,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Oct 26",Detroit ,W117-111  ,2-0,Harris  29,Horford  9,Simmons  10,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Mon, Oct 28",Atlanta ,W105-103  ,3-0,Embiid  36,Embiid  13,Simmons  6,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Oct 30", Minnesota ,W117-95  ,4-0,Embiid  19,Horford  16,Simmons  7,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Nov 2",Portland ,W129-128  ,5-0,Horford  25,Simmons  11,Simmons  8,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Mon, Nov 4",Phoenix ,L114-109  ,5-1,Horford  32,Harris  10,Simmons  6,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Nov 6",Utah ,L106-104  ,5-2,Embiid  27,Embiid  16,Richardson  4,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Nov 8",Denver ,L100-97  ,5-3,Embiid  19,Embiid  15,Neto  6,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sun, Nov 10", Charlotte ,W114-106  ,6-3,Embiid  18,Embiid  9,Richardson  6,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Tue, Nov 12", Cleveland ,W98-97  ,7-3,Embiid  27,Embiid  16,Simmons  6,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Nov 13",Orlando ,L112-97  ,7-4,Richardson  19,Harris  10,Harris  6,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Nov 15",Oklahoma City ,L127-119 OT ,7-5,Embiid  31,Embiid  12,Simmons  8,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sun, Nov 17",Cleveland ,W114-95  ,8-5,Harris  27,Horford  6,Simmons  11,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Nov 20", New York ,W109-104  ,9-5,Embiid  23,Embiid  12,Simmons  13,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Nov 22", San Antonio ,W115-104  ,10-5,Harris  26,Embiid  14,Simmons  13,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Nov 23", Miami ,W113-86  ,11-5,Richardson  32,Embiid  11,Simmons  7,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Mon, Nov 25",Toronto ,L101-96  ,11-6,Richardson  25,Embiid  13,Simmons  14,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Nov 27", Sacramento ,W97-91  ,12-6,Embiid  33,Embiid  16,Horford  5,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Nov 29",New York ,W101-95  ,13-6,Embiid  27,Embiid  17,Simmons  8,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Nov 30", Indiana ,W119-116  ,14-6,Embiid  32,Embiid  11,Simmons  13,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Mon, Dec 2", Utah ,W103-94  ,15-6,Harris  26,Embiid  11,Simmons  9,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Thu, Dec 5",Washington ,L119-113  ,15-7,Harris  33,Embiid  21,Simmons  10,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Dec 7", Cleveland ,W141-94  ,16-7,Simmons  34,O'Quinn  11,Burke  8,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sun, Dec 8", Toronto ,W110-104  ,17-7,Harris  26,Simmons  11,Simmons  9,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Tue, Dec 10", Denver ,W97-92  ,18-7,Embiid  22,Embiid  10,Simmons  7,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Thu, Dec 12",Boston ,W115-109  ,19-7,Embiid  38,Embiid  13,Harris  7,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Dec 13", New Orleans ,W116-109  ,20-7,Harris  31,Embiid  11,Simmons  11,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sun, Dec 15",Brooklyn ,L109-89  ,20-8,Simmons  20,Horford  9,Horford  5,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Dec 18", Miami ,L108-104  ,20-9,Embiid  22,Embiid  19,Simmons  6,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Dec 20", Dallas ,L117-98  ,20-10,Embiid  33,Embiid  17,Simmons  8,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Dec 21", Washington ,W125-108  ,21-10,Embiid  21,Embiid  13,Simmons  11,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Mon, Dec 23",Detroit ,W125-109  ,22-10,Harris  35,Simmons  13,Simmons  17,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Dec 25", Milwaukee ,W121-109  ,23-10,Embiid  31,Embiid  11,Simmons  14,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Dec 27",Orlando ,L98-97  ,23-11,Harris  24,Harris  11,Simmons  7,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Dec 28",Miami ,L117-116 OT ,23-12,Embiid  35,Embiid  11,Simmons  11,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Tue, Dec 31",Indiana ,L115-97  ,23-13,Richardson  20,Simmons  10,Richardson  5,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Jan 3",Houston ,L118-108  ,23-14,Simmons  29,Simmons  13,Simmons  11,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Mon, Jan 6", Oklahoma City ,W120-113  ,24-14,Richardson  23,Simmons  15,Embiid  8,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Thu, Jan 9", Boston ,W109-98  ,25-14,Richardson  29,Simmons  9,Richardson  7,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Jan 11",Dallas ,L109-91  ,25-15,Harris  20,Harris  10,Simmons  11,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Mon, Jan 13",Indiana ,L101-95  ,25-16,Simmons  24,Simmons  14,Horford  5,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Jan 15", Brooklyn ,W117-106  ,26-16,Harris  34,Harris  10,Simmons  11,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Jan 17", Chicago ,W100-89  ,27-16,Korkmaz  24,Simmons  11,Simmons  7,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Jan 18",New York ,W90-87  ,28-16,Simmons  21,Harris  8,Simmons  8,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Mon, Jan 20",Brooklyn ,W117-111  ,29-16,Simmons  34,Simmons  12,Simmons  12,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Jan 22",Toronto ,L107-95  ,29-17,Harris  22,Simmons  10,Simmons  8,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Jan 25", Los Angeles ,W108-91  ,30-17,Harris  29,Simmons  10,Simmons  8,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Tue, Jan 28", Golden State ,W115-104  ,31-17,Embiid  24,Horford  11,Horford  8,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Thu, Jan 30",Atlanta ,L127-117  ,31-18,Simmons  31,Embiid  14,Milton  6,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Feb 1",Boston ,L116-95  ,31-19,Simmons  23,Simmons  9,Simmons  5,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Mon, Feb 3",Miami ,L137-106  ,31-20,Embiid  29,Embiid  12,Simmons  7,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Thu, Feb 6",Milwaukee ,L112-101  ,31-21,Harris  25,Simmons  14,Simmons  9,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Feb 7", Memphis ,W119-107  ,32-21,Korkmaz  34,Embiid  10,Simmons  10,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sun, Feb 9", Chicago ,W118-111  ,33-21,Korkmaz  31,Embiid  12,Simmons  10,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Tue, Feb 11", LA ,W110-103  ,34-21,Simmons  26,Simmons  12,Simmons  10,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Thu, Feb 20", Brooklyn ,W112-104 OT ,35-21,Embiid  39,Embiid  16,Harris  6,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Feb 22",Milwaukee ,L119-98  ,35-22,Embiid  17,Embiid  11,Embiid  4,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Mon, Feb 24", Atlanta ,W129-112  ,36-22,Embiid  49,Embiid  14,Milton  6,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Feb 26",Cleveland ,L108-94  ,36-23,Milton  20,Richardson  7,Horford  5,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Thu, Feb 27", New York ,W115-106  ,37-23,Harris  34,O'Quinn  10,Horford  9,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sun, Mar 1",LA ,L136-130  ,37-24,Milton  39,Horford  8,Horford  6,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Tue, Mar 3",Los Angeles ,L120-107  ,37-25,Robinson III  25,Horford  11,Milton  6,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Thu, Mar 5",Sacramento ,W125-108  ,38-25,Harris  28,Harris  14,Horford  6,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Mar 7",Golden State ,L118-114  ,38-26,Harris  24,Horford  10,Horford  7,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Mar 11", Detroit ,W124-106  ,39-26,Embiid  30,Embiid  14,Horford  6,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sat, Aug 1",Indiana ,L127-121  ,39-27,Embiid  41,Embiid  21,Embiid  4,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Mon, Aug 3", San Antonio ,W132-130  ,40-27,Embiid  27,Embiid  9,Embiid  5,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Aug 5",Washington ,W107-98  ,41-27,Embiid  29,Embiid  11,Horford  5,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Aug 7", Orlando ,W108-101  ,42-27,Harris  23,Harris  15,Milton  8,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Sun, Aug 9",Portland ,L124-121  ,42-28,Richardson  34,Thybulle  9,Richardson  6,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Tue, Aug 11", Phoenix ,L130-117  ,42-29,Burks  23,O'Quinn  10,O'Quinn  11,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Wed, Aug 12", Toronto ,L125-121  ,42-30,Harris  22,Embiid  9,Harris  5,A,Philadelphia 76ers 2019-20 Regular Season NBA Schedule
+"Fri, Aug 14",Houston ,W134-96  ,43-30,Harris  18,Harris  7,Burks  5,H,Philadelphia 76ers 2019-20 Regular Season NBA Schedule

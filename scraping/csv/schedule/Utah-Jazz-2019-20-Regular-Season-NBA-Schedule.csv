@@ -1,0 +1,73 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 23", Oklahoma City ,W100-95  ,1-0,Mitchell  32,Gobert  14,Mudiay  5,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Oct 25",Los Angeles ,L95-86  ,1-1,Mitchell  24,Gobert  9,Ingles  4,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Oct 26", Sacramento ,W113-81  ,2-1,Bogdanovic  26,Davis  7,Conley  8,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Oct 28",Phoenix ,W96-95  ,3-1,Bogdanovic  29,Gobert  18,Ingles  5,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Oct 30", LA ,W110-96  ,4-1,Conley  29,Davis  9,Ingles  7,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Nov 1",Sacramento ,L102-101  ,4-2,Mitchell  24,Gobert  16,Conley  4,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sun, Nov 3",LA ,L105-94  ,4-3,Mitchell  36,Gobert  14,Mitchell  6,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Nov 6", Philadelphia ,W106-104  ,5-3,Mitchell  24,Gobert  16,Mitchell  8,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Nov 8", Milwaukee ,W103-100  ,6-3,Bogdanovic  33,Gobert  17,Mitchell  6,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Nov 11",Golden State ,W122-108  ,7-3,Gobert  25,Gobert  14,Conley  7,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Tue, Nov 12", Brooklyn ,W119-114  ,8-3,Mitchell  30,Gobert  15,Conley  5,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Nov 15",Memphis ,L107-106  ,8-4,Mitchell  29,Gobert  17,Mitchell  5,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Nov 18", Minnesota ,L112-102  ,8-5,Bogdanovic  18,Gobert  14,Conley  6,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Nov 20",Minnesota ,W103-95  ,9-5,Bogdanovic  30,Gobert  15,Conley  8,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Nov 22", Golden State ,W113-109  ,10-5,Mitchell  30,Gobert  19,O'Neale  5,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Nov 23", New Orleans ,W128-120  ,11-5,Mitchell  37,Bradley  9,O'Neale  6,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Nov 25",Milwaukee ,L122-118  ,11-6,Bogdanovic  24,Bradley  11,Conley  9,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Nov 27",Indiana ,L121-102  ,11-7,Bogdanovic  30,Gobert  13,Conley  5,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Nov 29",Memphis ,W103-94  ,12-7,Bogdanovic  33,Gobert  13,O'Neale  4,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sun, Dec 1",Toronto ,L130-110  ,12-8,Conley  20,Gobert  11,O'Neale  5,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Dec 2",Philadelphia ,L103-94  ,12-9,Gobert  27,Gobert  12,Ingles  8,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Dec 4", Los Angeles ,L121-96  ,12-10,Mitchell  29,Gobert  10,Mitchell  5,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Dec 7", Memphis ,W126-112  ,13-10,Mitchell  22,Gobert  11,Ingles  10,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Dec 9", Oklahoma City ,L104-90  ,13-11,Mitchell  26,Gobert  17,Ingles  8,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Dec 11",Minnesota ,W127-116  ,14-11,Mitchell  30,Gobert  16,Mitchell  6,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Dec 13", Golden State ,W114-106  ,15-11,Bogdanovic  32,Gobert  15,Ingles  8,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Tue, Dec 17", Orlando ,W109-102  ,16-11,Bogdanovic  30,Gobert  19,Conley  6,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Thu, Dec 19",Atlanta ,W111-106  ,17-11,Mitchell  30,Gobert  13,Mitchell  5,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Dec 21",Charlotte ,W114-107  ,18-11,Bogdanovic  26,Gobert  19,Mitchell  9,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Dec 23",Miami ,L107-104  ,18-12,Ingles  27,Gobert  19,Mitchell  7,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Thu, Dec 26", Portland ,W121-115  ,19-12,Mitchell  35,Gobert  15,Mitchell  7,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Dec 28",LA ,W120-107  ,20-12,Mitchell  30,O'Neale  10,Mitchell  9,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Dec 30", Detroit ,W104-81  ,21-12,Mitchell  23,Gobert  19,Ingles  5,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Thu, Jan 2",Chicago ,W102-98  ,22-12,Bogdanovic  19,Gobert  12,Ingles  10,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Jan 4",Orlando ,W109-96  ,23-12,Mitchell  32,Gobert  17,Mitchell  6,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Jan 6",New Orleans ,W128-126  ,24-12,Bogdanovic  35,Gobert  19,Ingles  6,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Jan 8", New York ,W128-104  ,25-12,Mudiay  20,Gobert  16,Mitchell  6,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Jan 10", Charlotte ,W109-92  ,26-12,Clarkson  20,Gobert  13,Mudiay  6,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sun, Jan 12",Washington ,W127-116  ,27-12,Bogdanovic  31,Gobert  14,Ingles  9,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Tue, Jan 14",Brooklyn ,W118-107  ,28-12,Ingles  27,Gobert  18,Ingles  5,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Thu, Jan 16",New Orleans ,L138-132 OT ,28-13,Mitchell  46,Gobert  14,Ingles  6,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Jan 18", Sacramento ,W123-101  ,29-13,Bogdanovic  30,Gobert  15,Ingles  12,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Jan 20", Indiana ,W118-88  ,30-13,Mitchell  25,Gobert  14,Ingles  7,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Jan 22",Golden State ,W129-96  ,31-13,Mitchell  23,Gobert  15,Ingles  8,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Jan 25", Dallas ,W112-107  ,32-13,Mitchell  25,Gobert  17,Mitchell  5,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Jan 27", Houston ,L126-117  ,32-14,Mitchell  36,Gobert  14,Ingles  6,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Jan 29",San Antonio ,L127-120  ,32-15,Mitchell  31,Gobert  19,Mitchell  4,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Thu, Jan 30",Denver ,L106-100  ,32-16,Clarkson  37,Gobert  11,Ingles  8,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Feb 1",Portland ,L124-107  ,32-17,Mitchell  25,Gobert  11,Ingles  5,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Feb 5", Denver ,L98-95  ,32-18,Conley  21,Gobert  14,Ingles  6,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Feb 7", Portland ,W117-114  ,33-18,Bogdanovic  27,Gobert  14,Mitchell  7,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sun, Feb 9",Houston ,W114-113  ,34-18,Clarkson  30,Gobert  15,Ingles  7,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Feb 10",Dallas ,W123-119  ,35-18,Clarkson  25,Gobert  15,Clarkson  8,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Feb 12", Miami ,W116-101  ,36-18,Mitchell  26,Gobert  20,Ingles  9,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Feb 21", San Antonio ,L113-104  ,36-19,Gobert  18,Gobert  14,Ingles  7,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Feb 22", Houston ,L120-110  ,36-20,Mitchell  31,Mitchell  7,Conley  7,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Feb 24", Phoenix ,L131-111  ,36-21,Mitchell  38,O'Neale  9,Mitchell  4,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Feb 26", Boston ,L114-103  ,36-22,Mitchell  37,Gobert  9,Mitchell  5,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Feb 28", Washington ,W129-119  ,37-22,Mitchell  30,Gobert  9,Conley  6,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Mar 2",Cleveland ,W126-113  ,38-22,Bogdanovic  28,Gobert  9,Ingles  8,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Mar 4",New York ,W112-104  ,39-22,Bogdanovic  23,Gobert  14,Mitchell  8,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Mar 6",Boston ,W99-94  ,40-22,Conley  25,Ingles  7,Ingles  6,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Mar 7",Detroit ,W111-105  ,41-22,Bogdanovic  32,Gobert  12,Conley  4,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Mar 9", Toronto ,L101-92  ,41-23,Ingles  20,O'Neale  7,Conley  7,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Thu, Jul 30",New Orleans ,W106-104  ,42-23,Clarkson  23,Gobert  12,Mitchell  5,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Aug 1",Oklahoma City ,L110-94  ,42-24,Mitchell  13,Gobert  7,Mitchell  4,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Aug 3", Los Angeles ,L116-108  ,42-25,Mitchell  33,Gobert  13,Conley  8,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Wed, Aug 5", Memphis ,W124-115  ,43-25,Ingles  25,Gobert  16,Conley  7,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Fri, Aug 7",San Antonio ,L119-111  ,43-26,Clarkson  24,Bradley  11,Mudiay  5,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Sat, Aug 8",Denver ,L134-132 2OT ,43-27,Mitchell  35,Gobert  13,Ingles  13,H,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Mon, Aug 10", Dallas ,L122-114  ,43-28,Clarkson  18,Gobert  5,Ingles  7,A,Utah Jazz 2019-20 Regular Season NBA Schedule
+"Thu, Aug 13", San Antonio ,W118-112  ,44-28,Tucker  18,Bradley  10,Brantley  6,A,Utah Jazz 2019-20 Regular Season NBA Schedule

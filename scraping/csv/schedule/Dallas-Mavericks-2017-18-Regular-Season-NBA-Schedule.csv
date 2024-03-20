@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 18", Atlanta ,L117-111  ,0-1,Noel  16,Noel  11,Smith Jr.  10,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Oct 20", Sacramento ,L93-88  ,0-2,Barnes  24,Nowitzki  9,Barea  10,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Oct 21",Houston ,L107-91  ,0-3,Barea  19,Barea  5,Ferrell  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Mon, Oct 23", Golden State ,L133-103  ,0-4,Matthews  19,Barnes  7,Barea  8,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Oct 25", Memphis ,W103-94  ,1-4,Smith Jr.  19,Barnes  6,Smith Jr.  5,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Thu, Oct 26",Memphis ,L96-91  ,1-5,Barnes  22,Barnes  11,Smith Jr.  9,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Oct 28", Philadelphia ,L112-110  ,1-6,Barnes  25,Matthews  6,Smith Jr.  8,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Mon, Oct 30",Utah ,L104-89  ,1-7,Nowitzki  18,Powell  10,Harris  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Nov 1",LA ,L119-98  ,1-8,Smith Jr.  18,Nowitzki  8,Matthews  4,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Nov 3", New Orleans ,L99-94  ,1-9,Barnes  26,Mejri  13,Barea  5,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Nov 4",Minnesota ,L112-99  ,1-10,Smith Jr.  18,Smith Jr.  5,Barea  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Nov 7",Washington ,W113-99  ,2-10,Barnes  31,Mejri  12,Smith Jr.  8,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Nov 11", Cleveland ,L111-104  ,2-11,Barnes  23,Barnes  12,Smith Jr.  7,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sun, Nov 12",Oklahoma City ,L112-99  ,2-12,Barnes  22,Barnes  13,Ferrell  4,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Nov 14", San Antonio ,L97-91  ,2-13,Smith Jr.  27,Barnes  8,Nowitzki  6,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Nov 17", Minnesota ,L111-87  ,2-14,Barnes  18,Nowitzki  7,Harris  4,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Nov 18", Milwaukee ,W111-79  ,3-14,Matthews  22,Powell  13,Matthews  8,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Mon, Nov 20", Boston ,L110-102 OT ,3-15,Barnes  31,Nowitzki  12,Barea  4,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Nov 22",Memphis ,W95-94  ,4-15,Barnes  22,Barnes  9,Barea  11,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Nov 25", Oklahoma City ,W97-81  ,5-15,Nowitzki  19,Barnes  12,Barea  6,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Mon, Nov 27",San Antonio ,L115-108  ,5-16,Matthews  19,Barnes  8,Barea  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Nov 29", Brooklyn ,L109-104  ,5-17,Barnes  17,Barnes  8,Barnes  6,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Dec 2", LA ,W108-82  ,6-17,Barea  21,Barnes  10,Barea  10,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Mon, Dec 4", Denver ,W122-105  ,7-17,Barnes  22,Barnes  10,Barea  9,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Dec 6",Boston ,L97-90  ,7-18,Barnes  19,Barnes  7,Barea  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Dec 8",Milwaukee ,L109-102  ,7-19,Matthews  29,Barnes  8,Barea  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sun, Dec 10",Minnesota ,L97-92  ,7-20,Barnes  19,Powell  6,Ferrell  7,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Dec 12", San Antonio ,W95-89  ,8-20,Barnes  17,Powell  12,Barea  6,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Thu, Dec 14",Golden State ,L112-97  ,8-21,Nowitzki  18,Nowitzki  9,Barea  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Dec 16",San Antonio ,L98-96  ,8-22,Kleber  21,Ferrell  11,Ferrell  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Mon, Dec 18", Phoenix ,L97-91  ,8-23,Barnes  26,Kleber  8,Barea  6,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Dec 20", Detroit ,W110-93  ,9-23,Barnes  25,Barnes  7,Barea  7,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Dec 22",Miami ,L113-101  ,9-24,Ferrell  23,Mejri  5,Barea  8,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Dec 23",Atlanta ,L112-107  ,9-25,Barnes  22,Nowitzki  6,Barea  12,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Dec 26", Toronto ,W98-93  ,10-25,Barea  20,Barnes  10,Barea  4,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Dec 27",Indiana ,W98-94  ,11-25,Nowitzki  15,Nowitzki  7,Barea  7,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Dec 29",New Orleans ,W128-120  ,12-25,Smith Jr.  21,Nowitzki  12,Smith Jr.  10,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sun, Dec 31",Oklahoma City ,W116-113  ,13-25,Barnes  24,Barea  7,Barea  11,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Jan 3", Golden State ,L125-122  ,13-26,Matthews  22,Powell  8,Smith Jr.  8,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Jan 5", Chicago ,L127-124  ,13-27,Matthews  24,Barnes  7,Barea  9,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sun, Jan 7", New York ,L100-96  ,13-28,Barnes  25,Barnes  7,Harris  6,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Jan 9", Orlando ,W114-99  ,14-28,Smith Jr.  20,Ferrell  8,Barea  12,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Jan 10",Charlotte ,W115-111  ,15-28,Barnes  25,Barnes  11,Smith Jr.  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Jan 13", Los Angeles ,L107-101 OT ,15-29,Smith Jr.  23,Ferrell  10,Matthews  4,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Jan 16",Denver ,L105-102  ,15-30,Smith Jr.  25,Powell  7,Ferrell  7,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Jan 20",Portland ,L117-108  ,15-31,Matthews  23,Barnes  10,Smith Jr.  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Mon, Jan 22", Washington ,W98-75  ,16-31,Barnes  20,Barnes  10,Smith Jr.  6,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Jan 24", Houston ,L104-97  ,16-32,Matthews  29,Mejri  10,Smith Jr.  6,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Jan 26", Portland ,L107-93  ,16-33,Barnes  21,Barnes  7,Smith Jr.  7,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Jan 27",Denver ,L91-89  ,16-34,Barnes  22,Barnes  6,Smith Jr.  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Mon, Jan 29", Miami ,L95-88  ,16-35,Barnes  20,Powell  10,Smith Jr.  10,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Jan 31",Phoenix ,L102-88  ,16-36,Smith Jr.  17,Nowitzki  10,Smith Jr.  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Feb 3",Sacramento ,W106-99  ,17-36,Barnes  18,Powell  9,Barea  11,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Mon, Feb 5",LA ,L104-101  ,17-37,Matthews  23,Powell  10,Matthews  5,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Thu, Feb 8",Golden State ,L121-103  ,17-38,Smith Jr.  22,Nowitzki  11,Barea  8,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Feb 10", Los Angeles ,W130-123  ,18-38,Nowitzki  22,Powell  7,Barea  9,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sun, Feb 11",Houston ,L104-97  ,18-39,Ferrell  20,Powell  12,Smith Jr.  11,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Feb 13", Sacramento ,L114-109  ,18-40,Barea  19,Powell  6,Barea  13,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Feb 23",Los Angeles ,L124-102  ,18-41,Barnes  19,Barnes  7,Barea  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Feb 24",Utah ,L97-90  ,18-42,Barea  17,Nowitzki  10,Barea  12,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Mon, Feb 26", Indiana ,W109-103  ,19-42,Barnes  21,Powell  14,Barea  9,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Feb 28", Oklahoma City ,L111-110 OT ,19-43,Barnes  26,Powell  8,Barea  7,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Mar 2",Chicago ,L108-100  ,19-44,Barnes  26,Powell  11,Matthews  4,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sun, Mar 4", New Orleans ,L126-109  ,19-45,Nowitzki  23,Powell  11,Smith Jr.  8,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Mar 6", Denver ,W118-107  ,20-45,Ferrell  24,Noel  14,Smith Jr.  11,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Mar 10", Memphis ,W114-80  ,21-45,Barnes  25,Powell  10,Ferrell  6,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sun, Mar 11", Houston ,L105-82  ,21-46,Powell  20,Collinsworth  10,Barea  13,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Mar 13",New York ,W110-97  ,22-46,Barnes  30,Finney-Smith  9,Barea  7,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Mar 16",Toronto ,L122-115 OT ,22-47,Barnes  27,Powell  8,Barea  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Mar 17",Brooklyn ,L114-106  ,22-48,Smith Jr.  21,Jones  7,Ferrell  12,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Mar 20",New Orleans ,L115-105  ,22-49,Barnes  19,Powell  6,Barea  8,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Thu, Mar 22", Utah ,L119-112  ,22-50,Barea  23,Finney-Smith  5,Barea  8,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sat, Mar 24", Charlotte ,L102-98  ,22-51,Smith Jr.  21,Noel  12,Smith Jr.  6,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Mar 27",Sacramento ,W103-97  ,23-51,Barnes  20,Kleber  9,Barnes  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Mar 28",Los Angeles ,L103-93  ,23-52,Barnes  17,Nowitzki  7,Smith Jr.  8,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Mar 30", Minnesota ,L93-92  ,23-53,Barnes  19,Noel  12,Smith Jr.  7,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sun, Apr 1",Cleveland ,L98-87  ,23-54,Barnes  30,Nowitzki  7,Smith Jr.  6,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Apr 3", Portland ,W115-109  ,24-54,Smith Jr.  18,Smith Jr.  8,Smith Jr.  8,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Wed, Apr 4",Orlando ,L105-100  ,24-55,Jones  16,Collinsworth  9,Ferrell  7,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Fri, Apr 6",Detroit ,L113-106 OT ,24-56,Motley  26,Motley  12,Smith Jr.  8,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Sun, Apr 8",Philadelphia ,L109-97  ,24-57,Barnes  21,Powell  10,Smith Jr.  11,H,Dallas Mavericks 2017-18 Regular Season NBA Schedule
+"Tue, Apr 10", Phoenix ,L124-97  ,24-58,Motley  21,Collinsworth  11,Collinsworth  8,A,Dallas Mavericks 2017-18 Regular Season NBA Schedule

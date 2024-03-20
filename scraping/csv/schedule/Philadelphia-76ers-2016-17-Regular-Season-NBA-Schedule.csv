@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 26", Oklahoma City ,L103-97  ,0-1,Embiid  20,Embiid  7,Rodriguez  9,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Oct 29", Atlanta ,L104-72  ,0-2,Rodriguez  14,Holmes  6,Rodriguez  5,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Tue, Nov 1", Orlando ,L103-101  ,0-3,Thompson  22,Embiid  10,Rodriguez  11,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Nov 2",Charlotte ,L109-93  ,0-4,Saric  14,Saric  7,McConnell  6,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Nov 5", Cleveland ,L102-101  ,0-5,Embiid  22,Covington  8,Rodriguez  11,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Nov 7", Utah ,L109-84  ,0-6,Okafor  15,Embiid  9,Rodriguez  5,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Nov 9",Indiana ,L122-115 OT ,0-7,Covington  23,Saric  12,McConnell  5,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Nov 11", Indiana ,W109-105 OT ,1-7,Embiid  25,Holmes  12,Rodriguez  9,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Nov 12",Atlanta ,L117-96  ,1-8,Okafor  18,Saric  7,McConnell  6,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Nov 14",Houston ,L115-88  ,1-9,Embiid  13,Embiid  10,Rodriguez  6,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Nov 16", Washington ,W109-102  ,2-9,Okafor  19,Saric  12,Rodriguez  12,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Thu, Nov 17",Minnesota ,L110-86  ,2-10,Saric  16,Embiid  10,McConnell  7,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Nov 19", Phoenix ,W120-105  ,3-10,Embiid  26,Rodriguez  8,Rodriguez  11,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Nov 21", Miami ,W101-94  ,4-10,Embiid  22,Ilyasova  11,Rodriguez  5,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Nov 23", Memphis ,L104-99 2OT ,4-11,Ilyasova  22,Ilyasova  12,Bayless  6,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Nov 25", Chicago ,L105-89  ,4-12,Ilyasova  14,Ilyasova  7,Stauskas  3,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sun, Nov 27", Cleveland ,L112-108  ,4-13,Embiid  22,Embiid  9,Rodriguez  7,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Nov 28",Toronto ,L122-95  ,4-14,Covington  20,Holmes  9,Rodriguez  7,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Dec 2", Orlando ,L105-88  ,4-15,Embiid  25,Okafor  13,Rodriguez  7,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Dec 3", Boston ,L107-106  ,4-16,Saric  21,Saric  11,Rodriguez  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Dec 5", Denver ,L106-98  ,4-17,Ilyasova  17,Ilyasova  8,Rodriguez  7,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Tue, Dec 6",Memphis ,L96-91  ,4-18,Ilyasova  23,Ilyasova  17,McConnell  9,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Thu, Dec 8",New Orleans ,W99-88  ,5-18,Ilyasova  23,Ilyasova  8,Rodriguez  8,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sun, Dec 11",Detroit ,W97-79  ,6-18,Covington  16,McConnell  10,McConnell  9,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Dec 14", Toronto ,L123-114  ,6-19,Covington  26,Covington  12,McConnell  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Dec 16", Los Angeles ,L100-89  ,6-20,Embiid  15,Ilyasova  10,McConnell  9,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sun, Dec 18", Brooklyn ,W108-107  ,7-20,Embiid  33,Embiid  10,McConnell  6,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Tue, Dec 20", New Orleans ,L108-93  ,7-21,Ilyasova  14,Covington  8,McConnell  5,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Dec 23",Phoenix ,L123-116  ,7-22,Embiid  27,Embiid  7,Rodriguez  7,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Dec 26",Sacramento ,L102-100  ,7-23,Embiid  25,Saric  9,McConnell  6,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Thu, Dec 29",Utah ,L100-83  ,7-24,Ilyasova  16,Ilyasova  12,Stauskas  3,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Dec 30",Denver ,W124-122  ,8-24,Ilyasova  23,Ilyasova  13,McConnell  8,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Tue, Jan 3", Minnesota ,W93-91  ,9-24,Embiid  25,Covington  10,McConnell  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Jan 6",Boston ,L110-106  ,9-25,Embiid  23,Embiid  8,McConnell  17,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sun, Jan 8",Brooklyn ,W105-95  ,10-25,Embiid  20,Covington  11,McConnell  6,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Jan 11", New York ,W98-97  ,11-25,Embiid  21,Embiid  14,McConnell  7,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Jan 13", Charlotte ,W102-93  ,12-25,Embiid  24,Embiid  8,McConnell  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Jan 14",Washington ,L109-93  ,12-26,Okafor  26,Noel  12,McConnell  6,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Jan 16",Milwaukee ,W113-104  ,13-26,Embiid  22,Embiid  13,Rodriguez  6,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Jan 18", Toronto ,W94-89  ,14-26,Embiid  26,Embiid  9,McConnell  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Jan 20", Portland ,W93-92  ,15-26,Ilyasova  24,Embiid  10,Embiid  5,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Jan 21",Atlanta ,L110-93  ,15-27,Ilyasova  21,Covington  10,McConnell  11,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Tue, Jan 24", LA ,W121-110  ,16-27,Noel  19,Noel  8,McConnell  10,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Jan 25",Milwaukee ,W114-109  ,17-27,Henderson  20,Noel  13,McConnell  13,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Jan 27", Houston ,L123-118  ,17-28,Embiid  32,Embiid  7,McConnell  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sun, Jan 29",Chicago ,L121-108  ,17-29,Ilyasova  31,Covington  12,McConnell  12,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Jan 30", Sacramento ,W122-119  ,18-29,Covington  23,Covington  10,McConnell  11,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Feb 1",Dallas ,L113-95  ,18-30,Okafor  16,Ilyasova  10,McConnell  4,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Thu, Feb 2",San Antonio ,L102-86  ,18-31,Ilyasova  25,Ilyasova  9,McConnell  7,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Feb 4",Miami ,L125-102  ,18-32,Ilyasova  21,Holmes  9,Stauskas  6,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Feb 6",Detroit ,L113-96  ,18-33,Okafor  16,McConnell  7,Saric  4,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Feb 8", San Antonio ,L111-103  ,18-34,Okafor  20,Okafor  8,Stauskas  7,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Thu, Feb 9",Orlando ,W112-111  ,19-34,Saric  26,Covington  9,McConnell  8,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Feb 11", Miami ,W117-109  ,20-34,Covington  19,Covington  7,McConnell  10,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Feb 13",Charlotte ,W105-99  ,21-34,Saric  18,Saric  11,McConnell  7,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Feb 15",Boston ,L116-108  ,21-35,Saric  20,Saric  11,McConnell  8,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Feb 24", Washington ,W120-112  ,22-35,Covington  25,Covington  11,McConnell  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Feb 25",New York ,L110-109  ,22-36,Okafor  28,Saric  15,McConnell  7,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Feb 27", Golden State ,L119-108  ,22-37,Saric  21,Covington  8,Saric  7,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Mar 1",Miami ,L125-98  ,22-38,Covington  19,Okafor  7,McConnell  5,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Mar 3", New York ,W105-102  ,23-38,Saric  21,Saric  10,Saric  4,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Mar 4", Detroit ,L136-106  ,23-39,Stauskas  24,Anderson  8,Saric  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Mar 6", Milwaukee ,L112-98  ,23-40,Anderson  19,Holmes  9,Rodriguez  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Thu, Mar 9",Portland ,L114-108 OT ,23-41,Saric  28,Covington  13,Rodriguez  6,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Mar 11",LA ,L112-100  ,23-42,Holmes  24,Holmes  9,McConnell  10,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sun, Mar 12",Los Angeles ,W118-116  ,24-42,Saric  29,Saric  7,McConnell  8,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Tue, Mar 14",Golden State ,L106-104  ,24-43,Saric  25,Saric  9,McConnell  10,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Mar 17", Dallas ,W116-74  ,25-43,Anderson  19,Covington  9,Rodriguez  6,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sun, Mar 19", Boston ,W105-99  ,26-43,Saric  23,Holmes  8,Rodriguez  7,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Mar 20",Orlando ,L112-109 OT ,26-44,Holmes  24,Holmes  14,McConnell  10,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Mar 22",Oklahoma City ,L122-97  ,26-45,Stauskas  20,Long  6,Rodriguez  4,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Mar 24",Chicago ,W117-107  ,27-45,Saric  32,Saric  10,McConnell  8,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sun, Mar 26",Indiana ,L107-94  ,27-46,Rodriguez  16,Holmes  12,McConnell  7,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Tue, Mar 28",Brooklyn ,W106-101  ,28-46,Saric  23,Covington  13,McConnell  10,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Mar 29", Atlanta ,L99-92  ,28-47,Holmes  25,Luwawu-Cabarrot  9,McConnell  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Fri, Mar 31",Cleveland ,L122-105  ,28-48,Holmes  19,Anderson  9,McConnell  7,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sun, Apr 2",Toronto ,L113-105  ,28-49,Luwawu-Cabarrot  23,Holmes  7,McConnell  11,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Tue, Apr 4", Brooklyn ,L141-118  ,28-50,Luwawu-Cabarrot  19,Poythress  7,McConnell  7,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Thu, Apr 6", Chicago ,L102-90  ,28-51,Luwawu-Cabarrot  18,Holmes  10,McConnell  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Sat, Apr 8", Milwaukee ,L90-82  ,28-52,Holmes  17,Holmes  10,McConnell  10,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Mon, Apr 10", Indiana ,L120-111  ,28-53,Luwawu-Cabarrot  24,Holmes  6,McConnell  8,A,Philadelphia 76ers 2016-17 Regular Season NBA Schedule
+"Wed, Apr 12",New York ,L114-113  ,28-54,Anderson  26,Long  9,McConnell  8,H,Philadelphia 76ers 2016-17 Regular Season NBA Schedule

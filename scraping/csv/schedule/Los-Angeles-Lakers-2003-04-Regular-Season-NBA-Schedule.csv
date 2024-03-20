@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 28", Dallas ,W109-93  ,1-0,Payton  21,Malone  10,Payton  9,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sat, Nov 1",Phoenix ,W103-99  ,2-0,O'Neal  24,O'Neal  12,Payton  9,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Nov 2", Golden State ,W87-72  ,3-0,Bryant  21,O'Neal  14,Payton  11,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Tue, Nov 4",Milwaukee ,W113-107  ,4-0,Bryant  31,O'Neal  14,Bryant  8,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Thu, Nov 6",San Antonio ,W120-117 2OT ,5-0,Bryant  37,O'Neal  20,O'Neal  6,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Nov 7",New Orleans ,L114-95  ,5-1,O'Neal  21,O'Neal  6,Payton  11,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Mon, Nov 10",Memphis ,L105-95  ,5-2,O'Neal  20,O'Neal  12,Bryant  5,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Nov 12", Toronto ,W94-79  ,6-2,O'Neal  23,O'Neal  14,Payton  6,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Nov 14", Detroit ,W94-89  ,7-2,O'Neal  21,O'Neal  15,O'Neal  8,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Nov 16", Miami ,W99-77  ,8-2,Bryant  27,Malone  10,Payton  8,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Tue, Nov 18",Detroit ,L106-96  ,8-3,O'Neal  20,O'Neal  10,O'Neal  5,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Nov 19",New York ,W104-83  ,9-3,O'Neal  23,Malone  14,Bryant  4,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Nov 21", Chicago ,W101-94  ,10-3,Bryant  28,Malone  18,Bryant  4,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Nov 23", Memphis ,W121-89  ,11-3,Bryant  28,Medvedenko  11,Payton  10,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Nov 26", Washington ,W120-99  ,12-3,Bryant  22,Grant  6,Malone  5,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Nov 28", San Antonio ,W103-87  ,13-3,George  19,Malone  11,Malone  10,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Nov 30", Indiana ,W99-77  ,14-3,O'Neal  23,Malone  15,Bryant  7,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Dec 3",San Antonio ,W90-86  ,15-3,Bryant  21,O'Neal  16,Payton  6,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Thu, Dec 4",Dallas ,W114-103  ,16-3,Bryant  32,O'Neal  19,Payton  8,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Dec 7", Utah ,W94-92  ,17-3,O'Neal  19,O'Neal  15,O'Neal  8,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Tue, Dec 9", New York ,W98-90  ,18-3,Bryant  21,O'Neal  15,Bryant  9,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Dec 12", Dallas ,L110-93  ,18-4,O'Neal  25,O'Neal  14,Bryant  6,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sat, Dec 13",Portland ,L112-108  ,18-5,Bryant  35,O'Neal  10,Bryant  6,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Dec 19", Denver ,W101-99  ,19-5,O'Neal  26,O'Neal  11,Payton  11,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Dec 21", Phoenix ,W107-101  ,20-5,George  19,O'Neal  18,Payton  7,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Tue, Dec 23",Golden State ,L107-98  ,20-6,Bryant  23,George  9,Payton  13,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Thu, Dec 25", Houston ,L99-87  ,20-7,Bryant  23,Grant  11,Payton  7,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Dec 28", Boston ,W105-82  ,21-7,O'Neal  22,O'Neal  16,Payton  6,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 2",Seattle ,L111-109  ,21-8,Bryant  32,Bryant  6,Bryant  6,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Jan 4",LA ,L101-98  ,21-9,Bryant  44,Bryant  10,Payton  4,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Tue, Jan 6",Minnesota ,L106-90  ,21-10,Bryant  20,Bryant  10,Fisher  5,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Jan 7",Denver ,L113-91  ,21-11,Bryant  27,Cook  8,Bryant  6,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 9", Atlanta ,W113-67  ,22-11,Medvedenko  26,Medvedenko  11,Payton  7,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Mon, Jan 12", Cleveland ,W89-79  ,23-11,Cook  13,George  12,Payton  4,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Jan 14", Denver ,W97-71  ,24-11,Medvedenko  22,Grant  11,Payton  6,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 16",Sacramento ,L103-83  ,24-12,Rush  30,Medvedenko  9,Walton  5,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sat, Jan 17", LA ,W91-89  ,25-12,Medvedenko  20,Medvedenko  10,Payton  15,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Mon, Jan 19", Phoenix ,L88-85  ,25-13,Rush  18,Payton  8,Payton  9,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Jan 21",Memphis ,L88-82  ,25-14,Payton  24,Medvedenko  12,Rush  5,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Thu, Jan 22",Dallas ,L106-87  ,25-15,George  24,Walton  7,Payton  5,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sat, Jan 24",Utah ,W93-86  ,26-15,Medvedenko  26,Medvedenko  12,Payton  6,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Jan 28", Seattle ,W96-82  ,27-15,Payton  24,Grant  10,Payton  5,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 30", Minnesota ,L97-84  ,27-16,O'Neal  22,O'Neal  9,Payton  9,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Feb 1",Toronto ,W84-83  ,28-16,O'Neal  36,Grant  9,O'Neal  5,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Mon, Feb 2",Indiana ,L85-72  ,28-17,Medvedenko  14,Payton  8,Payton  7,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Feb 4",Cleveland ,W111-106 OT ,29-17,O'Neal  37,O'Neal  12,O'Neal  6,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Thu, Feb 5",Philadelphia ,L96-73  ,29-18,O'Neal  17,O'Neal  8,Fisher  5,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Feb 8",Orlando ,W98-96  ,30-18,O'Neal  20,O'Neal  10,Walton  7,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Tue, Feb 10",Miami ,W98-83  ,31-18,O'Neal  25,George  11,Fisher  6,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Feb 11",Houston ,L102-87  ,31-19,O'Neal  24,O'Neal  9,O'Neal  4,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Tue, Feb 17", Portland ,W89-86  ,32-19,Bryant  31,O'Neal  11,Bryant  10,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Feb 18",Golden State ,W100-99  ,33-19,Bryant  35,O'Neal  16,Bryant  8,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Feb 20", Philadelphia ,W116-88  ,34-19,O'Neal  29,O'Neal  13,Bryant  7,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Feb 22",Phoenix ,W104-92  ,35-19,Bryant  40,Bryant  7,Bryant  5,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Feb 25",Denver ,W112-111  ,36-19,Bryant  35,O'Neal  8,Bryant  10,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Thu, Feb 26", Sacramento ,L103-101  ,36-20,Bryant  35,Bryant  11,Bryant  6,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sat, Feb 28",Washington ,W122-110  ,37-20,O'Neal  29,Bryant  14,Bryant  10,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Feb 29",New Jersey ,W100-83  ,38-20,O'Neal  19,O'Neal  14,Bryant  10,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Tue, Mar 2",Atlanta ,L94-93  ,38-21,O'Neal  23,O'Neal  14,Payton  10,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 3",Houston ,W96-93  ,39-21,O'Neal  28,Bryant  8,Bryant  13,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Mar 5", Seattle ,W99-91  ,40-21,O'Neal  32,Walton  9,Payton  7,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Mar 7", New Jersey ,W94-88  ,41-21,O'Neal  32,O'Neal  9,Fox  5,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Mon, Mar 8",Utah ,L88-83  ,41-22,Payton  21,O'Neal  10,Payton  7,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 10",Boston ,W117-109  ,42-22,O'Neal  28,O'Neal  17,Bryant  10,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Mar 12",Minnesota ,L96-86  ,42-23,O'Neal  24,O'Neal  13,Payton  6,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sat, Mar 13",Chicago ,W88-81  ,43-23,Bryant  35,O'Neal  15,Malone  7,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Mon, Mar 15", Orlando ,W113-110 OT ,44-23,Bryant  38,O'Neal  23,Bryant  4,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 17",LA ,W106-103  ,45-23,Bryant  27,O'Neal  11,Payton  7,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Mar 19", LA ,W106-100  ,46-23,Bryant  27,O'Neal  10,O'Neal  6,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Mar 21", Milwaukee ,W104-103 OT ,47-23,O'Neal  31,O'Neal  26,Payton  6,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 24", Sacramento ,W115-91  ,48-23,Bryant  36,O'Neal  16,Bryant  6,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Mar 26", Minnesota ,W90-73  ,49-23,Bryant  35,O'Neal  18,Bryant  5,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Mar 28", Utah ,W91-84  ,50-23,Bryant  34,O'Neal  14,Bryant  4,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Tue, Mar 30", New Orleans ,W107-88  ,51-23,Bryant  23,O'Neal  9,Malone  9,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Thu, Apr 1", Houston ,W93-85  ,52-23,Bryant  26,Malone  14,Malone  6,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Apr 2",Seattle ,W97-86  ,53-23,Bryant  25,O'Neal  14,Fox  6,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Apr 4", San Antonio ,L95-89  ,53-24,Bryant  28,O'Neal  9,O'Neal  4,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Tue, Apr 6", Portland ,L91-80  ,53-25,O'Neal  17,O'Neal  12,Bryant  8,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Fri, Apr 9", Memphis ,W103-95  ,54-25,Bryant  33,O'Neal  12,Bryant  7,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Sun, Apr 11",Sacramento ,L102-85  ,54-26,Payton  15,Malone  11,Fisher  5,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Tue, Apr 13", Golden State ,W109-104  ,55-26,Bryant  45,O'Neal  13,Bryant  8,A,Los Angeles Lakers 2003-04 Regular Season NBA Schedule
+"Wed, Apr 14",Portland ,W105-104 2OT ,56-26,Bryant  37,O'Neal  14,Fisher  6,H,Los Angeles Lakers 2003-04 Regular Season NBA Schedule

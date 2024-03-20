@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 28",Phoenix ,W111-95  ,1-0,Felton  18,Pachulia  10,Williams  7,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Thu, Oct 29",LA ,L104-88  ,1-1,Jenkins  17,Powell  8,Barea  9,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Nov 1",Los Angeles ,W103-93  ,2-1,Nowitzki  25,Pachulia  12,Williams  8,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Tue, Nov 3", Toronto ,L102-91  ,2-2,Nowitzki  18,Powell  10,Barea  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Thu, Nov 5", Charlotte ,L108-94  ,2-3,Williams  15,Pachulia  10,Barea  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sat, Nov 7", New Orleans ,W107-98  ,3-3,Williams  19,Pachulia  14,Harris  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Tue, Nov 10",New Orleans ,L120-105  ,3-4,Nowitzki  18,Villanueva  9,Barea  5,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Nov 11", LA ,W118-108  ,4-4,Nowitzki  31,Nowitzki  11,Barea  7,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Nov 13", Los Angeles ,W90-82  ,5-4,Pachulia  18,Pachulia  16,Williams  7,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sat, Nov 14",Houston ,W110-98  ,6-4,Felton  23,Powell  9,Barea  8,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Mon, Nov 16",Philadelphia ,W92-86  ,7-4,Nowitzki  21,Powell  8,Williams  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Nov 18",Boston ,W106-102  ,8-4,Nowitzki  23,Pachulia  12,Williams  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Nov 20", Utah ,W102-93  ,9-4,Williams  23,Pachulia  12,Williams  8,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Nov 22",Oklahoma City ,L117-114  ,9-5,Williams  20,Pachulia  10,Williams  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Tue, Nov 24",Memphis ,L110-96  ,9-6,Felton  16,Nowitzki  10,Barea  4,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Nov 25",San Antonio ,L88-83  ,9-7,Matthews  15,Nowitzki  14,Williams  9,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sat, Nov 28", Denver ,W92-81  ,10-7,Williams  22,Pachulia  12,Williams  4,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Mon, Nov 30",Sacramento ,L112-98  ,10-8,Parsons  14,Pachulia  10,Williams  7,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Tue, Dec 1",Portland ,W115-112 OT ,11-8,Williams  30,Pachulia  21,Williams  8,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Dec 4", Houston ,L100-96  ,11-9,Williams  22,Pachulia  11,Williams  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Dec 6",Washington ,W116-104  ,12-9,Matthews  36,Felton  10,Williams  9,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Mon, Dec 7",New York ,W104-97  ,13-9,Nowitzki  25,Pachulia  8,Williams  7,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Dec 9", Atlanta ,L98-95  ,13-10,Williams  18,Pachulia  17,Williams  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sat, Dec 12", Washington ,L114-111  ,13-11,Matthews  28,Pachulia  12,Felton  11,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Mon, Dec 14", Phoenix ,W104-94  ,14-11,Williams  18,Pachulia  12,Felton  4,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Dec 16",Indiana ,L107-81  ,14-12,Felton  16,Pachulia  14,Williams  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Dec 18", Memphis ,W97-88  ,15-12,Nowitzki  20,Pachulia  18,Parsons  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Tue, Dec 22",Toronto ,L103-99  ,15-13,Nowitzki  20,Nowitzki  7,Williams  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Dec 23",Brooklyn ,W119-118 OT ,16-13,Barea  32,Parsons  7,Barea  11,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sat, Dec 26", Chicago ,W118-111  ,17-13,Barea  26,Pachulia  12,Barea  5,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Mon, Dec 28", Milwaukee ,W103-93  ,18-13,Matthews  22,Pachulia  8,Barea  5,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Dec 30", Golden State ,W114-91  ,19-13,Barea  23,Pachulia  15,Barea  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Jan 1",Miami ,L106-82  ,19-14,Pachulia  14,Pachulia  13,Williams  5,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sat, Jan 2", New Orleans ,L105-98  ,19-15,Nowitzki  24,Pachulia  9,Barea  5,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Tue, Jan 5", Sacramento ,W117-116 2OT ,20-15,Williams  25,Pachulia  17,Williams  4,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Jan 6",New Orleans ,W100-91  ,21-15,Felton  22,Powell  10,Felton  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Jan 8",Milwaukee ,L96-95  ,21-16,Nowitzki  20,Pachulia  15,Williams  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Jan 10",Minnesota ,W93-87  ,22-16,Nowitzki  29,Pachulia  11,Barea  4,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Tue, Jan 12", Cleveland ,L110-107 OT ,22-17,Parsons  25,Pachulia  12,Williams  10,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Jan 13",Oklahoma City ,L108-89  ,22-18,Barea  18,Mejri  9,Barea  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Jan 15",Chicago ,W83-77  ,23-18,Nowitzki  21,Pachulia  10,Williams  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Jan 17",San Antonio ,L112-83  ,23-19,Powell  15,McGee  10,Barea  4,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Mon, Jan 18", Boston ,W118-113 OT ,24-19,Nowitzki  31,Pachulia  19,Williams  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Jan 20", Minnesota ,W106-94 OT ,25-19,Parsons  30,Parsons  8,Matthews  4,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Jan 22", Oklahoma City ,L109-106  ,25-20,Parsons  26,Pachulia  8,Williams  5,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Jan 24",Houston ,L115-104  ,25-21,Parsons  31,Mejri  11,Williams  5,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Tue, Jan 26",Los Angeles ,W92-90  ,26-21,Barea  18,Parsons  9,Matthews  5,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Jan 27",Golden State ,L127-107  ,26-22,Parsons  23,Parsons  7,Barea  5,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Jan 29", Brooklyn ,W91-79  ,27-22,Parsons  19,Pachulia  12,Williams  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Jan 31", Phoenix ,W91-78  ,28-22,Williams  27,Pachulia  15,Felton  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Mon, Feb 1",Atlanta ,L112-97  ,28-23,Parsons  19,Pachulia  13,Barea  4,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Feb 3", Miami ,L93-90  ,28-24,Nowitzki  28,Pachulia  15,Barea  4,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Feb 5", San Antonio ,L116-90  ,28-25,Villanueva  13,Nowitzki  8,Felton  4,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sat, Feb 6",Memphis ,W114-110 OT ,29-25,Parsons  26,Parsons  8,Williams  11,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Tue, Feb 9", Utah ,L121-119 OT ,29-26,Parsons  24,Pachulia  11,Barea  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Feb 19",Orlando ,L110-104 OT ,29-27,Williams  25,Pachulia  19,Williams  7,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Feb 21", Philadelphia ,W129-103  ,30-27,Matthews  21,Pachulia  10,Williams  8,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Feb 24", Oklahoma City ,L116-103  ,30-28,Nowitzki  33,Pachulia  10,Felton  9,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Feb 26", Denver ,W122-116 OT ,31-28,Parsons  27,Lee  14,Felton  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Feb 28", Minnesota ,W128-101  ,32-28,Parsons  29,Lee  9,Williams  9,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Tue, Mar 1", Orlando ,W121-108  ,33-28,Matthews  21,Pachulia  10,Williams  6,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Thu, Mar 3", Sacramento ,L104-101  ,33-29,Parsons  28,Lee  11,Parsons  5,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Mar 6",Denver ,L116-114 OT ,33-30,Nowitzki  30,Lee  12,Williams  5,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Mon, Mar 7", LA ,L109-90  ,33-31,Nowitzki  22,Lee  8,Williams  4,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Mar 9", Detroit ,L102-96  ,33-32,Nowitzki  25,Pachulia  13,Williams  9,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sat, Mar 12", Indiana ,L112-105  ,33-33,Nowitzki  30,Pachulia  9,Williams  8,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Mon, Mar 14",Charlotte ,W107-96  ,34-33,Parsons  24,Nowitzki  11,Felton  12,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Mar 16",Cleveland ,L99-98  ,34-34,Nowitzki  20,Harris  6,Parsons  10,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Mar 18", Golden State ,L130-112  ,34-35,Nowitzki  24,Lee  16,Barea  7,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Mar 20", Portland ,W132-120 OT ,35-35,Nowitzki  40,Mejri  14,Williams  16,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Mar 23",Portland ,L109-103  ,35-36,Matthews  22,Mejri  12,Williams  11,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Mar 25",Golden State ,L128-120  ,35-37,Matthews  26,Pachulia  13,Barea  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Mar 27",Sacramento ,L133-111  ,35-38,Felton  15,Lee  6,Felton  5,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Mon, Mar 28",Denver ,W97-88  ,36-38,Barea  18,Powell  7,Barea  11,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Mar 30", New York ,W91-89  ,37-38,Barea  26,Anderson  9,Barea  7,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Apr 1",Detroit ,W98-89  ,38-38,Barea  29,Pachulia  11,Barea  3,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Apr 3",Minnesota ,W88-78  ,39-38,Barea  21,Anderson  10,Barea  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Apr 6", Houston ,W88-86  ,40-38,Barea  27,Lee  8,Barea  8,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Fri, Apr 8", Memphis ,W103-93  ,41-38,Nowitzki  21,Anderson  10,Felton  14,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Sun, Apr 10",LA ,L98-91  ,41-39,Felton  21,Lee  7,Felton  5,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Mon, Apr 11",Utah ,W101-92  ,42-39,Williams  23,Nowitzki  11,Williams  6,H,Dallas Mavericks 2015-16 Regular Season NBA Schedule
+"Wed, Apr 13", San Antonio ,L96-91  ,42-40,Felton  22,Pachulia  12,Williams  7,A,Dallas Mavericks 2015-16 Regular Season NBA Schedule

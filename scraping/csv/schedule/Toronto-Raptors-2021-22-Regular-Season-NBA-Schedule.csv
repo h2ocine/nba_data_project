@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 20", Washington ,L98-83  ,0-1,Barnes  12,Anunoby  10,VanVleet  4,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Oct 22",Boston ,W115-83  ,1-1,Barnes  25,Achiuwa  15,VanVleet  9,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sat, Oct 23", Dallas ,L103-95  ,1-2,Anunoby  23,Achiuwa  12,VanVleet  5,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Oct 25", Chicago ,L111-108  ,1-3,Anunoby  22,Achiuwa  11,VanVleet  17,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Oct 27", Indiana ,W118-100  ,2-3,VanVleet  26,VanVleet  10,Barnes  7,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Oct 29", Orlando ,W110-109  ,3-3,Barnes  21,Barnes  9,VanVleet  6,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sat, Oct 30",Indiana ,W97-94  ,4-3,Barnes  21,Barnes  12,Anunoby  5,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Nov 1",New York ,W113-104  ,5-3,Anunoby  36,VanVleet  9,VanVleet  8,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Nov 3",Washington ,W109-100  ,6-3,VanVleet  33,Achiuwa  10,VanVleet  6,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Nov 5", Cleveland ,L102-101  ,6-4,Anunoby  23,Barnes  9,VanVleet  6,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Nov 7", Brooklyn ,L116-103  ,6-5,VanVleet  21,Anunoby  8,VanVleet  8,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Nov 10",Boston ,L104-88  ,6-6,Barnes  21,Achiuwa  9,VanVleet  6,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Thu, Nov 11",Philadelphia ,W115-109  ,7-6,VanVleet  32,Barnes  9,VanVleet  7,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sat, Nov 13", Detroit ,L127-121  ,7-7,Siakam  25,Siakam  12,Siakam  7,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Nov 15",Portland ,L118-113  ,7-8,Anunoby  29,Barnes  8,VanVleet  7,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Thu, Nov 18",Utah ,L119-103  ,7-9,Trent Jr.  31,Boucher  8,Barnes  6,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Nov 19",Sacramento ,W108-89  ,8-9,Siakam  32,Boucher  12,VanVleet  6,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Nov 21",Golden State ,L119-104  ,8-10,Siakam  21,Barnes  13,VanVleet  7,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Nov 24",Memphis ,W126-113  ,9-10,Trent Jr.  26,Barnes  9,VanVleet  7,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Nov 26",Indiana ,L114-97  ,9-11,VanVleet  26,Siakam  12,VanVleet  4,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Nov 28", Boston ,L109-97  ,9-12,VanVleet  27,Achiuwa  9,Siakam  5,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Tue, Nov 30", Memphis ,L98-91  ,9-13,Siakam  20,VanVleet  9,Siakam  5,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Thu, Dec 2", Milwaukee ,W97-93  ,10-13,VanVleet  29,Siakam  8,VanVleet  4,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Dec 5", Washington ,W102-90  ,11-13,Siakam  31,Achiuwa  14,Banton  6,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Dec 8", Oklahoma City ,L110-109  ,11-14,Trent Jr.  24,Siakam  11,VanVleet  9,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Dec 10", New York ,W90-87  ,12-14,Trent Jr.  24,Barnes  15,VanVleet  11,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Dec 13", Sacramento ,W124-101  ,13-14,Boucher  17,Watanabe  11,Banton  6,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Tue, Dec 14",Brooklyn ,L131-129 OT ,13-15,VanVleet  31,Barnes  12,VanVleet  9,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sat, Dec 18", Golden State ,W119-100  ,14-15,VanVleet  27,Barnes  8,VanVleet  12,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Dec 26",Cleveland ,L144-99  ,14-16,Watanabe  26,Watanabe  13,Waters  6,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Tue, Dec 28", Philadelphia ,L114-109  ,14-17,Boucher  28,Boucher  19,Siakam  8,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Dec 31", LA ,W116-108  ,15-17,VanVleet  31,Siakam  19,VanVleet  9,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Jan 2", New York ,W120-105  ,16-17,VanVleet  35,Siakam  14,Siakam  7,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Tue, Jan 4", San Antonio ,W129-104  ,17-17,VanVleet  33,Siakam  12,Barnes  8,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Jan 5",Milwaukee ,W117-111  ,18-17,Siakam  33,Achiuwa  8,Siakam  6,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Jan 7", Utah ,W122-108  ,19-17,VanVleet  37,VanVleet  10,VanVleet  10,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Jan 9", New Orleans ,W105-101  ,20-17,VanVleet  32,Siakam  10,Siakam  7,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Tue, Jan 11", Phoenix ,L99-95  ,20-18,Anunoby  25,Boucher  16,Siakam  7,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Jan 14",Detroit ,L103-87  ,20-19,VanVleet  24,Siakam  11,VanVleet  10,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sat, Jan 15",Milwaukee ,W103-96  ,21-19,Siakam  30,Champagnie  12,Siakam  10,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Jan 17",Miami ,L104-99  ,21-20,Boucher  23,Achiuwa  15,Siakam  10,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Jan 19",Dallas ,L102-98  ,21-21,Siakam  20,Boucher  12,VanVleet  12,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Jan 21",Washington ,W109-105  ,22-21,Barnes  27,Anunoby  9,VanVleet  12,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Jan 23", Portland ,L114-105  ,22-22,Siakam  28,Boucher  9,VanVleet  8,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Tue, Jan 25", Charlotte ,W125-113  ,23-22,Trent Jr.  32,Siakam  9,Siakam  12,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Jan 26",Chicago ,L111-105  ,23-23,Trent Jr.  32,Siakam  7,Barnes  7,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sat, Jan 29",Miami ,W124-120 3OT ,24-23,Trent Jr.  33,Anunoby  14,VanVleet  8,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Jan 31",Atlanta ,W106-100  ,25-23,Trent Jr.  31,Boucher  7,VanVleet  11,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Tue, Feb 1", Miami ,W110-106  ,26-23,Trent Jr.  33,Siakam  14,VanVleet  6,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Thu, Feb 3", Chicago ,W127-120 OT ,27-23,Siakam  25,Siakam  13,VanVleet  9,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Feb 4", Atlanta ,W125-114  ,28-23,Siakam  33,Anunoby  10,VanVleet  11,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Feb 7",Charlotte ,W116-101  ,29-23,Siakam  24,Siakam  11,Siakam  8,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Feb 9",Oklahoma City ,W117-98  ,30-23,Siakam  27,Siakam  16,VanVleet  6,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Thu, Feb 10",Houston ,W139-120  ,31-23,Trent Jr.  42,Barnes  7,Barnes  6,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sat, Feb 12", Denver ,L110-109  ,31-24,Siakam  35,Siakam  10,Siakam  7,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Feb 14",New Orleans ,L120-90  ,31-25,VanVleet  20,Boucher  6,VanVleet  2,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Feb 16",Minnesota ,W103-91  ,32-25,Trent Jr.  30,Boucher  10,Siakam  9,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Feb 25",Charlotte ,L125-93  ,32-26,Barnes  28,Barnes  5,Flynn  5,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sat, Feb 26",Atlanta ,L127-100  ,32-27,VanVleet  24,Siakam  10,VanVleet  9,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Feb 28",Brooklyn ,W133-97  ,33-27,Barnes  28,Barnes  16,Siakam  6,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Tue, Mar 1", Brooklyn ,W109-108  ,34-27,Trent Jr.  24,Barnes  10,Flynn  8,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Thu, Mar 3", Detroit ,L108-106  ,34-28,Siakam  28,Barnes  10,Trent Jr.  4,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Mar 4", Orlando ,L103-97  ,34-29,Siakam  34,Siakam  14,Flynn  8,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Mar 6",Cleveland ,L104-96  ,34-30,Siakam  24,Barnes  12,Barnes  6,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Mar 9",San Antonio ,W119-104  ,35-30,VanVleet  26,Siakam  8,Banton  4,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Mar 11",Phoenix ,W117-112  ,36-30,Trent Jr.  42,Trent Jr.  8,Siakam  10,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sat, Mar 12",Denver ,W127-115  ,37-30,Siakam  33,Boucher  13,Barnes  10,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Mar 14",Los Angeles ,W114-103  ,38-30,Trent Jr.  28,Siakam  11,VanVleet  7,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Mar 16",LA ,W103-100  ,39-30,Siakam  31,Siakam  12,Siakam  3,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Mar 18", Los Angeles ,L128-123 OT ,39-31,Barnes  31,Barnes  17,VanVleet  7,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Mar 20",Philadelphia ,W93-88  ,40-31,Siakam  26,Boucher  14,Siakam  5,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Mar 21",Chicago ,L113-99  ,40-32,Siakam  22,Boucher  10,VanVleet  9,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Thu, Mar 24", Cleveland ,W117-104  ,48-34,Siakam  35,Boucher  8,VanVleet  8,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sat, Mar 26", Indiana ,W131-91  ,42-32,Siakam  23,Boucher  10,Siakam  7,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Mon, Mar 28", Boston ,W115-112 OT ,43-32,Siakam  40,Siakam  13,Barnes  4,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Wed, Mar 30", Minnesota ,W125-102  ,44-32,Trent Jr.  29,Siakam  10,Siakam  13,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Apr 1",Orlando ,W102-89  ,45-32,Barnes  19,Siakam  11,Barnes  7,H,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Apr 3", Miami ,L114-109  ,45-33,Siakam  29,Siakam  8,VanVleet  7,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Tue, Apr 5", Atlanta ,W118-108  ,46-33,Siakam  31,Barnes  14,VanVleet  9,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Thu, Apr 7", Philadelphia ,W119-114  ,47-33,Siakam  37,Siakam  10,Siakam  12,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Fri, Apr 8", Houston ,W117-115  ,48-33,Siakam  29,Siakam  12,Siakam  7,A,Toronto Raptors 2021-22 Regular Season NBA Schedule
+"Sun, Apr 10",New York ,L105-94  ,48-34,Boucher  21,Anunoby  9,Barnes  5,H,Toronto Raptors 2021-22 Regular Season NBA Schedule

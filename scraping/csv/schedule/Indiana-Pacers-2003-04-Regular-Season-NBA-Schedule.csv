@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 29",Detroit ,W89-87  ,1-0,O'Neal  22,O'Neal  15,World Peace  4,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Oct 31", Milwaukee ,L93-79  ,1-1,Harrington  26,O'Neal  7,O'Neal  5,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Nov 1",Atlanta ,W103-99 OT ,2-1,World Peace  22,Harrington  13,Johnson  6,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Nov 4", Denver ,W71-60  ,3-1,O'Neal  25,O'Neal  20,Miller  6,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Thu, Nov 6",New Jersey ,W87-81  ,4-1,World Peace  21,O'Neal  7,Anderson  6,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Nov 7", Cleveland ,W91-90  ,5-1,World Peace  21,O'Neal  12,O'Neal  5,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sun, Nov 9",Philadelphia ,W85-74  ,6-1,World Peace  30,World Peace  10,Miller  7,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Nov 11", Boston ,L78-76  ,6-2,O'Neal  25,O'Neal  11,Anderson  6,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Nov 14", Seattle ,W101-78  ,7-2,Foster  19,Foster  12,Anderson  6,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Nov 15",New York ,W95-94  ,8-2,Miller  31,O'Neal  6,Anderson  6,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Wed, Nov 19", LA ,W91-78  ,9-2,Harrington  22,Foster  14,Miller  5,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Nov 21",New Orleans ,W76-75  ,10-2,O'Neal  24,O'Neal  11,Johnson  4,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Mon, Nov 24",Orlando ,W89-78  ,11-2,O'Neal  22,O'Neal  19,Anderson  6,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Nov 25", Minnesota ,W98-75  ,12-2,World Peace  20,Harrington  10,Harrington  6,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Thu, Nov 27", New York ,W93-70  ,13-2,O'Neal  27,O'Neal  11,Anderson  5,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Nov 28", Philadelphia ,W90-77  ,14-2,O'Neal  21,Harrington  12,World Peace  8,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sun, Nov 30",Los Angeles ,L99-77  ,14-3,Harrington  18,Harrington  10,Miller  3,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Mon, Dec 1",Phoenix ,W89-82  ,15-3,O'Neal  32,O'Neal  14,Harrington  7,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Wed, Dec 3",Portland ,L97-95 OT ,15-4,World Peace  21,O'Neal  11,World Peace  5,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Dec 5",Seattle ,W101-94  ,16-4,O'Neal  30,Harrington  14,Johnson  6,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sun, Dec 7",Sacramento ,L91-88  ,16-5,O'Neal  20,O'Neal  13,Brewer  3,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Dec 9", Washington ,W93-79  ,17-5,World Peace  16,O'Neal  9,World Peace  9,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Dec 12", Atlanta ,W103-92  ,18-5,O'Neal  20,Croshere  8,World Peace  5,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Dec 13",Chicago ,L86-75  ,18-6,World Peace  23,World Peace  8,World Peace  5,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Mon, Dec 15", Cleveland ,W95-85  ,19-6,O'Neal  24,Harrington  11,World Peace  7,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Wed, Dec 17", Orlando ,L94-90  ,19-7,O'Neal  24,O'Neal  17,Jones  6,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Dec 19", Detroit ,W80-75  ,20-7,World Peace  22,O'Neal  11,World Peace  5,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Dec 20",Minnesota ,L102-80  ,20-8,O'Neal  16,World Peace  7,World Peace  6,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Dec 23",Houston ,W79-71  ,21-8,O'Neal  21,O'Neal  14,World Peace  5,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Dec 26",Milwaukee ,L101-96  ,21-9,O'Neal  27,O'Neal  11,World Peace  5,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Dec 27", New Jersey ,L82-75  ,21-10,Harrington  22,O'Neal  11,Miller  4,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Mon, Dec 29", Memphis ,W94-86  ,22-10,O'Neal  20,O'Neal  13,Tinsley  5,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Dec 30",Cleveland ,W92-89  ,23-10,O'Neal  21,O'Neal  10,Tinsley  9,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 2",Boston ,W103-90  ,24-10,World Peace  28,O'Neal  13,Tinsley  7,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Jan 3", New Orleans ,W91-84  ,25-10,O'Neal  26,O'Neal  16,Tinsley  9,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Mon, Jan 5",Miami ,W87-65  ,26-10,O'Neal  22,O'Neal  11,World Peace  4,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Jan 6", Orlando ,W114-107  ,27-10,O'Neal  25,Foster  11,Miller  8,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 9",Dallas ,W92-80  ,28-10,World Peace  26,World Peace  11,Tinsley  12,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Jan 10",San Antonio ,L89-88 OT ,28-11,O'Neal  22,O'Neal  11,World Peace  4,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Wed, Jan 14", Atlanta ,W85-78  ,29-11,O'Neal  26,O'Neal  16,Tinsley  6,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 16", San Antonio ,W89-79  ,30-11,Miller  28,O'Neal  10,Tinsley  8,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Jan 17",New Jersey ,W90-84  ,31-11,O'Neal  20,Harrington  12,Miller  4,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Mon, Jan 19",Atlanta ,W100-97  ,32-11,O'Neal  24,O'Neal  10,World Peace  6,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Jan 20", Detroit ,W81-69  ,33-11,O'Neal  28,O'Neal  15,Tinsley  5,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Jan 23", Houston ,L78-74  ,33-12,O'Neal  31,Harrington  11,Tinsley  6,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Jan 24",Washington ,L107-96  ,33-13,Harrington  21,O'Neal  15,World Peace  7,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Wed, Jan 28", Phoenix ,W101-79  ,34-13,Harrington  24,O'Neal  7,Tinsley  8,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Jan 31", Boston ,W99-98  ,35-13,Harrington  27,Foster  9,Tinsley  10,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Mon, Feb 2", Los Angeles ,W85-72  ,36-13,World Peace  24,Foster  11,Tinsley  6,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Feb 3",New York ,L97-90  ,36-14,World Peace  19,Foster  7,World Peace  5,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Feb 6",Toronto ,W83-77  ,37-14,World Peace  27,O'Neal  14,World Peace  5,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sun, Feb 8", Miami ,W97-91  ,38-14,O'Neal  22,O'Neal  13,Jones  5,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Feb 10",Chicago ,W103-84  ,39-14,World Peace  26,O'Neal  10,Johnson  5,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Feb 17", New Orleans ,L89-75  ,39-15,O'Neal  17,Foster  9,Tinsley  5,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Feb 20",Washington ,W96-87  ,40-15,Miller  24,Foster  13,Tinsley  10,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sun, Feb 22", Utah ,W94-80  ,41-15,O'Neal  21,O'Neal  10,O'Neal  4,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Feb 24", Golden State ,W107-96  ,42-15,O'Neal  34,Foster  10,Tinsley  11,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Feb 27",New Orleans ,L89-77  ,42-16,O'Neal  15,O'Neal  8,O'Neal  3,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Feb 28", Philadelphia ,W81-74  ,43-16,O'Neal  23,Harrington  9,Tinsley  8,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Mar 2",Golden State ,W96-88  ,44-16,Miller  21,Harrington  12,Tinsley  9,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 3",LA ,W101-94 OT ,45-16,World Peace  25,O'Neal  17,Tinsley  7,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Mar 5",Utah ,W96-88  ,46-16,O'Neal  30,O'Neal  10,World Peace  5,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sun, Mar 7",Denver ,W103-94  ,47-16,O'Neal  31,O'Neal  10,Johnson  7,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Mar 9", Toronto ,W94-84 OT ,48-16,World Peace  23,O'Neal  18,Tinsley  11,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Mar 12",Boston ,W99-81  ,49-16,Miller  18,Foster  8,Johnson  6,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sun, Mar 14",Cleveland ,L107-104  ,49-17,O'Neal  32,O'Neal  12,Tinsley  8,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 17", Portland ,W80-71  ,50-17,World Peace  21,O'Neal  10,Tinsley  12,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Mar 19", Sacramento ,L94-92  ,50-18,O'Neal  23,Foster  12,Jones  4,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sat, Mar 20",Memphis ,L99-95  ,50-19,O'Neal  28,O'Neal  11,Tinsley  8,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Mon, Mar 22", Chicago ,W101-77  ,51-19,Miller  17,Foster  8,Tinsley  8,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 24", Dallas ,W103-99  ,52-19,World Peace  20,Foster  12,Tinsley  6,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Mar 26",Orlando ,W107-92  ,53-19,World Peace  35,Foster  11,World Peace  5,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sun, Mar 28", Miami ,W87-80  ,54-19,O'Neal  23,O'Neal  14,World Peace  4,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Mar 30",Milwaukee ,L95-86  ,54-20,O'Neal  20,Foster  10,Anderson  4,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Wed, Mar 31", Milwaukee ,W111-78  ,55-20,World Peace  21,Harrington  10,O'Neal  7,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Apr 2", Toronto ,W84-64  ,56-20,World Peace  21,Foster  13,World Peace  6,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Sun, Apr 4",Detroit ,L79-61  ,56-21,World Peace  16,O'Neal  9,Anderson  3,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Tue, Apr 6", New York ,W107-86  ,57-21,World Peace  26,Foster  10,Tinsley  9,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Wed, Apr 7",Toronto ,W94-90  ,58-21,O'Neal  22,O'Neal  11,Tinsley  8,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Fri, Apr 9", New Jersey ,W90-80  ,59-21,World Peace  24,World Peace  7,Tinsley  8,A,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Mon, Apr 12",Philadelphia ,W107-93  ,60-21,O'Neal  28,O'Neal  7,Miller  6,H,Indiana Pacers 2003-04 Regular Season NBA Schedule
+"Wed, Apr 14", Chicago ,W101-96  ,61-21,Harrington  22,O'Neal  13,Tinsley  7,A,Indiana Pacers 2003-04 Regular Season NBA Schedule

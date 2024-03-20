@@ -1,0 +1,67 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Mon, Dec 26",Portland ,L107-103  ,0-1,Williams  25,Hawes  14,Hawes  9,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Dec 28",Phoenix ,W103-83  ,1-1,Young  15,Hawes  11,Iguodala  6,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Dec 30",Utah ,L102-99  ,1-2,Holiday  22,Hawes  13,Williams  5,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sat, Dec 31",Golden State ,W107-79  ,2-2,Williams  23,Hawes  12,Iguodala  7,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Jan 4",New Orleans ,W101-93  ,3-2,Holiday  23,Brand  12,Holiday  8,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Jan 6", Detroit ,W96-73  ,4-2,Meeks  21,Hawes  14,Holiday  9,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sat, Jan 7", Toronto ,W97-62  ,5-2,Iguodala  14,Iguodala  10,Holiday  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Mon, Jan 9", Indiana ,W96-86  ,6-2,Iguodala  20,Iguodala  9,Williams  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Tue, Jan 10", Sacramento ,W112-85  ,7-2,Brand  21,Brand  10,Holiday  8,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Jan 11",New York ,L85-79  ,7-3,Turner  16,Brand  10,Holiday  4,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Jan 13", Washington ,W120-89  ,8-3,Meeks  26,Hawes  10,Williams  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sat, Jan 14",Washington ,W103-90  ,9-3,Williams  24,Iguodala  7,Iguodala  5,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Mon, Jan 16", Milwaukee ,W94-82  ,10-3,Holiday  24,Hawes  10,Williams  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Jan 18", Denver ,L108-104 OT ,10-4,Young  22,Turner  11,Iguodala  9,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Jan 20", Atlanta ,W90-76  ,11-4,Young  20,Brand  16,Holiday  11,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sat, Jan 21",Miami ,L113-92  ,11-5,Williams  22,Vucevic  9,Williams  4,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Mon, Jan 23", Washington ,W103-83  ,12-5,Brand  17,Brand  9,Iguodala  11,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Jan 25", New Jersey ,L97-90 OT ,12-6,Williams  17,Meeks  8,Holiday  7,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Jan 27", Charlotte ,W89-72  ,13-6,Williams  17,Allen  7,Iguodala  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sat, Jan 28", Detroit ,W95-74  ,14-6,Williams  17,Iguodala  10,Iguodala  10,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Mon, Jan 30", Orlando ,W74-69  ,15-6,Iguodala  14,Iguodala  11,Iguodala  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Feb 1", Chicago ,W98-82  ,16-6,Iguodala  19,Iguodala  9,Williams  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Feb 3", Miami ,L99-79  ,16-7,Young  16,Iguodala  7,Holiday  7,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sat, Feb 4",Atlanta ,W98-87  ,17-7,Vucevic  15,Iguodala  8,Iguodala  10,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Mon, Feb 6", Los Angeles ,W95-90  ,18-7,Williams  24,Vucevic  6,Holiday  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Feb 8", San Antonio ,L100-90  ,18-8,Williams  22,Brand  13,Holiday  7,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Feb 10", LA ,L78-77  ,18-9,Brand  12,Brand  10,Holiday  8,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sat, Feb 11",Cleveland ,W99-84  ,19-9,Holiday  20,Young  6,Holiday  5,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Mon, Feb 13",Charlotte ,W98-89  ,20-9,Williams  23,Vucevic  10,Iguodala  9,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Feb 15",Orlando ,L103-87  ,20-10,Williams  21,Turner  8,Williams  7,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Feb 17", Dallas ,L82-75  ,20-11,Vucevic  16,Allen  10,Iguodala  7,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sun, Feb 19",Minnesota ,L92-91  ,20-12,Holiday  20,Allen  8,Iguodala  3,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Tue, Feb 21",Memphis ,L89-76  ,20-13,Holiday  22,Young  7,Iguodala  7,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Feb 22",Houston ,L93-87  ,20-14,Vucevic  18,Vucevic  8,Iguodala  4,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Tue, Feb 28",Detroit ,W97-68  ,21-14,Young  20,Young  8,Williams  7,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Feb 29", Oklahoma City ,L92-88  ,21-15,Iguodala  18,Brand  10,Iguodala  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Mar 2", Golden State ,W105-83  ,22-15,Williams  25,Brand  14,Iguodala  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sun, Mar 4", Chicago ,L96-91  ,22-16,Young  17,Brand  13,Williams  7,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Mon, Mar 5",Milwaukee ,L97-93  ,22-17,Williams  26,Young  13,Iguodala  5,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Mar 7", Boston ,W103-71  ,23-17,Turner  26,Vucevic  12,Iguodala  8,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Mar 9", Utah ,W104-91  ,24-17,Young  21,Turner  12,Iguodala  10,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sun, Mar 11",New York ,W106-94  ,25-17,Williams  28,Turner  15,Iguodala  8,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Mar 14",Indiana ,L111-94  ,25-18,Turner  21,Turner  5,Iguodala  9,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Mar 16", Miami ,L84-78  ,25-19,Turner  13,Iguodala  10,Turner  5,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sat, Mar 17",Chicago ,L89-80  ,25-20,Holiday  30,Hawes  7,Holiday  5,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Mon, Mar 19",Charlotte ,W105-80  ,26-20,Young  20,Hawes  11,Holiday  6,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Mar 21", New York ,L82-79  ,26-21,Holiday  16,Brand  12,Holiday  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Mar 23", Boston ,W99-86  ,27-21,Brand  20,Hawes  10,Iguodala  8,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sun, Mar 25",San Antonio ,L93-76  ,27-22,Brand  14,Brand  9,Hawes  4,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Tue, Mar 27", Cleveland ,W103-85  ,28-22,Meeks  31,Hawes  8,Williams  7,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Mar 30",Washington ,L97-76  ,28-23,Young  14,Brand  9,Holiday  4,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sat, Mar 31", Atlanta ,W95-90  ,29-23,Brand  25,Brand  10,Holiday  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Tue, Apr 3",Miami ,L99-93  ,29-24,Turner  26,Turner  8,Holiday  6,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Apr 4", Toronto ,L99-78  ,29-25,Brand  20,Hawes  9,Iguodala  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sat, Apr 7", Orlando ,L88-82  ,29-26,Young  20,Brand  11,Iguodala  10,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sun, Apr 8",Boston ,L103-79  ,29-27,Vucevic  14,Vucevic  13,Williams  5,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Tue, Apr 10",New Jersey ,W107-88  ,30-27,Williams  20,Williams  8,Iguodala  7,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Apr 11",Toronto ,W93-75  ,31-27,Young  17,Brand  8,Holiday  7,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Fri, Apr 13", New Jersey ,L95-89  ,31-28,Holiday  19,Hawes  10,Holiday  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Mon, Apr 16",Orlando ,L113-100  ,31-29,Holiday  18,Iguodala  8,Hawes  9,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Tue, Apr 17", Indiana ,L102-97  ,31-30,Iguodala  23,Hawes  8,Iguodala  6,A,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Apr 18",Cleveland ,W103-87  ,32-30,Holiday  24,Iguodala  13,Iguodala  7,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Sat, Apr 21",Indiana ,W109-106 OT ,33-30,Brand  20,Brand  9,Holiday  7,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Mon, Apr 23",New Jersey ,W105-87  ,34-30,Brand  15,Iguodala  7,Iguodala  9,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Wed, Apr 25",Milwaukee ,W90-85  ,35-30,Turner  29,Turner  13,Turner  6,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule
+"Thu, Apr 26",Detroit ,L108-86  ,35-31,Hawes  16,Vucevic  12,Turner  6,H,Philadelphia 76ers 2011-12 Regular Season NBA Schedule

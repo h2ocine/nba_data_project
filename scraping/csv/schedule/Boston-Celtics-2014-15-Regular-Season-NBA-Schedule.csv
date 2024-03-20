@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 29", Brooklyn ,W121-105  ,1-0,Olynyk  19,Rondo  7,Rondo  12,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sat, Nov 1",Houston ,L104-90  ,1-1,Green  17,Rondo  10,Rondo  8,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Nov 3",Dallas ,L118-113  ,1-2,Green  35,Rondo  9,Rondo  15,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Nov 5", Toronto ,L110-107  ,1-3,Green  20,Sullinger  16,Rondo  15,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Nov 7", Indiana ,W101-98  ,2-3,Sullinger  17,Green  7,Rondo  6,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sat, Nov 8",Chicago ,W106-101  ,3-3,Turner  19,Olynyk  11,Turner  6,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Nov 12", Oklahoma City ,L109-94  ,3-4,Rondo  20,Sullinger  11,Rondo  12,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Nov 14", Cleveland ,L122-121  ,3-5,Olynyk  21,Sullinger  10,Rondo  16,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Nov 17", Phoenix ,L118-114  ,3-6,Green  28,Rondo  10,Rondo  9,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Nov 19",Philadelphia ,W101-90  ,4-6,Bass  23,Green  10,Rondo  13,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Nov 21",Memphis ,L117-100  ,4-7,Olynyk  18,Olynyk  6,Turner  5,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Nov 23", Portland ,L94-88  ,4-8,Sullinger  19,Bass  8,Rondo  8,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Nov 28", Chicago ,L109-102  ,4-9,Sullinger  23,Sullinger  10,Rondo  9,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Nov 30", San Antonio ,L111-89  ,4-10,Green  16,Zeller  10,Rondo  10,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Tue, Dec 2",Atlanta ,L109-105  ,4-11,Green  25,Rondo  12,Rondo  19,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Dec 3", Detroit ,W109-102 OT ,5-11,Green  32,Zeller  10,Rondo  8,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Dec 5", Los Angeles ,W113-96  ,6-11,Zeller  24,Zeller  14,Rondo  16,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Dec 7", Washington ,W101-93  ,7-11,Green  25,Rondo  13,Rondo  11,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Dec 8",Washington ,L133-132 2OT ,7-12,Green  28,Olynyk  11,Turner  8,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Dec 10",Charlotte ,L96-87  ,7-13,Green  16,Rondo  10,Rondo  10,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Dec 12", New York ,L101-95  ,7-14,Green  28,Rondo  7,Rondo  10,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Dec 15",Philadelphia ,W105-87  ,8-14,Olynyk  30,Sullinger  11,Rondo  7,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Dec 17", Orlando ,W109-92  ,9-14,Bass  18,Rondo  7,Rondo  15,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Dec 19", Minnesota ,W114-98  ,10-14,Olynyk  21,Sullinger  10,Bradley  7,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Dec 21",Miami ,L100-84  ,10-15,Zeller  22,Zeller  8,Olynyk  4,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Tue, Dec 23",Orlando ,L100-95  ,10-16,Zeller  22,Zeller  10,Nelson  11,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Dec 26", Brooklyn ,L109-107  ,10-17,Green  22,Zeller  9,Nelson  8,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sat, Dec 27",Washington ,L101-88  ,10-18,Green  23,Olynyk  8,Turner  4,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Dec 31", Sacramento ,W106-84  ,11-18,Sullinger  20,Sullinger  11,Turner  11,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Jan 2", Dallas ,L119-101  ,11-19,Bradley  22,Zeller  10,Smart  7,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sat, Jan 3",Chicago ,L109-104 OT ,11-20,Turner  29,Sullinger  16,Turner  6,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Jan 5", Charlotte ,L104-95  ,11-21,Sullinger  22,Sullinger  8,Smart  4,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Jan 7",Brooklyn ,W89-81  ,12-21,Bradley  21,Turner  8,Turner  7,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Jan 9",Indiana ,L107-103 OT ,12-22,Bradley  23,Turner  15,Turner  7,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sat, Jan 10",Toronto ,L109-96  ,12-23,Olynyk  23,Sullinger  10,Turner  5,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Jan 12", New Orleans ,W108-100  ,13-23,Sullinger  27,Sullinger  10,Smart  6,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Jan 14", Atlanta ,L105-91  ,13-24,Bradley  17,Sullinger  9,Turner  6,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Jan 16", Chicago ,L119-103  ,13-25,Sullinger  20,Olynyk  9,Turner  8,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Jan 19",LA ,L102-93  ,13-26,Bass  17,Turner  10,Smart  7,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Thu, Jan 22",Portland ,W90-89  ,14-26,Bradley  18,Bass  10,Turner  8,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Jan 23",Denver ,W100-99  ,15-26,Bradley  18,Bass  9,Turner  6,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Jan 25",Golden State ,L114-111  ,15-27,Sullinger  26,Sullinger  9,Turner  7,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Jan 26",Utah ,W99-90  ,16-27,Prince  19,Sullinger  9,Prince  5,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Jan 28",Minnesota ,L110-98  ,16-28,Sullinger  16,Zeller  9,Smart  6,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Jan 30", Houston ,L93-87  ,16-29,Bass  17,Zeller  11,Sullinger  4,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Feb 1", Miami ,L83-75  ,16-30,Zeller  17,Zeller  6,Smart  9,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Tue, Feb 3",New York ,W108-97  ,17-30,Bradley  26,Sullinger  9,Sullinger  6,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Feb 4", Denver ,W104-100  ,18-30,Thornton  17,Smart  10,Turner  8,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Feb 6", Philadelphia ,W107-96  ,19-30,Sullinger  22,Zeller  9,Smart  8,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sat, Feb 7",Milwaukee ,L96-93  ,19-31,Sullinger  17,Sullinger  7,Turner  7,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Feb 11", Atlanta ,W89-88  ,20-31,Sullinger  17,Sullinger  15,Turner  9,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Feb 20",Sacramento ,L109-101  ,20-32,Bradley  28,Bass  10,Turner  8,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Feb 22",Los Angeles ,L118-111 OT ,20-33,Crowder  22,Zeller  11,Turner  12,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Feb 23",Phoenix ,W115-110  ,21-33,Bradley  23,Turner  8,Thomas  7,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Feb 25", New York ,W115-94  ,22-33,Jerebko  20,Turner  12,Turner  10,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Feb 27", Charlotte ,W106-98  ,23-33,Thomas  28,Jerebko  10,Thomas  7,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Mar 1", Golden State ,L106-101  ,23-34,Thomas  20,Crowder  17,Turner  6,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Tue, Mar 3",Cleveland ,L110-79  ,23-35,Bass  15,Bass  5,Turner  7,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Mar 4", Utah ,W85-84  ,24-35,Thomas  21,Zeller  11,Thomas  7,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Mar 6",New Orleans ,W104-98  ,25-35,Thomas  27,Crowder  9,Turner  6,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Mar 8",Orlando ,L103-98  ,25-36,Thomas  21,Bass  17,Thomas  9,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Mar 9",Miami ,W100-90  ,26-36,Thomas  25,Bass  9,Thomas  4,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Mar 11", Memphis ,W95-92  ,27-36,Bradley  17,Zeller  9,Turner  7,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Mar 13", Orlando ,W95-88  ,28-36,Turner  30,Bass  7,Pressey  10,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sat, Mar 14",Indiana ,W93-89  ,29-36,Zeller  18,Zeller  7,Turner  7,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Mar 16", Philadelphia ,W108-89  ,30-36,Zeller  26,Bradley  10,Bradley  6,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Mar 18",Oklahoma City ,L122-118  ,30-37,Smart  25,Smart  9,Turner  10,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Mar 20",San Antonio ,L101-89  ,30-38,Turner  17,Jerebko  12,Turner  4,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Mar 22", Detroit ,L105-97 OT ,30-39,Turner  23,Bass  9,Turner  8,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Mar 23",Brooklyn ,W110-91  ,31-39,Bradley  20,Turner  10,Turner  12,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Mar 25", Miami ,L93-86  ,31-40,Crowder  16,Zeller  8,Pressey  6,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Mar 27",New York ,W96-92  ,32-40,Thomas  18,Bass  10,Thomas  6,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Mar 29", LA ,L119-106  ,32-41,Thomas  19,Jerebko  8,Turner  10,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Mon, Mar 30",Charlotte ,W116-104  ,33-41,Bradley  30,Bradley  8,Thomas  7,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Apr 1", Indiana ,W100-87  ,34-41,Zeller  19,Turner  11,Turner  12,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Apr 3", Milwaukee ,L110-101  ,34-42,Thomas  23,Zeller  7,Thomas  6,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sat, Apr 4",Toronto ,W117-116 OT ,35-42,Thomas  25,Zeller  9,Turner  10,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Apr 8",Detroit ,W113-103  ,36-42,Thomas  34,Zeller  7,Thomas  6,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Fri, Apr 10",Cleveland ,W99-90  ,37-42,Smart  19,Sullinger  8,Turner  13,H,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Sun, Apr 12", Cleveland ,W117-78  ,38-42,Thomas  17,Turner  7,Thomas  6,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Tue, Apr 14", Toronto ,W95-93  ,39-42,Turner  14,Bass  9,Turner  9,A,Boston Celtics 2014-15 Regular Season NBA Schedule
+"Wed, Apr 15",Milwaukee ,W105-100  ,40-42,Datome  22,Jerebko  6,Pressey  7,H,Boston Celtics 2014-15 Regular Season NBA Schedule

@@ -2,7 +2,7 @@ import pandas as pd
 import bs4
 from urllib import request
 import urllib.parse
-import parser
+import table_parser
 
 def upload_schedule(schedule_url : str) -> list[pd.DataFrame]:
     # Open the URL and read the HTML content
@@ -71,7 +71,7 @@ def upload_schedule(schedule_url : str) -> list[pd.DataFrame]:
                 url = team_url + '/seasontype/' + seasontype_code[:-1]
                 title = f'{team} {year} {seasontype} NBA Schedule'
 
-                df = parser.parse_schedule(url,title) # Parse the schedule and obtain a DataFrame
+                df = table_parser.parse_schedule(url,title) # Parse the schedule and obtain a DataFrame
                 
                 schedules.append(df) # Append the DataFrame to the schedules list
 
@@ -106,7 +106,7 @@ def upload_standings(standings_url : str) -> list[pd.DataFrame]:
         url = f'https://www.espn.com/nba/standings/_/season/{year}/group/league'
         title = f'NBA Standings Regular Season {year_label}'
 
-        df = parser.parse_standings(url, title)
+        df = table_parser.parse_standings(url, title)
         standings.append(df)
 
         print(f'{title} uploaded successfully from {url}')
@@ -115,7 +115,7 @@ def upload_standings(standings_url : str) -> list[pd.DataFrame]:
         url = f'https://www.espn.com/nba/standings/_/seasontype/pre/season/{year}/group/league'
         title = f'NBA Standings Pre Season {year_label}'
 
-        df = parser.parse_standings(url, title)
+        df = table_parser.parse_standings(url, title)
         standings.append(df)
 
         print(f'{title} uploaded successfully from {url}')
@@ -164,12 +164,12 @@ def upload_teams(teams_url : str) -> list[pd.DataFrame]:
         url = f'https://www.espn.com/nba/stats/team/_{add_to_url}/season/{year}/seasontype/{type}'
         title = f'NBA Team {type_label} Stats {year_label}'
 
-        df = parser.parse_teams(url, title)
+        df = table_parser.parse_teams(url, title)
         teams.append(df)
 
         print(f'{title} uploaded successfully from {url}')
 
-    return 
+    return teams
 
 def upload_player(teams_url : str) -> list[pd.DataFrame]:
 
@@ -199,8 +199,6 @@ def upload_player(teams_url : str) -> list[pd.DataFrame]:
         year = y['value'][:4]
         type = y['value'][5:]
         years_type.append((year_label,type_label,year,type))
-
-    print(years_type)
     
     players = []
     for (year_label,type_label,year,type) in years_type:
@@ -208,9 +206,19 @@ def upload_player(teams_url : str) -> list[pd.DataFrame]:
         url = f'https://www.espn.com/nba/stats/player/_/season/{year}/seasontype/{type}'
         title = f'NBA Team {type_label} Stats {year_label}'
 
-        df = parser.parse_players(url, title)
-        players.append(df)
+        MAX_RETRIES=10
+        for retry_df in range(MAX_RETRIES):
+            try:
+                df = table_parser.parse_players(url, title)
+                players.append(df)
 
-        print(f'{title} uploaded successfully from {url}')
+                print(f'{title} uploaded successfully from {url}')
+                break  # Sort de la boucle si le parsing réussit
 
-    return 
+            except Exception as e:
+                print(f'Error occurred: {str(e)}')
+                if retry_df >= MAX_RETRIES - 1:
+                    print(f'Maximum retries reached to parse {url}. Upload failed.')
+                    raise e  # Déclenche à nouveau l'exception après le nombre maximum de tentatives
+
+    return players

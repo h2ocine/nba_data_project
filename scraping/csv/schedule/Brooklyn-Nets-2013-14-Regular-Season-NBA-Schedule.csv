@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 30",Cleveland ,L98-94  ,0-1,Lopez  21,Garnett  10,Williams  9,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Nov 1", Miami ,W101-100  ,1-1,Pierce  19,Garnett  7,Williams  8,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sun, Nov 3",Orlando ,L107-86  ,1-2,Lopez  21,Pierce  7,Williams  7,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Tue, Nov 5", Utah ,W104-88  ,2-2,Lopez  27,Lopez  7,Williams  8,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Nov 8",Washington ,L112-108 OT ,2-3,Lopez  23,Blatche  13,Johnson  4,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Nov 9", Indiana ,L96-91  ,2-4,Johnson  17,Pierce  8,Williams  10,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Nov 13",Sacramento ,L107-86  ,2-5,Lopez  16,Lopez  9,Williams  7,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Nov 15",Phoenix ,W100-98 OT ,3-5,Lopez  27,Garnett  14,Livingston  6,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Nov 16",LA ,L110-103  ,3-6,Blatche  19,Evans  11,Johnson  6,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Mon, Nov 18", Portland ,L108-98  ,3-7,Livingston  23,Evans  9,Johnson  3,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Nov 20",Charlotte ,L95-91  ,3-8,Blatche  25,Garnett  8,Livingston  5,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Nov 22",Minnesota ,L111-81  ,3-9,Blatche  16,Garnett  8,Johnson  4,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sun, Nov 24", Detroit ,L109-97  ,3-10,Johnson  34,Garnett  9,Livingston  7,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Tue, Nov 26",Toronto ,W102-100  ,4-10,Blatche  24,Johnson  6,Livingston  7,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Nov 27", Los Angeles ,L99-94  ,4-11,Johnson  18,Garnett  9,Pierce  5,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Nov 29",Houston ,L114-95  ,4-12,Teletovic  18,Teletovic  13,Taylor  12,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Nov 30",Memphis ,W97-88  ,5-12,Johnson  26,Lopez  9,Johnson  6,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Tue, Dec 3", Denver ,L111-87  ,5-13,Johnson  22,Blatche  6,Livingston  4,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Thu, Dec 5", New York ,L113-83  ,5-14,Lopez  24,Lopez  9,Blatche  3,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Dec 7",Milwaukee ,W90-82  ,6-14,Lopez  32,Blatche  8,Johnson  5,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Tue, Dec 10", Boston ,W104-96  ,7-14,Williams  25,Garnett  9,Williams  7,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Thu, Dec 12", LA ,W102-93  ,8-14,Blatche  21,Blatche  9,Pierce  5,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Dec 13",Detroit ,L103-99  ,8-15,Williams  22,Blatche  12,Williams  9,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Mon, Dec 16", Philadelphia ,W130-94  ,9-15,Johnson  37,Plumlee  8,Williams  13,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Dec 18", Washington ,L113-107  ,9-16,Pierce  27,Johnson  7,Williams  13,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Dec 20",Philadelphia ,L121-120 OT ,9-17,Anderson  26,Pierce  10,Williams  14,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Mon, Dec 23", Indiana ,L103-86  ,9-18,Johnson  17,Blatche  7,Williams  8,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Dec 25", Chicago ,L95-78  ,9-19,Williams  18,Evans  13,Williams  4,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Dec 27", Milwaukee ,W104-93  ,10-19,Livingston  20,Evans  13,Livingston  6,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Dec 28",Indiana ,L105-91  ,10-20,Pierce  18,Garnett  7,Williams  6,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Tue, Dec 31",San Antonio ,L113-92  ,10-21,Plumlee  15,Plumlee  13,Pierce  6,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Thu, Jan 2",Oklahoma City ,W95-93  ,11-21,Williams  29,Garnett  7,Williams  4,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Jan 4", Cleveland ,W89-82  ,12-21,Williams  21,Evans  11,Williams  6,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Mon, Jan 6", Atlanta ,W91-86  ,13-21,Johnson  23,Garnett  10,Johnson  4,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Jan 8", Golden State ,W102-98  ,14-21,Johnson  27,Teletovic  10,Blatche  3,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Jan 10", Miami ,W104-95 2OT ,15-21,Johnson  32,Livingston  11,Johnson  5,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Jan 11",Toronto ,L96-80  ,15-22,Pierce  15,Johnson  6,Johnson  6,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Thu, Jan 16", Atlanta,W127-110  ,16-22,Johnson  29,Blatche  14,Terry  7,N,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Mon, Jan 20",New York ,W103-80  ,17-22,Johnson  25,Blatche  12,Johnson  5,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Tue, Jan 21", Orlando ,W101-90  ,18-22,Blatche  18,Pierce  6,Williams  9,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Jan 24", Dallas ,W107-106  ,19-22,Teletovic  34,Garnett  11,Williams  11,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sun, Jan 26",Boston ,W85-79  ,20-22,Blatche  17,Livingston  8,Williams  7,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Mon, Jan 27", Toronto ,L104-103  ,20-23,Pierce  33,Garnett  11,Williams  11,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Jan 31", Oklahoma City ,L120-95  ,20-24,Livingston  16,Pierce  5,Teletovic  4,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Feb 1",Indiana ,L97-96  ,20-25,Livingston  24,Garnett  10,Williams  6,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Mon, Feb 3", Philadelphia ,W108-102  ,21-25,Pierce  25,Garnett  7,Livingston  8,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Thu, Feb 6", San Antonio ,W103-89  ,22-25,Anderson  22,Garnett  9,Williams  8,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Feb 7",Detroit ,L111-95  ,22-26,Terry  18,Evans  9,Teague  4,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sun, Feb 9", New Orleans ,W93-81  ,23-26,Plumlee  22,Plumlee  13,Williams  6,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Feb 12", Charlotte ,W105-89  ,24-26,Pierce  25,Teletovic  8,Williams  7,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Thu, Feb 13",Chicago ,L92-76  ,24-27,Pierce  15,Garnett  7,Williams  4,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Feb 19",Utah ,W105-99  ,25-27,Johnson  27,Blatche  6,Williams  7,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Feb 22",Golden State ,L93-86  ,25-28,Williams  20,Kirilenko  9,Williams  6,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sun, Feb 23",Los Angeles ,W108-102  ,26-28,Williams  30,Kirilenko  10,Johnson  8,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Feb 26",Portland ,L124-80  ,26-29,Williams  12,Garnett  7,Teague  4,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Thu, Feb 27",Denver ,W112-89  ,27-29,Pierce  18,Plumlee  9,Livingston  8,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Mar 1",Milwaukee ,W107-98  ,28-29,Thornton  25,Blatche  13,Pierce  5,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Mon, Mar 3", Chicago ,W96-80  ,29-29,Williams  20,Pierce  7,Williams  6,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Mar 5", Memphis ,W103-94  ,30-29,Johnson  21,Pierce  8,Williams  7,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Mar 7",Boston ,L91-84  ,30-30,Johnson  21,Johnson  7,Williams  4,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sun, Mar 9", Sacramento ,W104-89  ,31-30,Thornton  27,Anderson  4,Williams  7,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Mon, Mar 10", Toronto ,W101-97  ,32-30,Livingston  18,Plumlee  8,Williams  5,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Mar 12",Miami ,W96-95  ,33-30,Pierce  29,Livingston  7,Williams  8,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Mar 15",Washington ,L101-94  ,33-31,Thornton  19,Johnson  7,Williams  7,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Mon, Mar 17", Phoenix ,W108-95  ,34-31,Williams  28,Plumlee  11,Johnson  5,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Mar 19", Charlotte ,W104-99  ,35-31,Williams  25,Johnson  8,Williams  8,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Mar 21", Boston ,W114-98  ,36-31,Johnson  27,Livingston  7,Williams  6,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sun, Mar 23",Dallas ,W107-104 OT ,37-31,Johnson  22,Thornton  7,Williams  3,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Mon, Mar 24",New Orleans ,L109-104 OT ,37-32,Pierce  24,Plumlee  11,Williams  5,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Mar 26",Charlotte ,L116-111 OT ,37-33,Williams  29,Blatche  7,Williams  7,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Mar 28", Cleveland ,W108-97  ,38-33,Pierce  22,Teletovic  10,Livingston  6,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sun, Mar 30", Minnesota ,W114-99  ,39-33,Pierce  22,Plumlee  8,Williams  5,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Tue, Apr 1", Houston ,W105-96  ,40-33,Johnson  32,Teletovic  7,Williams  6,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Apr 2",New York ,L110-81  ,40-34,Johnson  16,Pierce  4,Livingston  3,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Apr 4", Detroit ,W116-104  ,41-34,Livingston  23,Collins  5,Williams  10,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sat, Apr 5",Philadelphia ,W105-101  ,42-34,Williams  19,Plumlee  7,Williams  9,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Tue, Apr 8",Miami ,W88-87  ,43-34,Johnson  19,Plumlee  8,Williams  6,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Apr 9",Orlando ,L115-111  ,43-35,Johnson  31,Teletovic  9,Garnett  6,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Fri, Apr 11", Atlanta ,L93-88  ,43-36,Plumlee  17,Garnett  10,Pierce  4,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Sun, Apr 13", Orlando ,W97-88  ,44-36,Teletovic  20,Plumlee  11,Williams  5,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Tue, Apr 15", New York ,L109-98  ,44-37,Thornton  24,Plumlee  9,Plumlee  4,A,Brooklyn Nets 2013-14 Regular Season NBA Schedule
+"Wed, Apr 16",Cleveland ,L114-85  ,44-38,Blatche  20,Blatche  12,Plumlee  6,H,Brooklyn Nets 2013-14 Regular Season NBA Schedule

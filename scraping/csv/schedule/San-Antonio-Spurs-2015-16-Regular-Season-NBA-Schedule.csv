@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 28",Oklahoma City ,L112-106  ,0-1,Leonard  32,Leonard  8,Ginobili  7,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Oct 30", Brooklyn ,W102-75  ,1-1,Leonard  16,Aldridge  11,Ginobili  4,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sun, Nov 1",Boston ,W95-87  ,2-1,Aldridge  24,Aldridge  14,Aldridge  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Nov 2",New York ,W94-84  ,3-1,Aldridge  19,Leonard  14,Duncan  6,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Nov 4",Washington ,L102-99  ,3-2,Leonard  23,Aldridge  15,Duncan  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Nov 7", Charlotte ,W114-94  ,4-2,Leonard  23,West  9,West  6,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Nov 9",Sacramento ,W106-88  ,5-2,Leonard  24,Duncan  14,Mills  8,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Nov 11",Portland ,W113-101  ,6-2,Aldridge  23,Leonard  7,Parker  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Nov 14", Philadelphia ,W92-83  ,7-2,Aldridge  17,Aldridge  19,West  5,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Nov 16", Portland ,W93-80  ,8-2,Leonard  19,Leonard  9,Parker  7,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Nov 18", Denver ,W109-98  ,9-2,Parker  25,Aldridge  12,Parker  9,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Nov 20",New Orleans ,L104-90  ,9-3,Leonard  22,Aldridge  11,Parker  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Nov 21", Memphis ,W92-82  ,10-3,Leonard  19,Duncan  10,Duncan  4,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Nov 23", Phoenix ,W98-84  ,11-3,Leonard  24,Leonard  13,Parker  8,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Nov 25", Dallas ,W88-83  ,12-3,Leonard  26,Duncan  9,Parker  8,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Nov 27",Denver ,W91-80  ,13-3,Leonard  25,Leonard  7,Leonard  6,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Nov 28", Atlanta ,W108-88  ,14-3,Leonard  22,Duncan  18,Parker  6,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Nov 30",Chicago ,L92-89  ,14-4,Leonard  25,Aldridge  12,Parker  9,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Dec 2", Milwaukee ,W95-70  ,15-4,Duncan  16,Duncan  10,Leonard  4,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Thu, Dec 3",Memphis ,W103-83  ,16-4,Leonard  27,Duncan  10,Parker  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Dec 5", Boston ,W108-105  ,17-4,Aldridge  17,Aldridge  8,Parker  6,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Dec 7",Philadelphia ,W119-68  ,18-4,Aldridge  26,Aldridge  9,Parker  6,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Dec 9",Toronto ,L97-94  ,18-5,Ginobili  17,Aldridge  7,Mills  6,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Dec 11", Los Angeles ,W109-87  ,19-5,Aldridge  24,Aldridge  11,McCallum  5,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Dec 12",Atlanta ,W103-78  ,20-5,Leonard  22,Duncan  10,Mills  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Dec 14", Utah ,W118-81  ,21-5,Leonard  22,Aldridge  8,Parker  5,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Dec 16", Washington ,W114-95  ,22-5,Leonard  27,West  10,Parker  10,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Dec 18", LA ,W115-107  ,23-5,Aldridge  26,Aldridge  13,Ginobili  5,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Dec 21", Indiana ,W106-92  ,24-5,Leonard  24,Aldridge  9,Leonard  5,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Dec 23",Minnesota ,W108-83  ,25-5,Leonard  19,Aldridge  8,Parker  6,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Dec 25",Houston ,L88-84  ,25-6,Leonard  20,Duncan  11,Leonard  4,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Dec 26", Denver ,W101-86  ,26-6,Leonard  20,Aldridge  9,West  6,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Dec 28", Minnesota ,W101-95  ,27-6,Leonard  17,Leonard  11,Parker  7,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Dec 30", Phoenix ,W112-79  ,28-6,Aldridge  21,Aldridge  12,Parker  7,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Jan 2", Houston ,W121-103  ,29-6,Aldridge  24,Aldridge  9,Parker  10,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Jan 4",Milwaukee ,W123-98  ,30-6,Leonard  24,Aldridge  11,Ginobili  7,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Jan 6", Utah ,W123-98  ,31-6,Duncan  18,West  13,Duncan  6,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Jan 8", New York ,W100-99  ,32-6,Leonard  19,Leonard  12,Parker  8,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Jan 11",Brooklyn ,W106-79  ,33-6,Aldridge  25,Aldridge  11,Ginobili  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Tue, Jan 12",Detroit ,W109-99  ,34-6,Parker  31,Aldridge  13,Green  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Thu, Jan 14", Cleveland ,W99-95  ,35-6,Parker  24,Leonard  10,Leonard  5,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sun, Jan 17", Dallas ,W112-83  ,36-6,Aldridge  23,Aldridge  7,Parker  7,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Thu, Jan 21",Phoenix ,W117-89  ,37-6,Leonard  21,Marjanovic  13,Diaw  4,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Jan 22",Los Angeles ,W108-95  ,38-6,Ginobili  20,West  7,Ginobili  4,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Jan 25",Golden State ,L120-90  ,38-7,Leonard  16,Marjanovic  6,Ginobili  3,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Jan 27", Houston ,W130-99  ,39-7,Aldridge  25,Aldridge  10,Parker  7,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Jan 30",Cleveland ,L117-103  ,39-8,Leonard  24,Leonard  6,Parker  6,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Feb 1", Orlando ,W107-92  ,40-8,Aldridge  28,Green  6,Parker  6,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Feb 3", New Orleans ,W110-97  ,41-8,Aldridge  36,Green  7,Parker  8,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Feb 5",Dallas ,W116-90  ,42-8,Leonard  23,Aldridge  10,Diaw  4,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Feb 6", Los Angeles ,W106-102  ,43-8,Aldridge  26,Leonard  13,West  5,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Tue, Feb 9",Miami ,W119-101  ,44-8,Aldridge  28,Leonard  9,Parker  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Feb 10",Orlando ,W98-96  ,45-8,Leonard  29,Leonard  7,Mills  7,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Thu, Feb 18",LA ,L105-86  ,45-9,Parker  14,Duncan  6,Parker  4,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Feb 19",Los Angeles ,W119-113  ,46-9,Parker  25,Duncan  13,Mills  7,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sun, Feb 21",Phoenix ,W118-111  ,47-9,Parker  22,Aldridge  10,Mills  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Feb 24",Sacramento ,W108-92  ,48-9,Parker  23,Aldridge  9,Diaw  7,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Thu, Feb 25",Utah ,W96-78  ,49-9,Leonard  29,Duncan  11,Parker  6,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Feb 27",Houston ,W104-94  ,50-9,Leonard  27,Aldridge  16,Duncan  6,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Mar 2", Detroit ,W97-81  ,51-9,Leonard  27,Aldridge  10,Mills  7,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Thu, Mar 3",New Orleans ,W94-86  ,52-9,Leonard  30,Leonard  11,Mills  8,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Mar 5", Sacramento ,W104-94  ,53-9,Leonard  25,Leonard  13,Parker  7,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Mar 7",Indiana ,L99-91  ,53-10,Aldridge  23,Duncan  14,Parker  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Tue, Mar 8",Minnesota ,W116-91  ,54-10,Aldridge  29,Marjanovic  8,Miller  5,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Thu, Mar 10", Chicago ,W109-101  ,55-10,Leonard  29,Aldridge  10,Parker  12,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Mar 12", Oklahoma City ,W93-85  ,56-10,Leonard  26,Aldridge  9,Parker  4,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Tue, Mar 15", LA ,W108-87  ,57-10,Leonard  20,Duncan  7,Mills  6,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Thu, Mar 17", Portland ,W118-110  ,58-10,Aldridge  22,Duncan  7,Parker  16,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Mar 19", Golden State ,W87-79  ,59-10,Aldridge  26,Leonard  14,Parker  6,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Mar 21",Charlotte ,L91-88  ,59-11,Parker  19,Aldridge  12,Parker  7,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Mar 23", Miami ,W112-88  ,60-11,Leonard  32,Duncan  9,Parker  5,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Mar 25", Memphis ,W110-104  ,61-11,Aldridge  32,Aldridge  12,Duncan  7,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Mar 26",Oklahoma City ,L111-92  ,61-12,West  17,Miller  8,West  3,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Mon, Mar 28",Memphis ,W101-87  ,62-12,Aldridge  31,Aldridge  13,Anderson  7,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Mar 30", New Orleans ,W100-92  ,63-12,Ginobili  20,Duncan  9,Parker  6,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sat, Apr 2", Toronto ,W102-95  ,64-12,Leonard  33,Aldridge  15,Leonard  7,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Tue, Apr 5",Utah ,W88-86  ,65-12,Leonard  18,Leonard  8,Anderson  4,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Thu, Apr 7",Golden State ,L112-101  ,65-13,Leonard  23,Anderson  11,West  7,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Fri, Apr 8",Denver ,L102-98  ,65-14,Duncan  21,Duncan  7,Mills  7,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Sun, Apr 10", Golden State ,L92-86  ,65-15,Aldridge  24,Leonard  13,Leonard  5,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Tue, Apr 12", Oklahoma City ,W102-98 OT ,66-15,Leonard  26,Duncan  9,Leonard  5,A,San Antonio Spurs 2015-16 Regular Season NBA Schedule
+"Wed, Apr 13",Dallas ,W96-91  ,67-15,Marjanovic  22,Marjanovic  12,Diaw  7,H,San Antonio Spurs 2015-16 Regular Season NBA Schedule

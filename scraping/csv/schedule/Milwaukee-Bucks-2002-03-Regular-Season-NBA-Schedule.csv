@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 30",Philadelphia ,L95-93  ,0-1,Allen  28,Thomas  7,Thomas  4,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Nov 2", Orlando ,L100-90  ,0-2,Redd  17,Kukoc  12,Ollie  5,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Mon, Nov 4",New York ,W97-88  ,1-2,Cassell  22,Gadzuric  10,Allen  4,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Nov 6", New Jersey ,W99-93  ,2-2,Allen  29,Gadzuric  10,Cassell  9,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Thu, Nov 7",Minnesota ,L114-110  ,2-3,Cassell  32,Mason  12,Cassell  6,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Nov 9", Philadelphia ,W110-105 OT ,3-3,Thomas  21,Thomas  7,Cassell  9,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Nov 13", Chicago ,W108-101  ,4-3,Redd  24,Mason  10,Kukoc  12,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Nov 15",Indiana ,L103-100 OT ,4-4,Allen  24,Redd  10,Cassell  6,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Nov 16", Boston ,W102-85  ,5-4,Allen  31,Thomas  10,Allen  6,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Nov 19", Miami ,L97-93  ,5-5,Allen  24,Mason  9,Kukoc  4,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Nov 22",Golden State ,W95-91  ,6-5,Allen  31,Johnson  10,Cassell  4,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sun, Nov 24",Los Angeles ,L111-99  ,6-6,Redd  19,Caffey  12,Cassell  8,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Mon, Nov 25",Phoenix ,L86-81  ,6-7,Cassell  22,Redd  11,Cassell  5,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Nov 27", Cleveland ,W112-80  ,7-7,Cassell  30,Kukoc  9,Kukoc  9,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Nov 29",Detroit ,L96-91  ,7-8,Cassell  27,Gadzuric  9,Cassell  7,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Nov 30", Detroit ,W109-86  ,8-8,Cassell  24,Gadzuric  7,Cassell  10,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Dec 3",Washington ,L103-78  ,8-9,Thomas  17,Mason  10,Cassell  7,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Thu, Dec 5",Atlanta ,L98-80  ,8-10,Thomas  17,Mason  11,Cassell  7,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Dec 7", New Orleans ,L94-88  ,8-11,Allen  29,Mason  11,Ollie  8,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Mon, Dec 9",Cleveland ,W140-133 2OT ,9-11,Cassell  39,Cassell  10,Mason  11,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Dec 11", Indiana ,L126-119 OT ,9-12,Allen  26,Mason  8,Mason  9,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Dec 13", Portland ,W101-79  ,10-12,Thomas  25,Gadzuric  11,Cassell  10,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Dec 14",Chicago ,L97-95  ,10-13,Cassell  29,Przybilla  11,Allen  6,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Dec 17", Toronto ,L122-117 OT ,10-14,Allen  37,Thomas  9,Ollie  9,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Dec 20",Memphis ,L95-84  ,10-15,Cassell  19,Przybilla  9,Cassell  6,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Dec 21", New York ,W94-90  ,11-15,Cassell  25,Przybilla  14,Cassell  9,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Mon, Dec 23",Orlando ,W108-103  ,12-15,Allen  35,Redd  11,Allen  6,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Dec 27",New Jersey ,L110-90  ,12-16,Cassell  25,Mason  7,Cassell  5,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Dec 28", New Jersey ,L104-96  ,12-17,Redd  21,Mason  8,Ollie  8,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Mon, Dec 30",Dallas ,W110-107  ,13-17,Cassell  28,Redd  9,Allen  7,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Dec 31",Houston ,L105-80  ,13-18,Cassell  22,Ollie  7,Ollie  7,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Jan 3", Utah ,L118-115  ,13-19,Allen  29,Mason  5,Cassell  8,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Mon, Jan 6",Cleveland ,W106-94  ,14-19,Allen  27,Mason  11,Mason  5,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Jan 7", Sacramento ,L101-76  ,14-20,Allen  16,Johnson  7,Ollie  7,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Jan 10", Chicago ,W93-85 OT ,15-20,Mason  21,Mason  13,Kukoc  7,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Jan 11",Detroit ,W89-87  ,16-20,Allen  28,Mason  11,Allen  6,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Jan 14", Atlanta ,W97-88  ,17-20,Cassell  21,Mason  9,Kukoc  6,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Jan 15",Toronto ,W99-87  ,18-20,Cassell  19,Mason  7,Cassell  6,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Jan 17",Philadelphia ,W99-95  ,19-20,Redd  22,Mason  12,Thomas  5,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Jan 18", Boston ,L97-95  ,19-21,Thomas  22,Johnson  10,Mason  7,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Jan 22",Boston ,W106-97  ,20-21,Allen  34,Cassell  11,Cassell  16,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Jan 25", Denver ,W88-75  ,21-21,Cassell  26,Cassell  8,Mason  9,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Mon, Jan 27",New Orleans ,W108-93  ,22-21,Cassell  25,Allen  8,Cassell  10,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Jan 28", Philadelphia ,L108-81  ,22-22,Allen  18,Kukoc  5,Allen  4,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Thu, Jan 30", Washington ,W97-90  ,23-22,Cassell  31,Mason  8,Mason  8,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Feb 1", New York ,W107-100  ,24-22,Cassell  24,Mason  13,Mason  7,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Feb 4", Toronto ,L98-95  ,24-23,Redd  24,Johnson  11,Cassell  7,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Thu, Feb 6", Seattle ,W97-91  ,25-23,Allen  27,Redd  8,Ollie  5,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Feb 12", Dallas ,W120-114  ,26-23,Allen  28,Allen  9,Cassell  9,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Feb 14", Detroit ,W96-86  ,27-23,Thomas  21,Mason  14,Allen  5,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sun, Feb 16", Memphis ,L101-95  ,27-24,Allen  23,Mason  10,Cassell  5,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Feb 18",Sacramento ,L102-93  ,27-25,Kukoc  21,Caffey  11,Kukoc  4,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Feb 19",LA ,L110-104  ,27-26,Cassell  21,Redd  11,Allen  9,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Feb 21",Seattle ,L88-58  ,27-27,Thomas  17,Mason  6,Cassell  3,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Feb 22",Portland ,W93-90  ,28-27,Payton  22,Thomas  5,Payton  9,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Mon, Feb 24", Minnesota ,L117-114  ,28-28,Payton  21,Kukoc  9,Payton  9,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Feb 26", Phoenix ,L118-112  ,28-29,Payton  26,Cassell  7,Payton  7,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Feb 28",Indiana ,L107-98  ,28-30,Cassell  23,Mason  10,Payton  10,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sun, Mar 2", Atlanta ,W120-93  ,29-30,Cassell  28,Thomas  7,Payton  10,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Mar 4",Miami ,W100-91  ,30-30,Cassell  25,Mason  8,Cassell  4,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Mar 5",Orlando ,L111-99  ,30-31,Payton  16,Cassell  8,Payton  7,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Mar 7",Washington ,W85-82  ,31-31,Cassell  24,Johnson  8,Payton  7,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Mar 8", Golden State ,W138-133 OT ,32-31,Payton  28,Thomas  9,Cassell  13,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Mar 11", San Antonio ,L105-102  ,32-32,Cassell  26,Mason  10,Payton  9,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Mar 12",Atlanta ,L111-92  ,32-33,Cassell  24,Redd  8,Payton  7,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Mar 15", Los Angeles ,L98-94  ,32-34,Redd  21,Cassell  7,Payton  8,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sun, Mar 16",New York ,L120-111  ,32-35,Mason  23,Mason  12,Payton  5,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Mar 19",New Jersey ,W104-85  ,33-35,Payton  23,Mason  10,Kukoc  10,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Mar 21",New Orleans ,L113-98  ,33-36,Redd  24,Johnson  6,Cassell  8,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Mar 22", New Orleans ,W93-85  ,34-36,Cassell  21,Mason  9,Payton  5,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Tue, Mar 25",San Antonio ,L107-94  ,34-37,Cassell  19,Redd  8,Payton  9,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Mar 26",Denver ,L108-103  ,34-38,Payton  28,Cassell  8,Payton  11,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Mar 28",Utah ,L103-90  ,34-39,Redd  26,Mason  11,Payton  6,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sun, Mar 30", Miami ,W109-87  ,35-39,Payton  24,Mason  11,Cassell  9,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Mon, Mar 31",Miami ,W91-86  ,36-39,Payton  20,Johnson  13,Payton  9,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Apr 2", Houston ,W106-99  ,37-39,Cassell  20,Johnson  7,Payton  10,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Apr 4", Cleveland ,W95-93  ,38-39,Redd  22,Redd  12,Cassell  8,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sat, Apr 5",Chicago ,L117-115 OT ,38-40,Payton  24,Przybilla  11,Payton  10,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Apr 9", LA ,W112-92  ,39-40,Kukoc  26,Thomas  10,Kukoc  8,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Fri, Apr 11",Toronto ,W105-103  ,40-40,Kukoc  25,Mason  10,Cassell  8,H,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Sun, Apr 13", Indiana ,W107-98  ,41-40,Cassell  33,Cassell  6,Payton  8,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule
+"Wed, Apr 16", Orlando ,W93-87  ,42-40,Thomas  21,Redd  8,Mason  11,A,Milwaukee Bucks 2002-03 Regular Season NBA Schedule

@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 28",Atlanta ,L120-109  ,0-1,Granger  31,Murphy  10,Murphy  7,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Oct 30", Miami ,L96-83  ,0-2,Granger  22,Murphy  13,Granger  3,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Nov 3", Denver ,L111-93  ,0-3,Jones  20,Hibbert  12,Head  3,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Nov 4",New York ,W101-89  ,1-3,Granger  21,Hibbert  14,Granger  4,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Nov 6", Washington ,W102-86  ,2-3,Granger  22,Hibbert  11,Jones  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Nov 11", Golden State ,W108-94  ,3-3,Granger  31,Granger  16,Hibbert  4,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Nov 14", Boston ,W113-104  ,4-3,Granger  29,Rush  8,Watson  7,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Nov 17",New Jersey ,W91-83  ,5-3,Granger  22,Hibbert  10,Jones  4,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Nov 18", New York ,L110-103  ,5-4,Granger  33,Hibbert  12,Ford  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Nov 20", Cleveland ,L105-95  ,5-5,Granger  19,Murphy  10,Granger  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sun, Nov 22",Charlotte ,L104-88  ,5-6,Jones  19,Murphy  8,Watson  5,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Nov 24",Toronto ,L123-112  ,5-7,Granger  36,Granger  9,Granger  5,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Nov 25", LA ,W86-73  ,6-7,Murphy  18,Murphy  11,Ford  6,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Nov 27", Dallas ,L113-92  ,6-8,Granger  20,Foster  6,Ford  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Mon, Nov 30",Golden State ,L126-107  ,6-9,Granger  22,Murphy  10,Ford  4,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Dec 2",Sacramento ,L110-105  ,6-10,Granger  33,Foster  18,Murphy  3,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Dec 4",Utah ,L96-87  ,6-11,Granger  26,Murphy  10,Dunleavy  4,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Dec 5",LA ,L88-72  ,6-12,Murphy  13,Murphy  9,Watson  9,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Dec 9", Portland ,L102-91  ,6-13,Jones  19,Hansbrough  11,Ford  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Dec 11", New Jersey ,W107-91  ,7-13,Hansbrough  21,Murphy  12,Ford  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Dec 12",Washington ,W114-113  ,8-13,Murphy  28,Murphy  12,Watson  10,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Mon, Dec 14",Orlando ,L106-98  ,8-14,Dunleavy  26,Murphy  6,Ford  7,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Dec 16", Charlotte ,W101-98  ,9-14,Murphy  26,Murphy  15,Ford  13,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Dec 18",Memphis ,L107-94  ,9-15,Ford  16,Watson  8,Jones  3,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Dec 19",San Antonio ,L100-99  ,9-16,Murphy  21,Murphy  7,Ford  5,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Mon, Dec 21", Milwaukee ,L84-81  ,9-17,Hibbert  16,Murphy  13,Ford  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Dec 22",Boston ,L103-94  ,9-18,Murphy  24,Murphy  18,Jones  8,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Dec 26", Atlanta ,L110-98  ,9-19,Murphy  19,Murphy  12,Ford  9,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sun, Dec 27",Miami ,L114-80  ,9-20,Murphy  16,Hansbrough  10,Ford  4,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Dec 29",Chicago ,L104-95  ,9-21,Hibbert  17,Hibbert  6,Jones  7,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Dec 30", Memphis ,L121-110  ,9-22,Head  30,Hibbert  13,Watson  6,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Jan 2", Minnesota ,W122-111  ,10-22,Hibbert  21,Dunleavy  8,Watson  9,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sun, Jan 3",New York ,L132-89  ,10-23,Head  18,Rush  8,Hibbert  7,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Jan 5", Orlando ,W97-90  ,11-23,Hibbert  26,Dunleavy  9,Watson  4,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Jan 8",Minnesota ,L116-109  ,11-24,Murphy  21,Murphy  6,Price  7,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Jan 9",Oklahoma City ,L108-102  ,11-25,Granger  25,Murphy  15,Watson  9,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Mon, Jan 11", Toronto ,W105-101  ,12-25,Granger  23,Murphy  16,Watson  8,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Jan 13", Phoenix ,W122-114  ,13-25,Granger  33,Murphy  14,Watson  9,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Jan 15",New Jersey ,W121-105  ,14-25,Granger  28,Murphy  14,Rush  5,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Jan 16", New Orleans ,L101-96  ,14-26,Hibbert  27,Hibbert  10,Watson  7,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Jan 19",Miami ,L113-83  ,14-27,Rush  17,Murphy  12,Jones  5,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Jan 20",Orlando ,L109-98  ,14-28,Granger  25,Murphy  10,Watson  4,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Jan 22",Detroit ,W105-93  ,15-28,Granger  25,Murphy  11,Watson  6,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Jan 23", Philadelphia ,L107-97  ,15-29,Granger  22,Murphy  12,Granger  3,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Mon, Jan 25",Philadelphia ,W109-98  ,16-29,Granger  26,Murphy  12,Murphy  7,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Jan 27", Los Angeles ,L118-96  ,16-30,Hibbert  21,Rush  11,Watson  7,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Jan 29", Cleveland ,L94-73  ,16-31,Granger  13,Granger  10,Granger  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sun, Jan 31",Toronto ,L117-102  ,16-32,Head  15,Murphy  8,Watson  6,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Feb 2", Toronto ,W130-115  ,17-32,Granger  23,Murphy  14,Watson  11,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Feb 5", Detroit ,W107-83  ,18-32,Granger  25,Hibbert  11,Rush  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Feb 6",Milwaukee ,L93-81  ,18-33,Ford  20,Murphy  11,Granger  5,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Feb 9", Chicago ,L109-101  ,18-34,Granger  27,Murphy  16,Watson  6,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Feb 17", San Antonio ,L90-87  ,18-35,Granger  23,Murphy  16,Watson  8,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Feb 19",New Orleans ,L107-101  ,18-36,Granger  29,Murphy  7,Ford  6,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Feb 20",Houston ,W125-115  ,19-36,Granger  36,Murphy  12,Granger  4,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Mon, Feb 22",Dallas ,L91-82  ,19-37,Ford  14,Murphy  11,Ford  3,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Feb 24",Chicago ,L120-110  ,19-38,Rush  21,Rush  7,Granger  5,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Thu, Feb 25", Milwaukee ,L112-110  ,19-39,Granger  21,Watson  8,Ford  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Feb 27", Chicago ,W100-90  ,20-39,Granger  30,Granger  8,Ford  7,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Mar 2",Los Angeles ,L122-99  ,20-40,Murphy  17,Murphy  13,Watson  10,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Mar 3",Portland ,L102-79  ,20-41,Granger  30,Rush  8,Ford  5,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Mar 5",Denver ,L122-114  ,20-42,Granger  32,Murphy  9,McRoberts  4,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Mar 6",Phoenix ,L113-105  ,20-43,Granger  24,Murphy  16,Ford  5,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Mar 9", Philadelphia ,W107-96  ,21-43,Jones  25,Hibbert  11,Watson  10,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Mar 12",Boston ,L122-103  ,21-44,Hibbert  23,Murphy  10,Watson  6,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sun, Mar 14",Milwaukee ,L98-94  ,21-45,Granger  29,Murphy  13,Granger  3,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Mar 16", Charlotte ,W99-94  ,22-45,Granger  26,Murphy  13,Murphy  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Mar 17",Cleveland ,L99-94  ,22-46,Hibbert  20,Murphy  15,Price  6,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Mar 19", Detroit ,W106-102  ,23-46,Granger  29,Murphy  8,Watson  11,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sun, Mar 21", Oklahoma City ,W121-101  ,24-46,Granger  32,Murphy  13,Watson  8,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Mar 23",Detroit ,W98-83  ,25-46,Granger  32,Murphy  12,Watson  13,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Mar 24", Washington ,W99-82  ,26-46,Granger  31,Murphy  19,Watson  7,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Mar 26", Utah ,W122-106  ,27-46,Granger  44,Murphy  9,Hibbert  6,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sun, Mar 28",Atlanta ,L94-84  ,27-47,Murphy  21,Murphy  14,Watson  13,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Tue, Mar 30", Sacramento ,W102-95  ,28-47,Granger  33,Murphy  13,Watson  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Apr 2", Miami ,L105-96 OT ,28-48,Murphy  29,Murphy  15,Watson  5,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sun, Apr 4", Houston ,W133-102  ,29-48,Hibbert  20,McRoberts  12,Hibbert  7,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Apr 7", New York ,W113-105  ,30-48,Granger  33,Murphy  12,Watson  6,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Fri, Apr 9",Cleveland ,W116-113  ,31-48,Granger  36,Murphy  11,Watson  10,H,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Sat, Apr 10", New Jersey ,W115-102  ,32-48,Murphy  25,Murphy  9,Watson  6,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Mon, Apr 12", Orlando ,L118-98  ,32-49,Price  19,Rush  12,Price  4,A,Indiana Pacers 2009-10 Regular Season NBA Schedule
+"Wed, Apr 14",Washington ,L98-97  ,32-50,Hibbert  29,Granger  9,McRoberts  4,H,Indiana Pacers 2009-10 Regular Season NBA Schedule

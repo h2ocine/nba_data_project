@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 27",Cleveland ,W95-89  ,1-0,Pierce  23,Pierce  11,Rondo  10,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Oct 28", Charlotte ,W92-59  ,2-0,Allen  18,Williams  9,Rondo  11,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Oct 30", Chicago ,W118-90  ,3-0,Pierce  22,Williams  10,Rondo  16,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Nov 1", New Orleans ,W97-87  ,4-0,Pierce  27,Garnett  7,Rondo  10,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Tue, Nov 3",Philadelphia ,W105-74  ,5-0,Pierce  21,Pierce  8,Rondo  5,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Nov 4",Minnesota ,W92-90  ,6-0,Rondo  18,Garnett  11,Rondo  6,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Nov 6", Phoenix ,L110-103  ,6-1,Garnett  26,Garnett  8,Rondo  11,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sat, Nov 7",New Jersey ,W86-76  ,7-1,Rondo  16,Garnett  13,Pierce  7,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Nov 11", Utah ,W105-86  ,8-1,Garnett  18,Perkins  8,Rondo  11,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Nov 13", Atlanta ,L97-86  ,8-2,Pierce  24,Perkins  9,Rondo  9,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sat, Nov 14",Indiana ,L113-104  ,8-3,Allen  24,Perkins  13,Allen  4,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Nov 18", Golden State ,W109-95  ,9-3,Pierce  19,Rondo  7,Rondo  12,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Nov 20", Orlando ,L83-78  ,9-4,Pierce  21,Wallace  13,Allen  6,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Nov 22",New York ,W107-105 OT ,10-4,Pierce  33,Perkins  13,Rondo  10,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Nov 25", Philadelphia ,W113-110  ,11-4,Pierce  27,Perkins  8,Rondo  7,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Nov 27", Toronto ,W116-103  ,12-4,Allen  20,Garnett  7,Rondo  11,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Nov 29",Miami ,W92-85  ,13-4,Garnett  24,Perkins  13,Rondo  11,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Tue, Dec 1",Charlotte ,W108-90  ,14-4,Allen  27,Perkins  12,Rondo  9,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Thu, Dec 3",San Antonio ,W90-83  ,15-4,Garnett  20,Garnett  7,Rondo  12,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Dec 4",Oklahoma City ,W105-87  ,16-4,Garnett  23,Garnett  8,Rondo  6,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Tue, Dec 8", Milwaukee ,W98-89  ,17-4,Garnett  25,Garnett  9,Rondo  13,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Thu, Dec 10",Washington ,W104-102  ,18-4,Rondo  21,Perkins  11,Rondo  11,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sat, Dec 12",Chicago ,W106-80  ,19-4,Rondo  16,Garnett  10,Rondo  14,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Mon, Dec 14",Memphis ,W110-105  ,20-4,Pierce  19,Garnett  8,Rondo  9,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Dec 18", Philadelphia ,L98-97  ,20-5,Garnett  21,Perkins  16,Rondo  10,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Dec 20", Minnesota ,W122-104  ,21-5,Pierce  29,Perkins  11,Rondo  15,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Tue, Dec 22", Indiana ,W103-94  ,22-5,Allen  23,Wallace  13,Rondo  9,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Dec 25",Orlando ,W86-77  ,23-5,Allen  18,Rondo  13,Rondo  8,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Dec 27",LA ,L92-90  ,23-6,Rondo  20,Allen  10,Rondo  6,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Mon, Dec 28",Golden State ,L103-99  ,23-7,Rondo  30,Perkins  14,Rondo  15,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Dec 30",Phoenix ,L116-98  ,23-8,House  19,Perkins  7,Rondo  8,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sat, Jan 2", Toronto ,W103-96  ,24-8,Allen  23,Perkins  10,Allen  7,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Jan 6",Miami ,W112-106 OT ,25-8,Rondo  25,Perkins  10,Rondo  8,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Jan 8",Atlanta ,L93-85  ,25-9,Pierce  21,Perkins  14,Rondo  10,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Jan 10",Toronto ,W114-107  ,26-9,Wallace  29,Rondo  10,Rondo  13,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Mon, Jan 11", Atlanta ,L102-96  ,26-10,Rondo  26,Perkins  9,Rondo  7,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Jan 13",New Jersey ,W111-87  ,27-10,Pierce  24,Perkins  8,Rondo  14,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Thu, Jan 14", Chicago ,L96-83  ,27-11,Pierce  20,Perkins  10,Rondo  7,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Mon, Jan 18", Dallas ,L99-90  ,27-12,Pierce  24,Perkins  12,Rondo  12,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Jan 20",Detroit ,L92-86  ,27-13,Rondo  21,Rondo  8,Rondo  7,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Jan 22", Portland ,W98-95 OT ,28-13,Pierce  24,Perkins  11,Rondo  9,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Mon, Jan 25", LA ,W95-89  ,29-13,Pierce  22,Perkins  15,Rondo  12,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Thu, Jan 28",Orlando ,L96-94  ,29-14,Allen  20,Rondo  7,Rondo  8,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Jan 29",Atlanta ,L100-91  ,29-15,Pierce  35,Perkins  12,Rondo  8,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Jan 31", Los Angeles ,L90-89  ,29-16,Rondo  21,Perkins  10,Rondo  12,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Mon, Feb 1",Washington ,W99-88  ,30-16,Garnett  19,Pierce  8,Rondo  12,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Feb 3", Miami ,W107-102  ,31-16,Allen  23,Allen  7,Rondo  14,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Feb 5", New Jersey ,W96-87  ,32-16,Allen  26,Allen  7,Rondo  11,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Feb 7", Orlando ,L96-89  ,32-17,Rondo  17,Garnett  9,Rondo  9,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Feb 10",New Orleans ,L93-85  ,32-18,Pierce  15,Garnett  7,Pierce  4,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Tue, Feb 16",Sacramento ,W95-92  ,33-18,Wallace  17,Garnett  9,Rondo  6,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Thu, Feb 18",Los Angeles ,W87-86  ,34-18,Allen  24,Perkins  14,Rondo  11,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Feb 19",Portland ,W96-76  ,35-18,Allen  21,Perkins  9,Rondo  11,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Feb 21",Denver ,L114-105  ,35-19,Allen  25,Davis  7,Rondo  11,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Tue, Feb 23", New York ,W110-106  ,36-19,Allen  24,Garnett  8,Rondo  16,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Thu, Feb 25", Cleveland ,L108-88  ,36-20,Allen  21,Garnett  10,Rondo  11,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sat, Feb 27", New Jersey ,L104-96  ,36-21,Garnett  26,Garnett  9,Rondo  17,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Tue, Mar 2",Detroit ,W105-100  ,37-21,Allen  18,Garnett  9,Rondo  11,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Mar 3", Charlotte ,W104-80  ,38-21,Pierce  27,Garnett  5,Rondo  6,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Mar 5",Philadelphia ,W96-86  ,39-21,Garnett  22,Garnett  8,Rondo  11,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Mar 7", Washington ,W86-83  ,40-21,Allen  25,Garnett  10,Rondo  7,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Tue, Mar 9",Milwaukee ,L86-84  ,40-22,Rondo  20,Garnett  10,Rondo  6,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Mar 10", Memphis ,L111-91  ,40-23,Allen  17,Garnett  7,Rondo  8,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Mar 12", Indiana ,W122-103  ,41-23,Pierce  20,Perkins  7,Rondo  11,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Mar 14",Cleveland ,L104-93  ,41-24,Allen  20,Rondo  8,Rondo  6,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Mon, Mar 15", Detroit ,W119-93  ,42-24,Pierce  15,Garnett  8,Rondo  6,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Mar 17", New York ,W109-97  ,43-24,Pierce  29,Perkins  12,Rondo  12,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Mar 19",Houston ,W94-87  ,44-24,Pierce  26,Wallace  9,Rondo  10,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sat, Mar 20",Dallas ,W102-93  ,45-24,Pierce  29,Rondo  10,Pierce  5,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Mon, Mar 22",Utah ,L110-97  ,45-25,Allen  15,Perkins  8,Rondo  6,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Mar 24", Denver ,W113-99  ,46-25,Pierce  27,Rondo  11,Rondo  15,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Mar 26", Sacramento ,W94-86  ,47-25,Pierce  22,Garnett  13,Rondo  18,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Mar 28", San Antonio ,L94-73  ,47-26,Pierce  18,Garnett  10,Rondo  7,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Mar 31", Oklahoma City ,L109-104  ,47-27,Garnett  18,Garnett  9,Rondo  11,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Apr 2", Houston ,L119-114 OT ,47-28,Pierce  27,Wallace  8,Rondo  10,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sun, Apr 4", Cleveland ,W117-113  ,48-28,Allen  33,Perkins  10,Rondo  14,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Tue, Apr 6",New York ,L104-101  ,48-29,Allen  17,Perkins  8,Rondo  6,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Apr 7",Toronto ,W115-104  ,49-29,Rondo  21,Perkins  9,Rondo  7,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Fri, Apr 9", Washington ,L106-96  ,49-30,Rondo  17,Perkins  7,Rondo  12,A,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Sat, Apr 10",Milwaukee ,W105-90  ,50-30,Pierce  24,Wallace  7,Rondo  10,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Tue, Apr 13",Chicago ,L101-93  ,50-31,Pierce  28,Perkins  11,Rondo  6,H,Boston Celtics 2009-10 Regular Season NBA Schedule
+"Wed, Apr 14", Milwaukee ,L106-95  ,50-32,Rondo  21,Rondo  6,Rondo  15,A,Boston Celtics 2009-10 Regular Season NBA Schedule

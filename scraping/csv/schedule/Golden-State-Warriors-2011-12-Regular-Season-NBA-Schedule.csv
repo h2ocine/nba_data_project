@@ -1,0 +1,67 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Sun, Dec 25", LA ,L105-86  ,0-1,Lee  21,Lee  12,Ellis  8,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Mon, Dec 26", Chicago ,W99-91  ,1-1,Ellis  26,Lee  7,Curry  10,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Dec 28", New York ,W92-78  ,2-1,Ellis  22,Brown  10,Ellis  8,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sat, Dec 31", Philadelphia ,L107-79  ,2-2,Curry  21,Udoh  9,Smith  5,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Mon, Jan 2",Phoenix ,L102-91  ,2-3,Ellis  18,McGuire  9,Ellis  11,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Jan 4",San Antonio ,L101-95  ,2-4,Ellis  38,Lee  10,Curry  8,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Fri, Jan 6",Los Angeles ,L97-90  ,2-5,Ellis  18,Lee  11,Ellis  10,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sat, Jan 7", Utah ,L88-87  ,2-6,Ellis  32,Lee  15,Ellis  6,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Tue, Jan 10", Miami ,W111-106 OT ,3-6,Robinson  24,Lee  14,Robinson  5,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Thu, Jan 12", Orlando ,L117-109  ,3-7,Ellis  30,Lee  12,Ellis  11,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sat, Jan 14",Charlotte ,L112-100  ,3-8,Lee  24,Lee  16,Ellis  6,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sun, Jan 15",Detroit ,W99-91  ,4-8,Lee  24,Wright  11,Ellis  7,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Tue, Jan 17",Cleveland ,W105-95  ,5-8,Lee  29,Biedrins  11,Robinson  10,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Jan 18",New Jersey ,L107-100  ,5-9,Ellis  30,Lee  11,Robinson  7,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Fri, Jan 20", Indiana ,L94-91  ,5-10,Ellis  25,Lee  14,Ellis  6,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Mon, Jan 23", Memphis ,L91-90  ,5-11,Ellis  20,Lee  12,Robinson  6,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Jan 25", Portland ,W101-93  ,6-11,Curry  32,Udoh  7,Ellis  12,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Fri, Jan 27", Oklahoma City ,L120-109  ,6-12,Wright  23,Wright  9,Curry  6,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Tue, Jan 31", Sacramento ,W93-90  ,7-12,Rush  20,Rush  6,Curry  8,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Thu, Feb 2", Utah ,W119-101  ,8-12,Ellis  33,Lee  14,Curry  12,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sat, Feb 4",Sacramento ,L114-106 OT ,8-13,Wright  24,Lee  5,Curry  9,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Tue, Feb 7", Oklahoma City ,L119-116  ,8-14,Ellis  48,Lee  11,Lee  10,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Thu, Feb 9",Denver ,W109-101  ,9-14,Curry  36,Lee  8,Curry  7,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sun, Feb 12", Houston ,W106-97  ,10-14,Ellis  33,Lee  13,Ellis  7,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Mon, Feb 13", Phoenix ,W102-96  ,11-14,Lee  28,Lee  12,Curry  5,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Feb 15", Portland ,L93-91  ,11-15,Lee  29,Lee  11,Curry  8,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Fri, Feb 17",Oklahoma City ,L110-87  ,11-16,Lee  23,Wright  11,Curry  4,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sat, Feb 18",Memphis ,L104-103  ,11-17,Curry  36,Lee  9,Curry  6,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Mon, Feb 20", LA ,W104-97  ,12-17,Ellis  32,Lee  13,Curry  6,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Feb 22",Phoenix ,W106-104  ,13-17,Ellis  26,McGuire  9,Ellis  6,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Tue, Feb 28",Indiana ,L102-78  ,13-18,Rush  14,Rush  7,Lee  4,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Feb 29",Atlanta ,W85-82  ,14-18,Ellis  24,McGuire  15,Ellis  8,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Fri, Mar 2",Philadelphia ,L105-83  ,14-19,Lee  24,Lee  15,Ellis  7,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sun, Mar 4",Toronto ,L83-75  ,14-20,Lee  22,Lee  12,Ellis  7,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Mon, Mar 5",Washington ,W120-100  ,15-20,Ellis  25,Lee  10,Ellis  8,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Mar 7", Memphis ,L110-92  ,15-21,Thompson  16,Thompson  6,Udoh  4,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sat, Mar 10", Dallas ,W111-87  ,16-21,Lee  25,Lee  9,Ellis  8,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sun, Mar 11",LA ,W97-93  ,17-21,Ellis  21,Lee  10,Ellis  11,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Tue, Mar 13",Sacramento ,W115-89  ,18-21,Lee  17,Wright  10,Thompson  5,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Mar 14", Boston ,L105-103  ,18-22,Thompson  26,Lee  8,Robinson  11,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Fri, Mar 16", Milwaukee ,L120-98  ,18-23,Lee  22,Lee  9,Robinson  6,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sat, Mar 17",Utah ,L99-92 OT ,18-24,Robinson  19,Wright  10,Robinson  4,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Mon, Mar 19", Minnesota ,L97-93  ,18-25,Lee  25,Lee  9,Robinson  7,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Mar 21",New Orleans ,W101-92  ,19-25,Thompson  27,Lee  11,Robinson  10,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Thu, Mar 22",Houston ,L109-83  ,19-26,Jefferson  14,McGuire  6,Jenkins  6,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sat, Mar 24", Sacramento ,W111-108  ,20-26,Thompson  31,Lee  14,Lee  9,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sun, Mar 25",Portland ,L90-87  ,20-27,Jenkins  27,Lee  16,Jenkins  6,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Tue, Mar 27", Los Angeles ,L104-101  ,20-28,Lee  23,Lee  9,Thompson  7,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Mar 28", New Orleans ,L102-87  ,20-29,Lee  28,Lee  7,Robinson  6,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Fri, Mar 30", New Jersey ,L102-100  ,20-30,Lee  27,McGuire  9,Jenkins  12,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sun, Apr 1",Los Angeles ,L120-112  ,20-31,Lee  27,Lee  6,Lee  7,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Tue, Apr 3",Memphis ,L98-94  ,20-32,Lee  22,Lee  13,Robinson  5,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Apr 4",Minnesota ,W97-94  ,21-32,Lee  31,Lee  8,Jenkins  7,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Fri, Apr 6",Utah ,L104-98  ,21-33,Lee  26,Lee  12,Jenkins  7,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sat, Apr 7", Denver ,W112-97  ,22-33,Rush  20,Lee  9,Jenkins  8,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Mon, Apr 9",Denver ,L123-84  ,22-34,Thompson  17,Gladness  5,Robinson  5,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Apr 11",Portland ,L118-110  ,22-35,Lee  21,Lee  14,Robinson  8,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Thu, Apr 12", Dallas ,L112-103  ,22-36,Lee  30,Lee  8,Thompson  8,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sat, Apr 14",LA ,L112-104  ,22-37,Robinson  28,McGuire  11,Robinson  8,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Mon, Apr 16", San Antonio ,L120-99  ,22-38,Robinson  30,Tyler  10,Robinson  7,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Wed, Apr 18", Los Angeles ,L99-87  ,22-39,Thompson  17,Wright  7,Jenkins  11,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Fri, Apr 20",Dallas ,L104-94  ,22-40,Thompson  26,Rush  8,Jenkins  10,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sat, Apr 21",Houston ,L99-96  ,22-41,Thompson  24,Rush  7,Jenkins  8,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Sun, Apr 22",Minnesota ,W93-88  ,23-41,Jenkins  24,Rush  9,Jenkins  9,H,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Tue, Apr 24", New Orleans ,L83-81  ,23-42,Thompson  16,Tyler  8,Jenkins  10,A,Golden State Warriors 2011-12 Regular Season NBA Schedule
+"Thu, Apr 26", San Antonio ,L107-101  ,23-43,Wright  25,Tyler  9,McGuire  8,A,Golden State Warriors 2011-12 Regular Season NBA Schedule

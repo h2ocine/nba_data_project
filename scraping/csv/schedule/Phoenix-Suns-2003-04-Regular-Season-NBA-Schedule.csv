@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 28",San Antonio ,L83-82  ,0-1,Marbury  24,Voskuhl  9,Marbury  6,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Thu, Oct 30", Cleveland ,W95-86  ,1-1,Stoudemire  25,Marion  11,Marbury  7,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Nov 1", Los Angeles ,L103-99  ,1-2,Marbury  26,Marion  11,Marbury  11,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Nov 5",Utah ,L91-80  ,1-3,Marion  20,Marion  9,Marbury  6,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Nov 7", Memphis ,W96-88  ,2-3,Marion  20,Marion  8,Marbury  9,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Mon, Nov 10",Golden State ,W99-96  ,3-3,Johnson  22,Stoudemire  18,Marbury  8,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Nov 12", Atlanta ,L99-94  ,3-4,Marion  22,Stoudemire  10,Marbury  6,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Nov 14",Houston ,L90-85  ,3-5,Marbury  33,Johnson  12,Marbury  6,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Nov 15", Detroit ,L100-91  ,3-6,Marion  19,Stoudemire  14,Marbury  5,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Nov 18", Chicago ,W95-82  ,4-6,Stoudemire  21,Stoudemire  10,Marbury  12,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Thu, Nov 20", Orlando ,W96-89  ,5-6,Marion  16,Stoudemire  9,Marbury  11,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Nov 22", Miami ,W100-98  ,6-6,Stoudemire  24,Stoudemire  8,Marbury  10,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Nov 25",Denver ,L110-80  ,6-7,Stoudemire  25,Stoudemire  13,Marbury  12,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Nov 26", Dallas ,W121-90  ,7-7,Johnson  21,White  11,Marbury  12,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Nov 28", Golden State ,L92-83  ,7-8,Hardaway  16,White  9,Marbury  6,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Mon, Dec 1", Indiana ,L89-82  ,7-9,Marion  15,Marion  12,Marbury  10,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Dec 3", Minnesota ,L92-79  ,7-10,Marbury  32,Marion  9,Marbury  6,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Dec 5",Boston ,W110-106  ,8-10,Marbury  34,Marion  10,Marbury  7,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Dec 6",New Jersey ,L99-88  ,8-11,Marion  25,Marion  17,Marbury  7,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Mon, Dec 8",Orlando ,L105-98  ,8-12,Marion  29,Marion  17,Marbury  11,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Dec 9",Miami ,L92-72  ,8-13,Marion  27,Marion  10,Marbury  5,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Thu, Dec 11", New Orleans ,L111-101  ,8-14,Marion  31,Marion  7,Marbury  8,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Dec 13",LA ,L106-91  ,8-15,Marbury  30,Marion  10,Marbury  9,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sun, Dec 14",Sacramento ,L107-102  ,8-16,Marion  32,Marion  12,Marbury  8,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Dec 16", Seattle ,W92-91 OT ,9-16,Marion  19,Marion  14,Marbury  7,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Thu, Dec 18",Portland ,L101-94  ,9-17,Marion  20,Williams  9,Marbury  17,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Dec 20", Houston ,W102-87  ,10-17,Marion  25,Marion  11,Marbury  7,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sun, Dec 21",Los Angeles ,L107-101  ,10-18,Marbury  31,Marion  10,Marbury  11,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Dec 23",Seattle ,L116-90  ,10-19,Johnson  21,Marion  12,Johnson  8,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Dec 26", Boston ,L104-102  ,10-20,Marion  25,Marion  8,Marbury  9,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sun, Dec 28", Philadelphia ,W100-92  ,11-20,Marion  26,White  10,Marbury  6,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Mon, Dec 29",LA ,W113-105  ,12-20,Marbury  40,Hardaway  6,Marbury  9,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Jan 2",Detroit ,L93-81  ,12-21,Marbury  26,Marion  11,Marbury  7,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sun, Jan 4",Toronto ,L83-73  ,12-22,Marbury  17,Marion  14,Marbury  6,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Mon, Jan 5",Chicago ,L87-82  ,12-23,Barbosa  27,Johnson  8,Johnson  5,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Jan 7",Milwaukee ,L95-87  ,12-24,Johnson  25,Marion  10,Johnson  7,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Jan 9", Sacramento ,L113-93  ,12-25,Johnson  23,Marion  11,Johnson  6,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Jan 13", Denver ,L105-92  ,12-26,Stoudemire  28,Stoudemire  8,Johnson  6,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Thu, Jan 15",Portland ,W105-96  ,13-26,Stoudemire  22,Stoudemire  10,Johnson  7,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Jan 16", Golden State ,W104-93  ,14-26,Johnson  26,Marion  9,Johnson  7,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sun, Jan 18", Portland ,W96-92  ,15-26,Johnson  25,Marion  16,Marion  7,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Mon, Jan 19",Los Angeles ,W88-85  ,16-26,Johnson  26,Voskuhl  12,Eisley  5,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Jan 21",Denver ,L97-92  ,16-27,Johnson  28,Marion  15,Johnson  5,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Jan 23", San Antonio ,L86-84  ,16-28,Marion  23,Voskuhl  16,Eisley  7,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sun, Jan 25",Minnesota ,L99-95  ,16-29,Marion  31,Marion  13,Johnson  6,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Jan 27",Atlanta ,W89-85  ,17-29,Marion  22,White  9,Johnson  7,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Jan 28",Indiana ,L101-79  ,17-30,Johnson  23,Marion  7,Eisley  7,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Jan 30",Washington ,L105-100  ,17-31,Johnson  28,White  9,Johnson  9,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Jan 31",New York ,L110-105  ,17-32,Johnson  31,Marion  14,Barbosa  6,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Mon, Feb 2", Houston ,W99-79  ,18-32,Marion  31,Marion  8,Johnson  10,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Feb 4", Portland ,L101-97  ,18-33,Johnson  25,Johnson  8,Marion  3,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Feb 6", Seattle ,L107-105  ,18-34,Marion  27,Stoudemire  10,Barbosa  9,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Feb 7", Utah ,L96-92  ,18-35,Stoudemire  20,Stoudemire  6,Eisley  7,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Feb 10", Toronto ,L101-94  ,18-36,Stoudemire  23,Marion  10,Marion  6,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Feb 11",Golden State ,L110-99  ,18-37,Stoudemire  33,Stoudemire  9,Eisley  6,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Feb 17",Minnesota ,L110-95  ,18-38,Stoudemire  29,Marion  11,Johnson  9,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Feb 20",Memphis ,L97-92  ,18-39,Stoudemire  23,White  13,Johnson  5,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sun, Feb 22", Los Angeles ,L104-92  ,18-40,Stoudemire  25,Marion  13,Johnson  9,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Feb 25", New York ,W113-95  ,19-40,Stoudemire  24,Stoudemire  14,Johnson  5,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Feb 27",Seattle ,W104-99  ,20-40,Stoudemire  24,Marion  13,Johnson  5,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sun, Feb 29",Sacramento ,L108-94  ,20-41,Stoudemire  33,Stoudemire  17,Johnson  6,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Mar 3", New Jersey ,W87-74  ,21-41,Stoudemire  32,Voskuhl  12,Marion  6,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Mar 6", San Antonio ,L107-86  ,21-42,Stoudemire  23,Stoudemire  9,Eisley  4,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Mon, Mar 8",Dallas ,L103-90  ,21-43,Marion  29,Marion  13,Marion  8,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Mar 12", Utah ,L99-90  ,21-44,Stoudemire  26,Stoudemire  15,Eisley  3,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Mar 13", Dallas ,L113-90  ,21-45,Stoudemire  25,Johnson  7,Johnson  4,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Mon, Mar 15",Houston ,W99-97 OT ,22-45,Marion  29,Stoudemire  15,Johnson  7,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Mar 16", LA ,L110-98  ,22-46,Stoudemire  28,Stoudemire  9,Stoudemire  3,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Mar 19", Minnesota ,L93-80  ,22-47,Marion  21,Marion  10,Marion  4,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Mar 20", Milwaukee ,W123-111  ,23-47,Stoudemire  27,Marion  9,Johnson  6,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Mar 23",Cleveland ,W103-86  ,24-47,Johnson  31,Stoudemire  11,Johnson  6,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Mar 24",Philadelphia ,L99-94  ,24-48,Johnson  27,McDyess  10,Johnson  8,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Mar 26",New Orleans ,W99-94  ,25-48,Stoudemire  25,McDyess  11,Johnson  8,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Mar 27",San Antonio ,L105-76  ,25-49,Stoudemire  20,Stoudemire  9,Johnson  6,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Mon, Mar 29", Washington ,W101-95  ,26-49,Marion  21,Marion  12,Barbosa  5,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Apr 2",Memphis ,L109-99  ,26-50,Stoudemire  31,Marion  12,Johnson  11,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sat, Apr 3",Dallas ,L124-103  ,26-51,Stoudemire  20,Stoudemire  13,Johnson  9,H,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Apr 7", Denver ,L111-96  ,26-52,Johnson  22,Stoudemire  11,Jacobsen  6,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Fri, Apr 9", Sacramento ,W101-96  ,27-52,Johnson  24,McDyess  15,Barbosa  8,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Sun, Apr 11", Memphis ,W89-83  ,28-52,Stoudemire  29,McDyess  13,Johnson  5,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Tue, Apr 13", LA ,L98-96  ,28-53,Stoudemire  29,Stoudemire  14,Johnson  5,A,Phoenix Suns 2003-04 Regular Season NBA Schedule
+"Wed, Apr 14",Utah ,W89-84  ,29-53,Stoudemire  29,Marion  9,Johnson  5,H,Phoenix Suns 2003-04 Regular Season NBA Schedule

@@ -1,0 +1,67 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Mon, Dec 26",Cleveland ,W104-96  ,1-0,Calderon  15,Johnson  13,Calderon  11,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Dec 28", Indiana ,L90-85  ,1-1,DeRozan  22,Johnson  10,Calderon  6,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Dec 30",Dallas ,L99-86  ,1-2,Bargnani  30,Bargnani  7,Calderon  7,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sun, Jan 1",Orlando ,L102-96  ,1-3,Bargnani  28,Bargnani  7,Calderon  13,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Mon, Jan 2",New York ,W90-85  ,2-3,Bargnani  21,Butler  10,Calderon  12,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Jan 4", Cleveland ,W92-77  ,3-3,Bargnani  31,Johnson  8,Calderon  11,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Jan 6", New Jersey ,L97-85  ,3-4,Calderon  19,Johnson  10,Calderon  8,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sat, Jan 7",Philadelphia ,L97-62  ,3-5,Bargnani  21,Johnson  14,Calderon  7,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Mon, Jan 9", Minnesota ,W97-87  ,4-5,Bargnani  31,Johnson  11,Calderon  6,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Tue, Jan 10",Washington ,L93-78  ,4-6,Bargnani  22,Johnson  10,Calderon  8,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Jan 11", Sacramento ,L98-91  ,4-7,Barbosa  24,Bargnani  10,Calderon  10,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Jan 13", Indiana ,L95-90  ,4-8,DeRozan  23,Davis  10,Calderon  9,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sat, Jan 14",Chicago ,L77-64  ,4-9,Barbosa  15,Johnson  13,Calderon  8,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Mon, Jan 16",Atlanta ,L93-84  ,4-10,Barbosa  22,Davis  11,Calderon  11,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Jan 18",Boston ,L96-73  ,4-11,Forbes  18,Davis  9,Calderon  4,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Jan 20", Portland ,L94-84  ,4-12,Johnson  23,Davis  10,Calderon  13,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sun, Jan 22",LA ,L103-91  ,4-13,Barbosa  19,DeRozan  8,Bayless  5,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Tue, Jan 24",Phoenix ,W99-96  ,5-13,Bargnani  36,Johnson  10,Calderon  11,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Jan 25",Utah ,W111-106 2OT ,6-13,Bargnani  25,DeRozan  8,Calderon  7,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Jan 27",Denver ,L96-81  ,6-14,Barbosa  19,Gray  11,Kleiza  4,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sun, Jan 29",New Jersey ,W94-73  ,7-14,DeRozan  27,Davis  9,Calderon  9,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Tue, Jan 31", Atlanta ,L100-77  ,7-15,Bayless  14,Davis  11,Calderon  9,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Feb 1",Boston ,L100-64  ,7-16,Bayless  14,Davis  12,Calderon  7,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Feb 3", Washington ,W106-89  ,8-16,Barbosa  19,Johnson  13,Calderon  17,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sun, Feb 5",Miami ,L95-89  ,8-17,DeRozan  25,Davis  8,Johnson  4,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Mon, Feb 6",Washington ,L111-108 OT ,8-18,Kleiza  30,Johnson  10,Johnson  6,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Feb 8", Milwaukee ,L105-99  ,8-19,DeRozan  25,Kleiza  8,Calderon  15,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Feb 10", Boston ,W86-74  ,9-19,DeRozan  21,Johnson  12,Calderon  14,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sun, Feb 12", Los Angeles ,L94-92  ,9-20,Calderon  30,Davis  8,DeRozan  7,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Tue, Feb 14", New York ,L90-87  ,9-21,Calderon  25,Kleiza  11,Calderon  9,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Feb 15", San Antonio ,L113-106  ,9-22,DeRozan  29,Johnson  7,Calderon  11,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Feb 17", Charlotte ,L98-91  ,9-23,DeRozan  24,Johnson  15,Calderon  8,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Feb 22", Detroit ,W103-93  ,10-23,DeRozan  23,Gray  12,Calderon  15,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Tue, Feb 28",Houston ,L88-85  ,10-24,DeRozan  17,Davis  15,Calderon  7,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Feb 29",New Orleans ,W95-84  ,11-24,DeRozan  21,Johnson  7,Calderon  6,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Mar 2", Memphis ,L102-99  ,11-25,Bayless  18,Kleiza  7,Calderon  9,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sun, Mar 4", Golden State ,W83-75  ,12-25,DeRozan  25,Johnson  13,DeRozan  4,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Mon, Mar 5", Orlando ,L92-88  ,12-26,DeRozan  23,Gray  11,Johnson  7,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Mar 7", Houston ,W116-98  ,13-26,DeRozan  23,Johnson  8,Calderon  12,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sat, Mar 10",Detroit ,L105-86  ,13-27,DeRozan  15,DeRozan  5,Bayless  4,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sun, Mar 11", Milwaukee ,L105-99  ,13-28,DeRozan  21,Davis  10,Bayless  6,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Tue, Mar 13",Cleveland ,W96-88  ,14-28,Bayless  20,Johnson  9,Bayless  7,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Mar 14",New Jersey ,L98-84  ,14-29,Bayless  16,Johnson  9,Bayless  10,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Mar 16",Memphis ,W114-110 OT ,15-29,Bayless  28,Bargnani  7,Bayless  9,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sat, Mar 17",Charlotte ,L107-103  ,15-30,Bayless  29,Davis  12,Bayless  6,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Tue, Mar 20",New York ,L106-87  ,15-31,DeRozan  17,Davis  9,Calderon  8,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Mar 21", Chicago ,L94-82  ,15-32,DeRozan  23,Gray  8,Calderon  8,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Mar 23", New York ,W96-79  ,16-32,DeRozan  30,Bargnani  7,Calderon  10,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sat, Mar 24",Chicago ,L102-101 OT ,16-33,Johnson  20,Forbes  13,Calderon  10,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Mon, Mar 26", Orlando ,L117-101  ,16-34,Forbes  21,Magloire  7,Calderon  11,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Mar 28", Denver ,W105-96  ,17-34,Bargnani  26,Forbes  10,Calderon  10,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Mar 30", Miami ,L113-101  ,17-35,DeRozan  28,Johnson  12,Calderon  16,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sun, Apr 1", Washington ,W99-92  ,18-35,Bargnani  18,Bargnani  8,Calderon  8,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Tue, Apr 3", Charlotte ,W92-87  ,19-35,Bargnani  30,Gray  9,Calderon  11,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Apr 4",Philadelphia ,W99-78  ,20-35,Bargnani  24,Davis  14,Calderon  13,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Apr 6", Cleveland ,L84-80  ,20-36,DeRozan  28,Kleiza  8,DeRozan  4,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sun, Apr 8",Oklahoma City ,L91-75  ,20-37,Calderon  19,Gray  10,Calderon  6,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Mon, Apr 9",Indiana ,L103-98  ,20-38,Kleiza  18,Davis  10,Calderon  14,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Apr 11", Philadelphia ,L93-75  ,20-39,Davis  13,Davis  13,Davis  5,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Fri, Apr 13", Boston ,W84-79  ,21-39,DeRozan  22,Davis  12,Uzoh  5,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sun, Apr 15",Atlanta ,W102-86  ,22-39,DeRozan  23,Gray  7,Dentmon  4,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Mon, Apr 16", Atlanta ,L109-87  ,22-40,DeRozan  22,Uzoh  10,Uzoh  8,A,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Wed, Apr 18",Miami ,L96-72  ,22-41,Johnson  18,Johnson  6,Anderson  3,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Sun, Apr 22",Detroit ,L76-73  ,22-42,DeRozan  16,Alabi  10,Forbes  4,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Mon, Apr 23",Milwaukee ,L92-86  ,22-43,Johnson  22,Johnson  13,Forbes  5,H,Toronto Raptors 2011-12 Regular Season NBA Schedule
+"Thu, Apr 26", New Jersey ,W98-67  ,23-43,Davis  24,Alabi  19,Uzoh  12,A,Toronto Raptors 2011-12 Regular Season NBA Schedule

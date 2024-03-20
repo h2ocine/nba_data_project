@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 17",Orlando ,L104-101  ,0-1,Dragic  26,Whiteside  18,Dragic  4,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Thu, Oct 18",Washington ,W113-112  ,1-1,Richardson  28,Whiteside  10,Dragic  8,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Oct 20", Charlotte ,L113-112  ,1-2,Wade  21,Whiteside  15,Dragic  7,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Oct 24", New York ,W110-87  ,2-2,Whiteside  22,Whiteside  14,Olynyk  6,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Oct 27", Portland ,W120-111  ,3-2,Dragic  28,Whiteside  16,Dragic  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Mon, Oct 29", Sacramento ,L123-113  ,3-3,Richardson  31,Whiteside  24,McGruder  6,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Tue, Oct 30",Charlotte ,L125-113  ,3-4,Wade  19,Whiteside  12,Winslow  5,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Nov 3",Atlanta ,L123-118  ,3-5,Richardson  32,Winslow  10,Winslow  8,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Mon, Nov 5",Detroit ,W120-115 OT ,4-5,Richardson  27,Richardson  8,Dragic  6,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Nov 7", San Antonio ,W95-88  ,5-5,Whiteside  29,Whiteside  20,Richardson  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Nov 9", Indiana ,L110-102  ,5-6,Olynyk  20,Whiteside  20,Richardson  6,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Nov 10", Washington ,L116-110  ,5-7,Richardson  24,Whiteside  14,Winslow  6,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Mon, Nov 12", Philadelphia ,L124-114  ,5-8,Dragic  22,Whiteside  11,Dragic  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Nov 14",Brooklyn ,W120-107  ,6-8,Johnson  24,Winslow  11,Richardson  5,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Nov 16",Indiana ,L99-91  ,6-9,Richardson  28,Whiteside  17,Winslow  6,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Nov 18", Los Angeles ,L113-97  ,6-10,Ellington  19,Adebayo  8,McGruder  4,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Tue, Nov 20", Brooklyn ,L104-92  ,6-11,Whiteside  21,Whiteside  23,Richardson  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Nov 23",Chicago ,W103-96  ,7-11,Richardson  27,Adebayo  13,Johnson  5,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Nov 25",Toronto ,L125-115  ,7-12,Wade  35,Adebayo  21,Wade  6,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Tue, Nov 27", Atlanta ,L115-113  ,7-13,Richardson  22,Whiteside  10,McGruder  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Nov 30", New Orleans ,W106-101  ,8-13,Richardson  20,Adebayo  11,Wade  6,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Dec 2", Utah ,W102-100  ,9-13,Whiteside  23,Whiteside  20,Wade  8,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Tue, Dec 4", Orlando ,L105-90  ,9-14,Winslow  14,Whiteside  9,Richardson  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Dec 7",Phoenix ,W115-98  ,10-14,Adebayo  22,Adebayo  10,Dragic  10,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Dec 8",LA ,W121-98  ,11-14,Wade  25,Jones Jr.  11,Winslow  9,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Mon, Dec 10",Los Angeles ,L108-105  ,11-15,Winslow  28,Jones Jr.  14,Wade  10,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Dec 12",Utah ,L111-84  ,11-16,McGruder  16,Olynyk  8,Olynyk  3,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Dec 14",Memphis ,W100-97  ,12-16,Richardson  18,Adebayo  9,Richardson  7,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Dec 16",New Orleans ,W102-96  ,13-16,Richardson  22,Whiteside  12,Adebayo  5,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Thu, Dec 20", Houston ,W101-99  ,14-16,Richardson  22,Whiteside  17,Richardson  7,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Dec 22", Milwaukee ,W94-87  ,15-16,Richardson  16,Whiteside  13,Winslow  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Dec 23",Orlando ,W115-91  ,16-16,Johnson  25,Richardson  10,Winslow  5,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Dec 26", Toronto ,L106-104  ,16-17,Winslow  21,Whiteside  12,Richardson  7,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Dec 28", Cleveland ,W118-94  ,17-17,Winslow  24,Winslow  11,Winslow  7,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Dec 30", Minnesota ,L113-104  ,17-18,Wade  21,Whiteside  13,Wade  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Jan 2",Cleveland ,W117-92  ,18-18,Richardson  24,Whiteside  12,Winslow  7,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Jan 4", Washington ,W115-109  ,19-18,Whiteside  21,Whiteside  18,Winslow  10,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Jan 6",Atlanta ,L106-82  ,19-19,Jones Jr.  14,Adebayo  6,McGruder  5,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Tue, Jan 8", Denver ,L103-99  ,19-20,Waiters  15,Whiteside  10,Wade  6,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Thu, Jan 10", Boston ,W115-99  ,20-20,Wade  19,Whiteside  10,Winslow  11,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Jan 12", Memphis ,W112-108  ,21-20,Winslow  26,Adebayo  10,Richardson  9,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Tue, Jan 15",Milwaukee ,L124-86  ,21-21,Whiteside  19,Whiteside  8,Winslow  5,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Jan 18",Detroit ,L98-93  ,21-22,Wade  20,Whiteside  10,Wade  8,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Jan 19",Chicago ,W117-103  ,22-22,Richardson  26,Wade  10,Wade  7,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Mon, Jan 21",Boston ,L107-99  ,22-23,Jones Jr.  18,Jones Jr.  9,Winslow  6,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Jan 23", LA ,L111-99  ,22-24,Whiteside  22,Whiteside  16,Richardson  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Jan 25",Cleveland ,W100-94  ,23-24,Winslow  27,Whiteside  13,Johnson  6,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Jan 27",New York ,W106-97  ,24-24,Ellington  19,Whiteside  17,Wade  10,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Jan 30", Chicago ,L105-89  ,24-25,Johnson  15,Whiteside  9,Winslow  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Feb 1", Oklahoma City ,L118-102  ,24-26,Olynyk  21,Whiteside  16,Wade  6,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Feb 2", Indiana ,L95-88  ,24-27,Wade  21,Whiteside  13,Waiters  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Tue, Feb 5",Portland ,W118-108  ,25-27,Whiteside  28,Whiteside  11,Winslow  5,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Feb 8",Sacramento ,L102-96  ,25-28,Richardson  21,Whiteside  19,Winslow  6,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Feb 10",Golden State ,L120-118  ,25-29,Richardson  37,Whiteside  14,Wade  9,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Mon, Feb 11",Denver ,L103-87  ,25-30,Winslow  15,McGruder  10,Richardson  8,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Feb 13",Dallas ,W112-101  ,26-30,Wade  22,Winslow  11,Richardson  6,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Thu, Feb 21",Philadelphia ,L106-102  ,26-31,Wade  19,Winslow  7,Wade  6,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Feb 23", Detroit ,L119-96  ,26-32,Richardson  22,Whiteside  15,Waiters  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Mon, Feb 25", Phoenix ,L124-121  ,26-33,Whiteside  29,Whiteside  11,Richardson  9,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Feb 27", Golden State ,W126-125  ,27-33,Dragic  27,Adebayo  10,Richardson  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Thu, Feb 28",Houston ,L121-118  ,27-34,Dragic  21,Winslow  7,Winslow  8,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Mar 2", Brooklyn ,W117-88  ,28-34,Olynyk  25,Adebayo  16,Richardson  7,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Mon, Mar 4", Atlanta ,W114-113  ,29-34,Wade  23,Whiteside  7,Wade  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Mar 6",Charlotte ,W91-84  ,30-34,Olynyk  22,Whiteside  15,Winslow  7,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Mar 8", Cleveland ,W126-110  ,31-34,Richardson  20,Whiteside  11,Winslow  9,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Mar 10", Toronto ,L125-104  ,31-35,Adebayo  19,Whiteside  7,Adebayo  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Mar 13", Detroit ,W108-74  ,32-35,Winslow  16,Whiteside  11,Richardson  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Mar 15", Milwaukee ,L113-98  ,32-36,Winslow  20,Whiteside  11,Winslow  5,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Mar 17", Charlotte ,W93-75  ,33-36,Dragic  19,Adebayo  9,Olynyk  6,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Mon, Mar 18",Oklahoma City ,W116-107  ,34-36,Dragic  26,Olynyk  9,Dragic  11,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Mar 20",San Antonio ,W110-105  ,35-36,Dragic  22,Adebayo  15,Adebayo  5,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Mar 22",Milwaukee ,L116-87  ,35-37,Whiteside  14,Whiteside  9,Richardson  5,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Mar 23",Washington ,W113-108  ,36-37,Wade  20,Adebayo  11,Adebayo  8,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Tue, Mar 26", Orlando ,L104-99  ,36-38,Waiters  26,Adebayo  11,Wade  7,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Thu, Mar 28", Dallas ,W105-99  ,37-38,Dragic  23,Adebayo  16,Dragic  11,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sat, Mar 30",New York ,W100-92  ,38-38,Waiters  28,Whiteside  13,Dragic  10,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Mon, Apr 1",Boston ,L110-105  ,38-39,Dragic  30,Adebayo  14,Wade  7,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Apr 3", Boston ,L112-102  ,38-40,Waiters  21,Whiteside  15,Wade  6,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Fri, Apr 5",Minnesota ,L111-109  ,38-41,Wade  24,Dragic  7,Dragic  9,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Sun, Apr 7",Toronto ,L117-109 OT ,38-42,Wade  21,Adebayo  13,Winslow  6,H,Miami Heat 2018-19 Regular Season NBA Schedule
+"Tue, Apr 9", Philadelphia ,W122-99  ,39-42,Wade  30,Adebayo  9,Dragic  13,A,Miami Heat 2018-19 Regular Season NBA Schedule
+"Wed, Apr 10",Brooklyn ,L113-94  ,39-43,Wade  25,Wade  11,Wade  10,H,Miami Heat 2018-19 Regular Season NBA Schedule

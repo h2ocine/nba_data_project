@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Nov 3", Miami ,L100-77  ,0-1,Jefferson  19,Williams  7,Jefferson  5,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Nov 5",Chicago ,W111-106 2OT ,1-1,Jefferson  26,Jefferson  21,Jefferson  9,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Nov 6", Phoenix ,L112-80  ,1-2,Jefferson  24,Jefferson  7,Jefferson  4,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Nov 9", Portland ,W64-60  ,2-2,Mourning  14,Mourning  12,Jefferson  7,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Nov 10",Philadelphia ,L108-100 OT ,2-3,Jefferson  33,Jefferson  10,Vaughn  12,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Nov 13", Dallas ,L94-78  ,2-4,Jefferson  28,Jefferson  10,Planinic  4,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Mon, Nov 15", Houston ,L80-69  ,2-5,Jefferson  17,Jefferson  11,Planinic  4,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Nov 17", Seattle ,L79-68  ,2-6,Jefferson  20,Jefferson  10,Jefferson  2,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Nov 20", Washington ,L97-86  ,2-7,Jefferson  22,Collins  11,Williams  5,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Nov 23",Denver ,L90-88  ,2-8,Jefferson  26,Jefferson  11,Best  7,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Thu, Nov 25",LA ,L101-88  ,2-9,Jefferson  24,Jefferson  6,Jefferson  3,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Nov 26",Seattle ,L92-79  ,2-10,Jefferson  21,Scalabrine  9,Jefferson  2,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sun, Nov 28",Portland ,L83-71  ,2-11,Jefferson  20,Jefferson  7,Jefferson  4,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Nov 30", Charlotte ,W99-86  ,3-11,Jefferson  23,Mourning  11,Jefferson  6,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Dec 1",Washington ,L95-68  ,3-12,Williams  17,Mourning  9,Collins  2,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Dec 4", Atlanta ,W109-88  ,4-12,Williams  21,Jefferson  7,Jefferson  7,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Mon, Dec 6", Toronto ,W88-86  ,5-12,Jefferson  26,Mourning  10,Jefferson  8,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Dec 7",Cleveland ,L103-97  ,5-13,Jefferson  27,Collins  8,Jefferson  7,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Dec 10", New Orleans ,W94-91 OT ,6-13,Jefferson  24,Collins  9,Best  9,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Dec 11",Atlanta ,W95-90  ,7-13,Jefferson  21,Jefferson  8,Jefferson  4,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Dec 14", New York ,L87-79  ,7-14,Jefferson  22,Collins  14,Jefferson  6,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Dec 17",Memphis ,L89-84  ,7-15,Jefferson  26,Jefferson  11,Kidd  8,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sun, Dec 19",Toronto ,L110-99  ,7-16,Jefferson  38,Kidd  6,Jefferson  5,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Dec 21",Charlotte ,W94-91  ,8-16,Jefferson  28,Krstic  12,Kidd  12,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Dec 22", Cleveland ,W92-90  ,9-16,Jefferson  42,Krstic  8,Jefferson  7,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Mon, Dec 27",Detroit ,L100-90 OT ,9-17,Jefferson  27,Krstic  9,Carter  5,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Dec 28",Chicago ,W84-80  ,10-17,Carter  25,Kidd  11,Kidd  11,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Thu, Dec 30", Indiana ,L96-83  ,10-18,Carter  25,Kidd  11,Kidd  10,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Jan 1",New York ,W93-87  ,11-18,Jefferson  17,Krstic  7,Carter  5,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Jan 4",Washington ,L112-88  ,11-19,Carter  31,Kidd  8,Kidd  7,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Jan 5",Milwaukee ,L97-74  ,11-20,Smith  19,Jefferson  11,Smith  6,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Jan 7", Golden State ,W82-72  ,12-20,Carter  22,Kidd  13,Kidd  9,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Jan 8",Orlando ,L104-101  ,12-21,Kidd  22,Kidd  11,Kidd  11,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Jan 11", Detroit ,L89-80  ,12-22,Carter  19,Collins  10,Kidd  7,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Thu, Jan 13",Houston ,L94-85 OT ,12-23,Carter  17,Kidd  10,Kidd  9,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Jan 15",Dallas ,L98-93  ,12-24,Carter  29,Collins  11,Kidd  11,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Mon, Jan 17",Atlanta ,W85-84  ,13-24,Carter  23,Krstic  9,Carter  6,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Jan 19", Milwaukee ,W96-90  ,14-24,Carter  33,Carter  9,Kidd  10,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Jan 21", Boston ,W104-98  ,15-24,Carter  25,Krstic  12,Kidd  9,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sun, Jan 23",Phoenix ,L113-105  ,15-25,Carter  32,Collins  10,Kidd  8,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Jan 25",Sacramento ,L113-93  ,15-26,Carter  23,Krstic  7,Kidd  7,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Jan 26",Golden State ,W113-99  ,16-26,Scalabrine  29,Scalabrine  10,Carter  9,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Jan 28",Los Angeles ,W109-103  ,17-26,Carter  30,Buford  6,Kidd  11,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Jan 29",Utah ,W99-82  ,18-26,Carter  30,Buford  9,Carter  10,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Feb 1", Chicago ,W107-97  ,19-26,Carter  31,Kidd  13,Kidd  9,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Feb 2",Boston ,L110-89  ,19-27,Kidd  25,Smith  6,Carter  5,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Feb 5", Detroit ,W107-85  ,20-27,Carter  41,Carter  11,Kidd  14,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Mon, Feb 7", Philadelphia ,W107-97 OT ,21-27,Carter  43,Carter  14,Kidd  16,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Feb 9", Los Angeles ,L104-103 OT ,21-28,Kidd  28,Kidd  12,Kidd  12,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Feb 11", San Antonio ,L101-91  ,21-29,Carter  43,Krstic  8,Kidd  7,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sun, Feb 13", Denver ,W94-79  ,22-29,Carter  23,Krstic  9,Kidd  8,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Feb 15",Minnesota ,L82-71  ,22-30,Carter  32,Krstic  12,Kidd  14,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Feb 16", Sacramento ,W96-85  ,23-30,Carter  21,Collins  13,Kidd  10,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Feb 22", Toronto ,L100-82  ,23-31,Carter  22,Collins  9,Kidd  8,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Feb 23",Milwaukee ,L100-81  ,23-32,Carter  26,Collins  11,Kidd  7,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Feb 25", Charlotte ,W93-86  ,24-32,Carter  28,Collins  12,Kidd  9,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sun, Feb 27", Cleveland ,W104-98  ,25-32,Carter  34,Carter  11,Kidd  12,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Mar 2",Philadelphia ,W99-93  ,26-32,Carter  32,Carter  8,Carter  7,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Thu, Mar 3", Miami ,L106-90  ,26-33,Carter  27,Krstic  6,Carter  9,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Mar 5", Orlando ,L105-81  ,26-34,Carter  20,Carter  6,Carter  5,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Mar 8",San Antonio ,L90-74  ,26-35,Krstic  19,Collins  12,Kidd  9,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Mar 9",New Orleans ,W86-85 OT ,27-35,Carter  24,Carter  10,Kidd  9,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Mar 12",Miami ,L90-65  ,27-36,Carter  20,Kidd  9,Kidd  4,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sun, Mar 13",Orlando ,W98-82  ,28-36,Carter  33,Kidd  10,Kidd  10,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Mar 16", Chicago ,W100-84  ,29-36,Carter  30,Kidd  11,Carter  8,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Mar 18", Utah ,W94-80  ,30-36,Carter  23,Kidd  8,Kidd  9,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sun, Mar 20",Indiana ,W94-85  ,31-36,Carter  39,Kidd  12,Kidd  7,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Mar 22", Indiana ,W98-91  ,32-36,Carter  33,Kidd  7,Kidd  9,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Thu, Mar 24", Memphis ,L105-96  ,32-37,Carter  22,Krstic  6,Kidd  12,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Mar 26", Minnesota ,L96-75  ,32-38,Carter  16,Kidd  10,Kidd  8,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Mon, Mar 28",Charlotte ,W95-91  ,33-38,Carter  39,Krstic  15,Kidd  5,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Mar 30", LA ,W95-78  ,34-38,Carter  31,Collins  9,Kidd  13,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Apr 1",New York ,W93-91  ,35-38,Carter  31,Kidd  8,Carter  6,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Apr 2", Orlando ,L103-102  ,35-39,Krstic  28,Krstic  11,Kidd  7,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Apr 5",Cleveland ,W111-80  ,36-39,Carter  27,Scalabrine  9,Kidd  12,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Thu, Apr 7", New York ,W110-98  ,37-39,Carter  32,Kidd  10,Kidd  12,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sat, Apr 9", Boston ,W99-86  ,38-39,Carter  45,Kidd  9,Kidd  17,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Apr 13",Indiana ,L90-86  ,38-40,Kidd  29,Kidd  15,Kidd  6,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Fri, Apr 15",Toronto ,W101-90  ,39-40,Carter  39,Kidd  12,Kidd  8,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Sun, Apr 17", Philadelphia ,W104-83  ,40-40,Carter  43,Carter  11,Kidd  16,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Tue, Apr 19", Washington ,W109-101  ,41-40,Kidd  35,Kidd  8,Carter  9,A,Brooklyn Nets 2004-05 Regular Season NBA Schedule
+"Wed, Apr 20",Boston ,W102-93  ,42-40,Carter  37,Collins  11,Kidd  7,H,Brooklyn Nets 2004-05 Regular Season NBA Schedule

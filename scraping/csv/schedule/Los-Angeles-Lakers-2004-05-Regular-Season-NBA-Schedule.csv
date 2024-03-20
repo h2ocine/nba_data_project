@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Nov 2", Denver ,W89-78  ,1-0,Bryant  25,Odom  13,Bryant  7,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Nov 3",Utah ,L104-78  ,1-1,Bryant  38,Odom  9,Brown  2,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Nov 5", San Antonio ,L105-96  ,1-2,Bryant  28,Odom  11,Bryant  4,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Nov 7", Atlanta ,W106-90  ,2-2,Bryant  24,Odom  11,Bryant  6,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Nov 9",New Orleans ,W106-98  ,3-2,Bryant  31,Butler  9,Atkins  6,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Nov 10",Memphis ,L110-87  ,3-3,Bryant  20,Odom  11,Bryant  4,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Nov 12",Orlando ,L122-113  ,3-4,Bryant  41,Odom  8,Bryant  8,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sat, Nov 13",Houston ,W84-79  ,4-4,Odom  20,Odom  13,Odom  5,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Nov 17", LA ,W103-89  ,5-4,Bryant  23,Grant  7,Bryant  11,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Nov 19",Phoenix ,L107-102  ,5-5,Bryant  29,Odom  15,Bryant  10,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Nov 21", Chicago ,W102-93  ,6-5,Bryant  29,Odom  12,Bryant  7,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Nov 23", Milwaukee ,W100-96  ,7-5,Bryant  30,Odom  9,Brown  6,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Nov 26", Sacramento ,L109-106  ,7-6,Bryant  40,Odom  14,Bryant  8,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Nov 28", New Orleans ,W89-76  ,8-6,Bryant  20,Odom  14,Bryant  7,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Nov 30",Milwaukee ,W95-90  ,9-6,Cook  25,Cook  11,Bryant  11,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Dec 1",Chicago ,L92-84  ,9-7,Bryant  28,Odom  11,Bryant  10,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Dec 3", Golden State ,W97-88  ,10-7,Butler  27,Bryant  12,Bryant  10,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Dec 8", Phoenix ,L113-110  ,10-8,Bryant  20,Bryant  14,Bryant  11,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sat, Dec 11",LA ,W89-87  ,11-8,Bryant  37,Odom  12,Bryant  5,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Dec 12", Orlando ,W105-98  ,12-8,Mihm  25,Mihm  14,Brown  8,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Dec 14",Seattle ,L108-93  ,12-9,Bryant  35,Bryant  9,Bryant  5,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Thu, Dec 16",Sacramento ,W115-99  ,13-9,Bryant  31,Mihm  8,Bryant  12,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Dec 17", Washington ,L120-116 OT ,13-10,Bryant  36,Bryant  10,Bryant  14,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Mon, Dec 20", Memphis ,L82-72  ,13-11,Butler  16,Odom  12,Bryant  8,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Dec 22", New Orleans ,W101-89  ,14-11,Atkins  30,Mihm  21,Atkins  4,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sat, Dec 25", Miami ,L104-102 OT ,14-12,Bryant  42,Mihm  14,Atkins  7,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Dec 28", Toronto ,W117-99  ,15-12,Bryant  48,Odom  13,Atkins  7,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Jan 2", Denver ,W99-91  ,16-12,Bryant  42,Odom  15,Bryant  4,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Jan 4",San Antonio ,L100-83  ,16-13,Bryant  17,Odom  8,Brown  5,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Jan 5",Dallas ,L118-104  ,16-14,Bryant  32,Jones  13,Atkins  7,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Jan 7", Houston ,W111-104  ,17-14,Bryant  27,Odom  12,Bryant  10,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Mon, Jan 10",Minnesota ,W105-96  ,18-14,Bryant  31,Mihm  17,Atkins  7,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Jan 12",Denver ,L95-83  ,18-15,Butler  18,Odom  12,Bryant  7,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Thu, Jan 13", Cleveland ,W98-94  ,19-15,Odom  24,Butler  11,Odom  7,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sat, Jan 15",Golden State ,W104-102  ,20-15,Odom  27,Odom  12,Odom  3,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Mon, Jan 17", Utah ,L102-94  ,20-16,Butler  26,Odom  10,Odom  6,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Jan 19", Minnesota ,W93-90  ,21-16,Atkins  25,Jones  8,Atkins  11,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Jan 21", Golden State ,W105-101  ,22-16,Atkins  26,Jones  9,Atkins  10,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Jan 25", Seattle ,L104-93  ,22-17,Odom  19,Odom  13,Odom  8,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Jan 26",LA ,L105-89  ,22-18,Atkins  17,Jones  7,Atkins  4,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Jan 28", New Jersey ,L109-103  ,22-19,Butler  31,Odom  13,Odom  8,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Jan 30", Charlotte ,W101-90  ,23-19,Butler  20,Mihm  12,Odom  7,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Feb 1", Portland ,W92-79  ,24-19,Butler  19,Butler  10,Brown  9,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Thu, Feb 3", San Antonio ,L103-91  ,24-20,Odom  23,Odom  13,Walton  6,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Feb 6",Houston ,L103-102  ,24-21,Odom  22,Jones  13,Odom  8,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Mon, Feb 7",Atlanta ,L114-108  ,24-22,Odom  28,Cook  10,Atkins  5,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Feb 9",New Jersey ,W104-103 OT ,25-22,Jones  20,Odom  19,Odom  8,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Thu, Feb 10",Detroit ,L103-81  ,25-23,Odom  17,Odom  9,Atkins  5,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Feb 13",Cleveland ,L103-89  ,25-24,Bryant  26,Odom  9,Bryant  6,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Feb 15", Utah ,W102-95  ,26-24,Bryant  40,Medvedenko  9,Bryant  8,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Feb 22", Boston ,W104-95  ,27-24,Odom  21,Mihm  15,Walton  7,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Feb 23",Portland ,W86-83  ,28-24,Bryant  31,Odom  12,Bryant  6,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Feb 25", Detroit ,L111-90  ,28-25,Bryant  20,Odom  9,Bryant  11,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Feb 27",Toronto ,L108-102  ,28-26,Bryant  31,Bryant  8,Bryant  8,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Mon, Feb 28",New York ,L117-115 OT ,28-27,Bryant  30,Odom  15,Bryant  8,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Mar 2",Boston ,L104-101  ,28-28,Atkins  29,Odom  13,Odom  4,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Mar 4", Dallas ,W108-103  ,29-28,Bryant  40,Odom  11,Atkins  10,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Mar 6", Indiana ,W103-94  ,30-28,Bryant  37,Bryant  10,Odom  7,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Mar 8", LA ,L110-101  ,30-29,Bryant  41,Jones  8,Atkins  6,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Thu, Mar 10",Dallas ,W100-95  ,31-29,Bryant  36,Odom  14,Odom  7,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sat, Mar 12",Charlotte ,W117-116  ,32-29,Bryant  32,Odom  11,Bryant  9,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Mon, Mar 14",Washington ,L95-81  ,32-30,Butler  20,Butler  11,Bryant  6,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Mar 15",Philadelphia ,L108-91  ,32-31,Bryant  20,Medvedenko  9,Vujacic  5,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Thu, Mar 17",Miami ,L102-89  ,32-32,Bryant  26,Odom  11,Atkins  6,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Mar 18",Indiana ,L103-97  ,32-33,Atkins  23,Butler  10,Bryant  4,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Mar 20", Seattle ,L102-100  ,32-34,Bryant  30,Medvedenko  7,Atkins  5,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Mar 22",Utah ,L115-107  ,32-35,Bryant  43,Grant  8,Butler  5,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Thu, Mar 24",Denver ,L117-96  ,32-36,Butler  22,Butler  9,Bryant  4,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Mar 27", Philadelphia ,L96-89  ,32-37,Bryant  34,Mihm  11,Bryant  5,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Mar 29", New York ,W117-107  ,33-37,Bryant  32,Mihm  8,Bryant  5,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Thu, Mar 31", Minnesota ,L105-96  ,33-38,Bryant  26,Mihm  10,Bryant  6,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sat, Apr 2",San Antonio ,L95-94  ,33-39,Butler  27,Bryant  8,Bryant  6,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Apr 3",Memphis ,L102-82  ,33-40,Butler  18,Jones  10,Butler  5,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Tue, Apr 5",Phoenix ,L125-99  ,33-41,Butler  30,Butler  7,Atkins  8,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Thu, Apr 7", Houston ,L114-100  ,33-42,Butler  24,Butler  12,Bryant  10,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Apr 8",Seattle ,W117-94  ,34-42,Bryant  42,Jones  12,Bryant  5,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Apr 10",Sacramento ,L124-105  ,34-43,Bryant  18,Butler  5,Atkins  9,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Mon, Apr 11", Phoenix ,L108-97  ,34-44,Bryant  20,Butler  11,Bryant  10,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Fri, Apr 15", Sacramento ,L115-106  ,34-45,Butler  34,Walton  12,Walton  9,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Sun, Apr 17", Dallas ,L114-112  ,34-46,Bryant  33,Jones  9,Bryant  9,A,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Mon, Apr 18",Golden State ,L126-99  ,34-47,Bryant  22,Jones  11,Vujacic  7,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule
+"Wed, Apr 20",Portland ,L106-103  ,34-48,Bryant  37,Mihm  10,Atkins  7,H,Los Angeles Lakers 2004-05 Regular Season NBA Schedule

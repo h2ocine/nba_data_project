@@ -1,0 +1,67 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Mon, Dec 26", Los Angeles ,W100-91  ,1-0,Thornton  27,Cousins  11,Thornton  3,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Dec 27",Portland ,L101-79  ,1-1,Cousins  16,Cousins  11,Thornton  3,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Thu, Dec 29", Chicago ,L108-98  ,1-2,Thornton  20,Cousins  12,Hayes  4,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sat, Dec 31", New York ,L114-92  ,1-3,Thornton  14,Hayes  13,Cousins  4,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sun, Jan 1", New Orleans ,W96-80  ,2-3,Evans  27,Hayes  10,Fredette  5,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Jan 3",Memphis ,L113-96  ,2-4,Fredette  17,Hickson  10,Evans  4,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Wed, Jan 4",Denver ,L110-83  ,2-5,Cousins  26,Evans  5,Evans  3,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Thu, Jan 5", Milwaukee ,W103-100  ,3-5,Thornton  27,Cousins  15,Evans  5,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sun, Jan 8", Orlando ,L104-97  ,3-6,Evans  28,Hickson  11,Evans  8,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Jan 10",Philadelphia ,L112-85  ,3-7,Cousins  17,Cousins  10,Garcia  4,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Wed, Jan 11",Toronto ,W98-91  ,4-7,Evans  29,Cousins  19,Thomas  6,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Fri, Jan 13",Houston ,L103-89  ,4-8,Evans  27,Greene  8,Evans  5,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sat, Jan 14",Dallas ,L99-60  ,4-9,Thornton  14,Cousins  10,Salmons  3,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Mon, Jan 16",Minnesota ,L99-86  ,4-10,Garcia  12,Evans  8,Evans  10,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Wed, Jan 18", Indiana ,W92-88  ,5-10,Thornton  17,Cousins  19,Evans  6,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Fri, Jan 20",San Antonio ,W88-86  ,6-10,Evans  23,Cousins  13,Evans  7,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sat, Jan 21",Memphis ,L128-95  ,6-11,Greene  21,Cousins  11,Fredette  5,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Mon, Jan 23",Portland ,L101-89  ,6-12,Cousins  18,Cousins  13,Thomas  8,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Wed, Jan 25", Denver ,L122-93  ,6-13,Fredette  19,Cousins  15,Evans  7,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sat, Jan 28",Utah ,L96-93  ,6-14,Evans  31,Cousins  9,Evans  9,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Jan 31",Golden State ,L93-90  ,6-15,Evans  22,Cousins  14,Evans  9,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Thu, Feb 2", Portland ,W95-92  ,7-15,Thornton  20,Thompson  12,Evans  5,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sat, Feb 4", Golden State ,W114-106 OT ,8-15,Thornton  28,Cousins  20,Evans  9,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Mon, Feb 6",New Orleans ,W100-92  ,9-15,Cousins  28,Cousins  19,Thomas  6,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Feb 7",Minnesota ,L86-84  ,9-16,Thornton  22,Cousins  11,Evans  4,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Thu, Feb 9", Oklahoma City ,W106-101  ,10-16,Evans  22,Thompson  10,Evans  5,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sat, Feb 11", Phoenix ,L98-84  ,10-17,Cousins  26,Cousins  9,Evans  5,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Feb 14",Chicago ,L121-115  ,10-18,Cousins  28,Cousins  17,Evans  8,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Wed, Feb 15",New York ,L100-85  ,10-19,Evans  19,Hickson  6,Evans  5,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Fri, Feb 17",Detroit ,L114-108  ,10-20,Cousins  26,Cousins  15,Evans  9,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sun, Feb 19",Cleveland ,L93-92  ,10-21,Thomas  23,Thornton  10,Thomas  11,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Feb 21",Miami ,L120-108  ,10-22,Thomas  24,Thompson  10,Evans  10,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Wed, Feb 22",Washington ,W115-107  ,11-22,Evans  22,Cousins  16,Thomas  6,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Feb 28", Utah ,W103-96  ,12-22,Cousins  22,Cousins  18,Thomas  8,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Thu, Mar 1", LA ,L108-100  ,12-23,Cousins  23,Cousins  10,Thomas  4,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Fri, Mar 2",Los Angeles ,L115-107  ,12-24,Garcia  18,Cousins  13,Thomas  6,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sun, Mar 4",Phoenix ,L96-88  ,12-25,Thornton  21,Cousins  14,Evans  6,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Mon, Mar 5",Denver ,L119-116 OT ,12-26,Evans  27,Thompson  8,Salmons  5,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Wed, Mar 7", New Orleans ,W99-98  ,13-26,Thornton  25,Thompson  8,Fredette  5,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Fri, Mar 9", Dallas ,W110-97  ,14-26,Evans  17,Evans  9,Cousins  5,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sun, Mar 11", Atlanta ,L106-99  ,14-27,Cousins  28,Cousins  12,Evans  7,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Mar 13", Golden State ,L115-89  ,14-28,Cousins  19,Cousins  12,Thornton  3,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Wed, Mar 14", Detroit ,L124-112  ,14-29,Evans  23,Thompson  15,Thornton  6,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Fri, Mar 16", Boston ,W120-95  ,15-29,Thornton  36,Thompson  15,Thomas  10,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sun, Mar 18", Minnesota ,W115-99  ,16-29,Thornton  24,Thompson  10,Thornton  4,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Mar 20", Memphis ,W119-110  ,17-29,Thornton  31,Thompson  13,Thomas  7,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Thu, Mar 22", Utah ,L103-102  ,17-30,Evans  25,Cousins  18,Thomas  7,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sat, Mar 24",Golden State ,L111-108  ,17-31,Cousins  28,Cousins  18,Cousins  5,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Mon, Mar 26",Houston ,L113-106 OT ,17-32,Cousins  38,Cousins  14,Thomas  6,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Wed, Mar 28", San Antonio ,L117-112  ,17-33,Thomas  28,Cousins  11,Thomas  10,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Fri, Mar 30",Utah ,W104-103  ,18-33,Cousins  27,Cousins  14,Thomas  6,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sat, Mar 31", New Jersey ,L111-99  ,18-34,Evans  23,Thompson  10,Thomas  6,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Mon, Apr 2", Minnesota ,W116-108  ,19-34,Evans  24,Williams  12,Evans  7,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Apr 3", Phoenix ,L109-100  ,19-35,Cousins  41,Cousins  12,Thomas  7,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Thu, Apr 5", LA ,L93-85  ,19-36,Thomas  17,Thompson  16,Evans  6,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sat, Apr 7",LA ,L109-94  ,19-37,Cousins  15,Cousins  20,Williams  9,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sun, Apr 8", Houston ,L104-87  ,19-38,Williams  21,Whiteside  10,Thomas  6,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Apr 10",Dallas ,L110-100  ,19-39,Cousins  25,Cousins  18,Thomas  5,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Wed, Apr 11",New Orleans ,L105-96  ,19-40,Thornton  25,Thompson  7,Evans  8,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Fri, Apr 13",Oklahoma City ,L115-89  ,19-41,Thomas  21,Cousins  12,Williams  6,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sun, Apr 15", Portland ,W104-103  ,20-41,Cousins  23,Cousins  7,Thomas  8,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Wed, Apr 18", San Antonio ,L127-102  ,20-42,Thomas  21,Cousins  9,Thomas  8,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Fri, Apr 20", Oklahoma City ,L103-92  ,20-43,Cousins  18,Cousins  9,Hayes  5,A,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Sun, Apr 22",Charlotte ,W114-88  ,21-43,Cousins  29,Thompson  11,Thompson  7,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Tue, Apr 24",Oklahoma City ,L118-110  ,21-44,Cousins  32,Cousins  7,Thomas  9,H,Sacramento Kings 2011-12 Regular Season NBA Schedule
+"Thu, Apr 26", Los Angeles ,W113-96  ,22-44,Cousins  23,Cousins  19,Thomas  7,A,Sacramento Kings 2011-12 Regular Season NBA Schedule

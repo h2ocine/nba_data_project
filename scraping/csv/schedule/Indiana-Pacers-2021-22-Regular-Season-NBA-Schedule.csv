@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 20",Charlotte ,L123-122  ,0-1,Sabonis  33,Sabonis  15,Brogdon  11,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Oct 22",Washington ,L135-134 OT ,0-2,Turner  40,Turner  10,Brogdon  8,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sat, Oct 23", Miami ,W102-91 OT ,1-2,Duarte  19,Brogdon  14,McConnell  5,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Oct 25", Milwaukee ,L119-109  ,1-3,Brogdon  25,Sabonis  13,Brogdon  7,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Oct 27",Toronto ,L118-100  ,1-4,Brogdon  18,Sabonis  8,Brogdon  5,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Oct 29",Brooklyn ,L105-98  ,1-5,Craig  28,Craig  11,Sabonis  6,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sat, Oct 30", Toronto ,L97-94  ,1-6,Sabonis  22,Sabonis  14,McConnell  7,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Nov 1", San Antonio ,W131-118  ,2-6,Sabonis  24,Sabonis  13,McConnell  10,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Nov 3", New York ,W111-98  ,3-6,Turner  25,Turner  13,Brogdon  7,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Nov 5",Portland ,L110-106  ,3-7,McConnell  19,Sabonis  12,LeVert  6,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Nov 7",Sacramento ,W94-91  ,4-7,LeVert  22,Turner  15,McConnell  4,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Nov 10",Denver ,L101-98  ,4-8,Brogdon  25,Sabonis  19,McConnell  9,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Thu, Nov 11",Utah ,W111-100  ,5-8,Brogdon  30,Brogdon  9,McConnell  5,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sat, Nov 13", Philadelphia ,W118-113  ,6-8,Holiday  27,Sabonis  12,Brogdon  10,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Nov 15",New York ,L92-84  ,6-9,Brogdon  22,Sabonis  15,Brogdon  7,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Nov 17",Detroit ,L97-89  ,6-10,Brogdon  20,Sabonis  11,Brogdon  4,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Nov 19",Charlotte ,L121-118  ,6-11,Lamb  23,Craig  7,Lamb  5,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sat, Nov 20", New Orleans ,W111-94  ,7-11,Sabonis  20,Sabonis  10,Sabonis  6,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Nov 22",Chicago ,W109-77  ,8-11,Sabonis  21,Sabonis  11,Brogdon  7,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Nov 24", Los Angeles ,L124-116 OT ,8-12,Brogdon  28,Sabonis  12,McConnell  8,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Nov 26", Toronto ,W114-97  ,9-12,Sabonis  23,Sabonis  18,Brogdon  12,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Nov 28", Milwaukee ,L118-100  ,9-13,LeVert  23,Sabonis  10,Sabonis  5,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Nov 29",Minnesota ,L100-98  ,9-14,Brogdon  25,Sabonis  25,Sabonis  10,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Dec 1", Atlanta ,L114-111  ,9-15,Brogdon  27,Sabonis  10,Brogdon  9,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Dec 3", Miami ,L113-104  ,9-16,LeVert  27,Sabonis  16,Brogdon  7,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Dec 6", Washington ,W116-110  ,10-16,Sabonis  30,Sabonis  10,Brogdon  8,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Dec 8", New York ,W122-102  ,11-16,Duarte  23,Sabonis  11,Duarte  6,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Dec 10", Dallas ,W106-93  ,12-16,LeVert  26,Sabonis  10,Brogdon  8,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Dec 13", Golden State ,L102-100  ,12-17,Sabonis  30,Sabonis  11,Brogdon  8,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Dec 15",Milwaukee ,L114-99  ,12-18,Sabonis  16,Sabonis  14,Sabonis  5,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Thu, Dec 16", Detroit ,W122-113  ,13-18,LeVert  31,Duarte  9,Sabonis  6,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Tue, Dec 21",Miami ,L125-96  ,13-19,LeVert  17,Turner  7,Wanamaker  5,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Thu, Dec 23", Houston ,W118-106  ,14-19,Turner  32,Turner  10,LeVert  11,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Dec 26",Chicago ,L113-105  ,14-20,LeVert  27,Sabonis  16,LeVert  9,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Dec 29", Charlotte ,L116-108  ,14-21,LeVert  27,Sabonis  18,Sabonis  7,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Dec 31", Chicago ,L108-106  ,14-22,LeVert  27,Sabonis  14,LeVert  6,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Jan 2",Cleveland ,L108-104  ,14-23,Sabonis  32,Sabonis  13,Sabonis  7,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Tue, Jan 4",New York ,L104-94  ,14-24,Sykes  22,Sabonis  8,Sykes  6,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Jan 5", Brooklyn ,L129-121  ,14-25,Sabonis  32,Sabonis  12,Sabonis  10,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sat, Jan 8", Utah ,W125-113  ,15-25,Sabonis  42,Sabonis  6,Stephenson  14,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Jan 10",Boston ,L101-98 OT ,15-26,Craig  19,Sabonis  22,Sabonis  10,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Jan 12", Boston ,L119-100  ,15-27,Turner  18,Brissett  9,Sabonis  6,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Jan 14", Phoenix ,L112-94  ,15-28,Holiday  25,Sabonis  14,LeVert  9,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Jan 17",LA ,L139-133  ,15-29,LeVert  26,Sabonis  11,Sabonis  7,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Jan 19",Los Angeles ,W111-104  ,16-29,LeVert  30,Craig  13,Sabonis  10,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Thu, Jan 20",Golden State ,W121-117 OT ,17-29,Duarte  27,Bitadze  9,Bitadze  5,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sat, Jan 22",Phoenix ,L113-103  ,17-30,Duarte  17,Bitadze  11,Duarte  4,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Jan 24",New Orleans ,L117-113  ,17-31,Washington Jr.  21,Brissett  9,LeVert  8,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Jan 26", Charlotte ,L158-126  ,17-32,Bitadze  17,Bitadze  6,Stephenson  10,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Jan 28",Oklahoma City ,W113-110 OT ,18-32,Sabonis  24,Sabonis  18,Sabonis  10,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sat, Jan 29",Dallas ,L132-105  ,18-33,Washington Jr.  22,Sabonis  15,Sabonis  8,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Jan 31", LA ,W122-116  ,19-33,Jackson  26,Jackson  10,LeVert  9,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Feb 2", Orlando ,L119-118  ,19-34,LeVert  26,Taylor  16,Stephenson  6,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Feb 4", Chicago ,L122-115  ,19-35,LeVert  42,Taylor  14,LeVert  8,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Feb 6",Cleveland ,L98-85  ,19-36,Duarte  22,Sabonis  11,Sabonis  4,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Tue, Feb 8",Atlanta ,L133-112  ,19-37,Duarte  25,Taylor  10,Stephenson  8,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Feb 11", Cleveland ,L120-113  ,19-38,Haliburton  23,Brissett  11,Hield  8,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Feb 13", Minnesota ,L129-120  ,19-39,Brissett  22,Brissett  13,Haliburton  16,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Tue, Feb 15",Milwaukee ,L128-119  ,19-40,Hield  36,Taylor  9,Haliburton  8,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Feb 16", Washington ,W113-108  ,20-40,Haliburton  21,Taylor  9,Haliburton  14,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Feb 25", Oklahoma City ,L129-125 OT ,20-41,Hield  29,Brissett  15,Haliburton  11,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Feb 27", Boston ,W128-107  ,21-41,Brissett  27,Smith  10,Haliburton  9,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Feb 28",Orlando ,L119-103  ,25-57,Haliburton  23,Smith  8,Haliburton  7,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Mar 2",Orlando ,W122-114 OT ,22-42,Brogdon  31,Smith  15,Brogdon  8,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Mar 4",Detroit ,L111-106  ,22-43,Brogdon  26,Smith  11,Hield  9,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Mar 6",Washington ,L133-123  ,22-44,Brogdon  27,Hield  8,Haliburton  11,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Tue, Mar 8", Cleveland ,L127-124  ,22-45,Haliburton  25,Bitadze  9,Brogdon  12,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sat, Mar 12",San Antonio ,W119-108  ,23-45,Haliburton  19,Smith  11,Haliburton  10,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Mar 13",Atlanta ,L131-128  ,23-46,Hield  25,Jackson  15,Haliburton  10,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Tue, Mar 15", Memphis ,L135-102  ,23-47,Smith  15,Smith  8,Haliburton  8,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Mar 18",Houston ,W121-118  ,24-47,Brogdon  25,Smith  10,Haliburton  7,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Mar 20", Portland ,W129-98  ,25-47,Brissett  24,Brissett  9,Stephenson  11,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Mar 23", Sacramento ,L110-109  ,25-48,Hield  25,Brissett  10,Haliburton  15,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Thu, Mar 24",Memphis ,L133-103  ,25-49,Stephenson  25,Anderson  9,Haliburton  8,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sat, Mar 26",Toronto ,L131-91  ,25-50,Brissett  21,Brissett  8,Haliburton  12,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Mon, Mar 28", Atlanta ,L132-123  ,25-51,Hield  26,Smith  6,Haliburton  13,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Wed, Mar 30", Denver ,L125-118  ,25-52,Hield  20,Bitadze  10,Haliburton  12,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Fri, Apr 1",Boston ,L128-123  ,25-53,Haliburton  30,Brissett  6,Stephenson  11,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Apr 3", Detroit ,L121-117  ,25-54,Brissett  20,Brissett  10,Haliburton  17,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Tue, Apr 5", Philadelphia ,L131-122  ,25-55,Hield  25,Hield  11,Hield  5,A,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sat, Apr 9",Philadelphia ,L133-120  ,25-56,Brissett  20,Brissett  7,Haliburton  9,H,Indiana Pacers 2021-22 Regular Season NBA Schedule
+"Sun, Apr 10",Brooklyn ,L134-126  ,25-57,Brissett  28,Brissett  8,Haliburton  10,H,Indiana Pacers 2021-22 Regular Season NBA Schedule

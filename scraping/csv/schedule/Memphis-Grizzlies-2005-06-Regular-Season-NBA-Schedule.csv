@@ -1,0 +1,87 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Nov 2", Miami ,L97-78  ,0-1,Gasol  26,Gasol  12,Stoudamire  5,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Nov 4",Orlando ,W94-85  ,1-1,Jones  25,Gasol  8,Stoudamire  5,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Nov 5", Cleveland ,W113-106  ,2-1,Gasol  29,Wright  13,Stoudamire  6,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Nov 8", Seattle ,W94-69  ,3-1,Gasol  20,Wright  11,Stoudamire  7,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Nov 9",Boston ,L99-98  ,3-2,Jones  20,Gasol  6,Jackson  4,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Nov 11",Cleveland ,L89-70  ,3-3,Jones  15,Jones  4,Miller  6,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Nov 12",Atlanta ,W85-84  ,4-3,Battier  22,Gasol  9,Battier  5,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Mon, Nov 14", Los Angeles ,W85-73  ,5-3,Gasol  20,Wright  12,Jackson  3,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Nov 16",Phoenix ,W115-103  ,6-3,Stoudamire  26,Battier  12,Stoudamire  7,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Nov 19",Utah ,W80-72  ,7-3,Miller  18,Miller  8,Stoudamire  5,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sun, Nov 20",Denver ,L99-83  ,7-4,Gasol  24,Gasol  12,Stoudamire  4,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Nov 22", Portland ,L95-87  ,7-5,Battier  21,Gasol  16,Stoudamire  7,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Nov 25", Houston ,W86-81  ,8-5,Battier  20,Wright  11,Gasol  8,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Nov 26",Dallas ,W112-92  ,9-5,Gasol  36,Gasol  15,Stoudamire  8,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Nov 30",Toronto ,W92-66  ,10-5,Stoudamire  19,Gasol  10,Jackson  8,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Dec 2", Orlando ,W91-69  ,11-5,Miller  25,Gasol  8,Jackson  6,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Dec 3",Houston ,W90-75  ,12-5,Stoudamire  24,Wright  8,Stoudamire  8,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Dec 6"," NO/Oklahoma City
+ ",W89-73  ,13-5,Gasol  29,Gasol  15,Jones  3,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Dec 9", Dallas ,L90-83  ,13-6,Miller  19,Miller  8,Gasol  6,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Dec 10",Indiana ,L80-66  ,13-7,Battier  13,Gasol  7,Burks  6,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Dec 14", Los Angeles ,L94-79  ,13-8,Miller  21,Gasol  12,Stoudamire  7,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Dec 17", Phoenix ,W91-87  ,14-8,Miller  14,Miller  11,Jones  5,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Mon, Dec 19", Detroit ,L106-104 2OT ,14-9,Gasol  32,Gasol  13,Stoudamire  7,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Dec 21", Portland ,W89-79  ,15-9,Gasol  26,Gasol  12,Burks  5,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Dec 23", Chicago ,W95-77  ,16-9,Miller  27,Gasol  11,Gasol  5,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Mon, Dec 26",Utah ,L105-102 OT ,16-10,Gasol  32,Gasol  11,Gasol  4,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Dec 28",Los Angeles ,W100-99 OT ,17-10,Stoudamire  25,Miller  15,Stoudamire  9,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Dec 30",Portland ,W93-90  ,18-10,Miller  23,Gasol  9,Gasol  7,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Dec 31",Seattle ,W100-96  ,19-10,Gasol  22,Gasol  8,Gasol  8,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Jan 3", Golden State ,W104-94  ,20-10,Jones  23,Gasol  7,Gasol  9,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Jan 6", Utah ,W87-65  ,21-10,Gasol  27,Gasol  18,Gasol  7,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Jan 7",Chicago ,L111-82  ,21-11,Burks  18,Gasol  7,Gasol  4,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Jan 10", Sacramento ,W99-85  ,22-11,Gasol  27,Miller  10,Miller  10,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Jan 13", New Jersey ,W81-69  ,23-11,Miller  18,Miller  16,Gasol  5,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Jan 14",San Antonio ,L80-79  ,23-12,Gasol  26,Jones  10,Gasol  5,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Mon, Jan 16", San Antonio ,L93-83  ,23-13,Gasol  25,Gasol  9,Jackson  7,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Jan 18","NO/Oklahoma City
+ ",L87-79  ,23-14,Miller  21,Jones  8,Jackson  7,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Jan 20",Philadelphia ,L89-86 OT ,23-15,Jones  22,Wright  10,Jackson  8,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sun, Jan 22",Washington ,W93-82  ,24-15,Miller  30,Miller  6,Jackson  9,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Jan 24",Miami ,L94-82  ,24-16,Jackson  22,Gasol  7,Gasol  7,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Jan 25", Minnesota ,W107-87  ,25-16,Gasol  30,Gasol  8,Gasol  6,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Jan 27",Detroit ,L95-89  ,25-17,Gasol  31,Gasol  7,Atkins  6,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Jan 28"," NO/Oklahoma City
+ ",L95-86  ,25-18,Gasol  25,Gasol  16,Jackson  5,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Mon, Jan 30", Houston ,W86-77  ,26-18,Atkins  19,Gasol  11,Gasol  5,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Feb 1", Dallas ,L81-80  ,26-19,Gasol  26,Gasol  10,Atkins  4,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Feb 4",Milwaukee ,L88-78  ,26-20,Gasol  19,Gasol  12,Miller  4,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Feb 7",Sacramento ,L104-96  ,26-21,Jackson  24,Battier  10,Gasol  6,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Feb 8",Phoenix ,L108-102  ,26-22,Jackson  17,Battier  10,Battier  3,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Feb 10",LA ,L91-87  ,26-23,Gasol  16,Tsakalidis  12,Jackson  5,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Feb 11",Los Angeles ,W100-99  ,27-23,Gasol  31,Gasol  12,Gasol  7,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Mon, Feb 13",Golden State ,W81-79  ,28-23,Gasol  23,Gasol  13,Gasol  6,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Feb 15", Sacramento ,W84-78  ,29-23,Gasol  24,Wright  9,Jones  4,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Feb 21", Toronto ,W94-88  ,30-23,Gasol  21,Battier  13,Gasol  6,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Thu, Feb 23",Dallas ,L97-87  ,30-24,Jackson  18,Jackson  7,Gasol  4,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Feb 24", San Antonio ,L83-80  ,30-25,Gasol  21,Gasol  12,Jones  4,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sun, Feb 26",Minnesota ,L105-99  ,30-26,Gasol  23,Warrick  9,Miller  6,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Mon, Feb 27", Washington ,W108-98  ,31-26,Gasol  39,Gasol  10,Jones  6,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Mar 1", New York ,W101-99  ,32-26,Gasol  23,Gasol  7,Gasol  7,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sun, Mar 5",LA ,W102-86  ,33-26,Miller  20,Miller  7,Gasol  7,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Mon, Mar 6",Denver ,L115-101  ,33-27,Jackson  22,Jackson  4,Jackson  4,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Mar 8",Seattle ,W99-74  ,34-27,Gasol  21,Tsakalidis  15,Gasol  12,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Mar 10",Sacramento ,L105-93  ,34-28,Gasol  26,Gasol  12,Gasol  8,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sun, Mar 12", Philadelphia ,L94-91  ,34-29,Tsakalidis  17,Tsakalidis  12,Miller  3,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Mar 14", Boston ,W93-76  ,35-29,Tsakalidis  19,Tsakalidis  16,Gasol  6,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Mar 17", Denver ,W116-102  ,36-29,Miller  41,Atkins  8,Gasol  7,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sun, Mar 19", Utah ,W90-84  ,37-29,Atkins  20,Gasol  10,Gasol  9,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Mar 21", Indiana ,W105-75  ,38-29,Gasol  23,Gasol  8,Gasol  7,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Thu, Mar 23", LA ,W95-85  ,39-29,Jones  23,Miller  14,Atkins  5,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Mar 24",New York ,W91-75  ,40-29,Gasol  36,Wright  9,Atkins  4,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sun, Mar 26", Charlotte ,W102-95  ,41-29,Gasol  33,Gasol  15,Jackson  5,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Mar 28", Seattle ,L98-97  ,41-30,Gasol  44,Wright  14,Atkins  9,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Mar 29",New Jersey ,L86-74  ,41-31,Gasol  21,Gasol  8,Gasol  4,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Mar 31","NO/Oklahoma City
+ ",L107-102  ,41-32,Jackson  26,Battier  10,Gasol  7,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sun, Apr 2", Atlanta ,W98-87  ,42-32,Atkins  19,Gasol  10,Gasol  6,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Apr 4", Golden State ,W100-75  ,43-32,Atkins  22,Tsakalidis  11,Gasol  6,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Fri, Apr 7", Milwaukee ,W100-90  ,44-32,Gasol  33,Gasol  14,Gasol  8,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sun, Apr 9",San Antonio ,L83-81  ,44-33,Tsakalidis  15,Battier  12,Gasol  3,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Apr 11", Minnesota ,W92-76  ,45-33,Gasol  19,Gasol  10,Gasol  6,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Apr 12",Charlotte ,W96-88  ,46-33,Jones  16,Battier  8,Gasol  5,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Sat, Apr 15",Houston ,W93-81  ,47-33,Miller  25,Gasol  10,Gasol  7,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Tue, Apr 18", LA ,W101-95  ,48-33,Tsakalidis  18,Tsakalidis  9,Miller  6,A,Memphis Grizzlies 2005-06 Regular Season NBA Schedule
+"Wed, Apr 19",Minnesota ,W102-92 2OT ,49-33,Cardinal  18,Roberts  12,Cardinal  7,H,Memphis Grizzlies 2005-06 Regular Season NBA Schedule

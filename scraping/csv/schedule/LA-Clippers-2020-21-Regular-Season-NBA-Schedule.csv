@@ -1,0 +1,73 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Dec 22",Los Angeles ,W116-109  ,1-0,George  33,George  6,Batum  6,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Dec 25",Denver ,W121-108  ,2-0,George  23,Batum  10,George  9,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Dec 27", Dallas ,L124-73  ,2-1,George  15,Ibaka  9,George  4,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, Dec 29", Minnesota ,W124-101  ,3-1,Williams  20,Ibaka  8,Williams  5,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Dec 30", Portland ,W128-105  ,4-1,Leonard  28,George  10,Leonard  7,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Jan 1",Utah ,L106-100  ,4-2,George  25,Leonard  16,Leonard  9,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Jan 3",Phoenix ,W112-107  ,5-2,George  39,Beverley  9,Jackson  6,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, Jan 5", San Antonio ,L116-113  ,5-3,Leonard  30,Batum  9,Leonard  10,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Jan 6",Golden State ,W108-101  ,6-3,George  21,Ibaka  14,Leonard  4,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Jan 8",Golden State ,L115-105  ,6-4,George  25,Ibaka  7,George  7,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Jan 10", Chicago ,W130-127  ,7-4,Leonard  35,George  7,George  9,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Jan 13", New Orleans ,W111-106  ,8-4,Leonard  28,Zubac  7,Leonard  9,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Jan 15",Sacramento ,W138-100  ,9-4,Leonard  27,Mann  9,Leonard  6,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Jan 17", Indiana ,W129-96  ,10-4,George  20,George  7,Beverley  6,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Jan 20", Sacramento ,W115-96  ,11-4,Leonard  32,Zubac  12,George  12,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Jan 22", Oklahoma City ,W120-106  ,12-4,Leonard  31,Ibaka  11,Williams  8,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Jan 24", Oklahoma City ,W108-100  ,13-4,Leonard  34,Zubac  11,Leonard  8,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, Jan 26",Atlanta ,L108-99  ,13-5,Jackson  20,Zubac  10,Jackson  8,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Thu, Jan 28",Miami ,W109-105  ,14-5,Batum  18,Ibaka  13,Jackson  6,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Jan 29",Orlando ,W116-90  ,15-5,George  26,George  9,George  5,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Jan 31",New York ,W129-115  ,16-5,Leonard  28,George  8,George  5,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, Feb 2",Brooklyn ,L124-120  ,16-6,Leonard  33,Ibaka  10,George  6,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Feb 3",Cleveland ,W121-99  ,17-6,George  36,Zubac  16,George  6,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Feb 5", Boston ,L119-115  ,17-7,Leonard  28,Leonard  11,Williams  6,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Feb 7", Sacramento ,L113-110  ,17-8,Williams  23,Zubac  14,Williams  5,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Feb 10",Minnesota ,W119-112  ,18-8,Leonard  36,Batum  10,Leonard  5,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Feb 12",Chicago ,W125-106  ,19-8,Leonard  33,Leonard  6,Williams  5,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Feb 14", Cleveland ,W128-111  ,20-8,Williams  30,Ibaka  9,Williams  10,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Mon, Feb 15", Miami ,W125-118  ,21-8,Morris Sr.  32,Ibaka  9,Williams  10,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Feb 17", Utah ,L114-96  ,21-9,Williams  16,Zubac  9,Williams  6,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Feb 19", Utah ,W116-112  ,22-9,Leonard  29,Ibaka  9,George  5,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Feb 21", Brooklyn ,L112-108  ,22-10,George  34,Leonard  13,George  7,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, Feb 23", Washington ,W135-116  ,23-10,Leonard  32,Zubac  13,Leonard  4,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Thu, Feb 25",Memphis ,L122-94  ,23-11,Leonard  17,George  7,Leonard  7,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Feb 26",Memphis ,W119-99  ,24-11,Leonard  30,Leonard  9,George  8,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Feb 28",Milwaukee ,L105-100  ,24-12,Leonard  25,Ibaka  11,George  7,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, Mar 2",Boston ,L117-112  ,24-13,George  32,Zubac  10,Jackson  7,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Thu, Mar 4",Washington ,L119-117  ,24-14,Leonard  22,Zubac  13,Batum  5,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Thu, Mar 11", Golden State ,W130-104  ,25-14,Leonard  28,Ibaka  14,George  5,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Mar 14",New Orleans ,L135-115  ,25-15,Leonard  23,Mann  7,Kennard  4,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Mon, Mar 15",Dallas ,W109-99  ,26-15,Leonard  22,Zubac  11,Leonard  7,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Mar 17",Dallas ,L105-89  ,26-16,George  28,George  7,Leonard  7,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sat, Mar 20", Charlotte ,W125-98  ,27-16,George  21,George  5,George  10,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Mon, Mar 22", Atlanta ,W119-110  ,28-16,Leonard  25,Mann  10,George  7,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Mar 24",San Antonio ,W134-101  ,29-16,Leonard  25,Zubac  8,George  4,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Thu, Mar 25",San Antonio ,W98-85  ,30-16,Jackson  28,George  13,Jackson  4,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sat, Mar 27", Philadelphia ,W122-112  ,31-16,Leonard  28,Zubac  11,George  9,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Mon, Mar 29", Milwaukee ,W129-105  ,32-16,Morris Sr.  25,Leonard  9,Leonard  8,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, Mar 30", Orlando ,L103-96  ,32-17,Leonard  28,Zubac  13,Jackson  7,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Thu, Apr 1", Denver ,L101-94  ,32-18,Leonard  24,Leonard  12,George  5,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Apr 4", Los Angeles ,W104-86  ,33-18,Morris Sr.  22,Leonard  10,Leonard  8,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, Apr 6", Portland ,W133-116  ,34-18,George  36,Leonard  12,Leonard  7,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Thu, Apr 8", Phoenix ,W113-103  ,35-18,George  33,George  7,Rondo  9,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Apr 9", Houston ,W126-109  ,36-18,Leonard  31,Zubac  7,Mann  9,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Apr 11", Detroit ,W131-124  ,37-18,Morris Sr.  33,Zubac  10,George  9,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, Apr 13",Indiana ,W126-115  ,38-18,George  36,George  7,George  8,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Apr 14",Detroit ,W100-98  ,39-18,Jackson  29,Zubac  13,Rondo  4,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Apr 16",Philadelphia ,L106-103  ,39-19,George  37,George  9,Rondo  8,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, Apr 18", Minnesota ,W124-105  ,40-19,George  23,Leonard  11,Leonard  8,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, Apr 20",Portland ,W113-112  ,41-19,George  33,George  11,Rondo  7,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Apr 21", Memphis ,W117-105  ,42-19,Kennard  28,Cousins  10,Mann  7,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, Apr 23",Houston ,W109-104  ,43-19,George  33,George  14,Jackson  5,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Mon, Apr 26",New Orleans ,L120-103  ,43-20,Mann  17,Cousins  11,Jackson  5,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Wed, Apr 28",Phoenix ,L109-101  ,43-21,George  25,George  10,Rondo  7,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sat, May 1", Denver ,L110-104  ,43-22,George  20,George  7,Leonard  6,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, May 4", Toronto ,W105-100  ,44-22,George  22,George  9,Jackson  5,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Thu, May 6", Los Angeles ,W118-94  ,45-22,George  24,Leonard  8,Leonard  6,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, May 9", New York ,L106-100  ,45-23,Leonard  29,George  8,Rondo  8,A,LA Clippers 2020-21 Regular Season NBA Schedule
+"Tue, May 11",Toronto ,W115-96  ,46-23,Leonard  20,Zubac  10,Leonard  5,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Thu, May 13",Charlotte ,W113-90  ,47-23,George  20,Zubac  11,Leonard  9,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Fri, May 14",Houston ,L122-115  ,47-24,Kennard  23,Ibaka  7,Rondo  13,H,LA Clippers 2020-21 Regular Season NBA Schedule
+"Sun, May 16",Oklahoma City ,L117-112  ,47-25,Mann  19,Oturu  12,Beverley  4,H,LA Clippers 2020-21 Regular Season NBA Schedule

@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 26", Sacramento ,L113-94  ,0-1,Booker  18,Chandler  10,Bledsoe  5,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Oct 28",Oklahoma City ,L113-110 OT ,0-2,Warren  30,Chandler  10,Bledsoe  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Oct 30", Golden State ,L106-100  ,0-3,Warren  26,Chandler  18,Bledsoe  6,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Mon, Oct 31",LA ,L116-98  ,0-4,Knight  18,Bledsoe  8,Ulis  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Nov 2", Portland ,W118-115 OT ,1-4,Warren  27,Chandler  18,Bledsoe  4,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Nov 4",New Orleans ,W112-111 OT ,2-4,Booker  38,Chandler  18,Bledsoe  4,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Nov 6",Los Angeles ,L119-108  ,2-5,Booker  39,Chandler  12,Booker  7,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Tue, Nov 8",Portland ,L124-121  ,2-6,Bledsoe  31,Tucker  9,Knight  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Nov 9", Detroit ,W107-100  ,3-6,Bledsoe  21,Len  14,Bledsoe  8,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Nov 12", Brooklyn ,L122-104  ,3-7,Warren  18,Len  11,Bledsoe  8,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Nov 13",Golden State ,L133-120  ,3-8,Bledsoe  20,Tucker  8,Bledsoe  5,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Nov 16",Denver ,L120-104  ,3-9,Knight  32,Tucker  8,Bledsoe  5,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Nov 18",Indiana ,W116-96  ,4-9,Knight  17,Williams  15,Dudley  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Nov 19",Philadelphia ,L120-105  ,4-10,Bledsoe  27,Williams  11,Bledsoe  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Mon, Nov 21",Washington ,L106-101  ,4-11,Booker  30,Len  10,Bledsoe  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Nov 23",Orlando ,W92-87  ,5-11,Len  17,Len  12,Bledsoe  5,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Nov 25", Minnesota ,L98-85  ,5-12,Bledsoe  23,Len  11,Bledsoe  10,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Nov 27", Denver ,L120-114  ,5-13,Bledsoe  35,Chandler  15,Bledsoe  6,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Nov 30", Atlanta ,W109-107  ,6-13,Knight  23,Len  10,Booker  4,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Dec 3",Golden State ,L138-109  ,6-14,Bledsoe  27,Chandler  9,Booker  5,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Tue, Dec 6",Utah ,L112-105  ,6-15,Booker  21,Knight  7,Knight  5,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Dec 7", Indiana ,L109-94  ,6-16,Bledsoe  15,Chandler  10,Booker  5,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Dec 9",Los Angeles ,W119-115  ,7-16,Bledsoe  30,Len  14,Bledsoe  9,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Dec 11", New Orleans ,L120-119 OT ,7-17,Bledsoe  32,Chandler  21,Bledsoe  8,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Tue, Dec 13", New York ,W113-111 OT ,8-17,Bledsoe  31,Chandler  23,Bledsoe  8,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Thu, Dec 15", San Antonio ,L107-92  ,8-18,Booker  17,Chandler  8,Booker  5,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Dec 17",Oklahoma City ,L114-101  ,8-19,Booker  31,Chandler  9,Booker  5,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Mon, Dec 19",Minnesota ,L115-108  ,8-20,Bledsoe  27,Chandler  12,Knight  4,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Dec 21", Houston ,L125-111  ,8-21,Booker  28,Booker  6,Booker  7,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Dec 23", Philadelphia ,W123-116  ,9-21,Bledsoe  24,Chandler  12,Bledsoe  11,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Mon, Dec 26",Houston ,L131-115  ,9-22,Bledsoe  24,Bender  13,Bledsoe  4,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Dec 28",San Antonio ,L119-98  ,9-23,Warren  23,Chandler  8,Knight  5,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Thu, Dec 29", Toronto ,W99-91  ,10-23,Bledsoe  22,Chandler  13,Bledsoe  10,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Dec 31",Utah ,L91-86  ,10-24,Booker  20,Chandler  11,Bledsoe  8,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Mon, Jan 2",LA ,L109-98  ,10-25,Warren  24,Tucker  13,Bledsoe  9,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Tue, Jan 3", Miami ,W99-90  ,11-25,Booker  27,Chandler  20,Bledsoe  7,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Thu, Jan 5",Dallas ,W102-95  ,12-25,Bledsoe  26,Chandler  18,Bledsoe  7,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Jan 8", Cleveland ,L120-116  ,12-26,Bledsoe  31,Chandler  15,Bledsoe  8,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Thu, Jan 12", Dallas,L113-108  ,12-27,Booker  39,Chandler  19,Bledsoe  5,N,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Jan 14", San Antonio,W108-105  ,13-27,Booker  39,Chandler  15,Bledsoe  10,N,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Mon, Jan 16", Utah ,L106-101  ,13-28,Bledsoe  31,Tucker  13,Bledsoe  9,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Thu, Jan 19",Cleveland ,L118-103  ,13-29,Chandler  22,Chandler  16,Bledsoe  9,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Jan 21",New York ,W107-105  ,14-29,Booker  26,Chandler  16,Bledsoe  7,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Jan 22",Toronto ,W115-103  ,15-29,Bledsoe  40,Tucker  10,Bledsoe  13,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Tue, Jan 24", Minnesota ,L112-111  ,15-30,Booker  26,Chandler  17,Bledsoe  7,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Thu, Jan 26",Denver ,L127-120  ,15-31,Bledsoe  28,Warren  8,Booker  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Jan 28", Denver ,L123-112  ,15-32,Bledsoe  41,Chandler  12,Bledsoe  7,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Mon, Jan 30", Memphis ,L115-96  ,15-33,Booker  22,Len  7,Bledsoe  4,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Feb 1", LA ,L124-114  ,15-34,Bledsoe  41,Tucker  14,Bledsoe  8,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Feb 3",Sacramento ,W105-103  ,16-34,Booker  33,Chandler  12,Bledsoe  4,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Feb 4", Milwaukee ,L137-112  ,16-35,Booker  31,Chandler  14,Bledsoe  6,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Mon, Feb 6",New Orleans ,L111-106  ,16-36,Warren  20,Chandler  13,Knight  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Feb 8",Memphis ,L110-91  ,16-37,Booker  20,Tucker  10,Booker  3,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Feb 10", Chicago ,W115-97  ,17-37,Booker  27,Williams  11,Bledsoe  8,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Feb 11",Houston ,L133-102  ,17-38,Booker  18,Len  9,Ulis  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Mon, Feb 13", New Orleans ,L110-108  ,17-39,Bledsoe  37,Tucker  17,Bledsoe  5,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Feb 15", Los Angeles ,W137-101  ,18-39,Bledsoe  25,Bledsoe  10,Bledsoe  13,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Feb 24",Chicago ,L128-121 OT ,18-40,Booker  27,Warren  8,Bledsoe  9,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Feb 26",Milwaukee ,L100-96  ,18-41,Warren  23,Williams  15,Bledsoe  9,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Tue, Feb 28",Memphis ,L130-112  ,18-42,Bledsoe  20,Warren  6,Bledsoe  8,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Thu, Mar 2", Charlotte ,W120-103  ,19-42,Chriss  17,Williams  12,Booker  9,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Mar 3", Oklahoma City ,W118-111  ,20-42,Bledsoe  18,Williams  13,Ulis  7,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Mar 5", Boston ,W109-106  ,21-42,Bledsoe  28,Williams  15,Bledsoe  9,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Tue, Mar 7", Washington ,L131-127  ,21-43,Bledsoe  30,Len  11,Booker  6,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Thu, Mar 9", Los Angeles ,L122-110  ,21-44,Booker  23,Warren  13,Bledsoe  5,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Mar 11",Dallas ,W100-98  ,22-44,Booker  36,Warren  9,Bledsoe  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Mar 12", Portland ,L110-101  ,22-45,Booker  28,Williams  10,Bledsoe  6,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Mar 15", Sacramento ,L107-101  ,22-46,Warren  24,Williams  11,Ulis  13,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Mar 17", Orlando ,L109-103  ,22-47,Warren  26,Chriss  9,Ulis  8,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Mar 19",Detroit ,L112-95  ,22-48,Ulis  17,Williams  12,Ulis  11,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Tue, Mar 21",Miami ,L112-97  ,22-49,Chriss  24,Len  11,Ulis  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Thu, Mar 23",Brooklyn ,L126-98  ,22-50,Booker  28,Chriss  11,Ulis  12,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Mar 24",Boston ,L130-120  ,22-51,Booker  70,Williams  14,Dudley  10,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Mar 26",Charlotte ,L120-106  ,22-52,Booker  23,Williams  11,Ulis  9,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Tue, Mar 28",Atlanta ,L95-91  ,22-53,Warren  24,Warren  8,Ulis  10,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Thu, Mar 30", LA ,L124-118  ,22-54,Booker  33,Warren  10,Ulis  13,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sat, Apr 1",Portland ,L130-117  ,22-55,Booker  31,Chriss  13,Booker  7,H,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Apr 2", Houston ,L123-116  ,22-56,Ulis  34,Len  12,Ulis  9,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Wed, Apr 5", Golden State ,L120-111  ,22-57,Booker  21,Williams  17,Ulis  6,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Fri, Apr 7", Oklahoma City ,W120-99  ,23-57,Booker  37,Warren  16,Ulis  5,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Sun, Apr 9", Dallas ,W124-111  ,24-57,Warren  21,Len  10,Ulis  10,A,Phoenix Suns 2016-17 Regular Season NBA Schedule
+"Tue, Apr 11",Sacramento ,L129-104  ,24-58,Ulis  27,Williams  11,Ulis  6,H,Phoenix Suns 2016-17 Regular Season NBA Schedule

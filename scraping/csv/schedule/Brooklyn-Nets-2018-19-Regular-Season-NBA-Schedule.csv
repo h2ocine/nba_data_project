@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 17",Detroit ,L103-100  ,0-1,LeVert  27,Allen  10,Dinwiddie  6,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Oct 19", New York ,W107-105  ,1-1,LeVert  28,Allen  11,Russell  6,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Oct 20",Indiana ,L132-112  ,1-2,LeVert  19,Davis  8,Russell  7,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Oct 24",Cleveland ,W102-86  ,2-2,Russell  18,Davis  10,Russell  8,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Oct 26",New Orleans ,L117-115  ,2-3,Russell  24,Davis  11,Dinwiddie  5,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sun, Oct 28", Golden State ,L120-114  ,2-4,Russell  25,Davis  7,LeVert  7,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Oct 29",New York ,L115-96  ,2-5,Dinwiddie  17,Hollis Jefferson  7,LeVert  5,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Oct 31", Detroit ,W120-119 OT ,3-5,Dinwiddie  25,Davis  10,LeVert  6,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Nov 2", Houston ,L119-111  ,3-6,LeVert  29,Allen  8,Harris  4,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sun, Nov 4", Philadelphia ,W122-97  ,4-6,Hollis Jefferson  21,Allen  10,Dinwiddie  8,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Tue, Nov 6",Phoenix ,W104-82  ,5-6,LeVert  26,Davis  12,Allen  5,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Nov 9",Denver ,W112-110  ,6-6,Russell  23,Allen  9,Dinwiddie  6,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Nov 10",Golden State ,L116-100  ,6-7,Harris  24,Allen  7,Dinwiddie  6,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Nov 12",Minnesota ,L120-113  ,6-8,Russell  31,Davis  14,Russell  6,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Nov 14", Miami ,L120-107  ,6-9,Dinwiddie  18,Hollis Jefferson  9,Dinwiddie  5,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Nov 16",Washington ,W115-104  ,7-9,Dinwiddie  25,Allen  12,Dinwiddie  8,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Nov 17", LA ,L127-119  ,7-10,Allen  24,Allen  11,Russell  10,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Tue, Nov 20",Miami ,W104-92  ,8-10,Russell  20,Allen  14,Dinwiddie  7,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Nov 21",Dallas ,L119-113  ,8-11,Crabbe  27,Davis  9,Dinwiddie  7,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Nov 23", Minnesota ,L112-102  ,8-12,Harris  18,Carroll  7,Dinwiddie  8,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sun, Nov 25", Philadelphia ,L127-125  ,8-13,Russell  38,Allen  10,Russell  8,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Nov 28", Utah ,L101-91  ,8-14,Dinwiddie  18,Hollis Jefferson  11,Russell  7,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Nov 30", Memphis ,L131-125 2OT ,8-15,Russell  26,Carroll  12,Russell  8,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Dec 1",Washington ,L102-88  ,8-16,Crabbe  14,Hollis Jefferson  8,Dinwiddie  8,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Dec 3", Cleveland ,L99-97  ,8-17,Russell  30,Davis  10,Russell  6,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Dec 5", Oklahoma City ,L114-112  ,8-18,Crabbe  22,Hollis Jefferson  9,Hollis Jefferson  6,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Dec 7", Toronto ,W106-105 OT ,9-18,Russell  29,Davis  15,Dinwiddie  8,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Dec 8",New York ,W112-104  ,10-18,Dinwiddie  25,Allen  12,Russell  11,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Dec 12",Philadelphia ,W127-124  ,11-18,Dinwiddie  39,Davis  10,Russell  7,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Dec 14", Washington ,W125-118  ,12-18,Dinwiddie  27,Hollis Jefferson  9,Russell  9,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sun, Dec 16", Atlanta ,W144-127  ,13-18,Russell  32,Davis  10,Russell  7,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Tue, Dec 18", Los Angeles ,W115-110  ,14-18,Russell  22,Hollis Jefferson  8,Russell  13,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Dec 19",Chicago ,W96-93  ,15-18,Dinwiddie  27,Allen  12,Harris  4,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Dec 21", Indiana ,L114-106  ,15-19,Kurucs  24,Davis  10,Dinwiddie  9,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sun, Dec 23", Phoenix ,W111-103  ,16-19,Dinwiddie  24,Kurucs  10,Russell  8,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Dec 26", Charlotte ,W134-132 2OT ,17-19,Dinwiddie  37,Hollis Jefferson  15,Dinwiddie  11,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Dec 28",Charlotte ,L100-87  ,17-20,Russell  33,Davis  11,Dinwiddie  5,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Dec 29",Milwaukee ,L129-115  ,17-21,Napier  32,Faried  10,Napier  7,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Jan 2", New Orleans ,W126-121  ,18-21,Russell  22,Davis  12,Russell  13,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Jan 4",Memphis ,W109-100  ,19-21,Russell  23,Allen  12,Russell  10,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sun, Jan 6",Chicago ,W117-100  ,20-21,Russell  28,Davis  13,Russell  5,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Jan 7",Boston ,L116-95  ,20-22,Kurucs  24,Faried  12,Napier  6,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Jan 9", Atlanta ,W116-100  ,21-22,Russell  23,Davis  16,Dinwiddie  5,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Jan 11",Toronto ,L122-105  ,21-23,Russell  24,Allen  12,Russell  9,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Jan 14", Boston ,W109-102  ,22-23,Russell  34,Carroll  14,Russell  7,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Jan 16",Houston ,W145-142 OT ,23-23,Dinwiddie  33,Allen  24,Dinwiddie  10,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Jan 18",Orlando ,W117-115  ,24-23,Russell  40,Allen  10,Russell  7,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Jan 21", Sacramento ,W123-94  ,25-23,Russell  31,Davis  16,Russell  8,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Jan 23", Orlando ,W114-110  ,26-23,Dinwiddie  29,Allen  11,Russell  10,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Jan 25", New York ,W109-99  ,27-23,Pinson  19,Davis  16,Russell  4,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Jan 28",Boston ,L112-104  ,27-24,Russell  25,Davis  11,Napier  5,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Tue, Jan 29", Chicago ,W122-117  ,28-24,Russell  30,Allen  8,Russell  7,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Thu, Jan 31",San Antonio ,L117-114  ,28-25,Russell  25,Davis  11,Russell  9,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Feb 2",Orlando ,L102-89  ,28-26,Russell  23,Davis  16,Russell  6,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Feb 4", Milwaukee ,L113-94  ,28-27,Russell  18,Allen  11,Russell  5,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Feb 6", Denver ,W135-130  ,29-27,Russell  27,Carroll  10,Russell  11,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Feb 8", Chicago ,L125-106  ,29-28,Russell  23,Allen  10,Russell  6,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Feb 11",Toronto ,L127-125  ,29-29,Russell  28,Russell  7,Russell  14,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Feb 13",Cleveland ,W148-139 3OT ,30-29,Russell  36,Allen  12,LeVert  9,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Thu, Feb 21", Portland ,L113-99  ,30-30,Crabbe  17,Allen  11,Napier  10,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Feb 23",Charlotte ,W117-115  ,31-30,Russell  40,Allen  11,Russell  7,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Feb 25", San Antonio ,W101-85  ,32-30,Russell  23,Carroll  12,Russell  8,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Feb 27", Washington ,L125-116  ,32-31,Russell  28,Graham  7,Russell  7,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Mar 1", Charlotte ,L123-112  ,32-32,Russell  22,LeVert  7,Russell  9,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Mar 2",Miami ,L117-88  ,32-33,Harris  15,Kurucs  7,Russell  8,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Mar 4", Dallas ,W127-88  ,33-33,Carroll  22,Davis  10,Russell  11,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Mar 6", Cleveland ,W113-107  ,34-33,Dinwiddie  28,Davis  12,Dinwiddie  5,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Mar 9",Atlanta ,W114-112  ,35-33,Dinwiddie  23,Allen  12,Dinwiddie  7,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Mar 11", Detroit ,W103-75  ,36-33,Dinwiddie  19,Crabbe  10,Russell  7,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Mar 13",Oklahoma City ,L108-96  ,36-34,Dinwiddie  25,Davis  11,Russell  7,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Mar 16",Utah ,L114-98  ,36-35,Dinwiddie  22,Davis  11,Russell  4,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sun, Mar 17",LA ,L119-116  ,36-36,Russell  32,Allen  11,Russell  10,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Tue, Mar 19",Sacramento ,W123-121  ,37-36,Russell  44,Allen  7,Russell  12,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Fri, Mar 22",Los Angeles ,W111-106  ,38-36,Harris  26,Davis  15,Russell  13,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Mar 25",Portland ,L148-144 2OT ,38-37,Russell  39,Davis  14,Russell  8,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Thu, Mar 28",Philadelphia ,L123-110  ,38-38,Harris  22,Hollis Jefferson  10,Russell  8,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Mar 30", Boston ,W110-96  ,39-38,Russell  29,Harris  8,Russell  10,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Mon, Apr 1", Milwaukee ,L131-121  ,39-39,Russell  28,Davis  14,LeVert  6,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Apr 3", Toronto ,L115-105  ,39-40,Russell  27,Allen  9,Russell  6,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sat, Apr 6",Milwaukee ,W133-128  ,40-40,Russell  25,Allen  7,Russell  10,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Sun, Apr 7",Indiana ,W108-96  ,41-40,Russell  20,Allen  7,Russell  6,H,Brooklyn Nets 2018-19 Regular Season NBA Schedule
+"Wed, Apr 10", Miami ,W113-94  ,42-40,Russell  21,Allen  14,Russell  5,A,Brooklyn Nets 2018-19 Regular Season NBA Schedule

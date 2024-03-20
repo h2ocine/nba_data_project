@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 25",Portland ,L113-104  ,0-1,Johnson  29,Gobert  14,Hill  6,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Oct 28", Los Angeles ,W96-89  ,1-1,Hill  23,Gobert  13,Hill  3,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sun, Oct 30",LA ,L88-75  ,1-2,Hill  18,Favors  11,Hill  3,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Tue, Nov 1",San Antonio ,W106-91  ,2-2,Hill  22,Gobert  12,Hill  7,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Nov 2", Dallas ,W97-81  ,3-2,Hill  25,Gobert  12,Hill  4,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Nov 4", San Antonio ,L100-86  ,3-3,Hood  18,Gobert  8,Hill  3,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sun, Nov 6",New York ,W114-109  ,4-3,Hayward  28,Gobert  8,Hill  8,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Nov 7",Philadelphia ,W109-84  ,5-3,Hayward  20,Favors  14,Hayward  5,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Nov 9",Charlotte ,L104-98  ,5-4,Hayward  29,Gobert  11,Mack  5,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Nov 11",Orlando ,W87-74  ,6-4,Hayward  20,Gobert  13,Hayward  8,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Nov 12",Miami ,W102-91  ,7-4,Hayward  25,Gobert  12,Hayward  4,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Nov 14", Memphis ,L102-96  ,7-5,Ingles  20,Lyles  5,Mack  4,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Thu, Nov 17", Chicago ,L85-77  ,7-6,Gobert  16,Gobert  13,Hayward  3,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Nov 19",Houston ,L111-102  ,7-7,Hood  25,Gobert  14,Mack  7,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sun, Nov 20",Denver ,L105-91  ,7-8,Hayward  25,Hayward  7,Ingles  4,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Nov 23", Denver ,W108-83  ,8-8,Hayward  22,Gobert  13,Hayward  7,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Nov 25", Atlanta ,W95-68  ,9-8,Hayward  24,Johnson  11,Mack  5,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Nov 28",Minnesota ,W112-103  ,10-8,Hill  24,Gobert  17,Hood  5,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Tue, Nov 29", Houston ,W120-101  ,11-8,Hayward  31,Gobert  14,Hayward  7,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Thu, Dec 1", Miami ,L111-110  ,11-9,Hayward  32,Gobert  10,Hayward  7,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Dec 3", Denver ,W105-98  ,12-9,Hayward  32,Gobert  11,Ingles  4,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Dec 5",Los Angeles ,W107-101  ,13-9,Hayward  23,Gobert  17,Mack  7,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Tue, Dec 6", Phoenix ,W112-105  ,14-9,Hayward  28,Gobert  10,Diaw  6,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Thu, Dec 8", Golden State ,L106-99  ,14-10,Ingles  21,Gobert  17,Mack  5,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Dec 10", Sacramento ,W104-84  ,15-10,Hayward  26,Gobert  15,Ingles  5,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Dec 14", Oklahoma City ,W109-89  ,16-10,Hood  25,Gobert  12,Diaw  6,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Dec 16", Dallas ,W103-100  ,17-10,Gobert  16,Gobert  10,Hayward  4,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sun, Dec 18",Memphis ,W82-73  ,18-10,Hayward  22,Gobert  12,Hayward  6,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Tue, Dec 20",Golden State ,L104-74  ,18-11,Johnson  14,Gobert  17,Ingles  3,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Dec 21", Sacramento ,L94-93  ,18-12,Hayward  28,Gobert  14,Diaw  8,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Dec 23", Toronto ,L104-98  ,18-13,Hayward  23,Gobert  14,Ingles  7,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Tue, Dec 27",Los Angeles ,W102-100  ,19-13,Hayward  31,Gobert  11,Hayward  3,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Thu, Dec 29", Philadelphia ,W100-83  ,20-13,Hill  21,Gobert  13,Hill  6,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Dec 31", Phoenix ,W91-86  ,21-13,Gobert  18,Gobert  13,Hayward  4,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Jan 2",Brooklyn ,W101-89  ,22-13,Hayward  30,Gobert  16,Hayward  3,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Tue, Jan 3",Boston ,L115-104  ,22-14,Hayward  23,Gobert  13,Favors  7,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Thu, Jan 5",Toronto ,L101-93  ,22-15,Mack  17,Gobert  16,Hood  3,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Jan 7",Minnesota ,W94-92  ,23-15,Hill  19,Gobert  13,Hill  7,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sun, Jan 8",Memphis ,L88-79  ,23-16,Hayward  22,Gobert  12,Hayward  2,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Tue, Jan 10", Cleveland ,W100-92  ,24-16,Hayward  28,Gobert  14,Hill  7,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Jan 13", Detroit ,W110-77  ,25-16,Hood  27,Gobert  10,Diaw  5,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Jan 14", Orlando ,W114-107  ,26-16,Hayward  23,Gobert  19,Hayward  7,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Jan 16",Phoenix ,W106-101  ,27-16,Gobert  18,Gobert  17,Diaw  6,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Jan 20",Dallas ,W112-107 OT ,28-16,Gobert  27,Gobert  25,Hayward  4,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Jan 21", Indiana ,W109-100  ,29-16,Hill  30,Gobert  11,Ingles  6,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Jan 23", Oklahoma City ,L97-95  ,29-17,Hayward  17,Gobert  10,Diaw  5,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Tue, Jan 24",Denver ,L103-93  ,29-18,Favors  18,Gobert  9,Hill  5,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Thu, Jan 26", Los Angeles ,W96-88  ,30-18,Hayward  24,Gobert  13,Hill  3,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Jan 28", Memphis ,L102-95  ,30-19,Hood  20,Gobert  10,Hill  5,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Feb 1", Milwaukee ,W104-88  ,31-19,Hayward  27,Gobert  14,Hayward  5,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Feb 4", Charlotte ,W105-98  ,32-19,Hayward  33,Gobert  15,Johnson  4,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Feb 6",Atlanta ,W120-95  ,33-19,Hayward  30,Favors  10,Hill  8,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Feb 8",New Orleans ,W127-94  ,34-19,Johnson  27,Gobert  16,Exum  5,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Thu, Feb 9",Dallas ,L112-105 OT ,34-20,Hayward  36,Gobert  15,Mack  7,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Feb 11", Boston ,L112-104  ,34-21,Hayward  31,Gobert  13,Hayward  4,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Feb 13", LA ,L88-72  ,34-22,Favors  13,Gobert  14,Diaw  4,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Feb 15", Portland ,W111-88  ,35-22,Hayward  22,Gobert  12,Hayward  7,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Feb 24",Milwaukee ,W109-95  ,36-22,Hayward  29,Gobert  16,Ingles  5,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sun, Feb 26",Washington ,W102-92  ,37-22,Hayward  30,Gobert  19,Hill  6,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Tue, Feb 28",Oklahoma City ,L109-106  ,37-23,Hayward  19,Gobert  10,Hill  8,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Mar 1", Minnesota ,L107-80  ,37-24,Exum  15,Favors  12,Exum  3,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Mar 3", Brooklyn ,W112-97  ,38-24,Hill  34,Favors  12,Hill  7,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sun, Mar 5",Sacramento ,W110-109 OT ,39-24,Hood  28,Gobert  23,Hill  8,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Mar 6", New Orleans ,W88-83  ,40-24,Hayward  23,Gobert  16,Ingles  4,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Mar 8",Houston ,W115-108  ,41-24,Gobert  23,Gobert  10,Ingles  6,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Mar 11",Oklahoma City ,L112-104  ,41-25,Exum  22,Burks  7,Ingles  3,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Mar 13", LA ,W114-108  ,42-25,Hayward  27,Gobert  10,Hill  6,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Mar 15",Detroit ,W97-83  ,43-25,Hayward  25,Hayward  9,Hayward  6,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Thu, Mar 16",Cleveland ,L91-83  ,43-26,Gobert  20,Gobert  19,Hayward  4,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Mar 18",Chicago ,L95-86  ,43-27,Hill  18,Gobert  13,Ingles  5,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Mar 20",Indiana ,L107-100  ,43-28,Hayward  38,Gobert  14,Hill  6,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Mar 22", New York ,W108-101  ,44-28,Gobert  35,Gobert  15,Hill  4,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Mar 25",LA ,L108-95  ,44-29,Gobert  26,Gobert  14,Diaw  5,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Mar 27", New Orleans ,W108-100  ,45-29,Gobert  20,Gobert  19,Johnson  6,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Mar 29",Sacramento ,W112-82  ,46-29,Hayward  20,Gobert  15,Ingles  5,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Mar 31", Washington ,W95-88  ,47-29,Hayward  19,Gobert  10,Diaw  5,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sun, Apr 2",San Antonio ,L109-103  ,47-30,Gobert  19,Gobert  14,Gobert  5,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Tue, Apr 4", Portland ,W106-87  ,48-30,Hayward  30,Gobert  11,Mack  5,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Fri, Apr 7", Minnesota ,W120-113  ,49-30,Hayward  39,Mack  6,Ingles  8,A,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Sat, Apr 8",Portland ,L101-86  ,49-31,Hayward  21,Gobert  11,Hayward  4,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Mon, Apr 10",Golden State ,W105-99  ,50-31,Hill  20,Gobert  18,Ingles  7,H,Utah Jazz 2016-17 Regular Season NBA Schedule
+"Wed, Apr 12", San Antonio ,W101-97  ,51-31,Hayward  14,Gobert  9,Hill  5,A,Utah Jazz 2016-17 Regular Season NBA Schedule

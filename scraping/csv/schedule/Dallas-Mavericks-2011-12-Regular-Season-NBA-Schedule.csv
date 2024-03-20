@@ -1,0 +1,67 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Sun, Dec 25", Miami ,L105-94  ,0-1,Terry  23,Marion  6,Terry  3,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Mon, Dec 26", Denver ,L115-93  ,0-2,Nowitzki  20,Odom  7,Kidd  4,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Thu, Dec 29",Oklahoma City ,L104-102  ,0-3,Nowitzki  29,Nowitzki  10,Terry  9,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Dec 30", Toronto ,W99-86  ,1-3,Mahinmi  19,Haywood  9,Kidd  6,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sun, Jan 1",Minnesota ,L99-82  ,1-4,Nowitzki  21,Marion  6,Kidd  5,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Mon, Jan 2", Oklahoma City ,W100-87  ,2-4,Nowitzki  26,Mahinmi  9,Kidd  9,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Jan 4", Phoenix ,W98-89  ,3-4,Nowitzki  20,Haywood  12,Nowitzki  7,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Thu, Jan 5",San Antonio ,L93-71  ,3-5,Terry  12,Mahinmi  9,West  3,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sat, Jan 7", New Orleans ,W96-81  ,4-5,Mahinmi  13,Mahinmi  7,West  4,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Tue, Jan 10",Detroit ,W100-86  ,5-5,Nowitzki  18,Nowitzki  7,West  10,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Jan 11",Boston ,W90-85  ,6-5,Terry  18,Haywood  11,Nowitzki  4,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Jan 13", Milwaukee ,W102-76  ,7-5,Terry  17,Beaubois  6,West  4,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sat, Jan 14", Sacramento ,W99-60  ,8-5,Terry  21,Marion  8,Kidd  6,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Mon, Jan 16",Los Angeles ,L73-70  ,8-6,Nowitzki  21,Mahinmi  10,Terry  7,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Jan 18",LA ,L91-89  ,8-7,Nowitzki  17,Marion  10,Kidd  10,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Thu, Jan 19",Utah ,W94-91  ,9-7,Marion  22,Marion  7,Kidd  11,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sat, Jan 21",New Orleans ,W83-81  ,10-7,West  16,Marion  12,West  6,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Mon, Jan 23", Phoenix ,W93-87  ,11-7,Marion  29,Mahinmi  9,Odom  5,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Jan 25", Minnesota ,L105-90  ,11-8,Terry  17,Haywood  10,Kidd  7,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Jan 27", Utah ,W116-101  ,12-8,Beaubois  22,Haywood  12,Beaubois  7,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sun, Jan 29", San Antonio ,W101-100 OT ,13-8,Terry  34,Nowitzki  13,Beaubois  7,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Mon, Jan 30",Phoenix ,W122-99  ,14-8,West  25,Haywood  8,Beaubois  7,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Feb 1", Oklahoma City ,L95-86  ,14-9,Terry  25,Marion  10,Beaubois  4,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Feb 3", Indiana ,L98-87  ,14-10,Nowitzki  30,Nowitzki  7,Carter  5,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sat, Feb 4",Cleveland ,L91-88  ,14-11,Nowitzki  24,Nowitzki  8,West  7,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Feb 8",Denver ,W105-95  ,15-11,Nowitzki  25,Nowitzki  9,Carter  8,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Feb 10",Minnesota ,W104-97  ,16-11,Nowitzki  33,Marion  8,Kidd  10,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sat, Feb 11", Portland ,W97-94 2OT ,17-11,Nowitzki  20,Marion  12,Kidd  8,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Mon, Feb 13", LA ,W96-92  ,18-11,Nowitzki  22,Haywood  9,Kidd  4,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Feb 15", Denver ,W102-84  ,19-11,Marion  16,Marion  10,Marion  6,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Feb 17",Philadelphia ,W82-75  ,20-11,Nowitzki  28,Nowitzki  12,Kidd  8,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sun, Feb 19",New York ,L104-97  ,20-12,Nowitzki  34,Marion  7,Terry  6,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Mon, Feb 20", Boston ,W89-73  ,21-12,Nowitzki  26,Nowitzki  16,Kidd  8,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Feb 22", Los Angeles ,L96-91  ,21-13,Nowitzki  25,Nowitzki  12,Terry  5,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Tue, Feb 28", New Jersey ,L93-92  ,21-14,Nowitzki  24,Nowitzki  10,Kidd  8,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Feb 29",Memphis ,L96-85  ,21-15,Terry  18,Marion  8,Terry  5,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Mar 2",New Orleans ,L97-92  ,21-16,Beaubois  25,Nowitzki  9,Kidd  6,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sat, Mar 3", Utah ,W102-96  ,22-16,Nowitzki  40,Mahinmi  8,Kidd  8,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Mon, Mar 5",Oklahoma City ,L95-91  ,22-17,Nowitzki  27,Marion  10,Terry  7,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Tue, Mar 6", New York ,W95-85  ,23-17,Nowitzki  28,Marion  9,Kidd  6,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Thu, Mar 8",Phoenix ,L96-94  ,23-18,Nowitzki  18,Marion  8,Carter  4,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Mar 9",Sacramento ,L110-97  ,23-19,Terry  23,Nowitzki  9,Kidd  4,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sat, Mar 10",Golden State ,L111-87  ,23-20,Nowitzki  22,Mahinmi  9,Terry  5,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Tue, Mar 13", Washington ,W107-98  ,24-20,Nowitzki  27,Marion  13,Beaubois  4,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Thu, Mar 15", Charlotte ,W101-96  ,25-20,Nowitzki  27,Haywood  8,Nowitzki  5,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sat, Mar 17", San Antonio ,W106-99  ,26-20,Nowitzki  27,Wright  9,Kidd  10,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Mon, Mar 19",Denver ,W112-95  ,27-20,Nowitzki  33,Nowitzki  11,Kidd  10,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Mar 21", Los Angeles ,L109-93  ,27-21,Nowitzki  26,Nowitzki  10,Beaubois  5,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Mar 23",San Antonio ,L104-87  ,27-22,Terry  18,Mahinmi  9,Beaubois  5,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sat, Mar 24",Houston ,W101-99 OT ,28-22,Nowitzki  31,Marion  15,Kidd  4,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Tue, Mar 27", Houston ,W90-81  ,29-22,Nowitzki  21,Marion  11,Beaubois  5,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Thu, Mar 29",Miami ,L106-85  ,29-23,Nowitzki  25,Nowitzki  6,Kidd  4,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Mar 30",Orlando ,W100-98  ,30-23,Nowitzki  28,Marion  9,Kidd  6,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Mon, Apr 2", LA ,L94-75  ,30-24,Nowitzki  19,Marion  9,Terry  4,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Apr 4", Memphis ,W95-85  ,31-24,Nowitzki  23,Nowitzki  10,Beaubois  5,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Apr 6", Portland ,L99-97 OT ,31-25,Nowitzki  23,Nowitzki  14,Terry  5,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sat, Apr 7",Memphis ,L94-89  ,31-26,Nowitzki  17,Marion  11,Terry  8,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Tue, Apr 10", Sacramento ,W110-100  ,32-26,Nowitzki  15,Marion  14,Kidd  7,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Thu, Apr 12",Golden State ,W112-103  ,33-26,Nowitzki  27,Marion  12,Kidd  12,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Apr 13",Portland ,W97-94  ,34-26,Nowitzki  24,Marion  14,West  7,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sun, Apr 15",Los Angeles ,L112-108 OT ,34-27,Nowitzki  24,Nowitzki  14,Kidd  7,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Mon, Apr 16",Utah ,L123-121 3OT ,34-28,Nowitzki  40,Carter  12,Nowitzki  6,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Wed, Apr 18", Houston ,W117-110  ,35-28,Nowitzki  35,Marion  6,Kidd  8,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Fri, Apr 20", Golden State ,W104-94  ,36-28,Carter  19,Carter  9,West  4,A,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Sat, Apr 21",Chicago ,L93-83  ,36-29,Nowitzki  17,Nowitzki  7,Beaubois  5,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule
+"Thu, Apr 26",Atlanta ,L106-89  ,36-30,Nowitzki  22,Marion  8,Beaubois  6,H,Dallas Mavericks 2011-12 Regular Season NBA Schedule

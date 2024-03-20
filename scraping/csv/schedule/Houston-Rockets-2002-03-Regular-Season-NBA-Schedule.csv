@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 30",Indiana ,L91-82  ,0-1,Francis  39,Cato  17,Francis  4,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Nov 1",Denver ,W83-74  ,1-1,Mobley  29,Francis  13,Francis  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sat, Nov 2", Toronto ,W88-76  ,2-1,Francis  28,Cato  11,Francis  5,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Nov 5", Seattle ,L104-97  ,2-2,Francis  33,Francis  11,Francis  9,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sat, Nov 9", Golden State ,W111-104  ,3-2,Francis  31,Cato  12,Thomas  6,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Nov 12", Portland ,W86-83  ,4-2,Francis  30,Griffin  9,Francis  5,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Nov 15",Phoenix ,L88-87  ,4-3,Francis  16,Francis  6,Francis  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sun, Nov 17",Los Angeles ,W93-89  ,5-3,Francis  27,Thomas  10,Francis  6,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Nov 19", Cleveland ,W97-80  ,6-3,Mobley  19,Griffin  10,Francis  8,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Thu, Nov 21",Dallas ,L103-90  ,6-4,Ming  30,Ming  16,Francis  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Nov 22", Washington ,W93-86  ,7-4,Ming  18,Griffin  9,Francis  7,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sun, Nov 24",LA ,L90-89  ,7-5,Francis  31,Thomas  9,Francis  10,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Nov 26",Portland ,L77-71  ,7-6,Francis  19,Francis  7,Francis  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Nov 27",Golden State ,W91-84  ,8-6,Cato  22,Cato  12,Francis  7,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Nov 29",Seattle ,W83-72  ,9-6,Francis  21,Thomas  10,Francis  6,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sun, Dec 1",Sacramento ,L103-84  ,9-7,Francis  22,Thomas  8,Francis  4,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Dec 3", San Antonio ,W89-75  ,10-7,Ming  27,Ming  18,Francis  6,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Dec 6",New Orleans ,L98-96 OT ,10-8,Thomas  29,Ming  13,Thomas  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sat, Dec 7", Philadelphia ,W97-72  ,11-8,Francis  20,Ming  12,Francis  7,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Dec 10", Sacramento ,W103-96  ,12-8,Francis  32,Ming  15,Francis  5,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Dec 13",Memphis ,L114-109 OT ,12-9,Francis  29,Ming  15,Francis  9,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sat, Dec 14", LA ,L94-83  ,12-10,Mobley  19,Ming  9,Francis  5,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Mon, Dec 16",Miami ,W105-100 OT ,13-10,Mobley  27,Ming  12,Francis  6,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Dec 18", Indiana ,W95-83  ,14-10,Ming  29,Ming  10,Francis  6,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Dec 20", Atlanta ,W101-82  ,15-10,Francis  23,Ming  8,Francis  8,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sat, Dec 21",Minnesota ,L98-86  ,15-11,Francis  24,Ming  12,Ming  4,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Mon, Dec 23", Utah ,L96-91  ,15-12,Francis  26,Ming  7,Francis  8,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Dec 27", New York ,L99-83  ,15-13,Francis  27,Posey  10,Francis  3,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sun, Dec 29", New Orleans ,W97-85  ,16-13,Mobley  24,Cato  9,Francis  5,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Dec 31", Milwaukee ,W105-80  ,17-13,Francis  26,Ming  8,Francis  9,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sat, Jan 4", Golden State ,L86-84  ,17-14,Mobley  27,Ming  17,Francis  6,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Jan 7", Minnesota ,W94-86  ,18-14,Mobley  19,Ming  12,Francis  11,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Jan 8",Orlando ,W91-81  ,19-14,Ming  23,Ming  11,Mobley  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Jan 10",Atlanta ,L84-75  ,19-15,Griffin  20,Griffin  16,Francis  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sat, Jan 11", Denver ,W87-85  ,20-15,Francis  25,Griffin  10,Francis  6,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Mon, Jan 13", Boston ,W101-92  ,21-15,Francis  26,Posey  9,Francis  9,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Jan 15", Phoenix ,W102-96  ,22-15,Mobley  30,Posey  11,Francis  8,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Jan 17", Los Angeles ,W108-104 OT ,23-15,Francis  44,Ming  10,Francis  11,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Mon, Jan 20",San Antonio ,L87-82  ,23-16,Mobley  15,Cato  9,Norris  6,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Jan 21",Dallas ,L107-86  ,23-17,Francis  26,Cato  10,Francis  4,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Jan 24", Detroit ,L98-74  ,23-18,Francis  16,Posey  12,Mobley  4,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sun, Jan 26",Chicago ,L100-98  ,23-19,Francis  26,Cato  9,Francis  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Mon, Jan 27",Memphis ,W100-95  ,24-19,Francis  22,Ming  10,Francis  9,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Jan 29", Dallas ,L104-81  ,24-20,Ming  20,Ming  9,Francis  5,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Jan 31", Minnesota ,W121-101  ,25-20,Francis  27,Ming  13,Francis  8,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sun, Feb 2", Sacramento ,W105-89  ,26-20,Griffin  22,Ming  11,Francis  8,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Feb 4",Minnesota ,L103-89  ,26-21,Francis  31,Ming  10,Francis  6,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Feb 5",Cleveland ,L105-102  ,26-22,Taylor  30,Mobley  6,Francis  6,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Feb 11", Utah ,L103-101 OT ,26-23,Francis  28,Ming  10,Francis  5,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Feb 12",Utah ,W106-76  ,27-23,Francis  36,Griffin  11,Francis  7,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Feb 14", Miami ,L94-82  ,27-24,Francis  27,Griffin  12,Ming  3,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Feb 18",Los Angeles ,L106-99 2OT ,27-25,Ming  24,Ming  14,Francis  6,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Feb 19",Phoenix ,W107-89  ,28-25,Rice  23,Ming  12,Mobley  7,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Feb 21", Dallas ,L100-85  ,28-26,Francis  19,Ming  11,Francis  7,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sat, Feb 22", Memphis ,W93-82  ,29-26,Mobley  29,Griffin  10,Norris  9,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Mon, Feb 24",Boston ,W101-95 OT ,30-26,Francis  33,Mobley  10,Francis  9,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Feb 25",New York ,L102-95  ,30-27,Mobley  25,Francis  12,Francis  4,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Thu, Feb 27",Washington ,L100-98 OT ,30-28,Mobley  24,Ming  11,Francis  7,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sun, Mar 2", San Antonio ,L97-88  ,30-29,Francis  21,Ming  9,Francis  8,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Mar 4",Detroit ,L96-83  ,30-30,Mobley  25,Taylor  11,Francis  4,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Mar 5",Toronto ,W97-95  ,31-30,Ming  21,Griffin  12,Francis  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sat, Mar 8", New Jersey ,W83-71  ,32-30,Mobley  18,Ming  10,Francis  5,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Mar 12", LA ,W119-114 OT ,33-30,Francis  25,Ming  10,Francis  9,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Mar 14", Chicago ,W121-91  ,34-30,Posey  26,Francis  9,Francis  10,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sun, Mar 16", Phoenix ,W85-75  ,35-30,Ming  20,Cato  9,Mobley  7,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Mar 18",Seattle ,L100-94  ,35-31,Francis  23,Francis  9,Francis  10,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Mar 19",Portland ,L94-83  ,35-32,Francis  17,Ming  9,Francis  6,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Mar 21",Golden State ,W117-107  ,36-32,Mobley  26,Ming  14,Francis  12,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sun, Mar 23",Sacramento ,L109-108  ,36-33,Francis  38,Ming  19,Francis  9,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Mon, Mar 24",LA ,W108-90  ,37-33,Posey  23,Cato  12,Norris  8,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Mar 26", Los Angeles ,L96-93  ,37-34,Francis  19,Francis  10,Francis  8,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Thu, Mar 27",San Antonio ,L98-85  ,37-35,Mobley  21,Cato  8,Norris  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sat, Mar 29", Denver ,W102-89  ,38-35,Francis  18,Griffin  11,Francis  12,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Mon, Mar 31",New Jersey ,L110-86  ,38-36,Ming  24,Griffin  10,Francis  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Apr 2",Milwaukee ,L106-99  ,38-37,Posey  20,Posey  9,Francis  6,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Fri, Apr 4",Philadelphia ,W88-79  ,39-37,Ming  20,Ming  13,Francis  5,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sun, Apr 6", Orlando ,W114-93  ,40-37,Mobley  23,Posey  9,Mobley  4,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Apr 8", Portland ,L81-66  ,40-38,Posey  15,Ming  12,Francis  4,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Apr 9",Utah ,L94-73  ,40-39,Taylor  10,Cato  9,Francis  4,H,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Sat, Apr 12", Seattle ,W101-86  ,41-39,Francis  17,Francis  7,Francis  7,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Tue, Apr 15", Memphis ,W97-86  ,42-39,Francis  19,Posey  15,Francis  9,A,Houston Rockets 2002-03 Regular Season NBA Schedule
+"Wed, Apr 16",Denver ,W89-84  ,43-39,Francis  17,Ming  16,Francis  9,H,Houston Rockets 2002-03 Regular Season NBA Schedule

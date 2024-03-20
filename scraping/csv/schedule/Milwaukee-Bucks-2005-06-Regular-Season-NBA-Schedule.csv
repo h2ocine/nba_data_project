@@ -1,0 +1,85 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Nov 1",Philadelphia ,W117-108 OT ,1-0,Redd  30,Simmons  12,Ford  14,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Nov 2",New Jersey ,W110-96  ,2-0,Redd  41,Bogut  17,Ford  6,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Nov 5", Miami ,W105-100  ,3-0,Simmons  23,Magloire  8,Ford  11,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Nov 8", Golden State ,L110-103  ,3-1,Redd  21,Smith  12,Ford  11,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Nov 12", Indiana ,W103-102  ,4-1,Redd  28,Magloire  14,Ford  9,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Nov 15",LA ,L109-85  ,4-2,Ford  15,Magloire  8,Williams  4,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Nov 16",Golden State ,W90-87  ,5-2,Redd  27,Smith  13,Ford  13,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Nov 18",Sacramento ,L103-82  ,5-3,Smith  21,Magloire  14,Ford  7,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Nov 21",Utah ,L100-80  ,5-4,Redd  25,Ford  7,Ford  5,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Nov 23", Philadelphia ,W108-97  ,6-4,Redd  32,Smith  13,Redd  7,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Nov 25",Minnesota ,L99-91  ,6-5,Redd  28,Smith  13,Redd  5,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Nov 26", Detroit ,L85-76  ,6-6,Redd  23,Magloire  17,Williams  4,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Nov 29", Dallas ,W113-111 OT ,7-6,Simmons  26,Bogut  14,Ford  7,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Dec 2",Washington ,W105-102  ,8-6,Williams  35,Magloire  13,Ford  9,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Dec 3", Orlando ,W104-84  ,9-6,Redd  30,Magloire  9,Williams  11,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Dec 6", Los Angeles ,L111-92  ,9-7,Redd  21,Gadzuric  8,Williams  8,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Dec 7",Philadelphia ,W88-85  ,10-7,Redd  24,Magloire  14,Williams  9,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Dec 10", Cleveland ,W111-106  ,11-7,Ford  24,Magloire  15,Ford  9,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Dec 12",New York ,W112-92  ,12-7,Redd  31,Magloire  6,Ford  9,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Dec 14", Miami ,L100-83  ,12-8,Redd  24,Magloire  13,Ford  9,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Dec 16",Boston ,W100-96  ,13-8,Williams  24,Williams  9,Ford  7,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Dec 17", Utah ,L88-80  ,13-9,Redd  19,Magloire  16,Ford  7,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Dec 20", San Antonio ,W109-107 OT ,14-9,Williams  28,Bogut  9,Ford  8,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Dec 23"," NO/Oklahoma City
+ ",W101-94  ,15-9,Redd  36,Magloire  15,Williams  6,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Dec 26",Orlando ,L108-93  ,15-10,Ford  19,Ford  9,Ford  4,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Dec 27",Miami ,L109-98  ,15-11,Williams  24,Magloire  8,Redd  4,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Dec 30", New York ,W113-108  ,16-11,Williams  30,Bogut  8,Redd  7,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Jan 2",Chicago ,W93-92  ,17-11,Redd  29,Bogut  10,Williams  9,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Jan 4", Cleveland ,L91-84  ,17-12,Redd  28,Bogut  13,Williams  9,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Jan 6", Chicago ,L105-91  ,17-13,Redd  25,Redd  8,Williams  8,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Jan 7",Cleveland ,L96-88  ,17-14,Redd  32,Magloire  7,Ford  5,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Jan 10", Minnesota ,W95-92  ,18-14,Redd  22,Redd  7,Ford  9,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Jan 11",Indiana ,L112-88  ,18-15,Gadzuric  17,Magloire  8,Ford  5,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Jan 13",Charlotte ,W103-102  ,19-15,Redd  26,Bogut  17,Redd  7,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Jan 14", Denver ,L100-93  ,19-16,Redd  25,Magloire  13,Ford  7,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Jan 16",Dallas ,L114-95  ,19-17,Redd  29,Bogut  8,Ford  5,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Jan 18",San Antonio ,L95-92  ,19-18,Redd  26,Bogut  10,Ford  5,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Jan 20",Atlanta ,W118-102  ,20-18,Redd  28,Bogut  13,Williams  4,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Jan 21", Charlotte ,W101-91  ,21-18,Redd  35,Magloire  22,Williams  9,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Jan 23", Houston ,L97-80  ,21-19,Redd  21,Magloire  9,Redd  6,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Jan 25",Detroit ,L106-102 OT ,21-20,Redd  41,Magloire  13,Redd  8,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Jan 27", Toronto ,W108-87  ,22-20,Simmons  18,Magloire  11,Ford  8,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sun, Jan 29", Boston ,W83-79  ,23-20,Redd  21,Magloire  10,Ford  8,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Jan 30","NO/Oklahoma City
+ ",L94-93  ,23-21,Redd  32,Magloire  9,Ford  4,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Feb 1",Houston ,L86-84  ,23-22,Simmons  26,Magloire  15,Ford  7,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Feb 4", Memphis ,W88-78  ,24-22,Redd  23,Magloire  11,Ford  8,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Feb 6",Cleveland ,L89-86  ,24-23,Simmons  21,Magloire  11,Ford  11,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Feb 8", Orlando ,W94-89 2OT ,25-23,Redd  27,Magloire  18,Ford  8,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Feb 11", Charlotte ,W99-93  ,26-23,Redd  18,Magloire  9,Ford  7,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sun, Feb 12",New Jersey ,L94-79  ,26-24,Redd  27,Bogut  11,Ford  6,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Feb 14", Seattle ,W106-91  ,27-24,Redd  19,Magloire  10,Bell  8,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Feb 15",Indiana ,L88-77  ,27-25,Redd  24,Magloire  15,Ford  5,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Feb 21", New Jersey ,L89-85  ,27-26,Simmons  18,Magloire  9,Simmons  5,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Feb 22",Chicago ,L97-91  ,27-27,Redd  30,Magloire  11,Ford  8,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Feb 24", Philadelphia ,L116-111  ,27-28,Smith  32,Smith  10,Williams  7,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Feb 25",Atlanta ,W99-89  ,28-28,Redd  21,Gadzuric  11,Ford  6,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Feb 27",Denver ,W110-89  ,29-28,Redd  24,Bogut  11,Ford  8,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Mar 1",Phoenix ,L123-110  ,29-29,Redd  37,Magloire  11,Ford  5,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Mar 4", New York ,L103-98  ,29-30,Redd  23,Magloire  10,Williams  8,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Mar 8", Sacramento ,L123-116  ,29-31,Redd  32,Magloire  7,Ford  12,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Mar 10",Boston ,W92-86  ,30-31,Redd  26,Bogut  10,Ford  7,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Mar 11", LA ,L106-98  ,30-32,Redd  32,Magloire  10,Redd  5,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Mar 13", Atlanta ,W88-87  ,31-32,Simmons  18,Magloire  15,Ford  8,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Mar 15", Chicago ,W104-88  ,32-32,Simmons  26,Magloire  11,Ford  10,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Mar 17",Toronto ,L97-96  ,32-33,Simmons  21,Smith  12,Ford  8,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Mar 18", Portland ,W97-93  ,33-33,Redd  33,Magloire  9,Bell  8,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Mar 20",Portland ,W100-93  ,34-33,Redd  23,Magloire  13,Ford  10,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Mar 22",Seattle ,L114-105  ,34-34,Redd  26,Bogut  9,Ford  6,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Mar 24",Los Angeles ,L101-96  ,34-35,Redd  20,Smith  9,Kukoc  8,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sun, Mar 26", Toronto ,W125-116 OT ,35-35,Redd  35,Gadzuric  9,Bell  11,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Mar 28", Phoenix ,W132-110  ,36-35,Redd  28,Bell  10,Bell  13,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Mar 31",Detroit ,L112-105  ,36-36,Redd  37,Bogut  7,Williams  8,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Apr 1", Indiana ,W96-89  ,37-36,Redd  39,Bogut  8,Ford  6,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Apr 4",Miami ,L115-89  ,37-37,Bell  29,Kukoc  7,Williams  5,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Apr 5",Orlando ,L108-105  ,37-38,Ford  34,Magloire  9,Ford  11,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Apr 7",Memphis ,L100-90  ,37-39,Redd  25,Magloire  11,Williams  6,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sun, Apr 9", New Jersey ,L95-83  ,37-40,Ford  19,Gadzuric  8,Ford  5,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Wed, Apr 12", Washington ,W100-97  ,38-40,Redd  24,Smith  8,Ford  6,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Fri, Apr 14",New York ,W97-80  ,39-40,Redd  23,Simmons  11,Ford  10,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Sat, Apr 15", Atlanta ,L120-114  ,39-41,Redd  36,Bogut  12,Ford  9,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Mon, Apr 17", Detroit ,W113-93  ,40-41,Redd  19,Magloire  14,Ford  11,A,Milwaukee Bucks 2005-06 Regular Season NBA Schedule
+"Tue, Apr 18",Washington ,L116-103  ,40-42,Redd  43,Bogut  11,Ford  8,H,Milwaukee Bucks 2005-06 Regular Season NBA Schedule

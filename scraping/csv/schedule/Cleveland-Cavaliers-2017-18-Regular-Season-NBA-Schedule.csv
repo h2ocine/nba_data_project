@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 17", Boston ,W102-99  ,1-0,James  29,James  16,James  9,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Oct 20",Milwaukee ,W116-97  ,2-0,James  24,Love  12,James  8,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Oct 21", Orlando ,L114-93  ,2-1,James  22,Love  9,Wade  4,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Oct 24", Chicago ,W119-112  ,3-1,James  34,Love  12,James  13,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Oct 25",Brooklyn ,L112-107  ,3-2,James  29,Love  12,James  13,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Oct 28",New Orleans ,L123-101  ,3-3,Love  26,Love  11,James  8,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sun, Oct 29", New York ,L114-95  ,3-4,Love  22,Love  11,James  7,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Nov 1", Indiana ,L124-107  ,3-5,James  33,Love  13,James  11,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Nov 3",Washington ,W130-122  ,4-5,James  57,James  11,James  7,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sun, Nov 5", Atlanta ,L117-115  ,4-6,James  26,Wade  11,James  13,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Nov 7", Milwaukee ,W124-119  ,5-6,Love  32,Love  16,James  9,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Thu, Nov 9",Houston ,L117-113  ,5-7,James  33,Love  6,James  7,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Nov 11",Dallas ,W111-104  ,6-7,Love  29,Love  15,James  4,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Mon, Nov 13",New York ,W104-101  ,7-7,James  23,James  9,James  12,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Nov 15",Charlotte ,W115-107  ,8-7,James  31,Love  10,James  8,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Nov 17", LA ,W118-113 OT ,9-7,James  39,James  14,James  6,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Mon, Nov 20",Detroit ,W116-88  ,10-7,Love  19,Love  11,James  8,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Nov 22", Brooklyn ,W119-109  ,11-7,James  33,Love  10,James  5,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Nov 24", Charlotte ,W100-99  ,12-7,James  27,James  16,James  13,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Mon, Nov 27",Philadelphia ,W113-91  ,13-7,James  30,James  14,James  6,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Nov 28", Miami ,W108-97  ,14-7,Love  38,James  12,James  6,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Thu, Nov 30",Atlanta ,W121-114  ,15-7,Love  25,Love  16,James  12,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Dec 2", Memphis ,W116-111  ,16-7,James  34,Love  11,James  12,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Mon, Dec 4",Chicago ,W113-91  ,17-7,Love  24,Love  13,James  6,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Dec 6", Sacramento ,W101-95  ,18-7,James  32,Love  13,James  9,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Dec 8",Indiana ,L106-102  ,18-8,James  29,James  10,James  8,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Dec 9", Philadelphia ,W105-98  ,19-8,James  30,James  13,James  13,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Dec 12", Atlanta ,W123-114  ,20-8,James  25,Love  12,James  17,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Thu, Dec 14", Los Angeles ,W121-112  ,21-8,Love  28,James  12,James  12,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Dec 16", Utah ,W109-100  ,22-8,James  29,James  11,James  10,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sun, Dec 17",Washington ,W106-99  ,23-8,Love  25,James  11,James  15,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Dec 19",Milwaukee ,L119-116  ,23-9,James  39,Love  10,James  7,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Thu, Dec 21", Chicago ,W115-112  ,24-9,James  34,Love  7,James  9,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Mon, Dec 25",Golden State ,L99-92  ,24-10,Love  31,Love  18,James  6,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Dec 27",Sacramento ,L109-95  ,24-11,Love  23,James  10,James  14,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Dec 30",Utah ,L104-101  ,24-12,James  29,Love  10,James  6,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Jan 2", Portland ,W127-110  ,25-12,James  24,Wade  8,James  8,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Jan 3",Boston ,L102-88  ,25-13,James  19,Thompson  11,James  6,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Jan 6",Orlando ,W131-127  ,26-13,James  33,James  10,James  9,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Mon, Jan 8",Minnesota ,L127-99  ,26-14,Green  22,James  8,Wade  6,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Thu, Jan 11",Toronto ,L133-99  ,26-15,James  26,Love  9,Thomas  3,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Jan 12",Indiana ,L97-95  ,26-16,James  27,Love  11,James  11,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Mon, Jan 15", Golden State ,L118-108  ,26-17,James  32,James  8,James  6,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Thu, Jan 18", Orlando ,W104-103  ,27-17,Thomas  21,Love  11,James  6,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Jan 20", Oklahoma City ,L148-124  ,27-18,Thomas  24,Thompson  7,James  7,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Jan 23",San Antonio ,L114-102  ,27-19,James  28,Love  11,James  7,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Jan 26", Indiana ,W115-108  ,28-19,James  26,Love  13,James  11,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sun, Jan 28", Detroit ,W121-104  ,29-19,James  25,Love  11,James  14,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Jan 30",Detroit ,L125-114  ,29-20,James  21,Thompson  10,James  7,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Jan 31", Miami ,W91-89  ,30-20,James  24,James  11,Thomas  6,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Feb 3", Houston ,L120-88  ,30-21,Smith  12,James  9,James  9,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Feb 6",Orlando ,L116-98  ,30-22,James  25,James  10,Thomas  8,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Feb 7", Minnesota ,W140-138 OT ,31-22,James  37,James  10,James  15,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Feb 9",Atlanta ,W123-107  ,32-22,Korver  30,James  12,James  19,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sun, Feb 11",Boston ,W121-99  ,33-22,James  24,James  8,James  10,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Feb 13",Oklahoma City ,W120-112  ,34-22,James  37,Nance Jr.  9,James  8,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Thu, Feb 22", Washington ,L110-103  ,34-23,James  32,James  9,James  8,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Feb 23",Memphis ,W112-89  ,35-23,James  18,James  14,James  11,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sun, Feb 25", San Antonio ,L110-94  ,35-24,James  33,James  13,James  9,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Feb 27", Brooklyn ,W129-123  ,36-24,James  31,Thompson  13,James  11,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Thu, Mar 1", Philadelphia ,L108-97  ,36-25,James  30,Thompson  11,James  8,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Mar 3", Denver ,L126-117  ,36-26,James  25,James  10,James  15,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Mon, Mar 5", Detroit ,W112-90  ,37-26,James  31,Nance Jr.  15,James  7,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Mar 7",Denver ,W113-108  ,38-26,James  39,Nance Jr.  13,James  10,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Mar 9",LA ,L116-102  ,38-27,James  25,Nance Jr.  12,James  6,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sun, Mar 11",Los Angeles ,L127-113  ,38-28,James  24,James  10,James  7,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Mar 13",Phoenix ,W129-107  ,39-28,James  28,James  12,James  11,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Thu, Mar 15",Portland ,L113-105  ,39-29,James  35,James  14,James  6,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sat, Mar 17",Chicago ,W114-109  ,40-29,James  33,James  13,James  12,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Mon, Mar 19", Milwaukee ,W124-117  ,41-29,James  40,James  12,James  10,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Mar 21", Toronto ,W132-129  ,42-29,James  35,Love  12,James  17,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Mar 23", Phoenix ,W120-95  ,43-29,James  27,Nance Jr.  10,James  9,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sun, Mar 25",Brooklyn ,W121-114  ,44-29,James  37,Love  15,James  8,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Mar 27",Miami ,L98-79  ,44-30,James  18,Thompson  13,James  7,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Mar 28",Charlotte ,W118-105  ,45-30,James  41,James  10,James  8,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Mar 30", New Orleans ,W107-102  ,46-30,James  27,Thompson  14,James  11,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Sun, Apr 1", Dallas ,W98-87  ,47-30,James  16,James  13,James  12,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Tue, Apr 3", Toronto ,W112-106  ,48-30,James  27,Love  15,James  6,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Thu, Apr 5", Washington ,W119-115  ,49-30,James  33,Nance Jr.  10,James  14,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Fri, Apr 6",Philadelphia ,L132-130  ,49-31,James  44,James  11,James  11,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Mon, Apr 9",New York ,W123-109  ,50-31,Love  28,Smith  7,James  11,H,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule
+"Wed, Apr 11", New York ,L110-98  ,50-32,Holland  21,Thompson  9,Osman  6,A,Cleveland Cavaliers 2017-18 Regular Season NBA Schedule

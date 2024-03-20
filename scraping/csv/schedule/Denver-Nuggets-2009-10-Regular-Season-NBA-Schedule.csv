@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 28", Utah ,W114-105  ,1-0,Anthony  30,Martin  11,Lawson  6,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Thu, Oct 29",Portland ,W97-94  ,2-0,Anthony  41,Hilario  11,Billups  6,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sun, Nov 1", Memphis ,W133-123  ,3-0,Anthony  42,Hilario  9,Billups  12,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Tue, Nov 3",Indiana ,W111-93  ,4-0,Anthony  25,Hilario  13,Carter  5,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Nov 4",New Jersey ,W122-94  ,5-0,Lawson  23,Martin  10,Billups  5,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Nov 6",Miami ,L96-88  ,5-1,Anthony  30,Anthony  8,Anthony  2,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Nov 7",Atlanta ,L125-100  ,5-2,Anthony  30,Andersen  11,Billups  7,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Tue, Nov 10",Chicago ,W90-89  ,6-2,Anthony  20,Hilario  12,Billups  6,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Nov 11",Milwaukee ,L108-102  ,6-3,Anthony  32,Anthony  10,Billups  5,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Nov 13", Los Angeles ,W105-79  ,7-3,Anthony  25,Andersen  11,Billups  8,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Tue, Nov 17", Toronto ,W130-112  ,8-3,Anthony  32,Hilario  10,Billups  10,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Nov 20",LA ,L106-99  ,8-4,Anthony  37,Hilario  12,Billups  7,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Nov 21", Chicago ,W112-93  ,9-4,Anthony  30,Anthony  11,Anthony  7,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Tue, Nov 24", New Jersey ,W101-87  ,10-4,Anthony  27,Hilario  9,Billups  7,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Nov 25",Minnesota ,W124-111  ,11-4,Anthony  22,Hilario  8,Hilario  6,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Nov 27", New York ,W128-125  ,12-4,Anthony  50,Hilario  11,Billups  8,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sun, Nov 29", Minnesota ,L106-100  ,12-5,Anthony  32,Martin  14,Hilario  5,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Tue, Dec 1", Golden State ,W135-107  ,13-5,Anthony  25,Hilario  12,Billups  8,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Thu, Dec 3", Miami ,W114-96  ,14-5,Anthony  22,Andersen  10,Billups  7,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Dec 5",San Antonio ,W106-99  ,15-5,Anthony  34,Martin  13,Billups  5,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Mon, Dec 7",Philadelphia ,W93-83  ,16-5,Billups  31,Billups  8,Billups  8,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Tue, Dec 8",Charlotte ,L107-95  ,16-6,Anthony  34,Hilario  10,Smith  4,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Thu, Dec 10",Detroit ,L101-99  ,16-7,Anthony  40,Hilario  11,Lawson  4,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Dec 12", Phoenix ,W105-99  ,17-7,Anthony  32,Andersen  10,Billups  8,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Mon, Dec 14", Oklahoma City ,W102-93  ,18-7,Anthony  31,Andersen  11,Billups  7,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Dec 16", Houston ,W111-101  ,19-7,Anthony  38,Andersen  11,Lawson  6,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Dec 18",New Orleans ,L98-92  ,19-8,Smith  25,Martin  13,Carter  5,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sun, Dec 20",Memphis ,L102-96  ,19-9,Anthony  41,Andersen  14,Carter  7,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Dec 23", Atlanta ,W124-104  ,20-9,Smith  41,Hilario  8,Anthony  7,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Dec 25",Portland ,L107-96  ,20-10,Anthony  32,Martin  14,Billups  5,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sun, Dec 27", Dallas ,L104-96  ,20-11,Martin  18,Anthony  12,Anthony  4,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Mon, Dec 28",Sacramento ,L106-101  ,20-12,Anthony  34,Martin  12,Lawson  6,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Jan 2",Utah ,W105-95  ,21-12,Lawson  23,Martin  12,Lawson  9,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sun, Jan 3", Philadelphia ,L108-105  ,21-13,Hilario  24,Hilario  15,Lawson  9,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Tue, Jan 5", Golden State ,W123-122  ,22-13,Martin  27,Martin  13,Lawson  8,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Jan 8", Cleveland ,W99-97  ,23-13,Billups  23,Martin  12,Billups  5,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Jan 9",Sacramento ,L102-100  ,23-14,Billups  27,Martin  10,Martin  5,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Mon, Jan 11", Minnesota ,W105-94  ,24-14,Anthony  24,Martin  15,Billups  10,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Jan 13", Orlando ,W115-97  ,25-14,Anthony  27,Martin  10,Carter  6,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sun, Jan 17", Utah ,W119-112  ,26-14,Anthony  37,Martin  9,Smith  5,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Jan 20",Golden State ,W123-118 OT ,27-14,Billups  37,Martin  14,Billups  8,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Thu, Jan 21", LA ,W105-85  ,28-14,Anthony  28,Martin  14,Billups  6,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Jan 23", New Orleans ,W116-110 OT ,29-14,Anthony  30,Martin  14,Billups  9,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Mon, Jan 25", Charlotte ,W104-93  ,30-14,Billups  27,Billups  6,Billups  11,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Jan 27",Houston ,W97-92  ,31-14,Smith  22,Martin  15,Billups  4,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Jan 29",Oklahoma City ,L101-84  ,31-15,Billups  19,Martin  9,Billups  7,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sun, Jan 31",San Antonio ,W103-89  ,32-15,Martin  27,Martin  11,Billups  11,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Mon, Feb 1", Sacramento ,W112-109 OT ,33-15,Martin  24,Martin  12,Billups  9,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Feb 3", Phoenix ,L109-97  ,33-16,Hilario  15,Martin  10,Smith  5,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Feb 5",Los Angeles ,W126-113  ,34-16,Billups  39,Andersen  15,Billups  8,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Feb 6",Utah ,L116-106  ,34-17,Lawson  25,Martin  13,Lawson  4,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Tue, Feb 9", Dallas ,W127-91  ,35-17,Hilario  21,Andersen  10,Lawson  7,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Thu, Feb 11", San Antonio ,L111-92  ,35-18,Hilario  20,Hilario  9,Billups  7,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Thu, Feb 18",Cleveland ,W118-116 OT ,36-18,Anthony  40,Martin  17,Billups  8,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Feb 19",Washington ,L107-97  ,36-19,Billups  28,Hilario  9,Lawson  3,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sun, Feb 21", Boston ,W114-105  ,37-19,Billups  26,Hilario  10,Anthony  8,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Thu, Feb 25",Golden State ,W127-112  ,38-19,Billups  37,Andersen  11,Billups  9,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Feb 26", Detroit ,W107-102  ,39-19,Billups  25,Graham  7,Smith  4,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sun, Feb 28",Los Angeles ,L95-89  ,39-20,Anthony  21,Hilario  11,Billups  4,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Mon, Mar 1",Phoenix ,L101-85  ,39-21,Billups  21,Martin  10,Billups  4,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Mar 3", Oklahoma City ,W119-90  ,40-21,Anthony  30,Martin  13,Carter  12,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Mar 5", Indiana ,W122-114  ,41-21,Anthony  34,Andersen  10,Smith  8,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sun, Mar 7", Portland ,W118-106  ,42-21,Anthony  30,Petro  10,Smith  7,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Mar 10",Minnesota ,W110-102  ,43-21,Billups  25,Andersen  10,Carter  8,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Mar 12",New Orleans ,W102-95  ,44-21,Anthony  32,Anthony  12,Billups  7,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Mar 13",Memphis ,W125-108  ,45-21,Smith  30,Anthony  6,Carter  7,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Mon, Mar 15",Houston ,L125-123  ,45-22,Anthony  45,Anthony  10,Hilario  5,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Tue, Mar 16", Washington ,W97-87  ,46-22,Anthony  29,Anthony  12,Hilario  4,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Thu, Mar 18", New Orleans ,W93-80  ,47-22,Anthony  26,Anthony  18,Billups  8,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Mar 20", Milwaukee ,L102-97  ,47-23,Anthony  29,Andersen  12,Carter  4,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Tue, Mar 23",New York ,L109-104  ,47-24,Anthony  36,Hilario  7,Billups  6,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Mar 24",Boston ,L113-99  ,47-25,Anthony  32,Billups  7,Billups  6,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Fri, Mar 26",Toronto ,W97-96  ,48-25,Anthony  25,Hilario  9,Hilario  6,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sun, Mar 28",Orlando ,L103-97  ,48-26,Anthony  26,Anthony  8,Billups  5,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Mon, Mar 29",Dallas ,L109-93  ,48-27,Smith  27,Anthony  9,Billups  6,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Thu, Apr 1", Portland ,W109-92  ,49-27,Anthony  25,Andersen  6,Billups  6,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Apr 3", LA ,W98-90  ,50-27,Anthony  24,Afflalo  9,Billups  6,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Wed, Apr 7",Oklahoma City ,W98-94  ,51-27,Billups  29,Hilario  13,Billups  4,H,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Thu, Apr 8", Los Angeles ,W98-96  ,52-27,Anthony  31,Hilario  7,Billups  6,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Sat, Apr 10", San Antonio ,L104-85  ,52-28,Billups  27,Martin  10,Billups  3,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Mon, Apr 12", Memphis ,W123-101  ,53-28,Smith  26,Afflalo  13,Billups  7,A,Denver Nuggets 2009-10 Regular Season NBA Schedule
+"Tue, Apr 13",Phoenix ,L123-101  ,53-29,Anthony  29,Anthony  6,Lawson  5,H,Denver Nuggets 2009-10 Regular Season NBA Schedule

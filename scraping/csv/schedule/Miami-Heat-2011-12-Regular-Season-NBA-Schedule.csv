@@ -1,0 +1,67 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Sun, Dec 25",Dallas ,W105-94  ,1-0,James  37,Haslem  14,James  6,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Dec 27", Boston ,W115-107  ,2-0,James  26,Haslem  12,Wade  8,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Wed, Dec 28",Charlotte ,W96-95  ,3-0,James  35,James  6,James  7,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Dec 30",Minnesota ,W103-101  ,4-0,James  34,Bosh  9,James  10,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Jan 1", Charlotte ,W129-90  ,5-0,Bosh  24,Bosh  10,Cole  9,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Mon, Jan 2", Atlanta ,L100-92  ,5-1,James  28,Haslem  10,Wade  10,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Wed, Jan 4", Indiana ,W118-83  ,6-1,James  33,Haslem  10,James  13,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Thu, Jan 5",Atlanta ,W116-109 3OT ,7-1,Bosh  33,Bosh  14,Chalmers  8,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sat, Jan 7",New Jersey ,W101-90  ,8-1,James  32,Haslem  12,James  9,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Jan 10",Golden State ,L111-106 OT ,8-2,Wade  34,James  11,James  7,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Wed, Jan 11",LA ,L95-89 OT ,8-3,James  23,James  13,James  7,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Jan 13",Denver ,L117-104  ,8-4,James  35,Haslem  11,James  6,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Jan 17", San Antonio ,W120-98  ,9-4,James  33,Bosh  8,James  10,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Thu, Jan 19", Los Angeles ,W98-87  ,10-4,James  31,James  8,James  8,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sat, Jan 21", Philadelphia ,W113-92  ,11-4,Bosh  30,Haslem  10,Chalmers  8,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Jan 22", Milwaukee ,L91-82  ,11-5,James  28,James  13,James  5,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Jan 24", Cleveland ,W92-85  ,12-5,Bosh  35,Haslem  10,James  5,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Wed, Jan 25",Detroit ,W101-98  ,13-5,James  32,James  6,James  7,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Jan 27", New York ,W99-89  ,14-5,James  31,Bosh  9,James  7,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Jan 29", Chicago ,W97-93  ,15-5,James  35,Bosh  12,Wade  7,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Mon, Jan 30", New Orleans ,W109-95  ,16-5,James  22,James  11,James  8,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Wed, Feb 1",Milwaukee ,L105-97  ,16-6,James  40,Bosh  9,Wade  6,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Feb 3",Philadelphia ,W99-79  ,17-6,Wade  26,James  12,James  8,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Feb 5", Toronto ,W95-89  ,18-6,James  30,James  9,Bosh  4,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Feb 7", Cleveland ,W107-91  ,19-6,Wade  26,Bosh  9,Wade  6,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Wed, Feb 8",Orlando ,L102-89  ,19-7,Wade  33,Bosh  9,James  10,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Feb 10",Washington ,W106-89  ,20-7,Wade  26,Haslem  12,James  9,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Feb 12",Atlanta ,W107-87  ,21-7,James  23,Bosh  16,James  6,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Mon, Feb 13",Milwaukee ,W114-96  ,22-7,James  35,James  8,Wade  4,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Feb 14",Indiana ,W105-90  ,23-7,James  23,James  9,James  7,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Feb 17",Cleveland ,W111-87  ,24-7,James  28,Bosh  12,James  5,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Feb 19", Orlando ,W90-78  ,25-7,Wade  27,James  11,James  8,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Feb 21", Sacramento ,W120-108  ,26-7,Wade  30,Bosh  10,Wade  10,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Thu, Feb 23", New York ,W102-88  ,27-7,Bosh  25,James  9,James  8,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Thu, Mar 1",Portland ,W107-93  ,28-7,James  38,Haslem  14,Wade  10,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Mar 2",Utah ,L99-98  ,28-8,James  35,James  10,James  6,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Mar 4",Los Angeles ,L93-83  ,28-9,James  25,James  13,James  7,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Mar 6", New Jersey ,W108-78  ,29-9,James  21,James  9,Chalmers  7,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Wed, Mar 7", Atlanta ,W89-86  ,30-9,James  31,James  11,Wade  6,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sat, Mar 10", Indiana ,W93-91 OT ,31-9,Wade  28,Haslem  11,Wade  7,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Mar 13",Orlando ,L104-98 OT ,31-10,Wade  28,James  11,James  8,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Wed, Mar 14",Chicago ,L106-102  ,31-11,Wade  36,Wade  7,James  4,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Mar 16",Philadelphia ,W84-78  ,32-11,James  29,Wade  11,James  8,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Mar 18", Orlando ,W91-81  ,33-11,Wade  31,James  12,James  7,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Mar 20", Phoenix ,W99-95  ,34-11,Bosh  29,Haslem  9,Chalmers  8,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Mar 23",Detroit ,W88-73  ,35-11,Wade  24,Wade  9,James  10,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Mar 25",Oklahoma City ,L103-87  ,35-12,Wade  22,Haslem  9,James  7,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Mon, Mar 26",Indiana ,L105-90  ,35-13,James  24,James  9,Wade  6,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Thu, Mar 29", Dallas ,W106-85  ,36-13,James  19,James  9,James  5,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Mar 30",Toronto ,W113-101  ,37-13,Bosh  30,Bosh  8,James  9,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Apr 1",Boston ,L91-72  ,37-14,James  23,Bosh  11,Bosh  4,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Apr 3", Philadelphia ,W99-93  ,38-14,James  41,Haslem  11,James  4,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Wed, Apr 4", Oklahoma City ,W98-93  ,39-14,James  34,Haslem  8,James  10,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Apr 6", Memphis ,L97-82  ,39-15,James  21,Wade  7,James  6,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Apr 8", Detroit ,W98-75  ,40-15,James  26,Bosh  9,Chalmers  5,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Apr 10", Boston ,L115-107  ,40-16,James  36,Bosh  9,James  7,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Thu, Apr 12",Chicago ,L96-86 OT ,40-17,James  30,Bosh  8,James  5,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Fri, Apr 13", Charlotte ,W105-82  ,41-17,James  19,James  9,James  5,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Apr 15",New York ,W93-85  ,42-17,James  29,Bosh  14,Wade  4,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Mon, Apr 16",New Jersey ,W101-98  ,43-17,James  37,Bosh  15,James  7,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Wed, Apr 18", Toronto ,W96-72  ,44-17,James  28,Haslem  7,Chalmers  7,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Thu, Apr 19", Chicago ,W83-72  ,45-17,James  27,James  11,James  6,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sat, Apr 21", Washington ,L86-84  ,45-18,Miller  16,Haslem  15,Chalmers  6,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Sun, Apr 22", Houston ,W97-88  ,46-18,James  32,Haslem  11,James  5,A,Miami Heat 2011-12 Regular Season NBA Schedule
+"Tue, Apr 24",Boston ,L78-66  ,46-19,Pittman  12,Haslem  13,Chalmers  5,H,Miami Heat 2011-12 Regular Season NBA Schedule
+"Thu, Apr 26",Washington ,L104-70  ,46-20,Cole  14,Harris  5,Harris  3,H,Miami Heat 2011-12 Regular Season NBA Schedule

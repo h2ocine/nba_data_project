@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 29", Chicago ,L104-80  ,0-1,Anthony  14,Stoudemire  8,Anthony  3,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Thu, Oct 30",Cleveland ,W95-90  ,1-1,Anthony  25,Acy  10,Smith  7,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Nov 2", Charlotte ,W96-93  ,2-1,Anthony  28,Stoudemire  10,Larkin  5,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Tue, Nov 4", Washington ,L98-83  ,2-2,Shumpert  19,Stoudemire  12,Smith  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Nov 5",Detroit ,L98-95  ,2-3,Hardaway Jr.  20,Stoudemire  8,Anthony  8,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Nov 7",Brooklyn ,L110-99  ,2-4,Anthony  19,Acy  9,Shumpert  5,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Nov 8",Atlanta ,L103-96  ,2-5,Anthony  20,Anthony  9,Shumpert  7,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Mon, Nov 10", Atlanta ,L91-85  ,2-6,Anthony  25,Stoudemire  10,Anthony  7,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Nov 12", Orlando ,L97-95  ,2-7,Anthony  27,Shumpert  8,Dalembert  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Nov 14", Utah ,L102-100  ,2-8,Anthony  46,Anthony  7,Larkin  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Nov 16", Denver ,W109-93  ,3-8,Anthony  28,Anthony  9,Smith  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Tue, Nov 18",Milwaukee ,L117-113  ,3-9,Anthony  26,Shumpert  8,Shumpert  8,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Nov 19",Minnesota ,L115-99  ,3-10,Anthony  20,Acy  8,Larkin  4,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Nov 22", Philadelphia ,W91-83  ,4-10,Anthony  25,Stoudemire  11,Shumpert  3,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Mon, Nov 24",Houston ,L91-86  ,4-11,Anthony  14,Stoudemire  8,Calderon  5,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Nov 26",Dallas ,L109-102 OT ,4-12,Calderon  21,Dalembert  13,Prigioni  6,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Nov 28",Oklahoma City ,L105-78  ,4-13,Stoudemire  20,Stoudemire  9,Smith  4,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Nov 30", Miami ,L86-79  ,4-14,Anthony  31,Stoudemire  12,Calderon  6,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Tue, Dec 2", Brooklyn ,L98-93  ,4-15,Anthony  20,Anthony  9,Calderon  7,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Thu, Dec 4", Cleveland ,L90-87  ,4-16,Hardaway Jr.  20,Anthony  10,Anthony  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Dec 5",Charlotte ,L103-102  ,4-17,Anthony  32,Dalembert  8,Prigioni  7,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Dec 7", Portland ,L103-99  ,4-18,Anthony  23,Anthony  10,Anthony  3,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Tue, Dec 9",New Orleans ,L104-93  ,4-19,Stoudemire  26,Anthony  8,Calderon  6,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Dec 10",San Antonio ,L109-95  ,4-20,Hardaway Jr.  23,Dalembert  6,Shumpert  6,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Dec 12",Boston ,W101-95  ,5-20,Anthony  22,Stoudemire  7,Calderon  7,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Dec 14", Toronto ,L95-90 OT ,5-21,Anthony  34,Anthony  9,Calderon  5,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Tue, Dec 16", Dallas ,L107-87  ,5-22,Anthony  26,Anthony  5,Prigioni  9,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Thu, Dec 18",Chicago ,L103-97  ,5-23,Hardaway Jr.  23,Aldrich  10,Hardaway Jr.  5,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Dec 20", Phoenix ,L99-90  ,5-24,Anthony  25,Dalembert  12,Prigioni  7,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Dec 21",Toronto ,L118-108  ,5-25,Anthony  28,Aldrich  7,Calderon  10,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Thu, Dec 25", Washington ,L102-91  ,5-26,Anthony  34,Stoudemire  7,Calderon  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Dec 27",Sacramento ,L135-129 OT ,5-27,Anthony  36,Anthony  11,Calderon  9,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Dec 28",Portland ,L101-79  ,5-28,Hardaway Jr.  17,Aldrich  19,Hardaway Jr.  5,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Dec 31",LA ,L99-78  ,5-29,Anthony  19,Smith  10,Aldrich  5,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Jan 2", Detroit ,L97-81  ,5-30,Smith  22,Aldrich  14,Smith  5,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Jan 4", Milwaukee ,L95-82  ,5-31,Hardaway Jr.  17,Smith  7,Calderon  5,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Mon, Jan 5",Memphis ,L105-83  ,5-32,Acy  19,Acy  14,Larkin  8,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Jan 7",Washington ,L101-91  ,5-33,Calderon  17,Acy  9,Calderon  3,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Thu, Jan 8", Houston ,L120-96  ,5-34,Wear  21,Early  6,Larkin  5,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Jan 10", Charlotte ,L110-82  ,5-35,Acy  18,Aldrich  12,Larkin  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Thu, Jan 15", Milwaukee,L95-79  ,5-36,Anthony  25,Amundson  6,Calderon  9,N,New York Knicks 2014-15 Regular Season NBA Schedule
+"Mon, Jan 19", New Orleans ,W99-92  ,6-36,Anthony  24,Anthony  9,Smith  6,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Jan 21",Philadelphia ,W98-91  ,7-36,Anthony  27,Anthony  11,Calderon  7,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Jan 23", Orlando ,W113-106  ,8-36,Anthony  25,Aldrich  9,Calderon  7,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Jan 24",Charlotte ,L76-71  ,8-37,Hardaway Jr.  25,Aldrich  13,Hardaway Jr.  5,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Jan 28", Oklahoma City ,W100-92  ,9-37,Anthony  31,Smith  11,Calderon  8,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Thu, Jan 29",Indiana ,L103-82  ,9-38,Anthony  18,Smith  7,Calderon  6,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Feb 1", Los Angeles ,W92-80  ,10-38,Anthony  31,Amundson  13,Smith  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Tue, Feb 3", Boston ,L108-97  ,10-39,Anthony  21,Smith  7,Smith  5,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Feb 6",Brooklyn ,L92-88  ,10-40,Anthony  21,Galloway  11,Calderon  7,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Feb 7", Golden State ,L106-92  ,10-41,Galloway  15,Smith  13,Larkin  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Mon, Feb 9",Miami ,L109-95  ,10-42,Anthony  26,Galloway  9,Calderon  6,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Feb 11",Orlando ,L89-83  ,10-43,Smith  25,Smith  7,Calderon  7,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Feb 20", Miami ,L111-87  ,10-44,Galloway  19,Bargnani  6,Calderon  9,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Feb 22", Cleveland ,L101-83  ,10-45,Galloway  13,Hardaway Jr.  7,Galloway  5,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Feb 25",Boston ,L115-94  ,10-46,Bargnani  17,Smith  10,Calderon  7,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Feb 27",Detroit ,W121-115 2OT ,11-46,Bargnani  25,Amundson  14,Galloway  5,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Feb 28", Toronto ,W103-98  ,12-46,Hardaway Jr.  22,Galloway  8,Shved  5,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Tue, Mar 3", Sacramento ,L124-86  ,12-47,Shved  15,Shved  7,Larkin  6,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Mar 4",Indiana ,L105-82  ,12-48,Bargnani  25,Amundson  10,Bargnani  4,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Mar 7", Indiana ,L92-86  ,12-49,Bargnani  21,Aldrich  11,Galloway  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Mon, Mar 9",Denver ,L106-78  ,12-50,Shved  19,Thomas  8,Early  5,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Tue, Mar 10",Utah ,L87-82  ,12-51,Shved  21,Aldrich  13,Shved  7,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Thu, Mar 12",Los Angeles ,W101-94  ,13-51,Hardaway Jr.  22,Shved  11,Shved  6,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Mar 14",Golden State ,L125-94  ,13-52,Bargnani  18,Aldrich  9,Shved  5,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Mar 15",Phoenix ,L102-89  ,13-53,Shved  18,Aldrich  10,Galloway  4,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Tue, Mar 17", San Antonio ,W104-100 OT ,14-53,Galloway  22,Amundson  17,Shved  7,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Thu, Mar 19", Minnesota ,L95-92 OT ,14-54,Galloway  21,Amundson  9,Shved  6,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Mar 20",Philadelphia ,L97-81  ,14-55,Shved  25,Shved  6,Shved  3,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Mar 22",Toronto ,L106-89  ,14-56,Thomas  24,Aldrich  9,Larkin  8,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Mon, Mar 23", Memphis ,L103-82  ,14-57,Galloway  19,Galloway  7,Larkin  7,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Mar 25", LA ,L111-80  ,14-58,Early  18,Smith  8,Smith  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Mar 27", Boston ,L96-92  ,14-59,Bargnani  25,Amundson  9,Larkin  6,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Mar 28",Chicago ,L111-80  ,14-60,Bargnani  14,Bargnani  7,Larkin  8,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Apr 1", Brooklyn ,L100-98  ,14-61,Bargnani  22,Amundson  8,Larkin  7,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Apr 3",Washington ,L101-87  ,14-62,Ledo  21,Amundson  10,Ledo  3,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sun, Apr 5", Philadelphia ,W101-91  ,15-62,Bargnani  25,Larkin  11,Larkin  7,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Apr 8", Indiana ,L102-86  ,15-63,Galloway  19,Bargnani  6,Larkin  4,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Fri, Apr 10", Milwaukee ,L99-91  ,15-64,Galloway  20,Amundson  11,Larkin  5,A,New York Knicks 2014-15 Regular Season NBA Schedule
+"Sat, Apr 11",Orlando ,W80-79  ,16-64,Aldrich  19,Aldrich  14,Smith  6,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Mon, Apr 13",Atlanta ,W112-108  ,17-64,Galloway  26,Smith  9,Larkin  7,H,New York Knicks 2014-15 Regular Season NBA Schedule
+"Wed, Apr 15", Detroit ,L112-90  ,17-65,Hardaway Jr.  25,Aldrich  15,Galloway  7,A,New York Knicks 2014-15 Regular Season NBA Schedule

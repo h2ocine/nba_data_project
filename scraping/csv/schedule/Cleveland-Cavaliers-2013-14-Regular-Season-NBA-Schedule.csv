@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 30", Brooklyn ,W98-94  ,1-0,Thompson  18,Thompson  9,Irving  9,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Nov 1",Charlotte ,L90-84  ,1-1,Miles  22,Thompson  11,Irving  7,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Nov 2",Indiana ,L89-74  ,1-2,Waiters  17,Clark  7,Irving  5,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Mon, Nov 4", Minnesota ,W93-92  ,2-2,Miles  19,Thompson  11,Irving  6,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Nov 6",Milwaukee ,L109-104  ,2-3,Irving  29,Varejao  8,Irving  8,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Nov 8",Philadelphia ,L94-79  ,2-4,Waiters  18,Thompson  16,Irving  9,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Nov 9", Philadelphia ,W127-125 2OT ,3-4,Irving  39,Thompson  10,Irving  12,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Mon, Nov 11",Chicago ,L96-81  ,3-5,Irving  16,Thompson  13,Irving  4,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Nov 13",Minnesota ,L124-95  ,3-6,Irving  20,Thompson  6,Jack  5,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Nov 15", Charlotte ,L86-80  ,3-7,Irving  18,Varejao  13,Irving  10,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Nov 16",Washington ,W103-96 OT ,4-7,Irving  41,Thompson  12,Varejao  6,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Nov 20", Washington ,L98-91  ,4-8,Irving  28,Varejao  11,Irving  6,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Nov 22",New Orleans ,L104-100  ,4-9,Irving  22,Varejao  9,Jack  4,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Nov 23",San Antonio ,L126-96  ,4-10,Bynum  16,Thompson  9,Jack  5,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Nov 27", Miami ,L95-84  ,4-11,Waiters  24,Thompson  11,Jack  6,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Nov 29",Boston ,L103-86  ,4-12,Waiters  21,Varejao  12,Waiters  6,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Nov 30", Chicago ,W97-93  ,5-12,Bynum  20,Thompson  14,Irving  6,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Dec 4", Denver ,W98-88  ,6-12,Irving  23,Thompson  21,Waiters  6,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Dec 6",Atlanta ,L108-89  ,6-13,Waiters  30,Bynum  13,Dellavedova  4,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Dec 7", LA ,W88-82  ,7-13,Thompson  20,Varejao  17,Irving  6,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Dec 10", New York ,W109-94  ,8-13,Irving  37,Thompson  9,Irving  11,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Dec 13",Orlando ,W109-100  ,9-13,Irving  31,Varejao  14,Jack  6,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Dec 14",Miami ,L114-107  ,9-14,Irving  19,Varejao  8,Jack  4,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Dec 17", Portland ,L119-116  ,9-15,Irving  25,Bynum  9,Irving  10,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Dec 20", Milwaukee ,W114-111 OT ,10-15,Irving  39,Thompson  15,Irving  6,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Dec 21",Chicago ,L100-84  ,10-16,Bynum  19,Bynum  7,Jack  6,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Mon, Dec 23", Detroit ,L115-92  ,10-17,Irving  21,Bynum  7,Irving  7,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Thu, Dec 26", Atlanta ,L127-125 2OT ,10-18,Irving  40,Varejao  17,Irving  9,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Dec 28",Boston ,L103-100  ,10-19,Irving  32,Zeller  10,Jack  4,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sun, Dec 29", Golden State ,L108-104 OT ,10-20,Irving  27,Thompson  12,Irving  9,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Dec 31",Indiana ,L91-76  ,10-21,Varejao  14,Thompson  13,Jack  6,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Thu, Jan 2", Orlando ,W87-81 OT ,11-21,Varejao  18,Varejao  25,Jack  7,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Jan 4",Brooklyn ,L89-82  ,11-22,Waiters  26,Varejao  12,Jack  7,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sun, Jan 5", Indiana ,L82-78  ,11-23,Miles  21,Varejao  13,Waiters  5,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Jan 7", Philadelphia ,W111-93  ,12-23,Miles  34,Varejao  14,Irving  8,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Jan 10",Utah ,W113-102  ,13-23,Irving  25,Thompson  15,Irving  8,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sun, Jan 12",Sacramento ,L124-80  ,13-24,Miles  14,Varejao  7,Varejao  6,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Jan 14",Los Angeles ,W120-118  ,14-24,Deng  27,Varejao  18,Varejao  6,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Jan 15",Portland ,L108-96  ,14-25,Deng  25,Varejao  14,Irving  4,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Jan 17",Denver ,W117-109  ,15-25,Irving  23,Varejao  16,Varejao  7,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Mon, Jan 20", Dallas ,L102-97  ,15-26,Irving  26,Varejao  21,Irving  9,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Jan 22", Chicago ,L98-87  ,15-27,Irving  26,Varejao  11,Irving  5,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Jan 24", Milwaukee ,W93-78  ,16-27,Varejao  16,Thompson  10,Irving  10,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sun, Jan 26", Phoenix ,L99-90  ,16-28,Irving  24,Thompson  13,Irving  9,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Jan 28", New Orleans ,L100-89  ,16-29,Irving  23,Zeller  10,Irving  5,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Thu, Jan 30",New York ,L117-86  ,16-30,Irving  24,Deng  11,Irving  3,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Feb 1",Houston ,L106-92  ,16-31,Deng  24,Thompson  7,Irving  7,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Mon, Feb 3",Dallas ,L124-107  ,16-32,Irving  27,Deng  8,Irving  8,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Feb 5", Los Angeles ,L119-108  ,16-33,Miles  27,Varejao  13,Varejao  5,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Feb 7",Washington ,W115-113  ,17-33,Waiters  24,Thompson  8,Irving  12,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sun, Feb 9", Memphis ,W91-83 OT ,18-33,Irving  28,Varejao  14,Irving  6,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Feb 11", Sacramento ,W109-99  ,19-33,Deng  22,Thompson  13,Waiters  8,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Feb 12",Detroit ,W93-89  ,20-33,Thompson  25,Thompson  15,Jack  8,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Feb 18",Philadelphia ,W114-85  ,21-33,Zeller  18,Zeller  15,Jack  7,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Feb 19", Orlando ,W101-93  ,22-33,Irving  22,Thompson  14,Irving  7,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Feb 21",Toronto ,L98-91  ,22-34,Deng  21,Deng  11,Irving  9,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sun, Feb 23", Washington ,L96-83  ,22-35,Deng  17,Hawes  12,Irving  5,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Feb 25", Toronto ,L99-93  ,22-36,Irving  25,Thompson  9,Irving  9,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Feb 26",Oklahoma City ,W114-104  ,23-36,Irving  31,Thompson  11,Irving  9,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Feb 28", Utah ,W99-79  ,24-36,Irving  21,Hawes  16,Irving  12,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Mar 1",Memphis ,L110-96  ,24-37,Irving  28,Thompson  8,Jack  5,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Mar 4", San Antonio ,L122-101  ,24-38,Irving  24,Hawes  13,Dellavedova  7,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Mar 7",Charlotte ,L101-92  ,24-39,Deng  19,Thompson  8,Jack  6,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Mar 8", New York ,L107-97  ,24-40,Irving  30,Hawes  10,Irving  8,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Mar 12",Phoenix ,W110-101  ,25-40,Irving  23,Irving  9,Irving  6,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Mar 14",Golden State ,W103-94  ,26-40,Hawes  22,Hawes  13,Waiters  4,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sun, Mar 16",LA ,L102-80  ,26-41,Deng  23,Varejao  12,Waiters  5,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Mar 18", Miami ,L100-96  ,26-42,Jack  22,Varejao  11,Waiters  11,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Thu, Mar 20", Oklahoma City ,L102-95  ,26-43,Waiters  30,Thompson  10,Dellavedova  10,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Mar 22", Houston ,L118-111  ,26-44,Waiters  26,Thompson  12,Dellavedova  10,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sun, Mar 23",New York ,W106-100  ,27-44,Jack  31,Jack  5,Jack  10,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Tue, Mar 25", Toronto ,W102-100  ,28-44,Waiters  24,Thompson  13,Waiters  7,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Mar 26",Detroit ,W97-96  ,29-44,Dellavedova  21,Varejao  16,Dellavedova  6,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Mar 28",Brooklyn ,L108-97  ,29-45,Deng  20,Varejao  13,Deng  7,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sun, Mar 30", Indiana ,W90-76  ,30-45,Waiters  19,Thompson  16,Jack  9,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Apr 2",Orlando ,W119-98  ,31-45,Waiters  26,Thompson  11,Irving  8,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Apr 4",Atlanta ,L117-98  ,31-46,Waiters  23,Hawes  10,Hawes  4,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Apr 5", Charlotte ,L96-94 OT ,31-47,Irving  44,Thompson  12,Irving  8,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Apr 9", Detroit ,W122-100  ,32-47,Waiters  22,Varejao  12,Dellavedova  12,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Fri, Apr 11",Milwaukee ,L119-116  ,32-48,Waiters  23,Thompson  10,Waiters  4,H,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Sat, Apr 12", Boston ,L111-99  ,32-49,Waiters  15,Thompson  10,Jack  6,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule
+"Wed, Apr 16", Brooklyn ,W114-85  ,33-49,Zeller  22,Zeller  11,Jack  9,A,Cleveland Cavaliers 2013-14 Regular Season NBA Schedule

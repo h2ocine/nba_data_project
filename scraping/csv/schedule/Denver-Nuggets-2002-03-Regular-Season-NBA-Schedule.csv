@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 30",Minnesota ,L83-77  ,0-1,Andersen  16,Posey  14,Hilario  4,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Nov 1", Houston ,L83-74  ,0-2,Posey  16,Posey  7,Posey  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Nov 2",Portland ,W96-79  ,1-2,Posey  19,Posey  14,Posey  10,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Nov 5", Atlanta ,L103-87  ,1-3,Howard  25,Howard  15,Whitney  7,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Thu, Nov 7", Detroit ,L89-63  ,1-4,Posey  21,Andersen  6,Whitney  4,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Nov 9", Memphis ,W84-73  ,2-4,White  22,Posey  13,Whitney  8,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Nov 13", Phoenix ,L75-72  ,2-5,Howard  19,Hilario  10,Harrington  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Nov 15",Toronto ,L84-79  ,2-6,Posey  24,Posey  12,Posey  4,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Nov 16",Detroit ,L74-53  ,2-7,Howard  12,Blount  7,Satterfield  5,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Mon, Nov 18",New Jersey ,L99-79  ,2-8,Satterfield  15,Hilario  9,White  3,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Nov 20", Utah ,L96-79  ,2-9,Howard  17,Howard  13,Savovic  4,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Nov 22", LA ,W72-70  ,3-9,Howard  18,Harvey  9,Satterfield  4,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Nov 23",Phoenix ,W80-79  ,4-9,Posey  20,Harvey  9,Satterfield  7,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Nov 26", San Antonio ,W85-81  ,5-9,Howard  23,Howard  6,Posey  6,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Nov 27",San Antonio ,L99-68  ,5-10,Andersen  12,Andersen  8,Harrington  3,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Nov 29", Golden State ,L92-82  ,5-11,Howard  19,Howard  13,Posey  6,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Dec 3",Golden State ,L110-89  ,5-12,Harvey  16,Howard  9,Harvey  3,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Dec 4", Sacramento ,L92-90  ,5-13,Whitney  22,Howard  7,Whitney  7,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Dec 6",Sacramento ,L98-77  ,5-14,Posey  22,Howard  10,Howard  3,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Dec 7", Indiana ,W92-81  ,6-14,Whitney  23,Howard  10,Harvey  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Mon, Dec 9", Minnesota ,L92-84  ,6-15,Howard  20,Harvey  9,Posey  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Dec 11",Memphis ,L96-93  ,6-16,Harvey  23,Harvey  8,Whitney  9,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Dec 13",Indiana ,L94-72  ,6-17,Whitney  14,Howard  8,Harrington  3,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Dec 14",Cleveland ,L111-104  ,6-18,Posey  21,Howard  8,Howard  9,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Mon, Dec 16",Philadelphia ,L93-71  ,6-19,Hilario  23,Harvey  10,Howard  7,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Dec 18", Dallas ,L80-75  ,6-20,Howard  21,Hilario  12,Harrington  4,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Dec 20", Orlando ,L89-80  ,6-21,Howard  20,Hilario  10,Howard  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Dec 21",LA ,L92-89  ,6-22,Howard  30,Hilario  7,Howard  3,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Dec 28", Los Angeles ,L112-93  ,6-23,Howard  20,Hilario  6,Howard  8,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Mon, Dec 30", Seattle ,L79-77  ,6-24,Hilario  21,Howard  15,Harrington  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Jan 3",Seattle ,W94-82  ,7-24,Howard  20,Hilario  13,Howard  5,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Jan 4", Sacramento ,L87-76  ,7-25,Howard  20,Howard  15,Howard  4,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Mon, Jan 6",Dallas ,L86-71  ,7-26,Howard  22,Howard  14,Harrington  4,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Jan 8", Miami ,W86-76  ,8-26,Howard  28,Howard  12,Harrington  9,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Jan 10", Portland ,W82-81  ,9-26,Hilario  20,Hilario  11,Howard  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Jan 11",Houston ,L87-85  ,9-27,Howard  19,Hilario  10,Tskitishvili  4,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Mon, Jan 13",Minnesota ,L89-75  ,9-28,Howard  19,Bowen  9,Harrington  8,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Jan 15", Utah ,L92-81  ,9-29,Hilario  24,Hilario  9,Howard  4,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Jan 17", Cleveland ,W97-80  ,10-29,Howard  25,Howard  8,Harrington  8,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Mon, Jan 20",Washington ,L89-74  ,10-30,Howard  25,Harvey  8,Harrington  8,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Jan 22",New York ,L97-88  ,10-31,Howard  28,Howard  8,Harrington  6,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Jan 24",Boston ,L77-58  ,10-32,White  11,Andersen  11,Crotty  3,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Jan 25",Milwaukee ,L88-75  ,10-33,Harvey  15,Hilario  8,Harrington  5,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Mon, Jan 27", New Jersey ,L92-66  ,10-34,Yarbrough  13,Harvey  8,Whitney  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Jan 28",Portland ,L98-92  ,10-35,Howard  17,Hilario  8,Hilario  6,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Feb 1",Dallas ,L122-100  ,10-36,White  17,Andersen  8,Howard  5,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sun, Feb 2", Memphis ,W93-78  ,11-36,Howard  26,Howard  13,Harrington  6,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Feb 4", Chicago ,W102-100 OT ,12-36,Howard  30,Howard  9,Howard  8,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Thu, Feb 6", San Antonio ,L83-74  ,12-37,Howard  23,Howard  11,Whitney  7,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Feb 11",Los Angeles ,L121-93  ,12-38,Yarbrough  18,Andersen  10,Whitney  5,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Feb 12", Los Angeles ,L113-102  ,12-39,Howard  22,Andersen  9,Harrington  6,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Feb 15",Chicago ,L88-69  ,12-40,Howard  18,Howard  13,Yarbrough  4,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sun, Feb 16",New Orleans ,L100-92  ,12-41,Howard  25,Andersen  8,Harrington  6,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Feb 18",San Antonio ,L101-76  ,12-42,Howard  21,Harvey  8,Yarbrough  3,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Feb 19", Minnesota ,L85-77  ,12-43,Yarbrough  18,Howard  11,Howard  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Feb 22",Utah ,L99-89  ,12-44,Howard  20,Howard  10,Williams  6,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Mon, Feb 24", Golden State ,L94-89  ,12-45,Howard  29,Hilario  12,Harrington  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Feb 26", Portland ,L94-84  ,12-46,Howard  26,Harrington  13,Harrington  8,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Feb 28", New Orleans ,L94-88  ,12-47,Howard  24,Harvey  12,Harrington  10,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sun, Mar 2", Philadelphia ,L100-94  ,12-48,Howard  25,Williams  7,Harrington  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Mar 4",Atlanta ,L92-86  ,12-49,Howard  20,Harvey  9,Harrington  5,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Mar 5",Memphis ,L96-86  ,12-50,Hilario  14,Harvey  9,Williams  4,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Mar 8",Miami ,W98-92  ,13-50,Harrington  19,Howard  8,Howard  4,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sun, Mar 9",Orlando ,L111-98  ,13-51,Howard  19,Hilario  9,Tskitishvili  5,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Mar 11", Toronto ,W95-87  ,14-51,Howard  24,Howard  11,Tskitishvili  6,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sun, Mar 16", Seattle ,L92-84  ,14-52,Howard  22,Howard  8,Williams  6,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Mar 18",Utah ,L99-81  ,14-53,Howard  16,Hilario  7,Williams  4,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Mar 19",LA ,L91-78  ,14-54,Howard  24,Howard  8,Williams  9,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Mar 21",Seattle ,L101-99 OT ,14-55,Williams  22,Camby  10,Williams  9,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Mar 22", Boston ,W90-80  ,15-55,Howard  27,Harvey  8,Williams  8,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Mon, Mar 24", Dallas ,L108-96  ,15-56,Howard  25,White  12,White  10,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Mar 26", Milwaukee ,W108-103  ,16-56,Howard  25,Camby  15,Williams  7,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Mar 29",Houston ,L102-89  ,16-57,Camby  18,Camby  15,Camby  5,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sun, Mar 30", Washington ,W88-72  ,17-57,Williams  15,Harrington  7,Williams  6,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Apr 1",Phoenix ,L95-65  ,17-58,Hilario  10,Hilario  11,Williams  4,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Apr 2", New York ,L83-75  ,17-59,Howard  20,Howard  14,Harrington  7,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sun, Apr 6",Golden State ,L106-99  ,17-60,Howard  24,Camby  12,Williams  5,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Apr 8", Phoenix ,L98-78  ,17-61,Howard  15,Howard  9,Hilario  3,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Fri, Apr 11",Sacramento ,L105-103  ,17-62,Howard  24,Camby  16,Williams  7,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Sat, Apr 12", LA ,L101-79  ,17-63,Trepagnier  15,Andersen  12,Harrington  5,A,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Tue, Apr 15",Los Angeles ,L126-104  ,17-64,Howard  19,Camby  14,Williams  10,H,Denver Nuggets 2002-03 Regular Season NBA Schedule
+"Wed, Apr 16", Houston ,L89-84  ,17-65,Williams  15,Yarbrough  9,Yarbrough  8,A,Denver Nuggets 2002-03 Regular Season NBA Schedule

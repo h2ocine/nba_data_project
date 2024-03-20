@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 17",Cleveland ,L102-99  ,0-1,Brown  25,Tatum  10,Irving  10,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Oct 18", Milwaukee ,L108-100  ,0-2,Brown  18,Tatum  9,Rozier  6,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Oct 20",Philadelphia ,W102-92  ,1-2,Irving  21,Horford  9,Irving  4,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Tue, Oct 24", New York ,W110-89  ,2-2,Brown  23,Horford  13,Irving  7,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Thu, Oct 26",Milwaukee ,W96-89  ,3-2,Horford  27,Horford  9,Irving  7,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sat, Oct 28",Miami ,W96-90  ,4-2,Irving  24,Horford  9,Smart  4,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Oct 30", San Antonio ,W108-94  ,5-2,Irving  24,Horford  13,Smart  7,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Nov 1", Sacramento ,W113-86  ,6-2,Brown  22,Theis  10,Smart  8,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Nov 3",Oklahoma City ,W101-94  ,7-2,Irving  25,Brown  12,Irving  6,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sun, Nov 5",Orlando ,W104-88  ,8-2,Brown  18,Horford  10,Smart  8,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Nov 6",Atlanta ,W110-107  ,9-2,Irving  35,Horford  10,Horford  9,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Nov 8", Los Angeles ,W107-96  ,10-2,Baynes  21,Brown  11,Smart  6,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Nov 10", Charlotte ,W90-87  ,11-2,Tatum  16,Brown  13,Smart  7,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sun, Nov 12", Toronto ,W95-94  ,12-2,Horford  21,Baynes  8,Smart  9,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Tue, Nov 14",Brooklyn ,W109-102  ,13-2,Irving  25,Horford  11,Irving  5,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Thu, Nov 16", Golden State ,W92-88  ,14-2,Brown  22,Horford  11,Irving  6,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sat, Nov 18",Atlanta ,W110-99  ,15-2,Irving  30,Tatum  7,Horford  6,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Nov 20",Dallas ,W110-102 OT ,16-2,Irving  47,Brown  9,Smart  8,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Nov 22",Miami ,L104-98  ,16-3,Irving  23,Horford  9,Tatum  4,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Nov 24", Orlando ,W118-103  ,17-3,Irving  30,Baynes  11,Horford  10,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sat, Nov 25",Indiana ,W108-98  ,18-3,Irving  25,Smart  6,Irving  6,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Nov 27", Detroit ,L118-108  ,18-4,Smart  23,Brown  6,Irving  9,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Thu, Nov 30", Philadelphia ,W108-97  ,19-4,Irving  36,Horford  8,Smart  8,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sat, Dec 2", Phoenix ,W116-111  ,20-4,Irving  19,Morris Sr.  8,Horford  11,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Dec 4", Milwaukee ,W111-100  ,21-4,Irving  32,Horford  9,Horford  8,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Dec 6", Dallas ,W97-90  ,22-4,Irving  23,Theis  11,Horford  8,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Dec 8",San Antonio ,L105-102  ,22-5,Irving  36,Horford  9,Morris Sr.  3,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sun, Dec 10",Detroit ,W91-81  ,23-5,Horford  18,Baynes  13,Horford  6,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Dec 11",Chicago ,L108-85  ,23-6,Horford  15,Tatum  10,Horford  5,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Dec 13", Denver ,W124-118  ,24-6,Irving  33,Baynes  6,Smart  9,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Dec 15", Utah ,L107-95  ,24-7,Irving  33,Horford  6,Horford  7,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sat, Dec 16",Memphis ,W102-93  ,25-7,Irving  20,Tatum  10,Irving  6,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Dec 18",Indiana ,W112-111  ,26-7,Irving  30,Horford  10,Horford  9,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Dec 20", Miami ,L90-89  ,26-8,Irving  33,Horford  8,Irving  5,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Thu, Dec 21",New York ,L102-93  ,26-9,Irving  32,Theis  7,Horford  5,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sat, Dec 23", Chicago ,W117-92  ,27-9,Irving  25,Theis  15,Irving  7,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Dec 25", Washington ,L111-103  ,27-10,Irving  20,Brown  9,Horford  6,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Dec 27",Charlotte ,W102-91  ,28-10,Irving  21,Horford  12,Irving  8,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Thu, Dec 28", Houston ,W99-98  ,29-10,Irving  26,Horford  8,Smart  5,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sun, Dec 31", Brooklyn ,W108-105  ,30-10,,,,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Jan 3", Cleveland ,W102-88  ,31-10,Rozier  20,Irving  9,Irving  6,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Jan 5", Minnesota ,W91-84  ,32-10,Smart  18,Baynes  10,Irving  8,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sat, Jan 6",Brooklyn ,W87-85  ,33-10,Irving  21,Theis  10,Irving  4,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Thu, Jan 11", Philadelphia,W114-103  ,34-10,Brown  21,Morris Sr.  8,Irving  7,N,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Tue, Jan 16", New Orleans ,L116-113 OT ,34-11,Irving  27,Horford  9,Horford  6,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Thu, Jan 18", Philadelphia ,L89-80  ,34-12,Morris Sr.  14,Morris Sr.  6,Brown  4,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sun, Jan 21", Orlando ,L103-95  ,34-13,Irving  40,Tatum  10,Horford  6,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Tue, Jan 23",Los Angeles ,L108-107  ,34-14,Irving  33,Horford  12,Smart  8,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Jan 24",LA ,W113-102  ,35-14,Irving  20,Irving  8,Irving  7,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sat, Jan 27",Golden State ,L109-105  ,35-15,Irving  37,Horford  13,Irving  4,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Jan 29",Denver ,W111-110  ,36-15,Irving  27,Rozier  9,Irving  6,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Jan 31", New York ,W103-73  ,37-15,Morris Sr.  20,Rozier  11,Rozier  10,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Feb 2", Atlanta ,W119-110  ,38-15,Rozier  31,Baynes  8,Horford  7,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sun, Feb 4", Portland ,W97-96  ,39-15,Horford  22,Horford  10,Horford  5,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Tue, Feb 6",Toronto ,L111-91  ,39-16,Rozier  18,Baynes  8,Rozier  4,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Thu, Feb 8",Washington ,W110-104 OT ,40-16,Irving  28,Morris Sr.  8,Irving  6,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Feb 9", Indiana ,L97-91  ,40-17,Irving  21,Horford  8,Irving  5,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sun, Feb 11", Cleveland ,L121-99  ,40-18,Rozier  21,Rozier  9,Horford  6,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Feb 14", LA ,L129-119  ,40-19,Irving  33,Morris Sr.  11,Irving  8,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Feb 23",Detroit ,W110-98  ,41-19,Theis  19,Theis  7,Rozier  7,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sat, Feb 24",New York ,W121-112  ,42-19,Irving  31,Horford  10,Irving  8,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Feb 26", Memphis ,W109-98  ,43-19,Irving  25,Morris Sr.  8,Irving  5,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Feb 28", Charlotte ,W134-106  ,44-19,Irving  34,Baynes  10,Smart  6,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sat, Mar 3",Houston ,L123-120  ,44-20,Morris Sr.  21,Monroe  6,Irving  6,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Mar 5",Chicago ,W105-89  ,45-20,Brown  21,Monroe  9,Rozier  7,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Thu, Mar 8",Minnesota ,W117-109  ,46-20,Irving  23,Horford  8,Irving  8,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sun, Mar 11", Indiana ,L99-97  ,46-21,Smart  20,Smart  7,Smart  8,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Mar 14", Washington ,L125-124 2OT ,46-22,Morris Sr.  31,Monroe  10,Rozier  9,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Mar 16",Orlando ,W92-83  ,47-22,Rozier  17,Morris Sr.  11,Rozier  5,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sun, Mar 18",New Orleans ,L108-89  ,47-23,Tatum  23,Rozier  7,Rozier  5,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Tue, Mar 20", Oklahoma City ,W100-99  ,48-23,Tatum  23,Tatum  11,Horford  7,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Mar 23",Portland ,W105-100  ,49-23,Morris Sr.  30,Monroe  10,Larkin  7,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sun, Mar 25",Sacramento ,W104-93  ,50-23,Rozier  33,Monroe  8,Horford  8,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Mon, Mar 26",Phoenix ,W102-94  ,51-23,Tatum  23,Horford  9,Horford  7,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Mar 28",Utah ,W97-94  ,52-23,Brown  21,Larkin  9,Larkin  4,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sat, Mar 31", Toronto ,W110-99  ,53-23,Morris Sr.  25,Morris Sr.  9,Rozier  7,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Tue, Apr 3",Milwaukee ,L106-102  ,53-24,Brown  24,Monroe  10,Horford  5,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Apr 4",Toronto ,L96-78  ,53-25,Morris Sr.  21,Rozier  9,Monroe  3,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Fri, Apr 6", Chicago ,W111-104  ,54-25,Brown  32,Monroe  11,Monroe  10,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Sun, Apr 8", Atlanta ,L112-106  ,54-26,Tatum  19,Rozier  8,Rozier  9,A,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Tue, Apr 10",Washington ,L113-101  ,54-27,Brown  27,Horford  14,Rozier  6,H,Boston Celtics 2017-18 Regular Season NBA Schedule
+"Wed, Apr 11", Brooklyn ,W110-97  ,55-27,Baynes  26,Baynes  14,Larkin  7,A,Boston Celtics 2017-18 Regular Season NBA Schedule

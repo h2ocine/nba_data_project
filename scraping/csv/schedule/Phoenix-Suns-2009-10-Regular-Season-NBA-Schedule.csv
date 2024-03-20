@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 28",LA ,W109-107  ,1-0,Nash  24,Hill  13,Nash  8,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Oct 30", Golden State ,W123-101  ,2-0,Barbosa  24,Frye  8,Nash  20,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Nov 1", Minnesota ,W120-112  ,3-0,Frye  25,Hill  10,Nash  14,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Nov 3",Miami ,W104-96  ,4-0,Nash  30,Hill  12,Nash  8,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Nov 4",Orlando ,L122-100  ,4-1,Stoudemire  25,Stoudemire  14,Dragic  6,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Nov 6",Boston ,W110-103  ,5-1,Richardson  34,Richardson  10,Nash  12,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Nov 8",Washington ,W102-90  ,6-1,Richardson  22,Hill  13,Nash  17,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Mon, Nov 9",Philadelphia ,W119-115  ,7-1,Richardson  29,Richardson  8,Nash  20,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Nov 11", New Orleans ,W124-104  ,8-1,Stoudemire  21,Dragic  7,Nash  10,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Thu, Nov 12",Los Angeles ,L121-102  ,8-2,Dudley  14,Amundson  9,Nash  5,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Nov 15", Toronto ,W101-100  ,9-2,Stoudemire  30,Richardson  10,Nash  9,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Nov 17",Houston ,W111-105  ,10-2,Stoudemire  23,Hill  7,Nash  16,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Thu, Nov 19",New Orleans ,L110-103  ,10-3,Stoudemire  23,Frye  10,Nash  10,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Nov 22", Detroit ,W117-91  ,11-3,Stoudemire  21,Hill  8,Nash  9,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Nov 25", Memphis ,W126-111  ,12-3,Stoudemire  28,Richardson  5,Nash  16,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Nov 27",Minnesota ,W120-95  ,13-3,Richardson  22,Amundson  8,Nash  11,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Nov 29",Toronto ,W113-94  ,14-3,Richardson  22,Richardson  9,Nash  16,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Dec 1",New York ,L126-99  ,14-4,Nash  20,Dudley  7,Nash  8,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Dec 2",Cleveland ,L107-90  ,14-5,Frye  22,Stoudemire  12,Nash  5,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sat, Dec 5", Sacramento ,W115-107  ,15-5,Nash  32,Stoudemire  21,Nash  6,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Dec 6",Los Angeles ,L108-88  ,15-6,Stoudemire  18,Stoudemire  8,Nash  10,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Dec 8",Dallas ,L102-101  ,15-7,Nash  27,Frye  9,Nash  8,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Dec 11", Orlando ,W106-103  ,16-7,Stoudemire  28,Stoudemire  10,Nash  18,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sat, Dec 12",Denver ,L105-99  ,16-8,Nash  28,Amundson  11,Nash  7,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Dec 15", San Antonio ,W116-104  ,17-8,Stoudemire  28,Stoudemire  14,Nash  13,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Thu, Dec 17",Portland ,L105-102  ,17-9,Stoudemire  27,Stoudemire  11,Nash  13,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sat, Dec 19", Washington ,W121-95  ,18-9,Stoudemire  23,Stoudemire  14,Nash  15,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Mon, Dec 21", Cleveland ,L109-91  ,18-10,Nash  18,Stoudemire  12,Nash  10,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Dec 23", Oklahoma City ,L117-113  ,18-11,Stoudemire  35,Stoudemire  14,Nash  12,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Dec 25", LA ,W124-93  ,19-11,Stoudemire  26,Amundson  10,Nash  8,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sat, Dec 26",Golden State ,L132-127  ,19-12,Nash  36,Stoudemire  7,Nash  9,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Mon, Dec 28", Los Angeles ,W118-103  ,20-12,Stoudemire  26,Frye  11,Nash  13,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Dec 30", Boston ,W116-98  ,21-12,Frye  26,Frye  10,Nash  8,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sat, Jan 2", Memphis ,L128-103  ,21-13,Stoudemire  29,Amundson  7,Nash  13,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Jan 5",Sacramento ,W113-109  ,22-13,Nash  30,Richardson  9,Nash  12,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Jan 6", Houston ,W118-110  ,23-13,Nash  26,Stoudemire  11,Nash  12,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Jan 8", Miami ,L109-105  ,23-14,Stoudemire  18,Stoudemire  18,Nash  12,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Mon, Jan 11", Milwaukee ,W105-101  ,24-14,Nash  30,Stoudemire  10,Nash  11,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Jan 13",Indiana ,L122-114  ,24-15,Stoudemire  21,Richardson  8,Nash  9,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Jan 15",Atlanta ,L102-101  ,24-16,Stoudemire  28,Stoudemire  14,Nash  11,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sat, Jan 16",Charlotte ,L125-99  ,24-17,Stoudemire  19,Stoudemire  7,Nash  5,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Mon, Jan 18",Memphis ,L125-118  ,24-18,Nash  22,Stoudemire  9,Nash  12,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Jan 20", New Jersey ,W118-94  ,25-18,Stoudemire  27,Stoudemire  7,Nash  15,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Jan 22", Chicago ,L115-104  ,25-19,Stoudemire  23,Frye  8,Nash  7,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sat, Jan 23", Golden State ,W112-103  ,26-19,Nash  23,Lopez  9,Nash  6,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Mon, Jan 25",Utah ,L124-115  ,26-20,Dragic  32,Richardson  6,Nash  15,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Jan 26", Charlotte ,L114-109 OT ,26-21,Nash  23,Dudley  10,Nash  9,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Thu, Jan 28", Dallas ,W112-106  ,27-21,Stoudemire  22,Dudley  6,Nash  11,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Jan 31",Houston ,W115-111 OT ,28-21,Stoudemire  36,Stoudemire  11,Nash  16,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Mon, Feb 1",New Orleans ,W109-100  ,29-21,Stoudemire  25,Stoudemire  12,Nash  12,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Feb 3",Denver ,W109-97  ,30-21,Stoudemire  20,Stoudemire  17,Nash  10,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Feb 5",Sacramento ,W114-102  ,31-21,Stoudemire  30,Stoudemire  9,Nash  10,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Feb 10", Portland ,L108-101  ,31-22,Stoudemire  24,Stoudemire  9,Nash  11,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Feb 16",Memphis ,W109-95  ,32-22,Richardson  27,Stoudemire  10,Nash  16,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Feb 17",Dallas ,L107-97  ,32-23,Stoudemire  30,Stoudemire  14,Nash  12,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Feb 19", Atlanta ,W88-80  ,33-23,Stoudemire  22,Lopez  9,Nash  6,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Feb 21", Sacramento ,W104-88  ,34-23,Richardson  26,Stoudemire  14,Nash  17,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Feb 23",Oklahoma City ,W104-102  ,35-23,Stoudemire  30,Richardson  13,Dragic  10,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Feb 24", Philadelphia ,W106-95  ,36-23,Richardson  24,Lopez  10,Nash  13,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Feb 26", LA ,W125-112  ,37-23,Lopez  30,Lopez  12,Nash  11,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Feb 28",San Antonio ,L113-110  ,37-24,Stoudemire  41,Stoudemire  12,Nash  11,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Mon, Mar 1", Denver ,W101-85  ,38-24,Stoudemire  19,Stoudemire  10,Nash  10,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Mar 3",LA ,W127-101  ,39-24,Stoudemire  30,Stoudemire  14,Nash  13,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Thu, Mar 4", Utah ,L116-108  ,39-25,Stoudemire  30,Stoudemire  7,Nash  15,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sat, Mar 6", Indiana ,W113-105  ,40-25,Stoudemire  30,Dudley  12,Hill  5,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Mar 12", Los Angeles ,L102-96  ,40-26,Stoudemire  29,Stoudemire  16,Nash  8,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Mar 14", New Orleans ,W120-106  ,41-26,Stoudemire  36,Stoudemire  12,Nash  12,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Mar 16", Minnesota ,W152-114  ,42-26,Richardson  27,Lopez  9,Nash  14,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Mar 19", Utah ,W110-100  ,43-26,Stoudemire  44,Lopez  10,Nash  10,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Mar 21", Portland ,W93-87  ,44-26,Stoudemire  18,Stoudemire  14,Nash  8,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Mon, Mar 22",Golden State ,W133-131  ,45-26,Stoudemire  37,Hill  9,Nash  12,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Mar 26", New York ,W132-96  ,46-26,Stoudemire  18,Frye  11,Dragic  10,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Mar 28",Minnesota ,W111-105  ,47-26,Stoudemire  30,Stoudemire  17,Nash  11,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Mar 30",Chicago ,W111-105  ,48-26,Richardson  27,Stoudemire  11,Nash  10,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Mar 31",New Jersey ,W116-105  ,49-26,Nash  24,Nash  7,Nash  14,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Apr 2",Detroit ,W109-94  ,50-26,Stoudemire  29,Stoudemire  6,Hill  8,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sat, Apr 3",Milwaukee ,L107-98  ,50-27,Stoudemire  22,Stoudemire  8,Dragic  6,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Apr 7", San Antonio ,W112-101  ,51-27,Stoudemire  29,Stoudemire  8,Nash  12,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Fri, Apr 9",Oklahoma City ,L96-91  ,51-28,Stoudemire  24,Stoudemire  15,Nash  12,H,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Sun, Apr 11", Houston ,W116-106  ,52-28,Stoudemire  35,Stoudemire  13,Nash  11,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Tue, Apr 13", Denver ,W123-101  ,53-28,Stoudemire  26,Stoudemire  8,Nash  10,A,Phoenix Suns 2009-10 Regular Season NBA Schedule
+"Wed, Apr 14",Utah ,W100-86  ,54-28,Stoudemire  20,Stoudemire  7,Nash  11,H,Phoenix Suns 2009-10 Regular Season NBA Schedule

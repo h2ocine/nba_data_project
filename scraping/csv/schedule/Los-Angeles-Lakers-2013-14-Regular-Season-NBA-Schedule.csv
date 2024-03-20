@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 29", LA ,W116-103  ,1-0,Henry  22,Gasol  13,Farmar  6,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Oct 30",Golden State ,L125-94  ,1-1,Henry  14,Gasol  7,Farmar  5,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Nov 1", San Antonio ,L91-85  ,1-2,Gasol  20,Gasol  11,Blake  9,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Nov 3", Atlanta ,W105-103  ,2-2,Henry  18,Gasol  13,Blake  7,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Nov 5",Dallas ,L123-104  ,2-3,Young  21,Gasol  8,Farmar  7,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Thu, Nov 7",Houston ,W99-98  ,3-3,Meeks  18,Gasol  12,Farmar  7,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Nov 8",New Orleans ,L96-85  ,3-4,Kaman  16,Hill  13,Blake  8,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Nov 10", Minnesota ,L113-90  ,3-5,Blake  19,Gasol  11,Blake  8,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Nov 12", New Orleans ,W116-95  ,4-5,Hill  21,Hill  11,Blake  10,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Nov 13",Denver ,L111-99  ,4-6,Gasol  25,Hill  15,Blake  11,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Nov 15", Memphis ,L89-86  ,4-7,Meeks  25,Gasol  13,Blake  10,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Nov 17", Detroit ,W114-99  ,5-7,Hill  24,Hill  17,Blake  16,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Nov 22", Golden State ,W102-95  ,6-7,Gasol  24,Gasol  10,Farmar  8,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Nov 24", Sacramento ,W100-86  ,7-7,Henry  21,Hill  13,Blake  12,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Nov 26",Washington ,L116-111  ,7-8,Farmar  22,Hill  8,Farmar  8,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Nov 27",Brooklyn ,W99-94  ,8-8,Young  26,Hill  12,Blake  10,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Nov 29",Detroit ,W106-102  ,9-8,Johnson  27,Gasol  12,Blake  10,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Dec 1", Portland ,L114-108  ,9-9,Henry  27,Williams  8,Blake  9,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Dec 6",Sacramento ,W106-100  ,10-9,Gasol  19,Hill  9,Blake  10,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Dec 8", Toronto ,L106-94  ,10-10,Young  19,Hill  8,Bryant  4,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Dec 10", Phoenix ,L114-108  ,10-11,Bryant  20,Hill  7,Blake  10,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Dec 13",Oklahoma City ,L122-97  ,10-12,Young  17,Sacre  8,Bryant  13,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sat, Dec 14",Charlotte ,W88-85  ,11-12,Bryant  21,Hill  9,Bryant  8,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Mon, Dec 16",Atlanta ,L114-100  ,11-13,Young  23,Gasol  10,Bryant  6,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Dec 17",Memphis ,W96-92  ,12-13,Gasol  21,Gasol  9,Johnson  6,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Dec 20", Minnesota ,W104-91  ,13-13,Young  25,Gasol  13,Gasol  8,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sat, Dec 21",Golden State ,L102-83  ,13-14,Young  20,Kaman  17,Meeks  4,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Mon, Dec 23",Phoenix ,L117-90  ,13-15,Young  19,Henry  6,Meeks  4,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Dec 25", Miami ,L101-95  ,13-16,Young  20,Gasol  13,Meeks  3,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Dec 27",Utah ,L105-103  ,13-17,Young  21,Kaman  10,Farmar  7,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Dec 29", Philadelphia ,L111-104  ,13-18,Young  26,Hill  13,Farmar  8,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Dec 31", Milwaukee ,L94-79  ,13-19,Gasol  25,Williams  11,Marshall  7,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Jan 3", Utah ,W110-99  ,14-19,Gasol  23,Gasol  17,Marshall  15,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Jan 5", Denver ,L137-115  ,14-20,Gasol  25,Gasol  10,Marshall  17,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Jan 7",Dallas ,L110-97  ,14-21,Meeks  24,Gasol  13,Meeks  6,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Jan 8",Houston ,L113-99  ,14-22,Young  25,Gasol  12,Marshall  8,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Jan 10",LA ,L123-87  ,14-23,Marshall  16,Gasol  8,Marshall  10,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Jan 14", Cleveland ,L120-118  ,14-24,Young  28,Gasol  12,Marshall  16,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Jan 15",Phoenix ,L121-114  ,14-25,Gasol  24,Hill  10,Marshall  13,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Jan 17",Boston ,W107-104  ,15-25,Gasol  24,Gasol  13,Marshall  14,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Jan 19",Toronto ,W112-106  ,16-25,Young  29,Gasol  9,Marshall  11,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Mon, Jan 20",Chicago ,L102-100 OT ,16-26,Young  31,Gasol  19,Marshall  8,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Thu, Jan 23",Miami ,L109-102  ,16-27,Gasol  22,Gasol  11,Marshall  11,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Jan 24",Orlando ,L114-105  ,16-28,Gasol  21,Gasol  11,Marshall  14,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Jan 26",New York ,L110-103  ,16-29,Meeks  24,Gasol  13,Marshall  5,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Jan 28", Indiana ,L104-92  ,16-30,Gasol  21,Gasol  13,Marshall  13,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Jan 31", Charlotte ,L110-100  ,16-31,Gasol  24,Gasol  9,Marshall  12,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Feb 4",Minnesota ,L109-99  ,16-32,Young  24,Johnson  9,Nash  9,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Feb 5",Cleveland ,W119-108  ,17-32,Kelly  26,Blake  10,Blake  15,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Feb 7",Philadelphia ,W112-98  ,18-32,Nash  19,Kaman  8,Marshall  10,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Feb 9", Chicago ,L92-86  ,18-33,Kaman  27,Kaman  10,Marshall  11,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Feb 11", Utah ,L96-79  ,18-34,Kaman  25,Kaman  14,Blake  8,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Thu, Feb 13", Oklahoma City ,L107-103  ,18-35,Kaman  19,Kaman  10,Marshall  17,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Feb 19", Houston ,L134-108  ,18-36,Johnson  24,Johnson  7,Marshall  16,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Feb 21", Boston ,W101-92  ,19-36,Kaman  16,Hill  12,Marshall  8,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Feb 23", Brooklyn ,L108-102  ,19-37,Gasol  22,Gasol  11,Marshall  7,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Feb 25",Indiana ,L118-98  ,19-38,Bazemore  23,Gasol  9,Farmar  7,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Feb 26",Memphis ,L108-103  ,19-39,Meeks  19,Gasol  10,Marshall  8,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Feb 28", Sacramento ,W126-122  ,20-39,Farmar  30,Johnson  12,Marshall  10,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Mon, Mar 3",Portland ,W107-106  ,21-39,Gasol  22,Gasol  9,Marshall  11,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Mar 4", New Orleans ,L132-125  ,21-40,Gasol  29,Gasol  12,Marshall  10,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Thu, Mar 6", LA ,L142-94  ,21-41,Gasol  21,Gasol  7,Marshall  7,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Mar 7",Denver ,L134-126  ,21-42,Gasol  27,Kelly  11,Marshall  14,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Mar 9", Oklahoma City ,W114-110  ,22-42,Meeks  42,Gasol  11,Marshall  10,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Thu, Mar 13",Oklahoma City ,L131-102  ,22-43,Meeks  19,Bazemore  7,Kelly  6,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Mar 14",San Antonio ,L119-85  ,22-44,Gasol  18,Gasol  11,Marshall  9,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Mar 19", San Antonio ,L125-109  ,22-45,Henry  24,Sacre  11,Gasol  6,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Mar 21", Washington ,L117-107  ,22-46,Young  21,Gasol  14,Nash  11,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Mar 23", Orlando ,W103-94  ,23-46,Hill  28,Hill  13,Bazemore  8,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Mar 25", New York ,W127-96  ,24-46,Henry  22,Kaman  9,Marshall  9,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Thu, Mar 27",Milwaukee ,L108-105  ,24-47,Hill  28,Hill  16,Marshall  7,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Mar 28",Minnesota ,L143-107  ,24-48,Bazemore  21,Sacre  7,Nash  6,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Mar 30", Phoenix ,W115-99  ,25-48,Kaman  28,Kaman  17,Marshall  11,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Apr 1", Portland ,L124-112  ,25-49,Young  40,Kelly  9,Nash  10,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Apr 2",Sacramento ,L107-102  ,25-50,Meeks  21,Hill  15,Marshall  10,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Apr 4", Dallas ,L107-95  ,25-51,Meeks  25,Johnson  11,Marshall  8,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Apr 6",LA ,L120-97  ,25-52,Hill  22,Sacre  10,Marshall  11,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Tue, Apr 8", Houston ,L145-130  ,25-53,Young  32,Sacre  6,Farmar  8,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Fri, Apr 11", Golden State ,L112-95  ,25-54,Young  25,Hill  12,Young  4,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Sun, Apr 13", Memphis ,L102-90  ,25-55,Meeks  20,Johnson  15,Marshall  9,A,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Mon, Apr 14",Utah ,W119-104  ,26-55,Young  41,Sacre  9,Marshall  15,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule
+"Wed, Apr 16",San Antonio ,W113-100  ,27-55,Hill  18,Hill  14,Marshall  11,H,Los Angeles Lakers 2013-14 Regular Season NBA Schedule

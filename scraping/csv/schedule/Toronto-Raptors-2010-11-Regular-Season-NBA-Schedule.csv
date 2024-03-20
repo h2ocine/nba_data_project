@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 27", New York ,L98-93  ,0-1,Bargnani  22,Evans  16,Calderon  7,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Oct 29", Cleveland ,W101-81  ,1-1,Bargnani  20,Evans  14,Calderon  7,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Mon, Nov 1",Sacramento ,L111-108  ,1-2,Bargnani  28,Evans  19,Calderon  5,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Nov 3",Utah ,L125-108  ,1-3,Bargnani  26,Bargnani  9,Jack  4,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Nov 5",Los Angeles ,L108-103  ,1-4,Barbosa  17,Johnson  15,Calderon  8,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sat, Nov 6",Portland ,L97-84  ,1-5,Jack  16,Evans  9,Calderon  4,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Mon, Nov 8", Golden State ,L109-102  ,1-6,Jack  24,Kleiza  7,Jack  8,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Nov 10", Charlotte ,L101-96  ,1-7,Bargnani  25,Evans  10,Calderon  9,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Nov 12",Orlando ,W110-106  ,2-7,Bargnani  27,Evans  12,Calderon  7,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sat, Nov 13",Miami ,L109-100  ,2-8,Bargnani  22,Dorsey  11,Weems  5,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Tue, Nov 16",Washington ,L109-94  ,2-9,Weems  16,Evans  9,Jack  5,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Nov 17",Philadelphia ,W94-86  ,3-9,Bargnani  30,Evans  14,Calderon  8,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Nov 19", Houston ,W106-96  ,4-9,Bargnani  26,Evans  9,Jack  8,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Nov 21", Boston ,W102-101  ,5-9,Bargnani  29,Evans  16,Barbosa  5,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Nov 24", Philadelphia ,W106-90  ,6-9,Bargnani  24,Evans  22,Calderon  9,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Nov 26",Boston ,L110-101  ,6-10,Kleiza  18,Bargnani  8,Calderon  15,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Nov 28", Atlanta ,L96-78  ,6-11,Bargnani  14,Bargnani  7,Calderon  5,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Dec 1", Washington ,W127-108  ,7-11,DeRozan  20,Bargnani  8,Calderon  8,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Dec 3", Oklahoma City ,W111-99  ,8-11,Bargnani  26,Bargnani  12,Calderon  15,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Dec 5", New York ,L116-99  ,8-12,Bayless  23,Johnson  16,Bayless  6,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Mon, Dec 6",Indiana ,L124-100  ,8-13,Calderon  21,Johnson  9,Calderon  4,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Dec 8",New York ,L113-110  ,8-14,Bargnani  41,Bargnani  7,Calderon  7,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Dec 10", Denver ,L123-116  ,8-15,Kleiza  26,Kleiza  12,Bayless  5,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sat, Dec 11",Detroit ,W120-116  ,9-15,Bayless  31,Bayless  5,Bayless  7,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Tue, Dec 14",Charlotte ,L97-91  ,9-16,Bayless  17,Johnson  12,Bayless  9,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Dec 15", Chicago ,L110-93  ,9-17,Barbosa  21,Dorsey  13,Weems  5,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Dec 17", New Jersey ,W98-92  ,10-17,Bargnani  32,Kleiza  12,Calderon  14,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Dec 19", Los Angeles ,L120-110  ,10-18,Kleiza  26,Kleiza  10,Calderon  12,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Dec 22", Detroit ,L115-93  ,10-19,Barbosa  21,Wright  6,Calderon  13,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Mon, Dec 27",Memphis ,L96-85  ,10-20,Kleiza  22,Dorsey  13,Calderon  9,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Tue, Dec 28",Dallas ,W84-76  ,11-20,Davis  17,Davis  12,Bayless  8,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Dec 31",Houston ,L114-105  ,11-21,DeRozan  37,Kleiza  12,Calderon  11,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Jan 2", Boston ,L93-79  ,11-22,DeRozan  27,Dorsey  13,Calderon  10,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Tue, Jan 4",Chicago ,L111-91  ,11-23,Bargnani  23,Bargnani  6,Bayless  8,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Jan 5",Cleveland ,W120-105  ,12-23,Bargnani  25,Wright  9,Calderon  17,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Jan 7",Boston ,L122-102  ,12-24,DeRozan  20,Kleiza  6,Calderon  9,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Jan 9", Sacramento ,W118-112  ,13-24,Bargnani  30,Johnson  9,Calderon  9,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Jan 12", Atlanta ,L104-101  ,13-25,Barbosa  26,Johnson  7,Calderon  9,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Jan 14", Detroit ,L101-95  ,13-26,Bargnani  31,Johnson  10,Calderon  13,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sat, Jan 15",Washington ,L98-95  ,13-27,Bargnani  25,Johnson  10,Calderon  15,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Mon, Jan 17",New Orleans ,L85-81  ,13-28,DeRozan  23,Davis  12,Calderon  13,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Jan 19",San Antonio ,L104-95  ,13-29,DeRozan  28,Davis  11,Calderon  8,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Jan 21",Orlando ,L112-72  ,13-30,DeRozan  16,Wright  10,Calderon  5,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sat, Jan 22",Miami ,L120-103  ,13-31,DeRozan  30,Davis  10,Calderon  13,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Mon, Jan 24", Memphis ,L100-98  ,13-32,Bargnani  29,DeRozan  9,Bayless  11,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Jan 26", Philadelphia ,L107-94  ,13-33,DeRozan  29,Johnson  6,Calderon  13,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Jan 28", Milwaukee ,L116-110 OT ,13-34,Johnson  24,Johnson  12,Calderon  10,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sat, Jan 29",Minnesota ,L103-87  ,13-35,Davis  15,Davis  11,Calderon  6,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Mon, Jan 31",Indiana ,L104-93  ,13-36,Johnson  18,Johnson  8,Calderon  7,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Feb 2",Atlanta ,L100-87  ,13-37,Johnson  20,Johnson  14,Calderon  10,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Feb 4", Minnesota ,W111-100  ,14-37,Bargnani  30,Johnson  12,Calderon  19,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Tue, Feb 8",Milwaukee ,L92-74  ,14-38,Bargnani  23,Johnson  11,Calderon  7,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Feb 9", San Antonio ,L111-100  ,14-39,Bargnani  29,Johnson  13,Calderon  11,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Feb 11", Portland ,L102-96  ,14-40,Bargnani  29,Davis  13,Calderon  10,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Feb 13", LA ,W98-93  ,15-40,Bargnani  27,Davis  14,Calderon  11,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Feb 16", Miami ,L103-95  ,15-41,Bargnani  38,Davis  13,Calderon  14,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Tue, Feb 22",Charlotte ,L114-101  ,15-42,Weems  19,Bargnani  8,Calderon  11,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Feb 23", Chicago ,W118-113  ,16-42,Bargnani  24,Bargnani  8,Calderon  17,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Feb 25", Phoenix ,L110-92  ,16-43,Bargnani  26,Davis  5,Calderon  7,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Feb 27", Dallas ,L114-96  ,16-44,Johnson  21,Calderon  8,Calderon  8,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Tue, Mar 1", New Orleans ,W96-90  ,17-44,Calderon  22,Johnson  10,Calderon  16,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Mar 4",New Jersey ,L116-103  ,17-45,DeRozan  30,Davis  8,Calderon  12,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sat, Mar 5",New Jersey ,L137-136 3OT ,17-46,Bargnani  35,Davis  15,Calderon  9,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Mar 9", Utah ,L96-94  ,17-47,DeRozan  17,Evans  11,Calderon  6,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Mar 11", Indiana ,W108-98  ,18-47,Barbosa  29,Evans  16,Calderon  8,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Mar 13", Charlotte ,L95-90  ,18-48,Bargnani  17,Evans  17,Calderon  7,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Mar 16",Detroit ,L107-93  ,18-49,Bargnani  20,Evans  8,Calderon  6,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Mar 18", Washington ,W116-107  ,19-49,Bargnani  33,Evans  15,Calderon  6,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Mar 20",Oklahoma City ,W95-93  ,20-49,Bargnani  23,Evans  9,Calderon  9,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Mon, Mar 21",Denver ,L123-90  ,20-50,Bargnani  20,Ajinca  9,Bayless  9,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Mar 23",Phoenix ,L114-106  ,20-51,Bargnani  27,Davis  9,Calderon  13,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Mar 25",Golden State ,L138-100  ,20-52,Barbosa  19,Davis  11,Bargnani  5,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sat, Mar 26",LA ,L94-90  ,20-53,Davis  21,Davis  11,Barbosa  6,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Mar 30", Milwaukee ,L104-98  ,20-54,Bargnani  22,Johnson  10,Calderon  8,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sat, Apr 2",Chicago ,L113-106  ,20-55,Bayless  26,Davis  11,Bayless  8,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Apr 3", Orlando ,W102-98  ,21-55,DeRozan  24,Evans  17,Bayless  8,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Tue, Apr 5",New York ,L131-118  ,21-56,DeRozan  36,Davis  13,Bayless  5,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Apr 6", Cleveland ,L104-96  ,21-57,Bayless  28,Evans  13,Calderon  9,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Fri, Apr 8",Philadelphia ,L98-93  ,21-58,DeRozan  27,Evans  15,Bayless  8,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Sun, Apr 10", New Jersey ,W99-92  ,22-58,Bayless  19,Evans  15,Johnson  6,A,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Mon, Apr 11",Milwaukee ,L93-86  ,22-59,Bayless  20,Dorsey  20,Bayless  5,H,Toronto Raptors 2010-11 Regular Season NBA Schedule
+"Wed, Apr 13", Miami ,L97-79  ,22-60,Bayless  21,Davis  8,Johnson  6,A,Toronto Raptors 2010-11 Regular Season NBA Schedule

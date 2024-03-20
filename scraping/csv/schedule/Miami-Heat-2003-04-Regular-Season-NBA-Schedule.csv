@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 28",Philadelphia ,L89-74  ,0-1,Wade  18,Jones  8,Wallace  5,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Oct 29",Boston ,L98-75  ,0-2,Jones  22,Jones  8,Alston  5,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Oct 31", Detroit ,L93-81  ,0-3,Jones  20,Haslem  11,Jones  3,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Mon, Nov 3",Dallas ,L103-93  ,0-4,Haslem  20,Haslem  12,Odom  9,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Nov 4",San Antonio ,L80-73  ,0-5,Jones  26,Odom  12,Odom  3,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Nov 8", Minnesota ,L88-79  ,0-6,Jones  21,Haslem  11,Wade  5,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Nov 11",Houston ,L90-70  ,0-7,Jones  21,Odom  10,Odom  5,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Nov 12", Cleveland ,W88-83  ,1-7,Jones  25,Haslem  10,Odom  10,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Nov 14", Washington ,W105-101 OT ,2-7,Jones  27,Odom  12,Wade  6,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sun, Nov 16",Los Angeles ,L99-77  ,2-8,Odom  18,Haslem  10,Alston  4,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Nov 18",Seattle ,W105-98  ,3-8,Odom  21,Odom  11,Odom  6,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Nov 19",Portland ,L94-93  ,3-9,Jones  26,Odom  9,Alston  6,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Nov 21",Golden State ,L101-91  ,3-10,Odom  20,Odom  8,Alston  5,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Nov 22",Phoenix ,L100-98  ,3-11,Wade  27,Haslem  10,Jones  6,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Nov 25", New Orleans ,W91-87  ,4-11,Jones  25,Grant  7,Alston  5,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Nov 28",Atlanta ,L95-83  ,4-12,Jones  28,Haslem  11,Wade  8,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Nov 29", Toronto ,W78-66  ,5-12,Wade  16,Grant  10,Wade  5,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Dec 3",Detroit ,L87-73  ,5-13,Odom  22,Odom  14,Alston  5,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Dec 5", Philadelphia ,L93-90  ,5-14,Wade  21,Odom  12,Alston  6,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Dec 6", San Antonio ,L86-70  ,5-15,Odom  17,Grant  10,Odom  4,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Dec 9", Phoenix ,W92-72  ,6-15,Grant  18,Odom  17,Wade  5,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Dec 12", Memphis ,W91-88  ,7-15,Odom  29,Odom  14,Alston  7,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sun, Dec 14",Toronto ,W90-89  ,8-15,Wade  23,Odom  16,Wade  4,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Dec 16", Atlanta ,W97-79  ,9-15,Wade  32,Odom  12,Wade  8,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Dec 17",Philadelphia ,L87-76  ,9-16,Wade  22,Grant  9,Odom  4,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Dec 19",Memphis ,L97-83  ,9-17,Wade  21,Odom  10,Alston  8,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sun, Dec 21", Golden State ,W104-93  ,10-17,Wade  33,Odom  15,Wade  8,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Dec 23", Washington ,W79-72  ,11-17,Wade  20,Grant  10,Alston  5,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Dec 26",Washington ,W92-84  ,12-17,Jones  22,Odom  8,Jones  8,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Dec 27", New York ,L100-80  ,12-18,Odom  25,Grant  11,Odom  6,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Mon, Dec 29",Chicago ,W90-83  ,13-18,Odom  25,Odom  13,Odom  8,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Dec 30",New York ,L102-73  ,13-19,Odom  19,Grant  6,Wade  6,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Jan 2", Orlando ,W112-101  ,14-19,Jones  33,Grant  9,Jones  8,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Mon, Jan 5", Indiana ,L87-65  ,14-20,Grant  14,Odom  18,Jones  5,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Jan 7", Chicago ,W102-95  ,15-20,Jones  27,Odom  11,Alston  8,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Jan 9",Milwaukee ,L103-94  ,15-21,Odom  22,Odom  15,Jones  11,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Jan 10",Minnesota ,L83-77  ,15-22,Grant  17,Odom  11,Alston  9,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Jan 13",Sacramento ,L90-86  ,15-23,Odom  21,Odom  12,Alston  5,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Thu, Jan 15",Utah ,L97-85  ,15-24,Jones  18,Grant  11,Alston  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Jan 16",LA ,W87-85  ,16-24,Jones  21,Odom  15,Alston  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sun, Jan 18",Denver ,L88-80  ,16-25,Odom  26,Haslem  8,Odom  8,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Jan 20", Boston ,L86-84  ,16-26,Haslem  18,Haslem  17,Odom  9,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Jan 23", New Jersey ,W85-64  ,17-26,Jones  18,Odom  18,Odom  6,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Jan 24",New York ,W85-77  ,18-26,Jones  26,Odom  9,Alston  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Mon, Jan 26", Houston ,W95-81  ,19-26,Jones  27,Odom  15,Alston  8,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Jan 28",Cleveland ,L94-93  ,19-27,Jones  16,Haslem  10,Odom  6,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Jan 30", LA ,W97-88  ,20-27,Odom  25,Odom  14,Odom  4,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Jan 31",New Orleans ,W94-70  ,21-27,Jones  24,Haslem  9,Jones  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Mon, Feb 2", Detroit ,L102-100 OT ,21-28,Jones  19,Odom  14,Odom  7,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Feb 4",New Jersey ,L99-88  ,21-29,Odom  27,Haslem  9,Alston  10,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Feb 7", New York ,L76-64  ,21-30,Odom  18,Odom  14,Odom  3,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sun, Feb 8",Indiana ,L97-91  ,21-31,Odom  25,Grant  9,Odom  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Feb 10", Los Angeles ,L98-83  ,21-32,Wade  19,Odom  11,Odom  8,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Feb 11",Orlando ,W111-98  ,22-32,Wade  27,Grant  12,Odom  6,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Feb 17", Utah ,W97-85  ,23-32,Wade  31,Odom  9,Alston  4,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Feb 20", Atlanta ,W125-92  ,24-32,Jones  24,Odom  9,Wade  7,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Feb 21", Denver ,W97-81  ,25-32,Wade  28,Odom  13,Jones  4,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Mon, Feb 23", Portland ,L89-81  ,25-33,Odom  25,Odom  8,Wade  5,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Feb 28",New Jersey ,L92-86  ,25-34,Jones  21,Wade  9,Wade  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sun, Feb 29",Milwaukee ,L108-104  ,25-35,Jones  25,Odom  7,Alston  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Mar 2", Toronto ,L89-86  ,25-36,Odom  23,Odom  14,Jones  6,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Thu, Mar 4", Milwaukee ,W104-98  ,26-36,Alston  23,Odom  7,Odom  9,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Mar 6", Sacramento ,W102-96  ,27-36,Odom  30,Odom  19,Odom  11,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Mar 9", Orlando ,W100-89  ,28-36,Jones  19,Odom  13,Alston  5,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Mar 10",New Orleans ,L95-84  ,28-37,Jones  18,Haslem  13,Jones  8,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Mar 12", Seattle ,W82-74  ,29-37,Jones  19,Haslem  12,Wade  6,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sun, Mar 14", New Jersey ,W104-95  ,30-37,Jones  23,Grant  8,Alston  9,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Tue, Mar 16", New Orleans ,W96-83  ,31-37,Wade  23,Odom  13,Alston  4,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Mar 20", Philadelphia ,W101-69  ,32-37,Wade  17,Odom  10,Wade  8,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sun, Mar 21",Washington ,W101-81  ,33-37,Wade  22,Butler  9,Alston  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Mar 24",Orlando ,W105-90  ,34-37,Jones  28,Odom  14,Wade  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Mar 26", Dallas ,W119-118 OT ,35-37,Odom  26,Odom  18,Butler  8,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sun, Mar 28",Indiana ,L87-80  ,35-38,Wade  14,Grant  9,Wade  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Mon, Mar 29", Chicago ,W105-96  ,36-38,Butler  30,Butler  13,Wade  7,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Mar 31",Atlanta ,W100-97  ,37-38,Jones  23,Butler  12,Jones  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Apr 2",Detroit ,L92-84  ,37-39,Odom  18,Odom  9,Alston  6,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Apr 3",Chicago ,W97-83  ,38-39,Jones  21,Butler  14,Alston  7,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Apr 7", Boston ,W104-101  ,39-39,Odom  24,Odom  10,Alston  7,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Fri, Apr 9", Cleveland ,W106-91  ,40-39,Wade  20,Butler  10,Wade  7,A,Miami Heat 2003-04 Regular Season NBA Schedule
+"Sat, Apr 10",Cleveland ,L91-80  ,40-40,Wade  17,Haslem  8,Jones  5,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Mon, Apr 12",Boston ,W84-77  ,41-40,Odom  28,Odom  11,Odom  5,H,Miami Heat 2003-04 Regular Season NBA Schedule
+"Wed, Apr 14", New Jersey ,W96-84  ,42-40,Butler  22,Haslem  11,Jones  5,A,Miami Heat 2003-04 Regular Season NBA Schedule

@@ -1,0 +1,85 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Nov 2",Orlando ,W90-78  ,1-0,O'Neal  19,O'Neal  7,World Peace  5,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Thu, Nov 3",Miami ,W105-102  ,2-0,O'Neal  27,O'Neal  9,Tinsley  6,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sat, Nov 5", Philadelphia ,L111-109  ,2-1,O'Neal  23,O'Neal  15,Tinsley  6,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Nov 9", Miami ,W95-90  ,3-1,World Peace  24,World Peace  8,Tinsley  6,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Nov 11", New Jersey ,W102-90  ,4-1,World Peace  30,O'Neal  7,Jackson  7,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sat, Nov 12",Milwaukee ,L103-102  ,4-2,O'Neal  27,O'Neal  10,Jones  5,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Nov 16",Charlotte ,L122-90  ,4-3,World Peace  27,O'Neal  8,Tinsley  7,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Nov 18", Charlotte ,W93-85  ,5-3,O'Neal  29,O'Neal  18,Tinsley  11,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sun, Nov 20", Houston ,W85-74  ,6-3,World Peace  24,O'Neal  11,Tinsley  8,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Thu, Nov 24", Cleveland ,W98-76  ,7-3,World Peace  21,O'Neal  9,Tinsley  7,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Nov 25", Atlanta ,L87-85  ,7-4,O'Neal  30,Croshere  15,Jasikevicius  5,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sun, Nov 27",LA ,W97-92  ,8-4,World Peace  22,O'Neal  13,Tinsley  8,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Tue, Nov 29",Utah ,W84-60  ,9-4,O'Neal  21,O'Neal  15,O'Neal  4,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Nov 30",Phoenix ,L109-91  ,9-5,O'Neal  25,O'Neal  9,Tinsley  3,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Dec 2",Portland ,W98-78  ,10-5,O'Neal  27,O'Neal  15,O'Neal  3,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sun, Dec 4",Seattle ,L107-102  ,10-6,World Peace  30,Jasikevicius  7,Jasikevicius  9,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Tue, Dec 6", Dallas ,L84-75  ,10-7,O'Neal  25,O'Neal  13,O'Neal  2,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Thu, Dec 8", Washington ,W111-87  ,11-7,Jackson  30,O'Neal  10,Johnson  9,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sat, Dec 10", Memphis ,W80-66  ,12-7,O'Neal  20,O'Neal  14,Jasikevicius  8,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Dec 14",Boston ,L85-71  ,12-8,Jackson  18,O'Neal  10,Jasikevicius  5,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Dec 16", Utah ,W93-83  ,13-8,O'Neal  27,O'Neal  11,Johnson  6,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sat, Dec 17",New York ,W102-96  ,14-8,O'Neal  31,Croshere  7,Tinsley  7,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Dec 21", LA ,W97-75  ,15-8,Jackson  24,O'Neal  11,Tinsley  8,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Dec 23",Cleveland ,L94-89  ,15-9,O'Neal  34,O'Neal  11,Jasikevicius  5,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Mon, Dec 26",Dallas ,L102-80  ,15-10,O'Neal  15,Croshere  4,Tinsley  3,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Tue, Dec 27",San Antonio ,L99-86  ,15-11,O'Neal  26,Jackson  8,Tinsley  4,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Dec 30", Toronto ,L99-97  ,15-12,Jackson  23,Foster  13,Jones  6,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Mon, Jan 2", Seattle ,W115-96  ,16-12,Jones  26,Croshere  8,Johnson  6,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Jan 4",Denver ,L106-86  ,16-13,Jackson  21,Foster  12,Johnson  7,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Thu, Jan 5",Golden State ,W99-89  ,17-13,Jackson  27,Foster  11,Johnson  4,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sun, Jan 8",Sacramento ,W108-83  ,18-13,Jackson  31,Foster  10,Johnson  4,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Mon, Jan 9",Los Angeles ,L96-90  ,18-14,O'Neal  24,O'Neal  16,Jasikevicius  5,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Jan 11", Milwaukee ,W112-88  ,19-14,Jackson  24,Foster  8,Johnson  7,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Jan 13", Washington ,L94-85  ,19-15,O'Neal  20,Foster  11,Jasikevicius  7,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sat, Jan 14",Chicago ,W91-89  ,20-15,Jackson  29,Granger  9,Johnson  5,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Mon, Jan 16",New Jersey ,L97-92  ,20-16,Croshere  17,Croshere  10,Jasikevicius  6,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Jan 18", Charlotte ,W98-92  ,21-16,Johnson  27,Johnson  10,Johnson  4,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Jan 20",Minnesota ,L90-85  ,21-17,Jones  19,Foster  7,Johnson  7,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sat, Jan 21", Chicago ,L101-89  ,21-18,Jackson  21,O'Neal  9,Johnson  5,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Mon, Jan 23",Atlanta ,L104-94  ,21-19,O'Neal  24,O'Neal  8,Jackson  7,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Tue, Jan 24",Cleveland ,L96-66  ,21-20,Jackson  17,O'Neal  15,Jasikevicius  4,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Jan 27", Cleveland ,L93-89  ,21-21,Granger  21,Granger  14,Johnson  4,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Tue, Jan 31",Washington ,L84-79  ,21-22,Stojakovic  17,Pollard  12,Jackson  5,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Feb 1", Los Angeles ,W105-79  ,22-22,Stojakovic  26,Stojakovic  13,Johnson  7,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sat, Feb 4", Detroit ,W93-85  ,23-22,Jackson  20,Pollard  14,Johnson  8,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Feb 8", Portland ,W101-69  ,24-22,Jackson  25,Pollard  16,Jasikevicius  7,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Feb 10", Golden State ,W107-95  ,25-22,Jackson  30,Stojakovic  8,Johnson  6,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sun, Feb 12", San Antonio ,L92-88  ,25-23,Jackson  17,Stojakovic  8,Jackson  5,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Feb 15", Milwaukee ,W88-77  ,26-23,Johnson  24,Foster  18,Jasikevicius  6,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Tue, Feb 21"," NO/Oklahoma City
+ ",W97-75  ,27-23,Granger  22,Granger  11,Jackson  6,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Thu, Feb 23",Detroit ,L88-83  ,27-24,Jackson  15,Pollard  11,Johnson  6,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Feb 24", Atlanta ,L117-112 OT ,27-25,Stojakovic  34,Foster  14,Johnson  7,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sun, Feb 26",New Jersey ,W101-91  ,28-25,Jones  22,Foster  16,Johnson  10,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Mar 1",Washington ,W99-93  ,29-25,Jackson  26,Foster  13,Jasikevicius  11,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Mar 3",Boston ,L99-98  ,29-26,Stojakovic  24,Foster  7,Jackson  7,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sun, Mar 5",Philadelphia ,W94-93  ,30-26,Johnson  18,Foster  8,Jackson  7,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Tue, Mar 7", New York ,L107-92  ,30-27,Stojakovic  20,Pollard  9,Johnson  6,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Mar 8",Houston ,L103-99  ,30-28,Stojakovic  29,Foster  16,Stojakovic  5,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Mar 10","NO/Oklahoma City
+ ",W92-90  ,31-28,Stojakovic  26,Foster  12,Jackson  4,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sun, Mar 12",Toronto ,L93-89  ,31-29,Jackson  26,Foster  16,Johnson  6,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Mon, Mar 13", Orlando ,W97-83  ,32-29,Granger  21,Granger  12,Tinsley  7,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Mar 15", Denver ,L101-99  ,32-30,Stojakovic  22,Foster  14,Tinsley  4,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Mar 17", Sacramento ,W98-93  ,33-30,Granger  23,Foster  16,Johnson  9,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sun, Mar 19", Boston ,L103-88  ,33-31,Stojakovic  16,Foster  12,Johnson  8,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Tue, Mar 21",Memphis ,L105-75  ,33-32,Foster  15,Stojakovic  11,Stojakovic  3,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Mar 22", Chicago ,W95-85  ,34-32,Jackson  24,Foster  14,Johnson  7,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Mar 24", Detroit ,L75-72  ,34-33,Harrison  14,Foster  9,Tinsley  5,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sun, Mar 26", Philadelphia ,W92-79  ,35-33,Jackson  23,Foster  14,Tinsley  14,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Mon, Mar 27",Miami ,L96-91  ,35-34,Jackson  22,O'Neal  7,O'Neal  6,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Mar 29",Atlanta ,L94-93  ,35-35,Stojakovic  31,Foster  11,Jones  6,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Thu, Mar 30", Phoenix ,L114-104  ,35-36,Stojakovic  25,Foster  10,Tinsley  5,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sat, Apr 1",Milwaukee ,L96-89  ,35-37,O'Neal  27,Foster  11,Tinsley  7,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Tue, Apr 4",Chicago ,L102-96  ,35-38,Jackson  22,Foster  9,Johnson  6,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Apr 5", Toronto ,W111-103  ,36-38,Stojakovic  25,Foster  12,Jasikevicius  7,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Apr 7",New York ,L98-96  ,36-39,Stojakovic  32,Foster  8,Johnson  7,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sun, Apr 9",Detroit ,L98-73  ,36-40,Jackson  15,Foster  8,Jasikevicius  6,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Mon, Apr 10", New York ,W101-82  ,37-40,Jackson  28,Croshere  11,Tinsley  7,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Apr 12", Boston ,W117-112  ,38-40,Stojakovic  25,O'Neal  15,Tinsley  9,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Fri, Apr 14", Minnesota ,W89-77  ,39-40,O'Neal  29,O'Neal  12,O'Neal  4,A,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Sat, Apr 15",Charlotte ,L92-91 OT ,39-41,O'Neal  30,O'Neal  8,Johnson  7,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Mon, Apr 17",Toronto ,W120-95  ,40-41,Stojakovic  27,O'Neal  8,Johnson  9,H,Indiana Pacers 2005-06 Regular Season NBA Schedule
+"Wed, Apr 19", Orlando ,W89-83  ,41-41,O'Neal  24,O'Neal  13,Johnson  3,A,Indiana Pacers 2005-06 Regular Season NBA Schedule

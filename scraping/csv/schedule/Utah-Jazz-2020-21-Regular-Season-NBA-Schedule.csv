@@ -1,0 +1,73 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Dec 23",Portland ,W120-100  ,1-0,Gobert  20,Gobert  17,Ingles  7,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sat, Dec 26", Minnesota ,L116-111  ,1-1,Clarkson  23,Gobert  16,Mitchell  5,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, Dec 28",Oklahoma City ,W110-109  ,2-1,Bogdanovic  23,Conley  10,Conley  9,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Thu, Dec 31", Phoenix ,L106-95  ,2-2,Mitchell  23,Gobert  14,Conley  4,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Jan 1", LA ,W106-100  ,3-2,Conley  33,Favors  11,Conley  7,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sun, Jan 3",San Antonio ,W130-109  ,4-2,Bogdanovic  28,Gobert  16,Mitchell  9,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Tue, Jan 5",Brooklyn ,L130-96  ,4-3,Mitchell  31,Gobert  11,Conley  5,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, Jan 6",New York ,L112-100  ,4-4,Clarkson  19,Gobert  11,Conley  6,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Jan 8",Milwaukee ,W131-118  ,5-4,Mitchell  32,Gobert  14,Conley  10,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sun, Jan 10",Detroit ,W96-86  ,6-4,Mitchell  28,Gobert  19,Conley  6,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Tue, Jan 12",Cleveland ,W117-87  ,7-4,Mitchell  27,Gobert  10,Conley  5,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Jan 15", Atlanta ,W116-92  ,8-4,Mitchell  26,Gobert  13,Conley  8,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sun, Jan 17",Denver ,W109-105  ,9-4,Clarkson  23,Gobert  13,Conley  8,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Tue, Jan 19", New Orleans ,W118-102  ,10-4,Mitchell  28,Gobert  18,Conley  10,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Thu, Jan 21", New Orleans ,W129-118  ,11-4,Mitchell  36,Gobert  11,Ingles  9,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sat, Jan 23", Golden State ,W127-108  ,12-4,Mitchell  23,Gobert  14,Bogdanovic  8,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Tue, Jan 26", New York ,W108-94  ,13-4,O'Neale  20,Gobert  19,Conley  5,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, Jan 27", Dallas ,W116-104  ,14-4,Clarkson  31,Gobert  20,Ingles  8,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Jan 29", Dallas ,W120-101  ,15-4,Bogdanovic  32,Gobert  12,Conley  9,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sun, Jan 31",Denver ,L128-117  ,15-5,Bogdanovic  29,Gobert  8,Conley  8,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Tue, Feb 2", Detroit ,W117-105  ,16-5,Mitchell  32,O'Neale  13,Ingles  6,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Thu, Feb 4",Atlanta ,W112-91  ,17-5,Clarkson  23,Gobert  12,Mitchell  5,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Feb 5",Charlotte ,W138-121  ,18-5,Bogdanovic  31,Gobert  15,Ingles  11,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sun, Feb 7",Indiana ,W103-95  ,19-5,Mitchell  27,Gobert  16,Mitchell  11,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Tue, Feb 9", Boston ,W122-108  ,20-5,Mitchell  36,Gobert  12,Mitchell  9,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Feb 12", Milwaukee ,W129-115  ,21-5,Gobert  27,Gobert  12,Mitchell  8,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sat, Feb 13", Miami ,W112-94  ,22-5,Mitchell  26,Gobert  12,Ingles  6,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, Feb 15", Philadelphia ,W134-123  ,23-5,Clarkson  40,Gobert  9,Mitchell  5,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, Feb 17",LA ,W114-96  ,24-5,Mitchell  24,Gobert  20,Mitchell  7,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Feb 19",LA ,L116-112  ,24-6,Mitchell  35,Gobert  15,Mitchell  5,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, Feb 22", Charlotte ,W132-110  ,25-6,Mitchell  23,Gobert  12,Mitchell  8,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, Feb 24", Los Angeles ,W114-89  ,26-6,Gobert  18,Mitchell  10,Conley  8,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Feb 26",Miami ,L124-116  ,26-7,Mitchell  30,Gobert  12,Conley  7,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sat, Feb 27",Orlando ,W124-109  ,27-7,Mitchell  31,Gobert  16,Ingles  7,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, Mar 1",New Orleans ,L129-124  ,27-8,Bogdanovic  31,Gobert  9,Mitchell  8,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, Mar 3",Philadelphia ,L131-123 OT ,27-9,Mitchell  33,O'Neale  10,Mitchell  6,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Mar 12", Houston ,W114-99  ,28-9,Mitchell  28,Gobert  13,Mitchell  8,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sun, Mar 14",Golden State ,L131-119  ,28-10,Gobert  24,Gobert  28,Ingles  7,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Tue, Mar 16",Boston ,W117-109  ,29-10,Mitchell  21,Gobert  12,Mitchell  5,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Thu, Mar 18",Washington ,L131-122  ,29-11,Mitchell  42,Gobert  13,Mitchell  6,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Mar 19",Toronto ,W115-112  ,30-11,Mitchell  31,Gobert  16,Mitchell  6,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, Mar 22",Chicago ,W120-95  ,31-11,Mitchell  30,Gobert  10,Mitchell  6,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, Mar 24", Brooklyn ,W118-88  ,32-11,Mitchell  27,Gobert  11,Mitchell  7,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Mar 26", Memphis ,W117-114  ,33-11,Mitchell  35,O'Neale  10,Conley  8,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sat, Mar 27", Memphis ,W126-110  ,34-11,Mitchell  35,Gobert  14,Mitchell  7,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, Mar 29", Cleveland ,W114-75  ,35-11,Mitchell  19,Gobert  17,Conley  5,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, Mar 31",Memphis ,W111-107  ,36-11,Conley  26,Gobert  12,Conley  7,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Apr 2", Chicago ,W113-106  ,37-11,Mitchell  26,Gobert  13,Mitchell  5,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sat, Apr 3", Orlando ,W137-91  ,52-20,Mitchell  22,Ingles  6,Clarkson  9,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, Apr 5",Dallas ,L111-103  ,38-12,Conley  28,Gobert  15,Conley  7,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, Apr 7",Phoenix ,L117-113 OT ,38-13,Mitchell  41,Gobert  18,Conley  4,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Thu, Apr 8", Portland ,W122-103  ,39-13,Mitchell  37,Gobert  20,Ingles  6,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sat, Apr 10", Sacramento ,W128-112  ,40-13,Mitchell  42,O'Neale  14,Ingles  6,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, Apr 12", Washington ,L125-121  ,40-14,Mitchell  42,Gobert  12,Mitchell  6,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Tue, Apr 13", Oklahoma City ,W106-96  ,41-14,Bogdanovic  23,Gobert  14,Conley  14,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Apr 16", Indiana ,W119-111  ,42-14,Bogdanovic  24,Gobert  23,Conley  10,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sat, Apr 17",Los Angeles ,L127-115 OT ,42-15,Clarkson  27,O'Neale  8,Ingles  14,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, Apr 19",Los Angeles ,W111-97  ,43-15,Clarkson  22,Gobert  10,Conley  10,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, Apr 21",Houston ,W112-89  ,44-15,Clarkson  22,Gobert  18,Conley  13,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sat, Apr 24", Minnesota ,L101-96  ,44-16,Bogdanovic  30,Gobert  17,Conley  7,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, Apr 26",Minnesota ,L105-104  ,52-20,Conley  26,O'Neale  10,Clarkson  8,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, Apr 28",Sacramento ,W154-105  ,45-17,Bogdanovic  24,Favors  11,Ingles  7,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, Apr 30",Phoenix ,L121-100  ,45-18,Bogdanovic  22,Gobert  10,Clarkson  4,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sat, May 1", Toronto ,W106-102  ,46-18,Bogdanovic  34,Gobert  16,Ingles  9,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, May 3", San Antonio ,W110-99  ,47-18,Bogdanovic  25,Gobert  15,Ingles  9,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, May 5", San Antonio ,W126-94  ,48-18,Clarkson  30,Gobert  8,Ingles  7,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, May 7", Denver ,W127-120  ,49-18,Bogdanovic  48,Gobert  9,Ingles  9,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sat, May 8", Houston ,W124-116  ,50-18,Niang  24,Gobert  14,Ingles  7,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Mon, May 10",Golden State ,L119-116  ,50-19,Clarkson  41,Gobert  16,Ingles  5,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Wed, May 12", Portland ,L105-98  ,50-20,Clarkson  29,Gobert  20,Ingles  4,A,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Fri, May 14",Oklahoma City ,W109-93  ,51-20,Bogdanovic  22,Gobert  18,Ingles  5,H,Utah Jazz 2020-21 Regular Season NBA Schedule
+"Sun, May 16",Sacramento ,W121-99  ,52-20,Clarkson  33,Gobert  16,Conley  9,H,Utah Jazz 2020-21 Regular Season NBA Schedule

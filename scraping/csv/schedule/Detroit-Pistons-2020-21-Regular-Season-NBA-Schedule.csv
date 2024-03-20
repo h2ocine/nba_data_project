@@ -1,0 +1,73 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Dec 23",Minnesota ,L111-101  ,0-1,Jackson  19,Doumbouya  9,Rose  6,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, Dec 26", Cleveland ,L128-119 2OT ,0-2,Grant  28,Grant  10,Plumlee  5,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Mon, Dec 28",Atlanta ,L128-120  ,0-3,Grant  27,Plumlee  12,Hayes  8,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Tue, Dec 29", Golden State ,L116-106  ,0-4,Grant  27,Plumlee  10,Rose  7,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Fri, Jan 1", Boston ,W96-93  ,1-4,Grant  24,Plumlee  17,Hayes  6,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sun, Jan 3", Boston ,L122-120  ,1-5,Grant  22,Plumlee  8,Rose  8,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Mon, Jan 4",Milwaukee ,L125-115  ,1-6,Grant  24,Plumlee  8,Rose  8,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Jan 6",Milwaukee ,L130-115  ,1-7,Grant  31,Grant  10,Griffin  5,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Fri, Jan 8", Phoenix ,W110-105 OT ,2-7,Grant  31,Griffin  12,Wright  6,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sun, Jan 10", Utah ,L96-86  ,2-8,Grant  28,Plumlee  8,Griffin  5,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Jan 13", Milwaukee ,L110-101  ,2-9,Grant  22,Plumlee  13,Wright  7,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, Jan 16",Miami ,W120-100  ,3-9,Grant  24,Stewart  11,Wright  10,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Mon, Jan 18",Miami ,L113-107  ,3-10,Grant  27,Plumlee  7,Grant  6,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Jan 20",Atlanta ,L123-115 OT ,3-11,Grant  32,Plumlee  9,Grant  5,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Fri, Jan 22", Houston ,L103-102  ,3-12,Grant  21,Griffin  10,Plumlee  4,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, Jan 23", Philadelphia ,L114-110  ,3-13,Ellington  17,Grant  9,Wright  6,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Mon, Jan 25", Philadelphia ,W119-104  ,4-13,Wright  28,Plumlee  10,Wright  9,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Jan 27",Cleveland ,L122-107  ,4-14,Grant  26,Plumlee  12,Wright  7,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Thu, Jan 28", Los Angeles ,W107-92  ,5-14,Griffin  23,Plumlee  10,Griffin  6,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, Jan 30",Golden State ,L118-91  ,5-15,Grant  18,Jackson  6,Wright  4,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Tue, Feb 2",Utah ,L117-105  ,5-16,Grant  27,Plumlee  14,Grant  4,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Fri, Feb 5",Phoenix ,L109-92  ,5-17,Grant  21,Stewart  10,Wright  6,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, Feb 6",Los Angeles ,L135-129 2OT ,5-18,Grant  32,Jackson  8,Wright  10,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Tue, Feb 9", Brooklyn ,W122-111  ,6-18,Grant  32,Plumlee  12,Wright  9,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Thu, Feb 11", Indiana ,L111-95  ,6-19,Jackson  18,Jackson  8,Griffin  6,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Fri, Feb 12",Boston ,W108-102  ,7-19,Bey  30,Bey  12,Wright  7,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sun, Feb 14", New Orleans ,W123-112  ,8-19,Jackson  21,Plumlee  10,Plumlee  10,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Feb 17",Chicago ,L105-102  ,8-20,Grant  43,Plumlee  8,Wright  4,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Fri, Feb 19",Memphis ,L109-95  ,8-21,Wright  16,Plumlee  15,Plumlee  6,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sun, Feb 21",Orlando ,L105-96  ,8-22,Grant  24,Jackson  10,Lee  5,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Tue, Feb 23",Orlando ,W105-93  ,9-22,Lee  21,Plumlee  12,Grant  6,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Feb 24",New Orleans ,L128-118  ,9-23,Jackson  25,Stewart  10,Plumlee  7,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Fri, Feb 26", Sacramento ,L110-107  ,9-24,Grant  30,Stewart  11,Smith Jr.  6,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sun, Feb 28", New York ,L109-90  ,9-25,Grant  21,Stewart  10,Lee  4,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Mar 3",Toronto ,W129-105  ,10-25,Ellington  25,Smith Jr.  12,Smith Jr.  11,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Thu, Mar 4",New York ,L114-104  ,10-26,Ellington  17,Plumlee  13,Mykhailiuk  5,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Thu, Mar 11",Charlotte ,L105-102  ,10-27,Grant  32,Grant  8,Mykhailiuk  8,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, Mar 13",Brooklyn ,L100-95  ,10-28,Grant  22,Plumlee  9,Plumlee  6,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Mon, Mar 15", San Antonio ,L109-99  ,10-29,Jackson  15,Plumlee  12,Wright  8,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Mar 17", Toronto ,W116-112  ,11-29,Bey  28,Plumlee  14,Wright  8,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Fri, Mar 19",Houston ,W113-100  ,12-29,Jackson  23,Plumlee  16,Wright  8,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sun, Mar 21", Chicago ,L100-86  ,12-30,Grant  26,Plumlee  10,Smith Jr.  5,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Mar 24",Indiana ,L116-111  ,12-31,Grant  29,Plumlee  10,Jackson  5,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Fri, Mar 26", Brooklyn ,L113-111  ,12-32,Grant  19,Plumlee  10,Plumlee  5,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, Mar 27",Washington ,L106-92  ,12-33,Ellington  15,Stewart  8,Lee  5,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Mon, Mar 29", Toronto ,W118-104  ,13-33,Diallo  19,Diallo  10,Lee  5,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Mar 31", Portland ,L124-101  ,13-34,Grant  30,Diallo  7,Joseph  9,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Thu, Apr 1", Washington ,W120-91  ,14-34,Jackson  31,Plumlee  11,Plumlee  7,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, Apr 3", New York ,L125-81  ,14-35,Grant  16,Plumlee  10,Jackson  3,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Mon, Apr 5",Oklahoma City ,W132-108  ,15-35,Grant  21,Diallo  8,Hayes  7,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Tue, Apr 6",Denver ,L134-119  ,15-36,Grant  29,Stewart  8,Lee  7,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Thu, Apr 8",Sacramento ,W113-101  ,16-36,Joseph  24,Stewart  13,Joseph  7,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, Apr 10",Portland ,L118-103  ,16-37,Jackson  21,Bey  6,Joseph  8,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sun, Apr 11",LA ,L131-124  ,16-38,Jackson  26,Stewart  6,Joseph  13,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Apr 14", LA ,L100-98  ,16-39,Grant  28,Plumlee  9,Hayes  6,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Fri, Apr 16", Oklahoma City ,W110-104  ,17-39,Jackson  29,Stewart  21,Hayes  7,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, Apr 17",Washington ,L121-100  ,17-40,Stewart  19,Stewart  12,Grant  4,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Mon, Apr 19", Cleveland ,W109-105  ,18-40,Bey  20,Stewart  16,Hayes  9,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Wed, Apr 21",Dallas ,L127-117  ,18-41,Grant  26,Plumlee  16,Plumlee  7,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Thu, Apr 22",San Antonio ,L106-91  ,18-42,Jackson  29,Stewart  13,Hayes  5,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, Apr 24",Indiana ,L115-109  ,18-43,Grant  25,Plumlee  21,Plumlee  5,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Mon, Apr 26", Atlanta ,W100-86  ,19-43,Grant  18,Stewart  11,Hayes  5,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Thu, Apr 29", Dallas ,L115-105  ,19-44,Stewart  20,Stewart  10,Hayes  11,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, May 1",Charlotte ,L107-94  ,19-45,Jackson  25,Jackson  7,Lee  7,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Mon, May 3", Orlando ,L119-112  ,19-46,Bey  26,Bey  9,Lee  7,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Tue, May 4", Charlotte ,L102-99  ,19-47,Diallo  35,Bey  9,Hayes  7,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Thu, May 6", Memphis ,W111-97  ,20-47,Joseph  18,Stewart  7,Joseph  11,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sat, May 8",Philadelphia ,L118-104  ,20-48,Bey  14,Bey  7,Hayes  6,H,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sun, May 9", Chicago ,L108-96  ,20-49,Hayes  21,Hayes  7,Hayes  8,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Tue, May 11", Minnesota ,L119-100  ,20-50,Lee  22,Doumbouya  8,Hayes  7,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Fri, May 14", Denver ,L104-91  ,20-51,Diallo  18,Diallo  12,Jackson  7,A,Detroit Pistons 2020-21 Regular Season NBA Schedule
+"Sun, May 16", Miami ,L120-107  ,20-52,Bey  22,Cook  9,Lee  7,A,Detroit Pistons 2020-21 Regular Season NBA Schedule

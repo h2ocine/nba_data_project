@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 25", San Antonio ,L129-100  ,0-1,Durant  27,Green  12,Green  6,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Oct 28",New Orleans ,W122-114  ,1-1,Durant  30,Durant  17,Curry  8,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sun, Oct 30",Phoenix ,W106-100  ,2-1,Durant  37,Green  13,Green  9,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Tue, Nov 1",Portland ,W127-104  ,3-1,Curry  28,Green  8,Green  9,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Thu, Nov 3", Oklahoma City ,W122-96  ,4-1,Durant  39,Green  10,Curry  7,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Nov 4",Los Angeles ,L117-97  ,4-2,Durant  27,Green  9,Curry  10,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Nov 7", New Orleans ,W116-106  ,5-2,Curry  46,Green  12,Green  11,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Nov 9", Dallas ,W116-95  ,6-2,Durant  28,Durant  10,Curry  6,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Thu, Nov 10",Denver ,W125-101  ,7-2,Curry  33,Durant  9,Curry  6,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sun, Nov 13", Phoenix ,W133-120  ,8-2,Curry  30,Durant  9,Green  11,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Nov 16",Toronto ,W127-121  ,9-2,Curry  35,Durant  9,Curry  7,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Nov 18",Boston ,W104-88  ,10-2,Thompson  28,Pachulia  13,Curry  8,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Nov 19",Milwaukee ,W124-121  ,11-2,Durant  33,Pachulia  10,Durant  5,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Nov 21",Indiana ,W120-83  ,12-2,Thompson  25,Durant  11,Green  7,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Nov 23", Los Angeles ,W149-106  ,13-2,Curry  31,Green  9,Green  11,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Nov 25",Los Angeles ,W109-85  ,14-2,Durant  29,Green  8,Durant  9,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Nov 26", Minnesota ,W115-102  ,15-2,Curry  34,Durant  10,Curry  6,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Nov 28", Atlanta ,W105-100  ,16-2,Durant  25,Durant  14,Green  7,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Thu, Dec 1", Houston ,L132-127 2OT ,16-3,Durant  39,Green  15,Green  9,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Dec 3", Phoenix ,W138-109  ,17-3,Curry  31,Iguodala  6,Green  14,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Dec 5", Indiana ,W142-106  ,18-3,Thompson  60,Durant  8,Curry  11,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Dec 7",LA ,W115-98  ,19-3,Thompson  24,Durant  8,Durant  7,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Thu, Dec 8",Utah ,W106-99  ,20-3,Curry  26,Durant  11,Green  8,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Dec 10",Memphis ,L110-89  ,20-4,Durant  21,Curry  8,West  4,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sun, Dec 11",Minnesota ,W116-108  ,21-4,Thompson  30,Durant  8,Curry  9,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Tue, Dec 13",New Orleans ,W113-109  ,22-4,Curry  30,Green  14,Green  10,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Thu, Dec 15", New York ,W103-90  ,23-4,Thompson  25,Durant  14,Durant  8,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Dec 17", Portland ,W135-90  ,24-4,Durant  34,Green  12,Green  13,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Tue, Dec 20", Utah ,W104-74  ,25-4,Curry  25,Green  11,Curry  4,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Thu, Dec 22",Brooklyn ,W117-101  ,26-4,Durant  26,Pachulia  14,Durant  7,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Dec 23",Detroit ,W119-113  ,27-4,Durant  32,Green  9,Green  12,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sun, Dec 25",Cleveland ,L109-108  ,27-5,Durant  36,Durant  15,West  5,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Dec 28", Toronto ,W121-111  ,28-5,Curry  28,Durant  17,Green  10,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Dec 30", Dallas ,W108-99  ,29-5,Thompson  29,Durant  11,Durant  10,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Jan 2", Denver ,W127-119  ,30-5,Thompson  25,Green  10,Green  13,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Jan 4", Portland ,W125-117  ,31-5,Curry  35,Curry  7,Green  11,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Jan 6", Memphis ,L128-119 OT ,31-6,Curry  40,Durant  13,Curry  6,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sun, Jan 8",Sacramento ,W117-106  ,32-6,Curry  30,Durant  7,Green  10,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Tue, Jan 10", Miami ,W107-95  ,33-6,Durant  28,Green  9,Curry  9,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Thu, Jan 12", Detroit ,W127-107  ,34-6,Durant  25,Green  9,Green  13,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Jan 16", Cleveland ,W126-91  ,35-6,Thompson  26,Green  13,Curry  11,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Jan 18", Oklahoma City ,W121-100  ,36-6,Durant  40,Durant  12,Curry  8,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Jan 20",Houston ,W125-108  ,37-6,Durant  32,Green  9,Green  8,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sun, Jan 22",Orlando ,W118-98  ,38-6,Curry  27,Durant  10,Curry  6,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Jan 23",Miami ,L105-102  ,38-7,Durant  27,Pachulia  10,Curry  8,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Jan 25",Charlotte ,W113-103  ,39-7,Durant  33,Iguodala  10,Curry  7,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Jan 28", LA ,W144-98  ,40-7,Curry  43,Curry  9,Durant  7,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sun, Jan 29",Portland ,W113-111  ,41-7,Durant  33,Durant  10,Durant  6,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Feb 1", Charlotte ,W126-111  ,42-7,Curry  39,Green  10,Curry  8,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Thu, Feb 2",LA ,W133-120  ,43-7,Curry  29,McAdoo  9,Curry  11,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Feb 4",Sacramento ,L109-106 OT ,43-8,Curry  35,Durant  9,Curry  9,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Feb 8", Chicago ,W123-92  ,44-8,Thompson  28,Durant  10,Durant  7,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Feb 10",Memphis ,W122-107  ,45-8,Thompson  36,Green  11,Green  10,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Feb 11",Oklahoma City ,W130-114  ,46-8,Durant  34,Durant  9,Curry  9,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Feb 13",Denver ,L132-110  ,46-9,Durant  25,McGee  7,Green  6,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Feb 15", Sacramento ,W109-86  ,47-9,Thompson  35,McGee  10,Curry  9,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Thu, Feb 23", LA ,W123-113  ,48-9,Curry  35,Durant  15,Durant  7,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Feb 25", Brooklyn ,W112-95  ,49-9,Curry  27,Pachulia  9,Iguodala  9,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Feb 27",Philadelphia ,W119-108  ,50-9,Durant  27,Iguodala  10,Green  11,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Tue, Feb 28",Washington ,L112-108  ,50-10,Curry  25,Green  8,Green  14,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Thu, Mar 2",Chicago ,L94-87  ,50-11,Curry  23,Green  8,Green  7,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sun, Mar 5",New York ,W112-105  ,51-11,Curry  31,Curry  8,Curry  6,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Mar 6",Atlanta ,W119-111  ,52-11,Iguodala  24,Green  8,Curry  9,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Mar 8", Boston ,L99-86  ,52-12,Thompson  25,Green  8,Curry  6,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Mar 10",Minnesota ,L103-102  ,52-13,Thompson  30,Green  7,Curry  7,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Mar 11",San Antonio ,L107-85  ,52-14,Clark  36,Pachulia  12,Barnes  4,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Tue, Mar 14", Philadelphia ,W106-104  ,53-14,Curry  29,Green  9,Green  8,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Thu, Mar 16", Orlando ,W122-92  ,54-14,Thompson  29,Green  11,Curry  9,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Mar 18", Milwaukee ,W117-92  ,55-14,Curry  28,Barnes  10,Green  10,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Mar 20",Oklahoma City ,W111-95  ,56-14,Thompson  34,Green  10,Curry  6,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Tue, Mar 21",Dallas ,W112-87  ,57-14,Thompson  23,Green  7,Curry  9,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Mar 24", Sacramento ,W114-100  ,58-14,Curry  27,McGee  10,Curry  12,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sun, Mar 26", Memphis ,W106-94  ,59-14,Thompson  31,Iguodala  7,Curry  11,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Tue, Mar 28",Houston ,W113-106  ,60-14,Curry  32,Curry  10,Curry  7,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Mar 29",San Antonio ,W110-98  ,61-14,Curry  29,Iguodala  6,Curry  11,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Fri, Mar 31", Houston ,W107-98  ,62-14,Curry  24,Thompson  8,Green  8,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sun, Apr 2", Washington ,W139-115  ,63-14,Curry  42,Green  11,Green  13,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Tue, Apr 4", Minnesota ,W121-107  ,64-14,Thompson  41,Pachulia  7,Curry  9,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Apr 5",Phoenix ,W120-111  ,65-14,Curry  42,Barnes  8,Curry  11,H,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Sat, Apr 8", New Orleans ,W123-101  ,66-14,Thompson  20,Durant  10,Durant  6,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Mon, Apr 10", Utah ,L105-99  ,66-15,Curry  28,Durant  10,Durant  6,A,Golden State Warriors 2016-17 Regular Season NBA Schedule
+"Wed, Apr 12", Los Angeles ,W109-94  ,67-15,Durant  29,Durant  8,Curry  8,A,Golden State Warriors 2016-17 Regular Season NBA Schedule

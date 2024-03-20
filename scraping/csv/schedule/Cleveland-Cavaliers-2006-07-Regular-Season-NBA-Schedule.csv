@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Nov 1", Washington ,W97-94  ,1-0,Hughes  27,Gooden  11,Hughes  5,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Nov 3",San Antonio ,W88-81  ,2-0,James  35,Ilgauskas  11,Snow  6,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Nov 4",Charlotte ,L92-88  ,2-1,Gooden  21,Gooden  16,James  7,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Nov 7", Atlanta ,L104-95 OT ,2-2,James  34,Gooden  14,James  6,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Thu, Nov 9", Chicago ,W113-94  ,3-2,Gooden  20,Gooden  9,James  12,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Nov 11", Boston ,W94-93  ,4-2,James  38,Varejao  10,James  5,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Mon, Nov 13",New York ,W102-96  ,5-2,James  29,Gooden  11,James  6,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Nov 15", Portland ,W100-87  ,6-2,James  32,Marshall  8,James  7,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Nov 17", Minnesota ,W92-76  ,7-2,James  37,James  9,James  6,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Nov 18",Washington ,L111-99  ,7-3,James  20,Gooden  7,Snow  8,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Nov 21", Memphis ,W97-94  ,8-3,Gooden  22,Gooden  15,James  9,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Nov 22",Toronto ,L95-87  ,8-4,James  30,James  10,James  8,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Nov 24",Indiana ,L97-87  ,8-5,James  30,Gooden  12,James  5,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Nov 25", Philadelphia ,W108-95  ,9-5,James  25,Ilgauskas  15,James  11,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Nov 29", New York ,L101-98  ,9-6,James  27,Ilgauskas  12,Snow  9,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Dec 1",Atlanta ,W106-95  ,10-6,James  31,James  7,James  8,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Dec 2",Houston ,L81-63  ,10-7,James  21,Varejao  9,James  4,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Dec 6", Toronto ,W95-91  ,11-7,James  26,Varejao  11,James  10,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Dec 9", Indiana ,W107-75  ,12-7,James  27,Marshall  17,James  6,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Mon, Dec 11",NO/Oklahoma City ,L95-89  ,12-8,Varejao  17,Ilgauskas  12,Snow  7,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Dec 13", Charlotte ,W104-101  ,13-8,James  22,Varejao  10,James  7,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Dec 15", Seattle ,W106-84  ,14-8,Hughes  25,Varejao  13,James  7,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Dec 16",Orlando ,L81-74  ,14-9,James  29,Gooden  12,James  5,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Dec 20",New Jersey ,L113-111  ,14-10,James  37,Ilgauskas  11,James  8,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Thu, Dec 21", Detroit ,L87-71  ,14-11,James  26,James  10,James  5,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Dec 23", Orlando ,W86-83  ,15-11,James  32,Gooden  12,Snow  4,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Dec 27",Atlanta ,W89-76  ,16-11,James  27,Ilgauskas  10,Hughes  4,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Dec 29", Milwaukee ,W109-99  ,17-11,James  32,Marshall  10,Snow  10,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Dec 30",Chicago ,L103-96  ,17-12,James  33,Gooden  12,James  3,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Jan 2", San Antonio ,W82-78  ,18-12,James  19,Ilgauskas  13,James  5,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Jan 3",Boston ,W107-104  ,19-12,James  32,Gooden  12,Snow  6,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Jan 5",Milwaukee ,W95-86  ,20-12,Gooden  31,Gooden  16,James  9,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Jan 6", New Jersey ,W96-91  ,21-12,Gooden  21,James  13,Snow  7,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Jan 9",Sacramento ,W108-98  ,22-12,James  34,Gooden  11,James  7,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Thu, Jan 11",Phoenix ,L109-90  ,22-13,James  34,Ilgauskas  9,James  6,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Jan 13",LA ,W104-92  ,23-13,James  28,Varejao  12,James  6,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Jan 16",Seattle ,L101-96  ,23-14,James  30,Ilgauskas  11,James  8,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Jan 17",Portland ,L94-76  ,23-15,James  23,Varejao  11,Gibson  3,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Jan 19",Denver ,L110-99  ,23-16,James  30,James  10,James  10,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Jan 20",Golden State ,W106-104 OT ,24-16,James  32,Varejao  12,Snow  11,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Mon, Jan 22", Orlando ,L90-79  ,24-17,James  18,Gooden  11,Hughes  7,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Jan 24", Philadelphia ,L118-115 2OT ,24-18,James  39,James  10,James  5,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Jan 26",Philadelphia ,W105-97  ,25-18,Gooden  21,Gooden  10,Gibson  5,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sun, Jan 28", Phoenix ,L115-100  ,25-19,James  30,Gooden  14,James  5,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Jan 30", Golden State ,W124-97  ,26-19,Pavlovic  24,Ilgauskas  10,Snow  6,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Thu, Feb 1",Miami ,L92-89  ,26-20,Gibson  19,Gooden  9,James  9,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Feb 2", Charlotte ,W101-81  ,27-20,James  18,Varejao  13,Pavlovic  5,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sun, Feb 4", Detroit ,L90-78  ,27-21,James  21,Ilgauskas  11,James  6,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Feb 7", LA ,W94-77  ,28-21,Ilgauskas  16,Ilgauskas  16,Ilgauskas  4,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Feb 9", Miami ,W103-79  ,29-21,James  29,Gooden  13,Snow  7,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sun, Feb 11", Los Angeles ,W99-90  ,30-21,Pavlovic  21,Gooden  9,Snow  6,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Feb 14",Utah ,L99-98  ,30-22,Hughes  33,Varejao  17,Gibson  5,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Thu, Feb 15",Los Angeles ,W114-108  ,31-22,James  38,Varejao  11,Snow  5,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Feb 21",Toronto ,W86-85  ,32-22,James  29,Varejao  15,Hughes  5,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Thu, Feb 22", Chicago ,L84-78  ,32-23,James  29,Hughes  8,Snow  5,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sun, Feb 25",Miami ,L86-81  ,32-24,James  29,Varejao  12,James  7,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Feb 27", NO/Oklahoma City ,W97-89  ,33-24,James  35,Ilgauskas  9,James  8,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Thu, Mar 1",Dallas ,L95-92  ,33-25,James  39,Varejao  12,James  5,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Mar 3", Toronto ,W120-97  ,34-25,James  36,Varejao  11,James  6,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Mon, Mar 5", Houston ,W91-85  ,35-25,James  32,James  12,James  8,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Mar 7",Detroit ,W101-97 OT ,36-25,James  41,Gooden  10,James  8,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Mar 10",Milwaukee ,W94-92  ,37-25,James  32,Varejao  10,James  9,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sun, Mar 11", Indiana ,W99-88  ,38-25,James  26,Gooden  8,Hughes  7,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Mar 13", Sacramento ,W124-100  ,39-25,Hughes  25,Ilgauskas  10,Hughes  7,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Mar 14",Memphis ,W118-96  ,40-25,James  29,Gooden  12,Hughes  6,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Mar 17", Utah ,W82-73  ,41-25,James  24,James  17,James  9,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Mar 20",Charlotte ,L108-100 OT ,41-26,James  37,Ilgauskas  9,Snow  7,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Mar 21", Dallas ,L98-90  ,41-27,James  31,Gooden  8,Hughes  7,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Mar 23", New York ,W90-68  ,42-27,James  21,Varejao  7,James  10,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sun, Mar 25", Denver ,L105-93  ,42-28,Ilgauskas  18,Gooden  10,James  8,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Mar 27",Indiana ,W105-94  ,43-28,James  26,James  7,James  6,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Mar 28",New York ,L97-93  ,43-29,James  24,Gooden  7,James  7,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Mar 31",Chicago ,W112-108 OT ,44-29,James  39,Gooden  14,James  9,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sun, Apr 1",Boston ,L98-96  ,44-30,Hughes  24,Varejao  8,Snow  8,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Apr 3",Minnesota ,W101-88  ,45-30,James  31,Gooden  13,Hughes  10,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Thu, Apr 5", Miami ,L94-90 OT ,45-31,James  35,Gooden  14,James  5,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Fri, Apr 6",Washington ,W99-94  ,46-31,James  25,Ilgauskas  8,James  5,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sun, Apr 8",Detroit ,L87-82  ,46-32,James  20,Gooden  12,James  6,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Thu, Apr 12", New Jersey ,W94-76  ,47-32,James  35,Ilgauskas  9,Hughes  6,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Sat, Apr 14", Atlanta ,W110-76  ,48-32,James  23,Ilgauskas  11,James  6,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Tue, Apr 17",Philadelphia ,W98-92  ,49-32,Hughes  22,Ilgauskas  8,Snow  8,H,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule
+"Wed, Apr 18", Milwaukee ,W109-96  ,50-32,James  24,Varejao  12,James  9,A,Cleveland Cavaliers 2006-07 Regular Season NBA Schedule

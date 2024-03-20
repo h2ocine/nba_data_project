@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 18", Brooklyn ,W140-131  ,1-0,Oladipo  22,Turner  14,Collison  11,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Oct 20", Portland ,L114-96  ,1-1,Oladipo  17,Sabonis  8,Collison  4,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sat, Oct 21",Miami ,L112-108  ,1-2,Oladipo  28,Sabonis  12,Collison  8,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Tue, Oct 24",Minnesota ,W130-107  ,2-2,Oladipo  28,Sabonis  11,Collison  16,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Oct 25",Oklahoma City ,L114-96  ,2-3,Oladipo  35,Sabonis  11,Collison  3,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Oct 29", San Antonio ,W97-94  ,3-3,Oladipo  23,Sabonis  12,Collison  6,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Tue, Oct 31", Sacramento ,W101-83  ,4-3,Bogdanovic  17,Sabonis  16,Sabonis  5,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Nov 1",Cleveland ,W124-107  ,5-3,Young  26,Sabonis  12,Collison  8,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Nov 3",Philadelphia ,L121-110  ,5-4,Oladipo  31,Turner  9,Oladipo  7,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Nov 5",New York ,L108-101  ,5-5,Young  18,Sabonis  8,Collison  10,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Tue, Nov 7", New Orleans ,L117-112  ,5-6,Turner  21,Turner  12,Collison  6,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Nov 8",Detroit ,L114-97  ,5-7,Oladipo  21,Bogdanovic  7,Joseph  6,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Nov 10",Chicago ,W105-87  ,6-7,Oladipo  25,Turner  9,Joseph  7,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Nov 12", Houston ,L118-95  ,6-8,Oladipo  28,Stephenson  10,Stephenson  3,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Nov 15",Memphis ,W116-113  ,7-8,Collison  30,Stephenson  7,Collison  8,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Nov 17", Detroit ,W107-100  ,8-8,Oladipo  21,Oladipo  15,Collison  6,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Nov 19",Miami ,W120-95  ,9-8,Bogdanovic  26,Sabonis  10,Collison  10,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Mon, Nov 20",Orlando ,W105-97  ,10-8,Oladipo  29,Stephenson  10,Collison  8,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Nov 24", Toronto ,W107-104  ,11-8,Oladipo  21,Turner  10,Collison  8,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sat, Nov 25", Boston ,L108-98  ,11-9,Turner  19,Stephenson  8,Stephenson  5,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Mon, Nov 27", Orlando ,W121-109  ,12-9,Oladipo  26,Sabonis  8,Oladipo  5,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Nov 29",Houston ,L118-97  ,12-10,Young  23,Turner  10,Oladipo  5,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Dec 1",Toronto ,L120-115  ,12-11,Oladipo  36,Sabonis  8,Oladipo  6,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Mon, Dec 4", New York ,W115-97  ,13-11,Young  20,Sabonis  12,Collison  10,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Dec 6", Chicago ,W98-96  ,14-11,Oladipo  27,Young  9,Turner  6,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Dec 8", Cleveland ,W106-102  ,15-11,Oladipo  33,Sabonis  9,Oladipo  5,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Dec 10", Denver ,W126-116 OT ,16-11,Oladipo  47,Turner  8,Oladipo  6,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Dec 13", Oklahoma City ,L100-95  ,16-12,Oladipo  19,Young  10,Oladipo  6,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Dec 15", Detroit ,L104-98  ,16-13,Oladipo  26,Oladipo  8,Stephenson  5,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Dec 17",Brooklyn ,W109-97  ,17-13,Oladipo  26,Sabonis  8,Collison  7,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Mon, Dec 18", Boston ,L112-111  ,17-14,Oladipo  38,Sabonis  7,Stephenson  3,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Dec 20",Atlanta ,W105-95  ,18-14,Oladipo  23,Stephenson  8,Stephenson  6,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sat, Dec 23", Brooklyn ,W123-119 OT ,19-14,Oladipo  38,Turner  9,Collison  9,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Tue, Dec 26",Detroit ,L107-83  ,19-15,Oladipo  13,Stephenson  6,Oladipo  3,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Dec 27", Dallas ,L98-94  ,19-16,Stephenson  16,Stephenson  15,Collison  7,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Dec 29",Chicago ,L119-107  ,19-17,Collison  30,Stephenson  9,Collison  5,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Dec 31", Minnesota ,L107-90  ,19-18,Young  20,Sabonis  11,Joseph  4,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Jan 3",Milwaukee ,L122-101  ,19-19,Sabonis  24,Stephenson  7,Joseph  6,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sat, Jan 6", Chicago ,W125-86  ,20-19,Oladipo  23,Joseph  10,Oladipo  9,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Mon, Jan 8", Milwaukee ,W109-96  ,21-19,Sabonis  17,Sabonis  10,Collison  7,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Jan 10", Miami ,L114-106  ,21-20,Oladipo  26,Young  9,Oladipo  4,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Jan 12", Cleveland ,W97-95  ,22-20,Collison  22,Sabonis  15,Collison  4,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Jan 14",Phoenix ,W120-97  ,23-20,Collison  19,Sabonis  14,Joseph  6,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Mon, Jan 15",Utah ,W109-94  ,24-20,Oladipo  28,Jefferson  10,Oladipo  6,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Thu, Jan 18",Portland ,L100-86  ,24-21,Oladipo  23,Young  14,Oladipo  3,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Jan 19",Los Angeles ,L99-86  ,24-22,Oladipo  25,Sabonis  14,Oladipo  4,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Jan 21",San Antonio ,W94-86  ,25-22,Oladipo  19,Stephenson  8,Collison  4,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Jan 24", Phoenix ,W116-101  ,26-22,Young  22,Stephenson  9,Oladipo  9,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Jan 26",Cleveland ,L115-108  ,26-23,Oladipo  25,Sabonis  11,Oladipo  7,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sat, Jan 27", Orlando ,W114-112  ,27-23,Oladipo  24,Sabonis  9,Collison  7,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Mon, Jan 29", Charlotte ,W105-96  ,28-23,Oladipo  25,Sabonis  10,Collison  6,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Jan 31", Memphis ,W105-101  ,29-23,Bogdanovic  21,Turner  11,Oladipo  5,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Feb 2",Charlotte ,L133-126  ,29-24,Oladipo  35,Turner  11,Collison  4,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sat, Feb 3", Philadelphia ,W100-92  ,30-24,Oladipo  19,Stephenson  9,Sabonis  6,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Mon, Feb 5", Washington ,L111-102  ,30-25,Bogdanovic  29,Stephenson  9,Stephenson  6,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Feb 9",Boston ,W97-91  ,31-25,Oladipo  35,Young  14,Joseph  7,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Feb 11", New York ,W121-113  ,32-25,Oladipo  30,Young  11,Oladipo  9,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Feb 14",Brooklyn ,W108-103  ,33-25,Oladipo  25,Turner  14,Oladipo  4,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Feb 23", Atlanta ,W116-93  ,34-25,Sabonis  21,Sabonis  13,Oladipo  9,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Mon, Feb 26",Dallas ,L109-103  ,34-26,Turner  24,Young  14,Oladipo  4,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Feb 28",Atlanta ,L107-102  ,34-27,Bogdanovic  26,Sabonis  12,Oladipo  5,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Mar 2",Milwaukee ,W103-96  ,35-27,Oladipo  21,Turner  9,Oladipo  6,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Mar 4",Washington ,W98-95  ,36-27,Oladipo  33,Turner  13,Oladipo  3,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Mon, Mar 5", Milwaukee ,W92-89  ,37-27,Bogdanovic  29,Young  7,Oladipo  5,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Mar 7", Utah ,L104-84  ,37-28,Turner  24,Sabonis  9,Oladipo  7,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Mar 9", Atlanta ,W112-87  ,38-28,Bogdanovic  21,Turner  13,Oladipo  5,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Mar 11",Boston ,W99-97  ,39-28,Oladipo  27,Turner  10,Collison  10,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Tue, Mar 13",Philadelphia ,W101-98  ,40-28,Turner  25,Young  10,Joseph  5,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Thu, Mar 15", Toronto ,L106-99  ,40-29,Collison  22,Jefferson  12,Collison  4,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sat, Mar 17",Washington ,L109-102  ,40-30,Stephenson  25,Jefferson  9,Collison  6,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Mon, Mar 19", Los Angeles ,W110-100  ,41-30,Turner  21,Young  9,Collison  8,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Wed, Mar 21",New Orleans ,L96-92  ,41-31,Oladipo  21,Turner  10,Collison  6,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Mar 23", LA ,W109-104  ,42-31,Bogdanovic  28,Young  10,Collison  10,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Mar 25", Miami ,W113-107 OT ,43-31,Oladipo  23,Joseph  10,Joseph  7,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Tue, Mar 27",Golden State ,W92-81  ,44-31,Oladipo  24,Young  10,Oladipo  6,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Thu, Mar 29",Sacramento ,W106-103  ,45-31,Bogdanovic  25,Young  8,Collison  9,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Apr 1",LA ,W111-104  ,46-31,Oladipo  30,Young  9,Oladipo  12,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Tue, Apr 3",Denver ,L107-104  ,46-32,Oladipo  25,Young  10,Oladipo  7,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Thu, Apr 5", Golden State ,W126-106  ,47-32,Bogdanovic  28,Sabonis  9,Oladipo  7,A,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Fri, Apr 6",Toronto ,L92-73  ,47-33,Robinson III  12,Stephenson  8,Collison  5,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Sun, Apr 8",Charlotte ,W123-117  ,48-33,Sabonis  30,Stephenson  10,Stephenson  10,H,Indiana Pacers 2017-18 Regular Season NBA Schedule
+"Tue, Apr 10", Charlotte ,L119-93  ,48-34,Robinson III  13,Stephenson  13,Joseph  8,A,Indiana Pacers 2017-18 Regular Season NBA Schedule

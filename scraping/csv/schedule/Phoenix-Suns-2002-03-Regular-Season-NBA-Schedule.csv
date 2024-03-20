@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 30",Seattle ,L86-73  ,0-1,Marion  21,Marion  11,Hardaway  5,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Nov 1", Cleveland ,W78-74  ,1-1,Marion  21,Marion  16,Marbury  10,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sat, Nov 2",Dallas ,L97-83  ,1-2,Marbury  15,Marion  10,Marbury  10,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Nov 4", Detroit ,L84-82  ,1-3,Marbury  15,Gugliotta  15,Marbury  10,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Nov 6", Atlanta ,W93-88  ,2-3,Marion  26,Marion  9,Marbury  11,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Nov 8", Portland ,W86-75  ,3-3,Marbury  21,Marion  10,Marbury  9,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Nov 13",Denver ,W75-72  ,4-3,Marbury  19,Marion  9,Marbury  8,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Nov 15", Houston ,W88-87  ,5-3,Marion  27,Hardaway  8,Marbury  11,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Tue, Nov 19",Utah ,L99-76  ,5-4,Marbury  18,Tsakalidis  6,Hardaway  6,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Nov 22",Sacramento ,L118-101  ,5-5,Marbury  39,Marion  10,Marbury  5,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sat, Nov 23", Denver ,L80-79  ,5-6,Marion  19,Tsakalidis  11,Marbury  14,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Nov 25", Milwaukee ,W86-81  ,6-6,Marion  22,Marion  15,Marbury  12,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Nov 27", New Jersey ,W82-75  ,7-6,Marion  22,Williams  14,Marbury  9,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Nov 29", San Antonio ,W94-87  ,8-6,Marbury  43,Williams  11,Marbury  5,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sat, Nov 30",Golden State ,L100-90  ,8-7,Marbury  32,Marion  14,Marbury  6,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Dec 2", Miami ,L100-90 OT ,8-8,Marion  30,Marion  9,Marbury  8,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Dec 4", Memphis ,W98-85  ,9-8,Marion  32,Stoudemire  15,Outlaw  5,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Dec 6", Indiana ,W102-92  ,10-8,Marbury  19,Hardaway  8,Marbury  9,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Dec 8",Memphis ,L102-94  ,10-9,Marbury  35,Outlaw  9,Marbury  7,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Dec 9",New Jersey ,L106-93  ,10-10,Stoudemire  19,Stoudemire  14,Johnson  4,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Dec 11",Boston ,W103-94  ,11-10,Marion  32,Stoudemire  12,Marbury  6,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Dec 13",Philadelphia ,W99-91  ,12-10,Marbury  28,Marion  15,Marbury  10,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sat, Dec 14",Atlanta ,W102-88  ,13-10,Marion  24,Stoudemire  14,Marbury  10,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Dec 16", Orlando ,W87-84  ,14-10,Marion  19,Marion  11,Marbury  9,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Tue, Dec 17",Sacramento ,L95-86  ,14-11,Jacobsen  15,Outlaw  11,Johnson  4,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Dec 20",LA ,W87-76  ,15-11,Marion  20,Marion  12,Marbury  8,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sat, Dec 21", Sacramento ,W110-101  ,16-11,Marion  28,Stoudemire  12,Marbury  7,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Dec 23", Seattle ,W89-88  ,17-11,Marion  30,Marion  11,Marbury  12,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Dec 27", LA ,W108-95  ,18-11,Marbury  26,Stoudemire  8,Hardaway  10,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Dec 29",Cleveland ,W103-84  ,19-11,Stoudemire  19,Stoudemire  13,Marbury  8,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Dec 30",Minnesota ,L104-98  ,19-12,Stoudemire  38,Stoudemire  14,Marbury  5,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Thu, Jan 2", Philadelphia ,W96-78  ,20-12,Marion  24,Stoudemire  11,Marbury  10,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sat, Jan 4", Los Angeles ,W107-93  ,21-12,Marion  23,Marbury  8,Marbury  10,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Jan 5",Los Angeles ,L109-97  ,21-13,Marbury  32,Stoudemire  10,Marbury  6,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Tue, Jan 7",Portland ,W88-81  ,22-13,Marion  24,Marion  7,Marbury  7,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Jan 8",Utah ,L99-93  ,22-14,Marbury  29,Marion  8,Marbury  10,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Jan 10", Memphis ,W96-90  ,23-14,Marbury  25,Stoudemire  21,Marbury  11,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Jan 12", Utah ,W107-99  ,24-14,Marbury  38,Stoudemire  13,Marbury  8,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Tue, Jan 14",San Antonio ,L108-100 OT ,24-15,Marbury  29,Stoudemire  15,Marbury  7,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Jan 15",Houston ,L102-96  ,24-16,Marbury  32,Marion  13,Marbury  6,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Jan 17", Dallas ,W111-106  ,25-16,Marbury  41,Johnson  9,Marbury  11,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Jan 20",New Orleans ,L114-102  ,25-17,Marion  25,Marion  16,Marbury  11,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Jan 22",Miami ,L92-85  ,25-18,Marion  27,Marion  9,Johnson  7,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Jan 24",Orlando ,W110-107  ,26-18,Marion  29,Marion  12,Marbury  8,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Jan 26",New York ,L106-98  ,26-19,Marbury  31,Outlaw  14,Marbury  9,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Jan 27",Washington ,L98-93  ,26-20,Marbury  29,Marion  13,Marbury  8,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Jan 29", Los Angeles ,L99-90  ,26-21,Marbury  33,Marion  11,Marbury  10,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Jan 31",LA ,W98-92  ,27-21,Marbury  19,Outlaw  8,Marbury  15,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sat, Feb 1", Golden State ,W116-107  ,28-21,Marbury  32,Marion  15,Marbury  7,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Feb 3", Chicago ,W115-111 OT ,29-21,Marion  36,Stoudemire  12,Marbury  9,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Tue, Feb 11", LA ,L107-106  ,29-22,Marbury  33,Stoudemire  13,Marion  7,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Feb 14", New York ,L116-115  ,29-23,Marbury  43,Stoudemire  14,Marbury  9,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Feb 16", Boston ,W102-92  ,30-23,Stoudemire  25,Stoudemire  17,Marbury  12,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Feb 19", Houston ,L107-89  ,30-24,Marion  24,Marion  9,Marbury  6,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Feb 21",Toronto ,L92-89  ,30-25,Marbury  22,Marion  12,Marbury  6,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Feb 23",Minnesota ,L99-97  ,30-26,Marbury  32,Marion  11,Marbury  10,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Feb 24",Chicago ,L90-87  ,30-27,Stoudemire  19,Stoudemire  9,Marbury  9,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Feb 26",Milwaukee ,W118-112  ,31-27,Marbury  41,Stoudemire  14,Marbury  7,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sat, Mar 1", New Orleans ,L97-92  ,31-28,Marion  23,Marion  9,Marbury  13,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Tue, Mar 4",San Antonio ,W104-97  ,32-28,Marbury  35,Stoudemire  11,Marbury  13,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Mar 5", Portland ,W98-92  ,33-28,Marbury  33,Marion  10,Marbury  4,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Mar 9", Minnesota ,L105-98  ,33-29,Marbury  28,Marion  13,Marbury  7,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Tue, Mar 11",Golden State ,L113-98  ,33-30,Stoudemire  24,Marion  13,Marbury  9,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Thu, Mar 13", Sacramento ,W109-84  ,34-30,Marion  27,Marion  11,Marbury  7,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Mar 16",Houston ,L85-75  ,34-31,Marbury  19,Marion  12,Marbury  7,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Mar 17", Toronto ,W95-91 OT ,35-31,Marion  30,Marion  10,Marbury  7,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Mar 19", Utah ,L99-86  ,35-32,Marion  22,Stoudemire  12,Marbury  9,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Mar 21", Washington ,W109-83  ,36-32,Marbury  23,Voskuhl  9,Marbury  6,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sat, Mar 22",Dallas ,L102-95  ,36-33,Marion  21,Marion  18,Marbury  9,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Mon, Mar 24", Seattle ,L82-73  ,36-34,Marbury  22,Marion  9,Marbury  10,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Mar 26",Memphis ,W101-99  ,37-34,Marbury  23,Marion  18,Marbury  8,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Mar 28",Detroit ,W94-91  ,38-34,Marbury  26,Marion  10,Marbury  9,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Mar 30",Indiana ,L92-81  ,38-35,Marion  22,Marion  15,Marbury  5,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Tue, Apr 1", Denver ,W95-65  ,39-35,Marion  33,Marion  9,Marbury  9,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sat, Apr 5", Minnesota ,W111-94  ,40-35,Marion  25,Outlaw  15,Hardaway  9,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Apr 6",Los Angeles ,L115-113 OT ,40-36,Marbury  40,Marion  15,Marbury  8,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Tue, Apr 8",Denver ,W98-78  ,41-36,Marion  27,Marion  10,Marbury  9,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Apr 9", Dallas ,W112-89  ,42-36,Marion  31,Marion  15,Hardaway  10,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Fri, Apr 11", Golden State ,W117-101  ,43-36,Marion  24,Stoudemire  10,Marbury  10,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Sun, Apr 13", San Antonio ,W92-85  ,44-36,Marion  24,Stoudemire  7,Marbury  10,A,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Tue, Apr 15",Portland ,L120-102  ,44-37,Johnson  26,Stoudemire  7,Johnson  5,H,Phoenix Suns 2002-03 Regular Season NBA Schedule
+"Wed, Apr 16",Seattle ,L84-70  ,44-38,Johnson  21,Tsakalidis  8,Hardaway  4,H,Phoenix Suns 2002-03 Regular Season NBA Schedule

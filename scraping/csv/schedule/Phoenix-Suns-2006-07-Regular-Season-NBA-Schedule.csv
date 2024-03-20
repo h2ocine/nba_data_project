@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 31",Los Angeles ,L114-106  ,0-1,Barbosa  30,Thomas  8,Nash  13,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Nov 1", LA ,W112-104  ,1-1,Marion  27,Marion  10,Nash  11,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Nov 3", Utah ,L108-104  ,1-2,Barbosa  22,Marion  8,Nash  10,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sat, Nov 4",LA ,L114-108  ,1-3,Nash  28,Marion  15,Nash  13,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Nov 8",San Antonio ,L111-106 OT ,1-4,Bell  20,Marion  16,Nash  11,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Thu, Nov 9", Dallas ,L119-112  ,1-5,Barbosa  30,Stoudemire  8,Nash  9,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sat, Nov 11", Memphis ,W96-87  ,2-5,Stoudemire  25,Stoudemire  14,Barbosa  12,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Nov 17", Philadelphia ,W106-94  ,3-5,Barbosa  26,Barbosa  10,Diaw  6,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sat, Nov 18",Utah ,L120-117 OT ,3-6,Marion  35,Stoudemire  12,Barbosa  11,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Mon, Nov 20",Golden State ,W113-110  ,4-6,Bell  22,Marion  11,Nash  15,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Nov 22", NO/Oklahoma City ,W92-83  ,5-6,Nash  24,Thomas  10,Nash  7,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Nov 24", New Jersey ,W99-93  ,6-6,Nash  26,Stoudemire  10,Nash  13,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Nov 26",Portland ,W119-101  ,7-6,Bell  30,Stoudemire  11,Nash  10,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Nov 29", Houston ,W102-91  ,8-6,Stoudemire  22,Stoudemire  15,Nash  8,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Dec 1", Milwaukee ,W122-116  ,9-6,Marion  27,Marion  14,Nash  11,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Dec 5", Sacramento ,W127-102  ,10-6,Barbosa  26,Stoudemire  13,Nash  20,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Thu, Dec 7",New Jersey ,W161-157 2OT ,11-6,Nash  42,Stoudemire  11,Diaw  14,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Dec 8",Boston ,W116-111  ,12-6,Marion  29,Marion  12,Nash  14,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Dec 10",Charlotte ,W114-84  ,13-6,Stoudemire  22,Stoudemire  12,Nash  10,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Mon, Dec 11",Orlando ,W103-89  ,14-6,Stoudemire  30,Marion  11,Nash  15,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Dec 13",Miami ,W99-89  ,15-6,Marion  23,Marion  13,Nash  11,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Dec 15", Golden State ,W105-101  ,16-6,Stoudemire  25,Diaw  14,Diaw  10,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sat, Dec 16",Sacramento ,W105-98  ,17-6,Stoudemire  20,Stoudemire  9,Nash  12,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Dec 19", Toronto ,W115-98  ,18-6,Stoudemire  28,Stoudemire  10,Nash  15,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Dec 22", Washington ,L144-139 OT ,18-7,Nash  42,Marion  13,Nash  12,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Dec 26", Portland ,W110-87  ,19-7,Marion  23,Marion  8,Diaw  8,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Thu, Dec 28",Dallas ,L101-99  ,19-8,Stoudemire  25,Stoudemire  13,Nash  13,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Dec 29", New York ,W108-86  ,20-8,Bell  20,Stoudemire  11,Nash  9,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Dec 31",Detroit ,W108-101  ,21-8,Nash  35,Stoudemire  13,Nash  12,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Jan 2",Chicago ,W97-96  ,22-8,Stoudemire  24,Stoudemire  18,Nash  13,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Jan 3",Toronto ,W100-98  ,23-8,Bell  17,Marion  9,Nash  9,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Jan 5", Miami ,W108-80  ,24-8,Nash  22,Marion  11,Diaw  7,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Jan 7", Golden State ,W128-105  ,25-8,Barbosa  26,Marion  17,Nash  10,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Jan 9", Seattle ,W113-102  ,26-8,Marion  29,Marion  15,Nash  11,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Thu, Jan 11", Cleveland ,W109-90  ,27-8,Marion  19,Stoudemire  13,Nash  21,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sat, Jan 13", Orlando ,W107-101  ,28-8,Nash  23,Stoudemire  10,Diaw  11,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Mon, Jan 15",Memphis ,W137-122  ,29-8,Stoudemire  42,Marion  13,Nash  15,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Jan 17",Houston ,W100-91  ,30-8,Stoudemire  22,Marion  14,Nash  14,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Jan 19", Portland ,W106-101  ,31-8,Stoudemire  23,Marion  12,Nash  15,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Jan 21", Minnesota ,W131-102  ,32-8,Stoudemire  25,Marion  20,Nash  11,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Jan 23",Washington ,W127-105  ,33-8,Nash  27,Bell  8,Nash  14,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Jan 24",New York ,W112-107  ,34-8,Stoudemire  30,Stoudemire  11,Nash  14,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Jan 26",Milwaukee ,W98-90  ,35-8,Bell  27,Marion  23,Nash  16,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Jan 28",Cleveland ,W115-100  ,36-8,Marion  23,Marion  8,Nash  15,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Mon, Jan 29",Minnesota ,L121-112  ,36-9,Bell  26,Marion  10,Nash  18,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Thu, Feb 1", San Antonio ,W103-87  ,37-9,Barbosa  25,Stoudemire  23,Nash  11,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sat, Feb 3", Utah ,L108-105  ,37-10,Stoudemire  28,Stoudemire  10,Nash  10,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Mon, Feb 5",Denver ,W113-108  ,38-10,Stoudemire  36,Stoudemire  13,Nash  7,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Feb 6",Portland ,W109-102 OT ,39-10,Stoudemire  36,Marion  13,Barbosa  7,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Feb 9", Atlanta ,L120-111  ,39-11,Stoudemire  29,Stoudemire  13,Stoudemire  5,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Feb 11", Chicago ,L116-103  ,39-12,Stoudemire  26,Marion  18,Banks  7,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Feb 14",Seattle ,L114-90  ,39-13,Banks  21,Stoudemire  13,Barbosa  5,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Feb 20",LA ,W115-90  ,40-13,Marion  31,Burke  10,Nash  12,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Feb 21", Boston ,W118-108  ,41-13,Stoudemire  32,Stoudemire  12,Nash  13,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Feb 23",Minnesota ,W116-104  ,42-13,Marion  27,Marion  14,Nash  15,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Feb 25",Atlanta ,W115-106  ,43-13,Stoudemire  43,Stoudemire  16,Nash  13,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Feb 27",Indiana ,W103-92  ,44-13,Nash  25,Stoudemire  18,Nash  11,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Feb 28",Philadelphia ,L99-94  ,44-14,Stoudemire  31,Stoudemire  14,Nash  9,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Mar 2", Indiana ,W115-90  ,45-14,Stoudemire  23,Thomas  15,Barbosa  10,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Mar 4", Los Angeles ,W99-94  ,46-14,Nash  23,Marion  12,Nash  10,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Mar 7", Charlotte ,W115-106 OT ,47-14,Barbosa  32,Marion  11,Nash  11,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Mar 9", NO/Oklahoma City ,W104-103  ,48-14,Barbosa  19,Stoudemire  11,Nash  10,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Mon, Mar 12", Houston ,W103-82  ,49-14,Barbosa  32,Marion  15,Nash  8,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Mar 14",Dallas ,W129-127 2OT ,50-14,Stoudemire  41,Marion  12,Nash  16,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Mar 16", Detroit ,L105-83  ,50-15,Stoudemire  24,Stoudemire  15,Nash  6,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sat, Mar 17",Denver ,L131-107  ,50-16,Barbosa  25,Marion  9,Nash  10,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Mar 20", Minnesota ,W108-90  ,51-16,Bell  22,Marion  10,Nash  11,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Thu, Mar 22", Sacramento ,W118-100  ,52-16,Stoudemire  33,Stoudemire  21,Nash  16,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Mar 25",Sacramento ,L107-100  ,52-17,Barbosa  27,Stoudemire  11,Nash  9,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Mon, Mar 26", Memphis ,W105-87  ,53-17,Bell  29,Stoudemire  12,Nash  9,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Thu, Mar 29",Golden State ,L124-119  ,53-18,Barbosa  27,Stoudemire  11,Nash  9,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Mar 30", Denver ,W125-108  ,54-18,Marion  33,Thomas  10,Nash  11,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Apr 1", Dallas ,W126-104  ,55-18,Barbosa  29,Stoudemire  9,Nash  11,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Apr 3",Memphis ,W116-111  ,56-18,Stoudemire  27,Marion  12,Nash  17,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Thu, Apr 5",San Antonio ,L92-85  ,56-19,Nash  20,Bell  13,Nash  7,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Apr 6",NO/Oklahoma City ,W103-95  ,57-19,Barbosa  26,Marion  11,Nash  12,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sun, Apr 8",Los Angeles ,W115-107  ,58-19,Nash  25,Stoudemire  9,Nash  11,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Wed, Apr 11", Seattle ,W109-91  ,59-19,Marion  24,Stoudemire  11,Nash  9,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Fri, Apr 13", Los Angeles ,W93-85  ,60-19,Nash  26,Stoudemire  16,Nash  14,A,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Sat, Apr 14",Utah ,W126-98  ,61-19,Barbosa  28,Stoudemire  11,Nash  18,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Mon, Apr 16",Houston ,L120-117  ,61-20,Stoudemire  30,Stoudemire  5,Nash  15,H,Phoenix Suns 2006-07 Regular Season NBA Schedule
+"Tue, Apr 17", LA ,L103-99  ,61-21,Barbosa  22,Barbosa  8,Nash  12,A,Phoenix Suns 2006-07 Regular Season NBA Schedule

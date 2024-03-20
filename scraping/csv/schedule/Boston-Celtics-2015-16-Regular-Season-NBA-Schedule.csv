@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 28", Philadelphia ,W112-95  ,1-0,Thomas  27,Johnson  7,Thomas  7,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Oct 30", Toronto ,L113-103  ,1-1,Thomas  25,Johnson  8,Thomas  7,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Nov 1", San Antonio ,L95-87  ,1-2,Bradley  18,Sullinger  8,Thomas  5,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Nov 4",Indiana ,L100-98  ,1-3,Thomas  27,Sullinger  11,Thomas  7,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Nov 6", Washington ,W118-98  ,2-3,Sullinger  21,Crowder  10,Thomas  8,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Tue, Nov 10",Milwaukee ,W99-83  ,3-3,Thomas  20,Sullinger  10,Turner  6,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Nov 11", Indiana ,L102-91  ,3-4,Turner  20,Sullinger  11,Thomas  4,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Nov 13", Atlanta ,W106-93  ,4-4,Thomas  23,Sullinger  10,Thomas  10,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Nov 15",Oklahoma City ,W100-85  ,5-4,Smart  26,Sullinger  15,Thomas  8,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Nov 16",Houston ,W111-95  ,6-4,Thomas  23,Smart  9,Thomas  6,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Nov 18", Dallas ,L106-102  ,6-5,Thomas  19,Sullinger  12,Thomas  6,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Nov 20", Brooklyn ,W120-95  ,7-5,Bradley  21,Olynyk  10,Thomas  9,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Nov 22",Brooklyn ,L111-101  ,7-6,Bradley  27,Sullinger  10,Thomas  6,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Tue, Nov 24",Atlanta ,L121-97  ,7-7,Bradley  25,Johnson  7,Turner  7,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Nov 25", Philadelphia ,W84-80  ,8-7,Thomas  30,Sullinger  15,Thomas  6,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Nov 27", Washington ,W111-78  ,9-7,Thomas  21,Sullinger  15,Lee  4,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Nov 29",Orlando ,L110-91  ,9-8,Thomas  20,Sullinger  11,Thomas  7,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Nov 30",Miami ,W105-95  ,10-8,Bradley  25,Johnson  10,Thomas  9,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Thu, Dec 3", Sacramento,W114-97  ,11-8,Thomas  21,Johnson  7,Thomas  9,N,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sat, Dec 5",San Antonio ,L108-105  ,11-9,Thomas  23,Johnson  11,Thomas  8,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Dec 7",New Orleans ,W111-93  ,12-9,Thomas  22,Sullinger  20,Thomas  5,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Dec 9", Chicago ,W105-100  ,13-9,Thomas  20,Sullinger  16,Turner  7,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Dec 11", Golden State ,L124-119 2OT ,13-10,Olynyk  28,Sullinger  13,Thomas  10,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sat, Dec 12",Charlotte ,W98-93  ,14-10,Bradley  23,Crowder  7,Thomas  13,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Tue, Dec 15", Cleveland ,L89-77  ,14-11,Bradley  17,Turner  8,Thomas  4,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Dec 16",Detroit ,L119-116  ,14-12,Thomas  38,Sullinger  10,Thomas  7,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Dec 18", Atlanta ,L109-101  ,14-13,Thomas  29,Crowder  10,Thomas  6,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Dec 21", Minnesota ,W113-99  ,15-13,Olynyk  19,Crowder  10,Thomas  12,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Dec 23",Charlotte ,W102-89  ,16-13,Olynyk  20,Crowder  12,Thomas  7,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sat, Dec 26",Detroit ,W99-93  ,17-13,Bradley  18,Johnson  8,Thomas  9,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Dec 27", New York ,W100-91  ,18-13,Thomas  21,Olynyk  9,Thomas  6,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Dec 30", Los Angeles ,L112-104  ,18-14,Thomas  24,Sullinger  8,Turner  8,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sat, Jan 2", Brooklyn ,L100-97  ,18-15,Thomas  24,Johnson  11,Thomas  6,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Jan 4",Brooklyn ,W103-94  ,19-15,Crowder  25,Turner  11,Thomas  7,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Jan 6", Detroit ,L99-94  ,19-16,Thomas  22,Johnson  11,Thomas  10,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Thu, Jan 7",Chicago ,L101-92  ,19-17,Crowder  17,Sullinger  11,Turner  6,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Jan 10",Memphis ,L101-98  ,19-18,Thomas  35,Johnson  9,Thomas  8,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Tue, Jan 12",New York ,L120-114  ,19-19,Thomas  34,Crowder  8,Thomas  8,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Jan 13", Indiana ,W103-94  ,20-19,Thomas  28,Johnson  18,Johnson  6,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Jan 15", Phoenix ,W117-103  ,21-19,Olynyk  21,Smart  11,Smart  11,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sat, Jan 16",Washington ,W119-117  ,22-19,Thomas  32,Sullinger  9,Crowder  6,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Jan 18",Dallas ,L118-113 OT ,22-20,Smart  20,Sullinger  11,Turner  8,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Jan 20",Toronto ,L115-109  ,22-21,Thomas  21,Crowder  5,Thomas  10,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Jan 22", Chicago ,W110-101  ,23-21,Thomas  22,Sullinger  12,Thomas  5,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Jan 24",Philadelphia ,W112-92  ,24-21,Thomas  20,Johnson  12,Sullinger  7,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Jan 25",Washington ,W116-91  ,25-21,Thomas  23,Smart  6,Thomas  9,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Jan 27", Denver ,W111-103  ,26-21,Bradley  27,Johnson  13,Turner  6,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Jan 29", Orlando ,W113-94  ,27-21,Olynyk  16,Sullinger  11,Turner  8,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Jan 31",Orlando ,L119-114  ,27-22,Smart  26,Johnson  11,Turner  5,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Tue, Feb 2",New York ,W97-89  ,28-22,Thomas  20,Zeller  10,Thomas  8,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Feb 3", Detroit ,W102-95  ,29-22,Thomas  17,Olynyk  7,Thomas  7,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Feb 5",Cleveland ,W104-103  ,30-22,Thomas  22,Turner  12,Turner  6,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Feb 7", Sacramento ,W128-119  ,31-22,Bradley  25,Johnson  9,Thomas  9,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Tue, Feb 9",Milwaukee ,L112-111  ,31-23,Crowder  18,Sullinger  11,Turner  10,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Feb 10", LA ,W139-134 OT ,32-23,Thomas  36,Sullinger  11,Thomas  11,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Feb 19",Utah ,L111-93  ,32-24,Thomas  25,Sullinger  11,Thomas  6,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Feb 21",Denver ,W121-101  ,33-24,Thomas  22,Sullinger  11,Thomas  12,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Feb 22",Minnesota ,L124-122  ,33-25,Crowder  27,Crowder  9,Thomas  9,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Thu, Feb 25", Milwaukee ,W112-107  ,34-25,Thomas  27,Sullinger  10,Thomas  7,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sat, Feb 27", Miami ,W101-89  ,35-25,Smart  15,Sullinger  12,Turner  9,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Feb 29", Utah ,W100-95  ,36-25,Crowder  22,Sullinger  9,Thomas  9,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Mar 2", Portland ,W116-93  ,37-25,Thomas  30,Smart  11,Turner  5,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Mar 4", New York ,W105-104  ,38-25,Thomas  32,Sullinger  11,Thomas  8,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sat, Mar 5",Cleveland ,L120-103  ,38-26,Thomas  27,Sullinger  13,Bradley  5,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Mar 9", Memphis ,W116-96  ,39-26,Thomas  22,Zeller  7,Turner  8,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Mar 11", Houston ,L102-98  ,39-27,Thomas  30,Sullinger  12,Turner  9,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Tue, Mar 15",Indiana ,L103-98  ,39-28,Thomas  21,Sullinger  11,Thomas  8,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Mar 16", Oklahoma City ,L130-109  ,39-29,Thomas  29,Johnson  12,Johnson  5,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Mar 18",Toronto ,L105-91  ,39-30,Thomas  20,Johnson  6,Rozier  5,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Mar 20",Philadelphia ,W120-105  ,40-30,Thomas  26,Sullinger  13,Thomas  8,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Mar 21", Orlando ,W107-96  ,41-30,Thomas  28,Johnson  11,Thomas  7,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Mar 23", Toronto ,W91-79  ,42-30,Thomas  23,Johnson  14,Turner  7,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sat, Mar 26",Phoenix ,W102-99  ,43-30,Thomas  28,Turner  11,Smart  4,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Mar 28",LA ,L114-90  ,43-31,Thomas  24,Sullinger  11,Smart  4,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Thu, Mar 31",Portland ,L116-109  ,43-32,Thomas  22,Crowder  10,Sullinger  5,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Apr 1",Golden State ,W109-106  ,44-32,Thomas  22,Sullinger  12,Thomas  6,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sun, Apr 3",Los Angeles ,W107-100  ,45-32,Thomas  26,Johnson  13,Thomas  6,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Apr 6", New Orleans ,W104-97  ,46-32,Thomas  32,Johnson  7,Thomas  8,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Fri, Apr 8", Milwaukee ,W124-109  ,47-32,Zeller  26,Olynyk  7,Turner  9,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Sat, Apr 9",Atlanta ,L118-107  ,47-33,Smart  19,Johnson  8,Thomas  6,H,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Mon, Apr 11", Charlotte ,L114-100  ,47-34,Thomas  17,Olynyk  11,Sullinger  5,A,Boston Celtics 2015-16 Regular Season NBA Schedule
+"Wed, Apr 13", Miami ,W98-88  ,48-34,Thomas  21,Bradley  7,Thomas  6,A,Boston Celtics 2015-16 Regular Season NBA Schedule

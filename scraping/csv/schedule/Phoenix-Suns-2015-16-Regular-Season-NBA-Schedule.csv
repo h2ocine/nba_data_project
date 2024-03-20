@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 28", Dallas ,L111-95  ,0-1,Knight  15,Len  8,Bledsoe  4,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Oct 30", Portland ,W110-92  ,1-1,Bledsoe  22,Chandler  13,Knight  4,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sat, Oct 31",Portland ,W101-90  ,2-1,Bledsoe  33,Chandler  11,Bledsoe  6,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Nov 2",LA ,L102-96  ,2-2,Morris  19,Chandler  17,Knight  8,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Nov 4", Sacramento ,W118-97  ,3-2,Bledsoe  19,Chandler  11,Bledsoe  8,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Nov 6", Detroit ,L100-92  ,3-3,Bledsoe  22,Tucker  10,Bledsoe  4,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Nov 8",Oklahoma City ,L124-103  ,3-4,Bledsoe  28,Chandler  8,Bledsoe  11,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Thu, Nov 12", LA ,W118-104  ,4-4,Knight  37,Leuer  11,Bledsoe  9,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sat, Nov 14", Denver ,W105-81  ,5-4,Bledsoe  30,Teletovic  9,Bledsoe  4,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Nov 16", Los Angeles ,W120-101  ,6-4,Knight  30,Knight  10,Knight  15,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Nov 18", Chicago ,L103-97  ,6-5,Knight  23,Chandler  9,Bledsoe  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Nov 20",Denver ,W114-107  ,7-5,Knight  38,Knight  11,Knight  6,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Nov 22",New Orleans ,L122-116  ,7-6,Bledsoe  29,Chandler  10,Knight  7,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Nov 23",San Antonio ,L98-84  ,7-7,Morris  28,Morris  8,Knight  8,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Nov 25", New Orleans ,L120-114  ,7-8,Knight  29,Leuer  12,Knight  10,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Nov 27", Golden State ,L135-116  ,7-9,Warren  28,Warren  6,Bledsoe  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Nov 29",Toronto ,W107-102  ,8-9,Bledsoe  20,Warren  11,Bledsoe  11,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Tue, Dec 1",Brooklyn ,L94-91  ,8-10,Knight  26,Len  14,Bledsoe  7,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Dec 2",Detroit ,L127-122 OT ,8-11,Knight  22,Len  7,Bledsoe  9,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Dec 4",Washington ,L109-106  ,8-12,Bledsoe  22,Tucker  13,Bledsoe  7,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Dec 6",Memphis ,L95-93  ,8-13,Bledsoe  23,Leuer  11,Bledsoe  6,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Dec 7",Chicago ,W103-101  ,9-13,Knight  21,Bledsoe  9,Booker  5,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Dec 9", Orlando ,W107-104  ,10-13,Knight  21,Len  14,Bledsoe  9,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Dec 11", Portland ,L106-96  ,10-14,Bledsoe  31,Len  8,Knight  10,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Dec 13", Minnesota ,W108-101  ,11-14,Knight  25,Len  7,Bledsoe  9,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Dec 14",Dallas ,L104-94  ,11-15,Bledsoe  23,Leuer  13,Bledsoe  7,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Dec 16",Golden State ,L128-103  ,11-16,Teletovic  24,Warren  8,Bledsoe  8,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Dec 18", New Orleans ,W104-88  ,12-16,Bledsoe  29,Len  13,Bledsoe  9,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Dec 20", Milwaukee ,L101-95  ,12-17,Bledsoe  18,Tucker  7,Knight  4,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Dec 21",Utah ,L110-89  ,12-18,Knight  26,Teletovic  7,Morris  4,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Dec 23", Denver ,L104-96  ,12-19,Knight  21,Tucker  13,Knight  10,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sat, Dec 26", Philadelphia ,L111-104  ,12-20,Knight  21,Chandler  10,Knight  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Dec 28", Cleveland ,L101-97  ,12-21,Warren  23,Chandler  8,Knight  4,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Dec 30",San Antonio ,L112-79  ,12-22,Chandler  11,Chandler  10,Morris  5,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Thu, Dec 31",Oklahoma City ,L110-106  ,12-23,Warren  29,Chandler  10,Knight  6,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sat, Jan 2",Sacramento ,L142-119  ,12-24,Knight  23,Knight  5,Knight  5,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Jan 3",Los Angeles ,L97-77  ,12-25,Knight  25,Len  9,Knight  9,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Jan 6", Charlotte ,W111-102  ,13-25,Teletovic  19,Booker  10,Knight  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Jan 8", Miami ,L103-95  ,13-26,Knight  26,Tucker  11,Knight  4,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Tue, Jan 12",Indiana ,L116-97  ,13-27,Teletovic  19,Tucker  10,Brown  5,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Jan 15",Boston ,L117-103  ,13-28,Teletovic  22,Morris  9,Weems  5,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Jan 17",Minnesota ,L117-87  ,13-29,Knight  20,Chandler  8,Tucker  5,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Tue, Jan 19", Indiana ,L97-94  ,13-30,Booker  32,Chandler  14,Tucker  5,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Thu, Jan 21", San Antonio ,L117-89  ,13-31,Booker  24,Chandler  20,Booker  5,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sat, Jan 23", Atlanta ,W98-95  ,14-31,Goodwin  24,Chandler  27,Len  5,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Tue, Jan 26",Philadelphia ,L113-103  ,14-32,Goodwin  26,Len  12,Tucker  8,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Jan 27",Cleveland ,L115-93  ,14-33,Booker  16,Tucker  7,Booker  5,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Jan 29",New York ,L102-84  ,14-34,Booker  21,Chandler  12,McRae  4,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Jan 31",Dallas ,L91-78  ,14-35,Booker  19,Chandler  13,Booker  4,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Tue, Feb 2", Toronto ,L104-97  ,14-36,Morris  30,Morris  11,Goodwin  12,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Thu, Feb 4", Houston ,L111-105  ,14-37,Goodwin  22,Len  18,Goodwin  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sat, Feb 6", Utah ,L98-89  ,14-38,Booker  18,Chandler  14,Morris  8,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Feb 8", Oklahoma City ,L122-106  ,14-39,Morris  23,Len  8,Goodwin  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Feb 10", Golden State ,L112-104  ,14-40,Goodwin  20,Chandler  10,Booker  10,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Feb 19", Houston ,L116-100  ,14-41,Teletovic  25,Humphries  12,Goodwin  4,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Feb 21", San Antonio ,L118-111  ,14-42,Len  23,Len  13,Booker  6,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Feb 22",LA ,L124-84  ,14-43,Goodwin  20,Len  8,Pressey  10,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Thu, Feb 25", Brooklyn ,L116-106  ,14-44,Teletovic  30,Teletovic  11,Pressey  4,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sat, Feb 27", Memphis ,W111-106  ,15-44,Len  22,Len  16,Tucker  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Tue, Mar 1",Charlotte ,L126-92  ,15-45,Len  18,Len  12,Price  3,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Thu, Mar 3",Miami ,L108-92  ,15-46,Booker  34,Len  13,Booker  4,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Mar 4",Orlando ,W102-84  ,16-46,Len  31,Len  15,Booker  6,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Mar 6",Memphis ,W109-100  ,17-46,Booker  27,Len  16,Booker  9,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Mar 9", New York ,L128-97  ,17-47,Booker  32,Len  10,Price  6,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Thu, Mar 10",Denver ,L116-98  ,17-48,Booker  35,Len  13,Booker  5,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sat, Mar 12",Golden State ,L123-116  ,17-49,Knight  30,Len  13,Booker  11,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Mar 14", Minnesota ,W107-104  ,18-49,Tucker  23,Tucker  12,Knight  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Thu, Mar 17",Utah ,L103-69  ,18-50,Knight  17,Len  12,Booker  3,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Mar 18",Los Angeles ,W95-90  ,19-50,Knight  22,Chandler  17,Booker  7,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Mar 21", Memphis ,L103-97  ,19-51,Booker  18,Leuer  13,Knight  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Mar 23", Los Angeles ,W119-107  ,20-51,Booker  28,Leuer  14,Booker  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Mar 25",Sacramento ,L116-94  ,20-52,Booker  26,Jenkins  8,Price  5,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sat, Mar 26", Boston ,L102-99  ,20-53,Booker  21,Tucker  10,Tucker  5,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Mar 28",Minnesota ,L121-116  ,20-54,Booker  30,Len  13,Booker  5,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Mar 30",Milwaukee ,L105-94  ,20-55,Tucker  20,Len  15,Tucker  7,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Fri, Apr 1", Washington ,L106-99  ,20-56,Teletovic  24,Chandler  15,Price  8,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sun, Apr 3", Utah ,L101-86  ,20-57,Teletovic  24,Chandler  18,Booker  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Tue, Apr 5",Atlanta ,L103-90  ,20-58,Booker  34,Chandler  13,Price  4,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Thu, Apr 7",Houston ,W124-115  ,21-58,Teletovic  26,Tucker  12,Len  7,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Sat, Apr 9",New Orleans ,W121-100  ,22-58,Goodwin  24,Len  11,Booker  5,H,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Mon, Apr 11", Sacramento ,L105-101  ,22-59,Teletovic  26,Len  12,Price  7,A,Phoenix Suns 2015-16 Regular Season NBA Schedule
+"Wed, Apr 13", LA ,W114-105  ,23-59,Teletovic  22,Leuer  14,Goodwin  5,A,Phoenix Suns 2015-16 Regular Season NBA Schedule

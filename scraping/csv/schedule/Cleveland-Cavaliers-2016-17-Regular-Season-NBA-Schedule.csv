@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 25", New York ,W117-88  ,1-0,Irving  29,Love  12,James  14,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Oct 28",Toronto ,W94-91  ,2-0,Irving  26,Love  10,James  7,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Oct 29", Orlando ,W105-99  ,3-0,James  23,Thompson  12,James  9,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Tue, Nov 1", Houston ,W128-120  ,4-0,Irving  32,James  13,James  8,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Thu, Nov 3", Boston ,W128-122  ,5-0,James  30,Thompson  14,James  12,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Nov 5",Philadelphia ,W102-101  ,6-0,James  25,Thompson  13,James  14,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Tue, Nov 8", Atlanta ,L110-106  ,6-1,Irving  29,Love  12,James  5,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Nov 11",Washington ,W105-94  ,7-1,Irving  29,Love  16,Irving  6,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sun, Nov 13", Charlotte ,W100-93  ,8-1,Frye  20,Thompson  12,James  8,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Tue, Nov 15", Toronto ,W121-117  ,9-1,James  28,Love  13,James  15,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Nov 16",Indiana ,L103-93  ,9-2,Love  27,Love  16,Irving  7,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Nov 18", Detroit ,W104-81  ,10-2,Irving  25,Thompson  14,Irving  11,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Nov 23", Portland ,W137-125  ,11-2,Love  40,James  10,James  13,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Nov 25", Dallas ,W128-90  ,12-2,Love  27,Thompson  12,James  11,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sun, Nov 27",Philadelphia ,W112-108  ,13-2,Irving  39,Thompson  12,James  13,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Tue, Nov 29",Milwaukee ,L118-101  ,13-3,James  22,Love  13,James  4,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Thu, Dec 1", LA ,L113-94  ,13-4,Irving  28,Thompson  8,James  5,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Dec 2",Chicago ,L111-105  ,13-5,James  27,Love  9,James  13,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Mon, Dec 5",Toronto ,W116-112  ,14-5,James  34,Love  14,James  7,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Dec 7",New York ,W126-94  ,15-5,Irving  28,Thompson  20,James  7,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Dec 9", Miami ,W114-84  ,16-5,Love  28,Love  15,James  8,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Dec 10", Charlotte ,W116-105  ,17-5,James  44,Thompson  12,James  10,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Tue, Dec 13", Memphis ,W103-86  ,18-5,Love  29,Love  13,James  8,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Dec 14",Memphis ,L93-85  ,18-6,Jones  15,Thompson  11,Felder  4,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Dec 17", Los Angeles ,W119-108  ,19-6,Love  27,Love  17,Irving  12,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Tue, Dec 20",Milwaukee ,W114-108 OT ,20-6,James  34,James  12,James  7,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Dec 21", Milwaukee ,W113-102  ,21-6,Irving  31,Thompson  13,Irving  13,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Dec 23", Brooklyn ,W119-99  ,22-6,James  19,Love  15,Irving  10,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sun, Dec 25", Golden State ,W109-108  ,23-6,James  31,James  13,Irving  10,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Mon, Dec 26",Detroit ,L106-90  ,23-7,Irving  18,Love  14,Irving  8,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Thu, Dec 29", Boston ,W124-118  ,24-7,Irving  32,Love  15,Irving  12,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Dec 31",Charlotte ,W121-109  ,25-7,James  32,Love  10,James  9,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Mon, Jan 2", New Orleans ,W90-82  ,26-7,James  26,Jefferson  12,James  6,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Jan 4", Chicago ,L106-94  ,26-8,James  31,Thompson  11,James  7,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Jan 6",Brooklyn ,W116-108  ,27-8,James  36,Love  13,James  6,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sun, Jan 8",Phoenix ,W120-116  ,28-8,James  28,Love  10,Irving  7,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Tue, Jan 10",Utah ,L100-92  ,28-9,James  29,Thompson  12,James  5,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Jan 11",Portland ,L102-86  ,28-10,James  20,James  11,James  4,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Jan 13",Sacramento ,W120-108  ,29-10,Irving  26,Love  17,James  15,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Mon, Jan 16",Golden State ,L126-91  ,29-11,James  20,Shumpert  9,Felder  3,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Thu, Jan 19", Phoenix ,W118-103  ,30-11,Irving  26,Frye  10,James  15,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Jan 21", San Antonio ,L118-115 OT ,30-12,James  29,Thompson  12,Irving  9,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Mon, Jan 23",New Orleans ,L124-122  ,30-13,Irving  49,Love  16,James  12,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Jan 25", Sacramento ,L116-112 OT ,30-14,James  24,Love  16,James  11,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Jan 27", Brooklyn ,W124-116  ,31-14,James  31,Love  14,James  11,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sun, Jan 29", Oklahoma City ,W107-91  ,32-14,Irving  29,James  14,Irving  10,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Mon, Jan 30",Dallas ,L104-97  ,32-15,James  23,James  9,James  9,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Feb 1", Minnesota ,W125-97  ,33-15,James  27,Thompson  14,Irving  14,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Feb 4",New York ,W111-104  ,34-15,James  32,Love  16,James  10,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Mon, Feb 6",Washington ,W140-135 OT ,35-15,Love  39,Love  12,James  17,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Feb 8",Indiana ,W132-117  ,36-15,Korver  29,Love  10,James  9,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Thu, Feb 9",Oklahoma City ,L118-109  ,36-16,Irving  28,Love  12,James  7,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Feb 11", Denver ,W125-109  ,37-16,James  27,Thompson  13,James  12,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Tue, Feb 14",Minnesota ,W116-108  ,38-16,James  25,Thompson  11,James  14,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Feb 15", Indiana ,W113-104  ,39-16,James  31,Thompson  12,Irving  7,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Thu, Feb 23", New York ,W119-104  ,40-16,Irving  23,James  13,James  15,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Feb 25", Chicago ,L117-99  ,40-17,Irving  34,Irving  9,Irving  7,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Mon, Feb 27", Milwaukee ,W102-95  ,41-17,Irving  25,James  10,Irving  9,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Mar 1",Boston ,L103-99  ,41-18,James  28,James  13,James  10,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Mar 3",Atlanta ,W135-130  ,42-18,Irving  43,James  13,Irving  9,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Mar 4",Miami ,L120-92  ,42-19,Frye  21,Liggins  8,Williams  7,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Mon, Mar 6", Miami ,L106-98  ,42-20,Irving  32,James  17,James  6,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Thu, Mar 9",Detroit ,L106-101  ,42-21,James  29,James  14,James  10,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Mar 11",Orlando ,W116-104  ,43-21,James  24,Thompson  13,James  12,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sun, Mar 12",Houston ,L117-112  ,43-22,James  30,Thompson  8,Irving  8,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Tue, Mar 14", Detroit ,W128-96  ,44-22,Irving  26,James  11,James  12,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Thu, Mar 16", Utah ,W91-83  ,45-22,James  33,James  10,James  6,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Mar 18",LA ,L108-78  ,45-23,Jefferson  12,Jefferson  6,Williams  5,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sun, Mar 19",Los Angeles ,W125-120  ,46-23,Irving  46,Love  15,James  7,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Mar 22",Denver ,L126-113  ,46-24,Irving  33,Love  7,James  5,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Mar 24",Charlotte ,W112-105  ,47-24,James  32,Love  12,James  11,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sat, Mar 25", Washington ,L127-115  ,47-25,James  24,James  11,James  8,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Mon, Mar 27",San Antonio ,L103-74  ,47-26,James  17,James  8,James  8,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Thu, Mar 30",Chicago ,L99-93  ,47-27,James  26,James  10,James  8,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Mar 31", Philadelphia ,W122-105  ,48-27,James  34,Thompson  11,Irving  9,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sun, Apr 2", Indiana ,W135-130 2OT ,49-27,James  41,James  14,James  11,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Tue, Apr 4", Orlando ,W122-102  ,50-27,Love  28,Love  11,James  11,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Apr 5",Boston ,W114-91  ,51-27,James  36,Love  16,James  6,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Fri, Apr 7", Atlanta ,L114-100  ,51-28,James  27,Love  15,James  7,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Sun, Apr 9",Atlanta ,L126-125 OT ,51-29,Irving  45,James  16,James  10,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Mon, Apr 10",Miami ,L124-121 OT ,51-30,Williams  35,Love  10,Williams  9,H,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule
+"Wed, Apr 12", Toronto ,L98-83  ,51-31,Shumpert  11,Tavares  10,Williams  4,A,Cleveland Cavaliers 2016-17 Regular Season NBA Schedule

@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 31", Sacramento ,W93-87  ,1-0,Noah  23,Deng  12,Hinrich  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Nov 2",Cleveland ,W115-86  ,2-0,Boozer  19,Boozer  7,Robinson  12,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Nov 3", New Orleans ,L89-82  ,2-1,Deng  19,Noah  11,Deng  4,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Tue, Nov 6", Orlando ,W99-93  ,3-1,Deng  23,Noah  9,Robinson  6,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Thu, Nov 8", Oklahoma City ,L97-91  ,3-2,Deng  27,Noah  13,Noah  6,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Nov 10", Minnesota ,W87-80  ,4-2,Robinson  18,Boozer  9,Deng  4,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Nov 12", Boston ,L101-95  ,4-3,Deng  26,Deng  11,Robinson  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Nov 14",Phoenix ,W112-106 OT ,5-3,Boozer  28,Boozer  14,Hinrich  7,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Nov 17",LA ,L101-80  ,5-4,Boozer  22,Boozer  12,Hinrich  10,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sun, Nov 18",Portland ,L102-94  ,5-5,Robinson  18,Noah  15,Noah  8,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Nov 21",Houston ,L93-89  ,5-6,Robinson  21,Boozer  15,Hinrich  6,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Nov 24",Milwaukee ,W93-86  ,6-6,Boozer  22,Boozer  19,Noah  5,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Nov 26", Milwaukee ,L93-92  ,6-7,Hamilton  30,Boozer  11,Hinrich  6,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Nov 28", Dallas ,W101-78  ,7-7,Deng  22,Noah  10,Robinson  6,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Dec 1", Philadelphia ,W93-88  ,8-7,Deng  25,Noah  13,Deng  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Tue, Dec 4", Indiana ,L80-76  ,8-8,Robinson  19,Boozer  10,Hinrich  6,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Dec 5",Cleveland ,W95-85  ,9-8,Belinelli  23,Noah  15,Hinrich  8,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Dec 7",Detroit ,W108-104  ,10-8,Noah  30,Noah  23,Noah  6,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Dec 8", New York ,W93-85  ,11-8,Deng  22,Noah  11,Robinson  8,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Tue, Dec 11", LA ,L94-89  ,11-9,Boozer  24,Boozer  13,Noah  6,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Dec 12",Philadelphia ,W96-89  ,12-9,Noah  21,Deng  12,Noah  5,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Dec 15", Brooklyn ,W83-82  ,13-9,Belinelli  19,Noah  10,Noah  5,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Dec 17",Memphis ,L80-71  ,13-10,Boozer  16,Boozer  13,Hinrich  5,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Tue, Dec 18", Boston ,W100-89  ,14-10,Boozer  21,Noah  13,Noah  10,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Dec 21",New York ,W110-106  ,15-10,Deng  29,Deng  13,Hinrich  8,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Dec 22",Atlanta ,L92-75  ,15-11,Deng  11,Noah  9,Robinson  5,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Tue, Dec 25", Houston ,L120-97  ,15-12,Robinson  27,Noah  9,Noah  4,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Dec 29", Washington ,W87-77  ,16-12,Belinelli  17,Boozer  12,Hinrich  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Dec 31", Charlotte ,L91-81  ,16-13,Deng  20,Boozer  14,Robinson  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Jan 2",Orlando ,W96-94  ,17-13,Boozer  31,Boozer  11,Hamilton  9,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Jan 4",Miami ,W96-89  ,18-13,Boozer  27,Boozer  12,Hinrich  8,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Jan 7", Cleveland ,W118-92  ,19-13,Boozer  24,Boozer  11,Deng  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Jan 9", Milwaukee ,L104-96  ,19-14,Boozer  22,Noah  12,Robinson  6,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Jan 11",New York ,W108-101  ,20-14,Deng  33,Noah  8,Hinrich  7,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Jan 12", Phoenix ,L97-81  ,20-15,Boozer  15,Noah  13,Robinson  6,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Jan 14", Atlanta ,W97-58  ,21-15,Boozer  20,Noah  16,Boozer  3,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Jan 16",Toronto ,W107-105 OT ,22-15,Boozer  36,Noah  14,Deng  7,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Jan 18",Boston ,W100-99 OT ,23-15,Hamilton  20,Boozer  20,Hinrich  5,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Jan 19", Memphis ,L85-82 OT ,23-16,Butler  18,Boozer  14,Robinson  5,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Jan 21", Los Angeles ,W95-83  ,24-16,Hinrich  22,Noah  13,Hinrich  8,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Jan 23", Detroit ,W85-82  ,25-16,Butler  18,Noah  18,Robinson  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Jan 25", Golden State ,W103-87  ,26-16,Hinrich  25,Noah  16,Hamilton  5,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Jan 26",Washington ,L86-73  ,26-17,Robinson  19,Noah  17,Noah  10,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Jan 28", Charlotte ,W93-85  ,27-17,Butler  19,Noah  18,Noah  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Jan 30",Milwaukee ,W104-88  ,28-17,Robinson  24,Deng  13,Hinrich  8,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Feb 1",Brooklyn ,L93-89  ,28-18,Deng  18,Gibson  9,Robinson  11,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Feb 2",Atlanta ,W93-76  ,29-18,Deng  25,Gibson  19,Robinson  8,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Feb 4",Indiana ,L111-101  ,29-19,Belinelli  24,Gibson  11,Robinson  9,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Thu, Feb 7",Denver ,L128-96  ,29-20,Cook  19,Deng  8,Robinson  6,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Feb 8",Utah ,W93-89  ,30-20,Boozer  19,Noah  11,Robinson  9,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Feb 11", San Antonio ,L103-89  ,30-21,Robinson  20,Noah  15,Robinson  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Feb 13",Boston ,L71-69  ,30-22,Belinelli  12,Noah  16,Robinson  6,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Tue, Feb 19",New Orleans ,W96-87  ,31-22,Deng  20,Noah  17,Hinrich  10,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Thu, Feb 21", Miami ,L86-67  ,31-23,Robinson  14,Boozer  11,Noah  8,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Feb 22",Charlotte ,W105-75  ,32-23,Gibson  17,Boozer  10,Noah  8,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sun, Feb 24",Oklahoma City ,L102-72  ,32-24,Deng  13,Noah  9,Robinson  5,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Tue, Feb 26", Cleveland ,L101-98  ,32-25,Boozer  27,Noah  9,Hinrich  11,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Thu, Feb 28", Philadelphia ,W93-82  ,33-25,Noah  23,Noah  21,Hinrich  6,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Mar 2", Brooklyn ,W96-85  ,34-25,Noah  21,Noah  10,Noah  5,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sun, Mar 3",Indiana ,L97-92  ,34-26,Butler  20,Noah  10,Robinson  6,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Mar 6",San Antonio ,L101-83  ,34-27,Belinelli  21,Noah  13,Belinelli  7,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Mar 8", Utah ,W89-88  ,35-27,Boozer  22,Noah  13,Robinson  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sun, Mar 10",Los Angeles ,L90-81  ,35-28,Robinson  19,Noah  17,Robinson  8,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Mar 13",Sacramento ,L121-79  ,35-29,Boozer  21,Noah  9,Boozer  4,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Mar 15",Golden State ,W113-95  ,36-29,Deng  23,Noah  13,Robinson  7,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Mar 18", Denver ,L119-118 OT ,36-30,Robinson  34,Noah  12,Robinson  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Thu, Mar 21", Portland ,L99-89  ,36-31,Noah  18,Boozer  11,Robinson  9,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Mar 23", Indiana ,W87-84  ,37-31,Deng  20,Boozer  10,Robinson  5,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sun, Mar 24",Minnesota ,W104-97  ,38-31,Robinson  22,Boozer  12,Robinson  10,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Mar 27", Miami ,W101-97  ,39-31,Deng  28,Boozer  17,Hinrich  7,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sat, Mar 30",Dallas ,L100-98  ,39-32,Boozer  25,Boozer  11,Robinson  6,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sun, Mar 31", Detroit ,W95-94  ,40-32,Deng  28,Deng  9,Hinrich  6,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Tue, Apr 2",Washington ,L90-86  ,40-33,Boozer  19,Boozer  12,Boozer  5,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Thu, Apr 4",Brooklyn ,W92-90  ,41-33,Boozer  29,Boozer  18,Hinrich  6,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Apr 5", Orlando ,W87-86  ,42-33,Deng  19,Mohammed  11,Robinson  5,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sun, Apr 7",Detroit ,L99-85  ,42-34,Boozer  21,Boozer  10,Hinrich  8,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Tue, Apr 9", Toronto ,L101-98  ,42-35,Butler  28,Boozer  11,Boozer  8,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Thu, Apr 11", New York ,W118-111 OT ,43-35,Robinson  35,Boozer  15,Hamilton  8,A,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Fri, Apr 12",Toronto ,L97-88  ,43-36,Boozer  19,Mohammed  13,Deng  8,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Sun, Apr 14",Miami ,L105-93  ,43-37,Deng  19,Boozer  20,Deng  3,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Mon, Apr 15",Orlando ,W102-84  ,44-37,Boozer  22,Butler  10,Deng  8,H,Chicago Bulls 2012-13 Regular Season NBA Schedule
+"Wed, Apr 17", Washington ,W95-92  ,45-37,Boozer  19,Boozer  15,Hinrich  5,A,Chicago Bulls 2012-13 Regular Season NBA Schedule

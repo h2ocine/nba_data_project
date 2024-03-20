@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Tue, Oct 29", Philadelphia ,W95-88  ,1-0,McGrady  31,Armstrong  7,Hill  7,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Oct 30",Miami ,W100-86  ,2-0,McGrady  24,Miller  7,Hill  6,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Nov 1",Minnesota ,L111-105  ,2-1,Hill  27,Miller  8,McGrady  7,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sat, Nov 2",Milwaukee ,W100-90  ,3-1,McGrady  47,Garrity  15,McGrady  7,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Tue, Nov 5", Sacramento ,W125-121  ,4-1,McGrady  41,McGrady  8,Armstrong  10,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Nov 8", Seattle ,W105-98  ,5-1,Hill  28,McGrady  7,Hill  9,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Nov 10", LA ,L120-117  ,5-2,McGrady  32,Hill  9,Hill  6,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Tue, Nov 12", Toronto ,L115-109  ,5-3,McGrady  38,Hill  9,McGrady  8,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Thu, Nov 14",LA ,W101-80  ,6-3,McGrady  35,Armstrong  10,Vaughn  6,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sat, Nov 16",Golden State ,L134-92  ,6-4,McGrady  33,Kemp  7,Hill  3,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Nov 17",Sacramento ,L101-99  ,6-5,McGrady  36,McGrady  14,McGrady  7,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Tue, Nov 19",Seattle ,W101-84  ,7-5,McGrady  41,McGrady  12,Armstrong  7,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Nov 20",Portland ,L98-84  ,7-6,McGrady  33,McGrady  8,Armstrong  8,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Nov 22",Indiana ,L106-70  ,7-7,Vaughn  14,Burke  11,Miller  5,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Nov 24", Miami ,W77-75  ,8-7,Miller  31,Miller  19,Armstrong  6,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Nov 27", Los Angeles ,W112-102  ,9-7,McGrady  38,Hill  10,McGrady  9,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sat, Nov 30", Atlanta ,W117-92  ,10-7,McGrady  28,Hill  9,McGrady  6,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Mon, Dec 2", Boston ,L102-97  ,10-8,McGrady  25,Hill  13,Hill  5,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Dec 4",New York ,W87-85  ,11-8,Miller  23,Hill  15,Vaughn  7,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Dec 6", Washington ,W88-78  ,12-8,McGrady  27,Hill  10,McGrady  9,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sat, Dec 7",New Jersey ,L121-88  ,12-9,Hill  20,Miller  7,Hill  5,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Mon, Dec 9",Boston ,L114-109 OT ,12-10,McGrady  31,Hill  14,Hill  7,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Tue, Dec 10",Chicago ,L107-87  ,12-11,McGrady  26,McGrady  10,Armstrong  6,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Dec 13", Golden State ,W111-85  ,13-11,McGrady  36,Burke  8,Armstrong  6,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Dec 15",Los Angeles ,L107-84  ,13-12,McGrady  21,Hill  8,Armstrong  4,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Mon, Dec 16",Phoenix ,L87-84  ,13-13,Garrity  21,Sasser  11,Hill  7,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Dec 18",Utah ,W97-90  ,14-13,Garrity  24,Kemp  12,Armstrong  11,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Dec 20",Denver ,W89-80  ,15-13,Kemp  17,Hill  10,Armstrong  9,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Mon, Dec 23", Milwaukee ,L108-103  ,15-14,Miller  29,Kemp  14,Hill  7,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Dec 25", Detroit ,W104-99  ,16-14,McGrady  46,Hill  15,Armstrong  7,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Dec 27",Memphis ,L99-86  ,16-15,McGrady  35,McGrady  8,Armstrong  8,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sat, Dec 28", Boston ,W101-95  ,17-15,McGrady  25,DeClercq  12,Miller  5,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Mon, Dec 30", Washington ,W112-95  ,18-15,McGrady  32,Miller  7,Armstrong  11,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Jan 3",New Orleans ,L100-89  ,18-16,McGrady  40,DeClercq  8,Armstrong  5,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sat, Jan 4", New Jersey ,L88-83  ,18-17,McGrady  30,McGrady  11,McGrady  7,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Mon, Jan 6", New York ,W103-100  ,19-17,McGrady  28,DeClercq  10,McGrady  9,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Jan 8", Houston ,L91-81  ,19-18,McGrady  27,Miller  6,Armstrong  3,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Jan 10", Indiana ,L101-97 OT ,19-19,McGrady  23,Kemp  9,McGrady  10,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Jan 12",Philadelphia ,W107-105  ,20-19,McGrady  34,McGrady  7,McGrady  8,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Mon, Jan 13", Detroit ,L101-86  ,20-20,McGrady  20,Kemp  8,McGrady  4,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Thu, Jan 16",Washington ,L108-93  ,20-21,McGrady  31,Garrity  7,McGrady  5,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Jan 19",Toronto ,W101-93  ,21-21,McGrady  35,McGrady  11,McGrady  8,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Tue, Jan 21",Cleveland ,W103-94  ,22-21,McGrady  35,McGrady  11,Vaughn  11,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Jan 22", Chicago ,W94-91  ,23-21,McGrady  31,Garrity  9,McGrady  7,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Jan 24", Phoenix ,L110-107  ,23-22,McGrady  33,Miller  11,McGrady  11,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Jan 26",Boston ,L91-83  ,23-23,Sasser  26,Sasser  10,Miller  5,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Jan 29", Cleveland ,W113-108  ,24-23,McGrady  31,McGrady  12,McGrady  6,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Jan 31", San Antonio ,L109-108  ,24-24,McGrady  35,DeClercq  9,McGrady  6,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Feb 2",Atlanta ,L97-89  ,24-25,McGrady  38,Kemp  14,Vaughn  5,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Tue, Feb 4", Portland ,L96-89  ,24-26,McGrady  24,McGrady  9,Vaughn  5,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Tue, Feb 11", New Jersey ,W92-83  ,25-26,McGrady  32,McGrady  8,Armstrong  5,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Thu, Feb 13",Detroit ,L98-88  ,25-27,McGrady  35,McGrady  11,McGrady  6,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Feb 14",Philadelphia ,L99-98  ,25-28,McGrady  37,Miller  7,McGrady  7,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Feb 16",Toronto ,L99-97  ,25-29,McGrady  36,McGrady  12,McGrady  8,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Tue, Feb 18", New Orleans ,W99-94  ,26-29,McGrady  24,DeClercq  8,McGrady  7,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Feb 21", Chicago ,W110-96  ,27-29,McGrady  52,Gooden  11,Vaughn  8,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Feb 23",New Jersey ,W113-105  ,28-29,McGrady  46,McGrady  10,McGrady  13,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Tue, Feb 25", Dallas ,W98-93  ,29-29,McGrady  26,Gooden  10,McGrady  7,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Feb 28",New York ,L118-110 2OT ,29-30,McGrady  34,Gooden  18,McGrady  13,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Mar 2",Cleveland ,W102-76  ,30-30,McGrady  28,Gooden  14,McGrady  8,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Mon, Mar 3",Chicago ,W104-89  ,31-30,McGrady  26,Gooden  10,McGrady  13,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Mar 5", Milwaukee ,W111-99  ,32-30,McGrady  48,Gooden  16,McGrady  5,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Mar 7", New York ,L111-102  ,32-31,McGrady  37,Kemp  9,McGrady  6,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Mar 9", Denver ,W111-98  ,33-31,McGrady  43,Kemp  8,McGrady  3,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Tue, Mar 11",Washington ,L106-105  ,33-32,McGrady  43,Gooden  7,McGrady  6,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Mar 12", Utah ,L111-108  ,33-33,McGrady  32,Garrity  8,Armstrong  8,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sat, Mar 15", New Orleans ,W96-86  ,34-33,McGrady  34,Gooden  11,McGrady  5,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Mar 19", Miami ,W109-93  ,35-33,McGrady  36,McGrady  6,McGrady  9,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Mar 21", Cleveland ,W109-85  ,36-33,McGrady  39,Kemp  8,Whitney  4,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Mar 23",Miami ,W96-74  ,37-33,McGrady  37,McGrady  7,McGrady  5,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Mon, Mar 24", Memphis ,L110-104  ,37-34,McGrady  34,McGrady  7,Armstrong  5,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Mar 26",New Orleans ,W97-95  ,38-34,McGrady  41,DeClercq  8,McGrady  6,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Thu, Mar 27", Minnesota ,W110-107  ,39-34,McGrady  30,Kemp  7,McGrady  10,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Mon, Mar 31", Philadelphia ,L118-113 OT ,39-35,McGrady  39,McGrady  10,McGrady  9,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Tue, Apr 1",San Antonio ,L118-105  ,39-36,McGrady  30,McGrady  10,Giricek  4,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sat, Apr 5",Dallas ,L108-90  ,39-37,Giricek  18,Hunter  10,McGrady  6,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sun, Apr 6",Houston ,L114-93  ,39-38,McGrady  28,McGrady  4,Armstrong  6,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Apr 9", Toronto ,W88-82  ,40-38,McGrady  37,Giricek  6,Vaughn  6,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Fri, Apr 11",Indiana ,W98-86  ,41-38,McGrady  35,McGrady  11,McGrady  6,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Sat, Apr 12", Boston ,W89-86  ,42-38,McGrady  37,McGrady  9,Armstrong  5,A,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Mon, Apr 14",Atlanta ,L100-84  ,42-39,McGrady  22,Gooden  10,McGrady  5,H,Orlando Magic 2002-03 Regular Season NBA Schedule
+"Wed, Apr 16",Milwaukee ,L93-87  ,42-40,Armstrong  15,Sasser  8,Vaughn  9,H,Orlando Magic 2002-03 Regular Season NBA Schedule

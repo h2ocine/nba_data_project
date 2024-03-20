@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 18", Charlotte ,W102-90  ,1-0,Harris  27,Drummond  13,Jackson  8,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Oct 20",Washington ,L115-111  ,1-1,Jackson  21,Drummond  12,Jackson  5,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Oct 21",New York ,W111-107  ,2-1,Harris  31,Drummond  12,Jackson  7,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Oct 23", Philadelphia ,L97-86  ,2-2,Jackson  16,Drummond  14,Jackson  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Oct 25", Minnesota ,W122-101  ,3-2,Harris  34,Drummond  15,Smith  13,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Oct 28",LA ,W95-87  ,4-2,Drummond  15,Drummond  17,Jackson  7,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sun, Oct 29",Golden State ,W115-107  ,5-2,Bradley  23,Drummond  18,Jackson  5,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Tue, Oct 31",Los Angeles ,L113-93  ,5-3,Jackson  18,Drummond  12,Jackson  5,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Nov 3", Milwaukee ,W105-96  ,6-3,Drummond  24,Drummond  14,Jackson  8,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Nov 4", Sacramento ,W108-99  ,7-3,Bradley  24,Drummond  19,Jackson  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Nov 8", Indiana ,W114-97  ,8-3,Harris  23,Drummond  21,Jackson  6,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Nov 10", Atlanta ,W111-104  ,9-3,Jackson  22,Drummond  20,Drummond  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sun, Nov 12", Miami ,W112-103  ,10-3,Harris  25,Drummond  17,Smith  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Nov 15",Milwaukee ,L99-95  ,10-4,Bradley  28,Drummond  17,Bradley  5,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Nov 17",Indiana ,L107-100  ,10-5,Bradley  16,Drummond  15,Jackson  7,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sun, Nov 19",Minnesota ,W100-97  ,11-5,Drummond  20,Drummond  16,Jackson  8,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Nov 20", Cleveland ,L116-88  ,11-6,Harris  11,Drummond  8,Jackson  6,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Nov 24",Oklahoma City ,W99-98  ,12-6,Drummond  17,Drummond  14,Smith  4,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Nov 27",Boston ,W118-108  ,13-6,Harris  31,Drummond  22,Jackson  7,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Nov 29", Phoenix ,W131-107  ,14-6,Jackson  23,Harris  7,Drummond  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Dec 1",Washington ,L109-91  ,14-7,Harris  15,Drummond  17,Drummond  7,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Dec 2",Philadelphia ,L108-103  ,14-8,Harris  27,Drummond  11,Drummond  6,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Dec 4",San Antonio ,L96-93  ,14-9,Jackson  27,Drummond  15,Bradley  4,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Dec 6",Milwaukee ,L104-100  ,14-10,Drummond  27,Drummond  20,Drummond  6,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Dec 8", Golden State ,L102-98  ,14-11,Bradley  25,Drummond  17,Drummond  4,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sun, Dec 10", Boston ,L91-81  ,14-12,Harris  19,Drummond  15,Smith  5,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Tue, Dec 12", Denver ,L103-84  ,14-13,Galloway  18,Drummond  10,Smith  5,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Thu, Dec 14",Atlanta ,W105-91  ,15-13,Harris  19,Drummond  19,Drummond  8,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Dec 15",Indiana ,W104-98  ,16-13,Drummond  23,Drummond  13,Johnson  4,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sun, Dec 17", Orlando ,W114-110  ,17-13,Bullock Jr.  20,Moreland  8,Jackson  6,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Dec 20",Dallas ,L110-93  ,17-14,Tolliver  18,Drummond  13,Jackson  5,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Dec 22", New York ,W104-101  ,18-14,Harris  24,Drummond  15,Jackson  8,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Tue, Dec 26", Indiana ,W107-83  ,19-14,Harris  30,Drummond  18,Jackson  13,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Thu, Dec 28",Orlando ,L102-89  ,19-15,Harris  21,Drummond  17,Smith  5,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Dec 30", San Antonio ,W93-79  ,20-15,Bullock Jr.  22,Drummond  21,Drummond  6,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Jan 3",Miami ,L111-104  ,20-16,Harris  19,Marjanovic  9,Bradley  4,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Jan 5",Philadelphia ,L114-78  ,20-17,Harris  14,Drummond  8,Buycks  6,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Jan 6", Houston ,W108-101  ,21-17,Harris  27,Harris  8,Smith  4,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Jan 8",New Orleans ,L112-109  ,21-18,Harris  25,Drummond  14,Bradley  6,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Jan 10",Brooklyn ,W114-80  ,22-18,Drummond  22,Drummond  20,Drummond  5,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Jan 13",Chicago ,L107-105  ,22-19,Bradley  26,Drummond  15,Smith  6,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Jan 15", Charlotte ,L118-107  ,22-20,Harris  20,Drummond  10,Smith  10,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Jan 17",Toronto ,L96-91  ,22-21,Drummond  25,Drummond  17,Buycks  6,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Jan 19", Washington ,L122-112  ,22-22,Harris  17,Drummond  21,Drummond  8,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sun, Jan 21", Brooklyn ,L101-100  ,22-23,Harris  20,Drummond  13,Harris  5,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Jan 24", Utah ,L98-95 OT ,22-24,Drummond  30,Drummond  24,Drummond  4,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Jan 27", Oklahoma City ,L121-108  ,22-25,Harris  21,Drummond  13,Smith  9,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sun, Jan 28",Cleveland ,L121-104  ,22-26,Harris  20,Drummond  11,Tolliver  5,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Tue, Jan 30", Cleveland ,W125-114  ,23-26,Johnson  26,Drummond  22,Drummond  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Thu, Feb 1", Memphis ,W104-102  ,24-26,Griffin  24,Drummond  15,Griffin  5,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Feb 3", Miami ,W111-107  ,25-26,Smith  25,Drummond  20,Smith  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Feb 5", Portland ,W111-91  ,26-26,Griffin  21,Drummond  17,Smith  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Feb 7", Brooklyn ,W115-106  ,27-26,Griffin  25,Drummond  27,Griffin  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Feb 9", LA ,L108-95  ,27-27,Griffin  19,Drummond  17,Griffin  6,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sun, Feb 11",Atlanta ,L118-115  ,27-28,Drummond  25,Drummond  15,Smith  7,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Feb 12", New Orleans ,L118-103  ,27-29,Griffin  22,Drummond  21,Nelson  5,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Feb 14", Atlanta ,W104-98  ,28-29,Smith  22,Drummond  15,Smith  9,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Feb 23", Boston ,L110-98  ,28-30,Smith  20,Drummond  17,Smith  6,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sun, Feb 25",Charlotte ,L114-98  ,28-31,Griffin  20,Drummond  14,Smith  8,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Feb 26",Toronto ,L123-94  ,28-32,Drummond  18,Drummond  18,Griffin  5,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Feb 28", Milwaukee ,W110-87  ,29-32,Johnson  19,Drummond  16,Griffin  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Mar 2",Orlando ,L115-106 OT ,29-33,Bullock Jr.  21,Drummond  15,Griffin  9,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Mar 3",Miami ,L105-96  ,29-34,Griffin  31,Drummond  18,Griffin  6,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Mar 5",Cleveland ,L112-90  ,29-35,Griffin  25,Drummond  9,Smith  6,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Mar 7", Toronto ,L121-119 OT ,29-36,Griffin  31,Drummond  21,Smith  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Mar 9", Chicago ,W99-83  ,30-36,Griffin  25,Drummond  17,Griffin  8,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Tue, Mar 13",Utah ,L110-79  ,30-37,Kennard  18,Drummond  11,Nelson  4,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Thu, Mar 15",Denver ,L120-113  ,30-38,Griffin  26,Drummond  17,Griffin  9,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Mar 17",Portland ,L100-87  ,30-39,Drummond  18,Drummond  22,Griffin  7,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Mar 19",Sacramento ,W106-90  ,31-39,Griffin  26,Drummond  16,Griffin  7,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Tue, Mar 20",Phoenix ,W115-88  ,32-39,Griffin  26,Drummond  10,Griffin  10,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Thu, Mar 22",Houston ,L100-96 OT ,32-40,Griffin  21,Drummond  20,Griffin  10,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Mar 24", Chicago ,W117-95  ,33-40,Tolliver  25,Drummond  20,Griffin  9,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Mar 26", Los Angeles ,W112-106  ,34-40,Jackson  20,Drummond  18,Johnson  6,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Thu, Mar 29", Washington ,W103-92  ,35-40,Drummond  24,Drummond  23,Jackson  8,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sat, Mar 31",New York ,W115-109  ,36-40,Drummond  22,Drummond  17,Smith  6,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sun, Apr 1",Brooklyn ,W108-96  ,37-40,Jackson  29,Drummond  14,Johnson  4,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Apr 4", Philadelphia ,L115-108  ,37-41,Tolliver  25,Drummond  15,Smith  12,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Fri, Apr 6", Dallas ,W113-106 OT ,38-41,Jackson  24,Drummond  16,Jackson  7,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Sun, Apr 8",Memphis ,L130-117  ,38-42,Tolliver  19,Drummond  18,Smith  11,H,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Mon, Apr 9", Toronto ,L108-98  ,38-43,Kennard  20,Kennard  7,Jackson  9,A,Detroit Pistons 2017-18 Regular Season NBA Schedule
+"Wed, Apr 11",Chicago ,W119-87  ,39-43,Kennard  23,Moreland  17,Jackson  10,H,Detroit Pistons 2017-18 Regular Season NBA Schedule

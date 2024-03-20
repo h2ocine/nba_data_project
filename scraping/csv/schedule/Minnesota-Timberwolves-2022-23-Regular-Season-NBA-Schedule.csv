@@ -1,0 +1,83 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title
+"Wed, Oct 19", Oklahoma City ,W115-108  ,1-0,Gobert  23,Gobert  16,Towns  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Oct 21", Utah ,L132-126 OT ,1-1,Edwards  30,Gobert  23,Russell  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sun, Oct 23",Oklahoma City ,W116-106  ,2-1,Edwards  30,Gobert  15,Russell  6,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Oct 24", San Antonio ,L115-106  ,2-2,Towns  27,Towns  11,Russell  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Oct 26", San Antonio ,W134-122  ,3-2,Edwards  34,Gobert  9,Edwards  9,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Oct 28", Los Angeles ,W111-102  ,4-2,Edwards  29,Gobert  21,Towns  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sun, Oct 30",San Antonio ,L107-98  ,4-3,Towns  26,Gobert  12,Edwards  6,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Tue, Nov 1",Phoenix ,L116-107  ,4-4,Towns  24,Towns  10,Towns  7,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Nov 4", Milwaukee ,L115-102  ,4-5,Edwards  24,Gobert  13,Towns  5,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sat, Nov 5", Houston ,W129-117  ,5-5,Towns  25,Towns  9,McLaughlin  11,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Nov 7", New York ,L120-107  ,5-6,Towns  25,Towns  13,Russell  8,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Nov 9", Phoenix ,L129-117  ,5-7,Gobert  25,Gobert  11,Russell  6,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Nov 11",Memphis ,L114-103  ,5-8,Edwards  28,Towns  10,Russell  8,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sun, Nov 13",Cleveland ,W129-124  ,6-8,Russell  30,Towns  13,Russell  11,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Nov 16",Orlando ,W126-108  ,7-8,Edwards  35,Edwards  8,Edwards  6,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sat, Nov 19",Philadelphia ,W112-109  ,8-8,Edwards  25,Gobert  13,Russell  7,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Nov 21", Miami ,W105-101  ,9-8,Towns  25,Gobert  9,Towns  9,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Nov 23",Indiana ,W115-101  ,10-8,Towns  23,Gobert  16,Russell  12,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Nov 25",Charlotte ,L110-108  ,10-9,Edwards  25,Gobert  17,Russell  10,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sun, Nov 27", Golden State ,L137-114  ,10-10,Edwards  26,Gobert  10,Russell  6,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Nov 28",Washington ,L142-127  ,10-11,Edwards  29,Edwards  8,Russell  5,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Nov 30", Memphis ,W109-101  ,11-11,Edwards  29,Anderson  6,Russell  10,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sat, Dec 3", Oklahoma City ,L135-128  ,11-12,Russell  27,Reid  18,Russell  6,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Dec 7", Indiana ,W121-115  ,12-12,Russell  28,Gobert  21,Edwards  8,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Dec 9",Utah ,W118-108  ,13-12,Russell  30,Gobert  13,Anderson  12,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sat, Dec 10",Portland ,L124-118  ,13-13,Edwards  26,Gobert  9,Edwards  7,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Dec 12",Portland ,L133-112  ,13-14,Russell  23,Gobert  20,Russell  8,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Dec 14",LA ,L99-88  ,13-15,Edwards  19,Gobert  13,Anderson  5,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Dec 16",Oklahoma City ,W112-110  ,14-15,Reid  28,Edwards  11,Edwards  7,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sun, Dec 18", Chicago ,W150-126  ,15-15,Edwards  37,McDaniels  8,Edwards  11,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Dec 19", Dallas ,W116-106  ,16-15,Edwards  27,Edwards  13,Edwards  9,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Dec 21", Dallas ,L104-99  ,16-16,Edwards  23,Gobert  15,Russell  8,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Dec 23",Boston ,L121-109  ,16-17,Edwards  30,Gobert  12,Russell  10,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Dec 26",Miami ,L113-110  ,16-18,Edwards  29,Reid  11,Russell  8,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Dec 28",New Orleans ,L119-118  ,16-19,Edwards  27,Gobert  8,Russell  4,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Dec 30",Milwaukee ,L123-114  ,16-20,Edwards  30,Edwards  10,Russell  7,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sat, Dec 31", Detroit ,L116-104  ,16-21,Edwards  30,Gobert  10,Edwards  5,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Jan 2", Denver ,W124-111  ,17-21,Edwards  29,Edwards  10,Anderson  8,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Jan 4", Portland ,W113-106  ,18-21,Edwards  32,Gobert  12,Russell  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Jan 6", LA ,W128-115  ,19-21,Gobert  25,Gobert  21,Nowell  6,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sun, Jan 8",Houston ,W104-96  ,20-21,Russell  22,Gobert  11,Russell  6,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Jan 11",Detroit ,L135-118  ,20-22,Edwards  20,Gobert  14,Edwards  6,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Jan 13", Phoenix ,W121-116  ,21-22,Edwards  31,Gobert  12,McDaniels  6,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sat, Jan 14", Cleveland ,W110-102  ,22-22,Edwards  26,Reid  7,Edwards  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Jan 16", Utah ,L126-125  ,22-23,Edwards  29,Anderson  11,Anderson  10,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Jan 18",Denver ,L122-118  ,22-24,McDaniels  18,Anderson  11,Anderson  8,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Thu, Jan 19", Toronto ,W128-126  ,23-24,Russell  25,Anderson  10,Edwards  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sat, Jan 21", Houston ,W113-104  ,24-24,Edwards  44,Anderson  7,Russell  8,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Jan 23",Houston ,L119-114  ,24-25,Edwards  31,Gobert  16,Russell  7,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Jan 25",New Orleans ,W111-102  ,25-25,Edwards  37,Gobert  12,Anderson  7,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Jan 27", Memphis ,W111-100  ,26-25,Edwards  25,Gobert  13,Edwards  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sat, Jan 28", Sacramento ,W117-110  ,27-25,Edwards  34,Gobert  14,Edwards  6,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Jan 30", Sacramento ,L118-111 OT ,27-26,Edwards  33,Gobert  14,Russell  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Feb 1", Golden State ,W119-114 OT ,28-26,Russell  29,Reid  13,Edwards  5,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Feb 3", Orlando ,L127-120  ,28-27,Russell  29,Russell  10,Russell  6,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sun, Feb 5", Denver ,W128-98  ,29-27,Edwards  20,Gobert  8,Russell  10,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Tue, Feb 7",Denver ,L146-112  ,29-28,Garza  19,Garza  9,Moore Jr.  5,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Feb 8",Utah ,W143-118  ,30-28,Edwards  31,Minott  11,Edwards  8,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Feb 10",Memphis ,L128-107  ,30-29,Nowell  21,Gobert  10,Edwards  5,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Feb 13",Dallas ,W124-121  ,31-29,Edwards  32,Gobert  14,Conley  9,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Thu, Feb 16", Washington ,L114-106  ,31-30,Edwards  34,Gobert  19,Anderson  8,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Feb 24", Charlotte ,L121-113  ,31-31,Edwards  29,Gobert  10,Anderson  6,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sun, Feb 26",Golden State ,L109-104  ,31-32,Reid  30,Reid  9,Edwards  7,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Tue, Feb 28",LA ,W108-101  ,32-32,McDaniels  20,Anderson  10,Conley  7,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Mar 3",Los Angeles ,W110-102  ,33-32,Gobert  22,Gobert  14,McLaughlin  6,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sat, Mar 4",Sacramento ,W138-134  ,34-32,Edwards  27,Gobert  14,Anderson  9,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Tue, Mar 7", Philadelphia ,L117-94  ,34-33,Edwards  32,Gobert  9,Reid  3,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Mar 10", Brooklyn ,L124-123 OT ,34-34,Edwards  32,Gobert  13,Anderson  11,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Mar 13",Atlanta ,W136-115  ,35-34,Edwards  32,Anderson  10,Anderson  12,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Mar 15", Boston ,L104-102  ,35-35,Edwards  28,Edwards  10,Anderson  8,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Mar 17",Chicago ,L139-131 2OT ,35-36,Conley  28,Gobert  19,Anderson  12,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sat, Mar 18",Toronto ,L122-107  ,42-40,Reid  22,Gobert  12,McLaughlin  8,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Mar 20",New York ,W140-134  ,36-37,Prince  35,Anderson  9,Conley  11,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Mar 22", Atlanta ,W125-124  ,37-37,Reid  26,Gobert  12,Anderson  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sun, Mar 26",Golden State ,W99-96  ,38-37,Reid  23,Gobert  18,Anderson  7,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Mon, Mar 27",Sacramento ,W119-115  ,39-37,McDaniels  20,Gobert  16,Anderson  11,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Wed, Mar 29",Phoenix ,L107-100  ,39-38,Edwards  31,Gobert  15,Edwards  6,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Fri, Mar 31", Los Angeles ,L123-111  ,39-39,Conley  25,Gobert  11,Conley  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sun, Apr 2", Portland ,L107-105  ,39-40,Edwards  37,Gobert  15,Anderson  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Tue, Apr 4",Brooklyn ,W107-102  ,40-40,Edwards  23,Towns  14,Anderson  10,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sat, Apr 8",San Antonio ,W151-131  ,42-40,Edwards  33,Gobert  13,McLaughlin  9,H,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
+"Sun, Apr 9", New Orleans ,W113-108  ,42-40,Towns  30,Edwards  13,Conley  7,A,Minnesota Timberwolves 2022-23 Regular Season NBA Schedule
