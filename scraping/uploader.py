@@ -4,6 +4,55 @@ from urllib import request
 import urllib.parse
 import table_parser
 
+def upload_players_information(players_info_url : str) -> list[pd.DataFrame]:
+    # Open the URL and read the HTML content
+    response = request.urlopen(players_info_url)
+    html = response.read()
+    # Create BeautifulSoup object to parse the HTML
+    soup = bs4.BeautifulSoup(html, "lxml")
+
+    # Get the seasons years :
+    seaons_html = soup.find_all('select')[-2]
+    seasons_list = [season.get_text() for season in seaons_html.find_all('option')]
+
+    tables_df_list = []
+    for season in seasons_list:
+        season_table_url = players_info_url + '/' + season[5:]
+        df_title = f'NBA {season} Players Information'
+        table_df = table_parser.parse_players_information(season_table_url, df_title)
+        tables_df_list.append(table_df)
+        print(f'{df_title} uploaded successfully from {season_table_url}')
+
+    return tables_df_list
+
+
+def upload_players_stats(players_stat_url : str) -> list[pd.DataFrame]:
+    # Open the URL and read the HTML content
+    response = request.urlopen(players_stat_url)
+    html = response.read()
+    # Create BeautifulSoup object to parse the HTML
+    soup = bs4.BeautifulSoup(html, "lxml")
+
+    # Get the seasons years :
+    seaons_html = soup.find_all('select')
+
+    season_types = list(map(lambda x: x.get_text().replace(" ", "_"),seaons_html[-3].find_all('option'))) 
+    season_years = list(map(lambda x: x.get_text(),seaons_html[-6].find_all('option')))[:-2]
+
+    tables_df_list = []
+    for year in season_years:
+        for type in season_types:
+            season_table_url = players_stat_url[:40] + year[5:] + players_stat_url[44:] + str(1) + '/' + type 
+            df_title = f'NBA {year} {type} Players Statistic'
+            table_df = table_parser.parse_players_stats(season_table_url, df_title)
+            if len(table_df) == 0:
+                continue
+            tables_df_list.append(table_df)
+            print(f'{df_title} uploaded successfully from {season_table_url}')
+
+    return tables_df_list
+
+
 def upload_schedule(schedule_url : str) -> list[pd.DataFrame]:
     # Open the URL and read the HTML content
     response = request.urlopen(schedule_url)
@@ -171,54 +220,3 @@ def upload_teams(teams_url : str) -> list[pd.DataFrame]:
 
     return teams
 
-def upload_player(teams_url : str) -> list[pd.DataFrame]:
-
-    # Open the URL and read the HTML content
-    response = request.urlopen(teams_url)
-    html = response.read()
-
-    # Create BeautifulSoup object to parse the HTML
-    soup = bs4.BeautifulSoup(html, "lxml")
-
-    # Get the <select> tags
-    tag = soup.find('div',{'class' : 'flex flex-wrap'})
-    year_select_tag = tag # Select tag for year
-    
-    # Get all the option tags for teams
-    year_soup = bs4.BeautifulSoup(str(year_select_tag), "lxml")
-    year_option_tag = year_soup.find_all('option')
-    
-    # Get the seasons year and the season type (Regular or Preseason)
- 
-    years_type = []
-    for y in year_option_tag:
-        if(y.has_attr('value') == False):
-            continue
-        year_label = y.get_text()[:7]
-        type_label = y.get_text()[8:]
-        year = y['value'][:4]
-        type = y['value'][5:]
-        years_type.append((year_label,type_label,year,type))
-    
-    players = []
-    for (year_label,type_label,year,type) in years_type:
-        # Get the Regular Season data
-        url = f'https://www.espn.com/nba/stats/player/_/season/{year}/seasontype/{type}'
-        title = f'NBA Team {type_label} Stats {year_label}'
-
-        MAX_RETRIES=10
-        for retry_df in range(MAX_RETRIES):
-            try:
-                df = table_parser.parse_players(url, title)
-                players.append(df)
-
-                print(f'{title} uploaded successfully from {url}')
-                break  # Sort de la boucle si le parsing réussit
-
-            except Exception as e:
-                print(f'Error occurred: {str(e)}')
-                if retry_df >= MAX_RETRIES - 1:
-                    print(f'Maximum retries reached to parse {url}. Upload failed.')
-                    raise e  # Déclenche à nouveau l'exception après le nombre maximum de tentatives
-
-    return players

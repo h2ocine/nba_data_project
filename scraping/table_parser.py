@@ -5,6 +5,94 @@ from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
 
+def parse_players_information(table_url: str, title : str) -> pd.DataFrame:
+    # Open the URL and read the HTML content
+    response = request.urlopen(table_url)
+    html = response.read()
+
+    # Create BeautifulSoup object to parse the HTML
+    soup = bs4.BeautifulSoup(html, "lxml")
+
+    # Find the <table> tag
+    table_tag = soup.find_all('table')
+    table_soup = bs4.BeautifulSoup(str(table_tag), features="lxml")
+
+    head = table_soup.find('thead')
+    body = table_soup.find_all('tbody')[0]
+
+    # Get the column names
+    head_lines_list = head.find_all('th')
+    columns_name = []
+    for td in head_lines_list:
+        attribute = td.get_text()
+        columns_name.append(attribute)
+
+    # Get the players data
+    body_lines_list = body.find_all('tr')
+    players_list = []
+    for player_line in body_lines_list:
+        players_list.append(player_line.find_all('td'))
+        
+    players_data = [] # All the players data
+    for player in players_list:
+        player_stat = [] # All the stats for an individual player
+        for stat in player:
+            player_stat.append(stat.get_text())
+        players_data.append(player_stat)
+
+    # Get the data into a dataframe
+    df = pd.DataFrame(players_data, columns=columns_name)
+    # Add the Title of the dataframe 
+    df['Title'] = title
+    return df
+
+
+def parse_players_stats(table_url: str, title : str) -> pd.DataFrame:
+    players_data_list = [] # All the players data
+    num_page = 1
+    while 1: # Browse the pages to get all the table
+        table_url = table_url[:72] + str(num_page) + table_url[73:] 
+        try:
+            # Open the URL and read the HTML content
+            response = request.urlopen(table_url)
+            html = response.read()
+
+            # Create BeautifulSoup object to parse the HTML
+            soup = bs4.BeautifulSoup(html, "lxml")
+
+            # Find the <table> tag
+            table_tag = soup.find_all('table')
+
+            if num_page == 1:
+                columns_name= list(map(lambda x: x.get_text(),table_tag[-1].find_all('a')))[:21]
+                columns_name=  [columns_name[0], 'Team'] + columns_name[1:]
+            
+            players_data= soup.find('tbody')
+
+            # Get the players data
+            body_lines_list = players_data.find_all('tr')
+            players_list = []
+            for player_line in body_lines_list:
+                players_list.append(player_line.find_all('td'))
+                
+            for player in players_list:
+                player_stat = [] # All the stats for an individual player
+                for stat in player[1:]:
+                    player_stat.append(stat.get_text())
+                players_data_list.append(player_stat)
+
+            num_page += 1
+
+        except AttributeError as e:
+            break
+
+    # Get the data into a dataframe
+    df = pd.DataFrame(players_data_list, columns=columns_name)
+    # Add the Title of the dataframe 
+    df['Title'] = title
+    return df
+
+
 def parse_schedule(url : str, title : str) -> pd.DataFrame:
     # Open the URL and read the HTML content
     response = request.urlopen(url)
@@ -199,71 +287,3 @@ def parse_teams(url : str, title : str) -> pd.DataFrame:
 
     return df
 
-def parse_players(url: str, title: str) -> pd.DataFrame:
-    # Create a new Chrome browser instance
-    driver = webdriver.Chrome()
-
-    # Open the URL in the browser
-    driver.get(url)
-
-    # Close the cookie pop-up 
-    try:
-        close_button = driver.find_element(By.XPATH, '//button[text()="Continue without Accepting"]')
-        close_button.click()
-    except:
-        pass
-
-    # Click the "Show More" button to load all the content
-    try:
-        time.sleep(0.35)
-        show_more_link = driver.find_element(By.XPATH, '//a[text()="Show More"]')
-        while True:
-            show_more_link = driver.find_element(By.XPATH, '//a[text()="Show More"]')
-            show_more_link.click()
-            time.sleep(0.35)  # Allow time for content to load
-    except:
-        pass
-
-    # Get the page source after JavaScript execution
-    html = driver.page_source
-    driver.quit()
-
-    # Create BeautifulSoup object to parse the HTML
-    soup = bs4.BeautifulSoup(html, "html.parser")
-
-    # Get the players name
-    names_table_tag = soup.find_all('a')
-    players = [tag.get_text() for tag in names_table_tag[27:-26]]
-
-    # Get the info table
-    info_table_tag = soup.find('div', {"class": "Table__Scroller"})
-    info_table_soup = bs4.BeautifulSoup(str(info_table_tag), "html.parser")
-
-    # Get the tables lines
-    info_lines_list = info_table_soup.find_all('tr')
-    # Get the column names
-    tr_tag = info_table_soup.find('tr', {"class": "Table__sub-header Table__TR Table__even"})
-    columns_name = [column.get_text() for column in tr_tag]
-    columns_name = ['Player Name'] + columns_name
-
-    data = []
-    for i in range(len(info_lines_list)-1):
-        # Get the player  name
-        tr_soup_info = bs4.BeautifulSoup(str(info_lines_list[i+1]), "html.parser")
-
-        # Get tplayer information
-        td_tags = tr_soup_info.find_all('td')
-        
-        attributes = [players[i]]  # Initialize with tplayer name and its rank
-        for td in td_tags:
-            attribute = td.get_text()
-            attributes.append(attribute)
-        data.append(attributes)
-
-    # Get the data into a dataframe
-    df = pd.DataFrame(data, columns=columns_name)
-
-    # Add the Title of the dataframe
-    df['Title'] = title
-
-    return df
