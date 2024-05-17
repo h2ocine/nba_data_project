@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+3/11,Phoenix ,Walker,Walker,Walker,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,0,1,112,82
+5/11,Seattle ,Walker,Walker,Walker,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,0,2,106,85
+7/11,Los Angeles ,Harrington,Smith,Diaw,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,0,3,106,90
+9/11, Cleveland ,Walker,Walker,Walker,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,0,4,93,79
+12/11,New Orleans ,Walker,Harrington,Walker,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,1,4,96,95
+13/11, San Antonio ,Walker,Harrington,Barry,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,1,5,103,88
+16/11, Houston ,Walker,Walker,Harrington,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,2,5,88,84
+17/11,Indiana ,Harrington,Walker,Walker,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,2,6,93,86
+20/11, Utah ,Harrington,Harrington,Walker,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,2,7,92,79
+23/11,New York ,Walker,Walker,Childress,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,2,8,104,88
+24/11, Miami ,Walker,Harrington,Anderson,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,2,9,99,93
+26/11, Orlando ,Walker,Walker,Walker,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,2,10,117,99
+27/11,Charlotte ,Harrington,Walker,Anderson,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,2,11,107,92
+30/11, New York ,Walker,Walker,Walker,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,2,12,110,109
+3/12, Washington ,Walker,Walker,Diaw,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,2,13,114,90
+4/12,New Jersey ,Harrington,Harrington,Walker,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,2,14,109,88
+6/12, Philadelphia ,Walker,Walker,Harrington,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,3,14,96,92
+8/12, Memphis ,Walker,Walker,Harrington,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,3,15,97,89
+10/12,Detroit ,Drobnjak,Walker,Anderson,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,4,15,88,72
+11/12, New Jersey ,Walker,Walker,Harrington,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,4,16,95,90
+14/12, Indiana ,Delk,Harrington,Delk,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,4,17,108,97
+15/12,Houston ,Harrington,Smith,Smith,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,4,18,92,69
+17/12, Portland ,Smith,Childress,Smith,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,4,19,100,84
+18/12,Dallas ,Walker,Walker,Smith,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,4,20,90,68
+22/12, Dallas ,Walker,Walker,Harrington,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,5,20,113,100
+27/12,Miami ,Drobnjak,Drobnjak,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,5,21,116,102
+28/12, Cleveland ,Harrington,Walker,Lue,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,5,22,111,102
+30/12, Seattle ,Walker,Walker,Walker,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,5,23,94,79
+2/1,Washington ,Delk,Walker,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,5,24,104,101
+5/1,Cleveland ,Walker,Walker,Walker,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,5,25,101,85
+7/1, Sacramento ,Harrington,Walker,Lue,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,5,26,100,97
+11/1, Milwaukee ,Lue,Walker,Lue,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,6,26,103,80
+14/1,Boston ,Walker,Walker,Walker,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,6,27,106,94
+15/1, Charlotte ,Harrington,Walker,Harrington,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,7,27,103,95
+17/1, New Jersey ,Harrington,Walker,Lue,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,7,28,85,84
+19/1,Miami ,Walker,Walker,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,7,29,111,92
+21/1,Chicago ,Walker,Smith,Walker,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,7,30,95,85
+22/1, Boston ,Walker,Harrington,Walker,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,8,30,100,96
+24/1, Chicago ,Harrington,Harrington,Walker,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,8,31,107,82
+26/1,Minnesota ,Harrington,Harrington,Walker,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,8,32,104,87
+28/1, Miami ,Walker,Walker,Walker,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,8,33,106,96
+29/1,Memphis ,Harrington,Harrington,Harrington,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,8,34,84,83
+31/1, Orlando ,Delk,Walker,Harrington,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,9,34,80,79
+2/2,Detroit ,Delk,Walker,Harrington,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,9,35,99,84
+4/2,Philadelphia ,Walker,Walker,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,9,36,103,85
+5/2, Indiana ,Walker,Walker,Walker,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,9,37,84,79
+7/2, Los Angeles ,Walker,Childress,Delk,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,10,37,114,108
+10/2,Orlando ,Walker,Childress,Delk,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,38,101,96
+12/2,Milwaukee ,Walker,Walker,Childress,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,39,113,83
+15/2, Denver ,Walker,Walker,Walker,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,40,100,96
+16/2,Cleveland ,Walker,Walker,Diaw,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,41,111,89
+22/2,Sacramento ,Harrington,Smith,Walker,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,42,114,104
+23/2,Golden State ,Walker,Childress,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,43,101,96
+25/2,Portland ,Harrington,Childress,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,44,102,101
+27/2,LA ,Lue,Childress,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,45,111,104
+1/3,Denver ,Harrington,Gugliotta,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,46,97,74
+2/3,Utah ,Childress,Smith,Harrington,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,47,96,74
+5/3, Philadelphia ,Harrington,Smith,Harrington,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,48,98,97
+8/3,Milwaukee ,Lue,Smith,Harrington,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,49,105,101
+9/3,Boston ,Lue,Harrington,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,10,50,95,91
+11/3,Toronto ,Lue,Smith,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,11,50,116,112
+12/3, Golden State ,Childress,Childress,Ivey,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,51,105,92
+14/3, Detroit ,Harrington,Childress,Lue,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,52,114,108
+16/3, Washington ,Delk,Harrington,Lue,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,53,122,93
+18/3, New York ,Diaw,Ekezie,Lue,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,54,106,92
+21/3,Chicago ,Childress,Childress,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,55,105,91
+22/3, Phoenix ,Harrington,Smith,Lue,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,56,105,94
+25/3,San Antonio ,Delk,Childress,Harrington,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,57,111,95
+26/3, Toronto ,Delk,Childress,Diaw,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,58,109,104
+28/3,Orlando ,Childress,Childress,Gugliotta,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,59,109,102
+30/3,Washington ,Harrington,Childress,Diaw,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,60,102,99
+1/4, Boston ,Childress,Smith,Delk,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,61,116,100
+3/4, LA ,Childress,Collier,Drobnjak,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,62,111,91
+5/4, New Orleans ,Gugliotta,Gugliotta,Lue,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,63,96,86
+8/4,Toronto ,Drobnjak,Smith,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,11,64,109,101
+9/4, Minnesota ,Lue,Delk,Ivey,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,12,64,105,98
+11/4, Charlotte ,Childress,Childress,Lue,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,12,65,110,105
+13/4,Charlotte ,Smith,Smith,Lue,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,12,66,105,84
+16/4, Chicago ,Delk,Childress,Lue,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,12,67,114,105
+17/4,New York ,Lue,Childress,Diaw,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,W,13,67,139,135
+19/4, Detroit ,Smith,Childress,Smith,A,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,13,68,95,68
+20/4,Philadelphia ,Lue,Smith,Childress,H,Atlanta Hawks 2004-05 Regular Season NBA Schedule,L,13,69,110,86

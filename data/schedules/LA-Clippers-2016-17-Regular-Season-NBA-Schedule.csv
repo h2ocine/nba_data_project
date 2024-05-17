@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+27/10,Portland ,Griffin,Griffin,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,1,0,114,106
+30/10, Utah ,Rivers,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,2,0,88,75
+31/10, Phoenix ,Paul,Griffin,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,3,0,116,98
+2/11, Oklahoma City ,Paul,Paul,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,3,1,85,83
+4/11,Memphis ,Paul,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,4,1,99,88
+5/11,San Antonio ,Griffin,Speights,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,5,1,116,92
+7/11, Detroit ,Paul,Griffin,Griffin,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,6,1,114,82
+9/11, Portland ,Griffin,Griffin,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,7,1,111,80
+11/11,Oklahoma City ,Griffin,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,8,1,110,108
+12/11,Minnesota ,Griffin,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,9,1,119,105
+14/11, Brooklyn ,Paul,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,10,1,127,95
+16/11, Memphis ,Redick,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,10,2,111,107
+18/11,Sacramento ,Griffin,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,11,2,121,115
+19/11, Chicago ,Griffin,Griffin,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,12,2,102,95
+21/11, Toronto ,Griffin,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,13,2,123,115
+23/11,Dallas ,Rivers,Speights,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,14,2,124,104
+25/11,Detroit ,Griffin,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,14,3,108,97
+27/11,Indiana ,Griffin,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,14,4,91,70
+29/11,Brooklyn ,Paul,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,14,5,127,122
+1/12,Cleveland ,Redick,Jordan,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,15,5,113,94
+2/12,New Orleans ,Griffin,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,16,5,114,96
+4/12, Indiana ,Griffin,Griffin,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,16,6,111,102
+7/12, Golden State ,Crawford,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,16,7,115,98
+10/12, New Orleans ,Crawford,Speights,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,17,7,133,105
+12/12, Portland ,Griffin,Griffin,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,18,7,121,120
+14/12,Orlando ,Rivers,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,19,7,113,108
+16/12,Miami ,Griffin,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,20,7,102,98
+18/12,Washington ,Griffin,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,20,8,117,110
+20/12, Denver ,Redick,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,21,8,119,102
+22/12, San Antonio ,Paul,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,22,8,106,101
+23/12, Dallas ,Crawford,Jordan,Crawford,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,22,9,90,88
+25/12,Los Angeles ,Redick,Felton,Felton,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,22,10,111,102
+26/12, Denver ,Crawford,Jordan,Crawford,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,22,11,106,102
+28/12,New Orleans ,Rivers,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,22,12,102,98
+30/12,Houston ,Felton,Jordan,Felton,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,22,13,140,116
+31/12,Oklahoma City ,Bass,Jordan,Crawford,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,22,14,114,88
+2/1, Phoenix ,Redick,Jordan,Crawford,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,23,14,109,98
+4/1, Memphis ,Rivers,Jordan,Rivers,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,24,14,115,106
+6/1,Sacramento ,Rivers,Speights,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,25,14,106,98
+8/1, Miami ,Redick,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,26,14,98,86
+11/1, Orlando ,Redick,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,27,14,105,96
+14/1, Los Angeles ,Jordan,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,28,14,113,97
+16/1, Oklahoma City ,Speights,Jordan,Rivers,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,29,14,120,98
+19/1, Minnesota ,Jordan,Jordan,Felton,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,29,15,104,101
+21/1,Denver ,Speights,Jordan,Crawford,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,29,16,123,98
+23/1,Atlanta ,Rivers,Jordan,Rivers,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,30,16,115,105
+24/1,Philadelphia ,Crawford,Jordan,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,30,17,121,110
+28/1,Golden State ,Griffin,Felton,Rivers,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,30,18,144,98
+1/2,Phoenix ,Griffin,Jordan,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,31,18,124,114
+2/2, Golden State ,Griffin,Griffin,Rivers,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,31,19,133,120
+5/2,Boston ,Griffin,Jordan,Crawford,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,31,20,107,102
+6/2,Toronto ,Griffin,Jordan,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,31,21,118,109
+8/2,New York ,Griffin,Jordan,Rivers,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,32,21,119,115
+11/2,Charlotte ,Crawford,Jordan,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,33,21,107,102
+13/2,Utah ,Griffin,Jordan,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,34,21,88,72
+15/2, Atlanta ,Griffin,Jordan,Griffin,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,35,21,99,84
+23/2,Golden State ,Rivers,Jordan,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,35,22,123,113
+24/2, San Antonio ,Griffin,Griffin,Griffin,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,35,23,105,97
+26/2, Charlotte ,Griffin,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,36,23,124,121
+1/3, Houston ,Griffin,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,36,24,122,103
+3/3,Milwaukee ,Griffin,Jordan,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,36,25,112,101
+4/3,Chicago ,Crawford,Jordan,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,37,25,101,91
+6/3, Boston ,Griffin,Jordan,Crawford,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,38,25,116,102
+8/3,Minnesota ,Jordan,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,38,26,107,91
+9/3,Memphis ,Rivers,Griffin,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,39,26,114,98
+11/3, Philadelphia ,Paul,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,40,26,112,100
+13/3,Utah ,Paul,Griffin,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,40,27,114,108
+15/3, Milwaukee ,Jordan,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,40,28,97,96
+16/3,Denver ,Redick,Speights,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,40,29,129,114
+18/3, Cleveland ,Griffin,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,41,29,108,78
+20/3, New York ,Griffin,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,42,29,114,105
+21/3,Los Angeles ,Paul,Jordan,Griffin,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,43,29,133,109
+23/3,Dallas ,Griffin,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,L,43,30,97,95
+25/3, Utah ,Crawford,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,44,30,108,95
+26/3, Sacramento ,Jordan,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,L,44,31,98,97
+29/3, Washington ,Redick,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,45,31,133,124
+30/3,Phoenix ,Griffin,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,46,31,124,118
+1/4, Los Angeles ,Griffin,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,47,31,115,104
+5/4, Dallas ,Griffin,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,48,31,112,101
+8/4,San Antonio ,Paul,Jordan,Paul,H,LA Clippers 2016-17 Regular Season NBA Schedule,W,49,31,98,87
+10/4, Houston ,Paul,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,50,31,125,96
+12/4, Sacramento ,Jordan,Jordan,Paul,A,LA Clippers 2016-17 Regular Season NBA Schedule,W,51,31,115,95

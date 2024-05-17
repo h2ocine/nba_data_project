@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+30/10,Utah ,Durant,Ibaka,Jackson,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,1,0,101,98
+1/11,Minnesota ,Lamb,Ibaka,Jackson,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,1,1,100,81
+3/11, Phoenix ,Durant,Durant,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,2,1,103,96
+6/11, Dallas ,Durant,Ibaka,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,3,1,107,93
+8/11,Detroit ,Durant,Adams,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,4,1,119,110
+10/11, Washington ,Durant,Durant,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,5,1,106,105
+13/11,LA ,Durant,Durant,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,5,2,111,103
+14/11,Golden State ,Westbrook,Ibaka,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,5,3,116,115
+16/11,Milwaukee ,Westbrook,Ibaka,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,6,3,92,79
+18/11, Denver ,Durant,Westbrook,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,7,3,115,113
+21/11, LA ,Durant,Adams,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,8,3,105,91
+24/11, Utah ,Durant,Ibaka,Jackson,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,9,3,95,73
+27/11, San Antonio ,Durant,Durant,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,10,3,94,88
+29/11, Golden State ,Westbrook,Durant,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,11,3,113,112
+1/12, Minnesota ,Durant,Durant,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,12,3,113,103
+3/12,Sacramento ,Durant,Durant,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,13,3,97,95
+4/12,Portland ,Durant,Ibaka,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,13,4,111,104
+6/12,New Orleans ,Durant,Ibaka,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,14,4,109,95
+8/12, Indiana ,Durant,Durant,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,15,4,118,94
+10/12,Atlanta ,Durant,Durant,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,16,4,101,92
+11/12,Memphis ,Westbrook,Ibaka,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,17,4,116,100
+13/12, Los Angeles ,Durant,Ibaka,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,18,4,122,97
+15/12, Orlando ,Durant,Westbrook,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,19,4,101,98
+17/12,Denver ,Durant,Westbrook,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,20,4,105,93
+19/12, Chicago ,Durant,Durant,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,21,4,107,95
+21/12,San Antonio ,Westbrook,Ibaka,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,22,4,113,100
+22/12, Toronto ,Westbrook,Westbrook,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,22,5,104,98
+25/12,New York ,Durant,Westbrook,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,23,5,123,94
+27/12,Charlotte ,Durant,Durant,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,24,5,89,85
+29/12, Houston ,Durant,Durant,Jackson,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,25,5,117,86
+31/12, Portland ,Durant,Durant,Jackson,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,25,6,98,94
+2/1, Brooklyn ,Durant,Ibaka,Jackson,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,25,7,95,93
+4/1,Minnesota ,Durant,Adams,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,26,7,115,111
+5/1, Boston ,Jackson,Ibaka,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,27,7,119,96
+7/1,Utah ,Durant,Durant,Jackson,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,27,8,112,101
+9/1,Denver ,Durant,Ibaka,Jackson,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,27,9,101,88
+11/1, Milwaukee ,Durant,Ibaka,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,28,9,101,85
+14/1,Memphis ,Durant,Ibaka,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,28,10,90,87
+16/1,Houston ,Durant,Ibaka,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,29,10,104,92
+17/1, Golden State ,Durant,Perkins,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,30,10,127,121
+19/1, Sacramento ,Durant,Collison,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,31,10,108,93
+21/1, Portland ,Durant,Perkins,Jackson,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,32,10,105,97
+22/1,San Antonio ,Durant,Ibaka,Jackson,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,33,10,111,105
+24/1,Boston ,Ibaka,Perkins,Jackson,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,34,10,101,83
+25/1,Philadelphia ,Durant,Durant,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,35,10,103,91
+27/1, Atlanta ,Durant,Perkins,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,36,10,111,109
+29/1,Miami ,Durant,Ibaka,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,37,10,112,95
+31/1,Brooklyn ,Durant,Ibaka,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,38,10,120,95
+1/2,Washington ,Durant,Ibaka,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,38,11,96,81
+3/2, Memphis ,Durant,Ibaka,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,39,11,86,77
+5/2, Minnesota ,Durant,Perkins,Jackson,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,40,11,106,97
+7/2,Orlando ,Durant,Ibaka,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,40,12,103,102
+9/2, New York ,Durant,Perkins,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,41,12,112,100
+11/2,Portland ,Durant,Ibaka,Jackson,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,42,12,98,95
+13/2,Los Angeles ,Durant,Durant,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,43,12,107,103
+20/2, Miami ,Durant,Durant,Jackson,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,43,13,103,81
+23/2, LA ,Durant,Ibaka,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,43,14,125,117
+26/2, Cleveland ,Durant,Ibaka,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,43,15,114,104
+28/2, Memphis ,Durant,Ibaka,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,44,15,113,107
+2/3, Charlotte ,Durant,Ibaka,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,45,15,116,99
+4/3, Philadelphia ,Durant,Westbrook,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,46,15,125,92
+6/3,Phoenix ,Westbrook,Westbrook,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,46,16,128,122
+9/3,Los Angeles ,Durant,Ibaka,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,46,17,114,110
+11/3, Houston ,Durant,Ibaka,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,47,17,106,98
+13/3, Los Angeles ,Durant,Ibaka,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,48,17,131,102
+16/3, Dallas ,Durant,Collison,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,48,18,109,86
+17/3,Chicago ,Durant,Durant,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,49,18,97,85
+20/3,Cleveland ,Durant,Durant,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,50,18,102,95
+21/3,Toronto ,Durant,Durant,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,51,18,119,118
+24/3, Denver ,Durant,Ibaka,Jackson,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,52,18,117,96
+25/3,Dallas ,Durant,Westbrook,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,52,19,128,119
+28/3, Sacramento ,Durant,Ibaka,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,53,19,94,81
+30/3, Utah ,Durant,Adams,Durant,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,54,19,116,96
+3/4, San Antonio ,Durant,Ibaka,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,55,19,106,94
+4/4,Houston ,Durant,Durant,Jackson,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,55,20,111,107
+6/4,Phoenix ,Durant,Durant,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,55,21,122,115
+8/4,Sacramento ,Butler,Collison,Jackson,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,56,21,107,92
+9/4,LA ,Westbrook,Westbrook,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,57,21,107,101
+11/4, New Orleans ,Durant,Ibaka,Jackson,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,58,21,116,94
+13/4,Indiana ,Durant,Westbrook,Westbrook,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,58,22,102,97
+14/4,New Orleans ,Durant,Ibaka,Durant,H,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,L,58,23,101,89
+16/4, Detroit ,Durant,Ibaka,Westbrook,A,Oklahoma City Thunder 2013-14 Regular Season NBA Schedule,W,59,23,112,111

@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+18/10, New Orleans ,Conley,Gasol,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,1,0,103,91
+21/10, Golden State ,Gasol,Gasol,Conley,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,2,0,111,101
+23/10,Houston ,Gasol,Ennis,Conley,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,3,0,98,90
+25/10,Dallas ,Gasol,Gasol,Gasol,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,3,1,103,94
+26/10, Dallas ,Gasol,Gasol,Chalmers,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,4,1,96,91
+28/10, Houston ,Parsons,Evans,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,5,1,103,89
+30/10, Charlotte ,Evans,Evans,Conley,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,5,2,104,99
+1/11, Orlando ,Evans,Gasol,Parsons,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,5,3,101,99
+4/11,LA ,Conley,Wright,Evans,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,6,3,113,104
+5/11,Los Angeles ,Evans,Gasol,Gasol,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,6,4,107,102
+7/11,Portland ,Evans,Brooks,Conley,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,7,4,98,97
+11/11,Houston ,Evans,Gasol,Evans,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,7,5,111,96
+13/11,Milwaukee ,Evans,Gasol,Gasol,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,7,6,110,103
+15/11, Indiana ,Gasol,Gasol,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,7,7,116,113
+18/11, Houston ,Parsons,Gasol,Chalmers,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,7,8,105,83
+20/11, Portland ,Chalmers,Gasol,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,7,9,100,92
+22/11, Dallas ,Evans,Gasol,Chalmers,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,7,10,95,94
+24/11,Denver ,Green,Gasol,Gasol,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,7,11,104,92
+26/11, Brooklyn ,Evans,Green,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,7,12,98,88
+29/11,San Antonio ,Evans,Green,Gasol,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,7,13,104,95
+1/12, San Antonio ,Gasol,Gasol,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,7,14,95,79
+2/12,Cleveland ,Evans,Evans,Evans,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,7,15,116,111
+4/12, Minnesota ,Gasol,Green,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,8,15,95,92
+6/12,New York ,Gasol,Gasol,Harrison,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,8,16,99,88
+8/12, Toronto ,Evans,Gasol,Harrison,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,8,17,116,107
+9/12, Oklahoma City ,Evans,Evans,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,8,18,102,101
+11/12, Miami ,Gasol,Davis,Parsons,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,8,19,107,82
+13/12,Washington ,Harrison,Green,Harrison,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,8,20,93,87
+15/12, Atlanta ,Evans,Green,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,9,20,96,94
+16/12, Boston ,Gasol,Gasol,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,9,21,102,93
+20/12,Golden State ,Gasol,Gasol,Evans,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,9,22,97,84
+21/12,Phoenix ,Evans,Gasol,Evans,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,9,23,97,95
+23/12, LA ,Evans,Gasol,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,10,23,115,112
+26/12,Phoenix ,Evans,Gasol,Evans,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,10,24,99,97
+27/12,Los Angeles ,Evans,Gasol,Evans,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,11,24,109,99
+30/12,Golden State ,Gasol,Green,Evans,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,11,25,141,128
+31/12,Sacramento ,Evans,Davis,Evans,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,12,25,114,96
+2/1,LA ,Evans,Green,Evans,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,12,26,113,105
+5/1, Washington ,Evans,Gasol,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,12,27,102,100
+10/1, New Orleans ,Evans,Green,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,13,27,105,102
+12/1,Denver ,Gasol,Gasol,Harrison,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,13,28,87,78
+15/1, Los Angeles ,Brooks,Evans,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,14,28,123,114
+17/1, New York ,Evans,Green,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,15,28,105,99
+19/1, Sacramento ,Brooks,Green,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,16,28,106,88
+20/1,New Orleans ,Selden,Green,Gasol,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,16,29,111,104
+22/1, Philadelphia ,Gasol,Martin,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,17,29,105,101
+24/1, San Antonio ,Gasol,Gasol,Harrison,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,17,30,108,85
+26/1, LA ,Martin,Gasol,Chalmers,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,17,31,109,100
+29/1, Phoenix ,Evans,Gasol,Selden,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,18,31,120,109
+31/1,Indiana ,Selden,Gasol,Gasol,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,32,105,101
+1/2,Detroit ,Gasol,Gasol,Harrison,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,33,104,102
+4/2,Toronto ,Gasol,Selden,Gasol,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,34,101,86
+6/2,Atlanta ,Chalmers,Rabb,Brooks,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,35,108,82
+7/2, Utah ,Harrison,Green,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,36,92,88
+11/2,Oklahoma City ,Gasol,Green,Chalmers,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,37,110,92
+14/2, Oklahoma City ,Harrison,Evans,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,38,121,114
+23/2, Cleveland ,Green,Green,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,39,112,89
+24/2,Miami ,Harrison,Green,Harrison,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,40,115,89
+26/2,Boston ,Green,Green,Gasol,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,41,109,98
+28/2, Phoenix ,Gasol,Gasol,Harrison,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,42,110,102
+2/3, Denver ,Gasol,Gasol,Chalmers,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,43,108,102
+3/3,Orlando ,McLemore,Green,Green,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,44,107,100
+5/3,San Antonio ,Gasol,Green,Green,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,45,100,98
+7/3,Chicago ,Brooks,Green,Gasol,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,46,119,110
+9/3, Utah ,Brooks,Gasol,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,47,95,78
+10/3,Dallas ,Brooks,Green,Parsons,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,48,114,80
+12/3, Milwaukee ,Gasol,Gasol,Martin,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,49,121,103
+15/3, Chicago ,Evans,Gasol,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,18,50,111,110
+17/3, Denver ,Brooks,Martin,Evans,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,19,50,101,94
+19/3,Brooklyn ,Harrison,Green,Harrison,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,19,51,118,115
+21/3,Philadelphia ,Selden,Davis,Chalmers,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,19,52,119,105
+22/3,Charlotte ,Selden,Martin,Evans,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,19,53,140,79
+24/3, Los Angeles ,Harrison,Green,Harrison,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,19,54,100,93
+26/3,Minnesota ,Selden,Green,Gasol,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,20,54,101,93
+28/3, Portland ,Brooks,Martin,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,21,54,108,103
+30/3,Utah ,Gasol,Green,Simmons,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,21,55,107,97
+1/4,Portland ,Brooks,Rabb,Teague,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,21,56,113,98
+4/4,New Orleans ,Brooks,Rabb,Brooks,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,21,57,123,95
+6/4, Sacramento ,Brooks,Rabb,Brooks,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,21,58,94,93
+8/4, Detroit ,Brooks,Gasol,Gasol,A,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,W,22,58,130,117
+9/4,Minnesota ,McLemore,Rabb,Brooks,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,22,59,113,94
+11/4,Oklahoma City ,Brooks,Rabb,Simmons,H,Memphis Grizzlies 2017-18 Regular Season NBA Schedule,L,22,60,137,123

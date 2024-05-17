@@ -1,0 +1,73 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+22/12, LA ,James,Schroder,Schroder,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,0,1,116,109
+25/12, Dallas ,Davis,Gasol,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,1,1,138,115
+27/12, Minnesota ,Kuzma,James,Gasol,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,2,1,127,91
+28/12, Portland ,James,Davis,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,2,2,115,107
+30/12,San Antonio ,James,Harrell,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,3,2,121,107
+1/1,San Antonio ,Davis,Davis,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,4,2,109,103
+3/1,Memphis ,James,James,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,5,2,108,94
+5/1,Memphis ,Davis,James,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,6,2,94,92
+7/1, San Antonio ,James,Davis,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,6,3,118,109
+8/1, Chicago ,James,Harrell,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,7,3,117,115
+10/1,Houston ,Davis,Harrell,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,8,3,120,102
+12/1,Houston ,James,Kuzma,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,9,3,117,100
+13/1,Oklahoma City ,James,Davis,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,10,3,128,99
+15/1, New Orleans ,James,Kuzma,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,11,3,112,95
+18/1, Golden State ,Schroder,Davis,Davis,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,11,4,115,113
+21/1,Milwaukee ,James,Davis,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,12,4,113,106
+23/1,Chicago ,Davis,James,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,13,4,101,90
+25/1,Cleveland ,James,Davis,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,14,4,115,108
+27/1,Philadelphia ,James,Davis,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,14,5,107,106
+28/1,Detroit ,Kuzma,Kuzma,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,14,6,107,92
+30/1,Boston ,Davis,Davis,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,15,6,96,95
+1/2,Atlanta ,Davis,James,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,16,6,107,99
+4/2, Denver ,James,James,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,17,6,114,93
+6/2, Detroit ,James,Harrell,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,18,6,135,129
+8/2, Oklahoma City ,James,James,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,19,6,119,112
+10/2, Oklahoma City ,James,Kuzma,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,20,6,114,113
+12/2, Memphis ,Davis,Davis,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,21,6,115,105
+14/2,Denver ,James,James,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,21,7,122,105
+16/2,Minnesota ,James,James,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,22,7,112,104
+18/2, Brooklyn ,James,Kuzma,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,22,8,109,98
+20/2, Miami ,Kuzma,Harrell,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,22,9,96,94
+22/2, Washington ,James,Kuzma,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,22,10,127,124
+24/2,Utah ,James,Morris,Horton-Tucker,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,22,11,114,89
+26/2, Portland ,James,James,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,23,11,102,93
+28/2, Golden State ,James,Kuzma,Schroder,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,24,11,117,91
+2/3, Phoenix ,James,Morris,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,24,12,114,104
+3/3,Sacramento ,Schroder,Harrell,Schroder,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,24,13,123,120
+12/3, Indiana ,Kuzma,Kuzma,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,25,13,105,100
+15/3,Golden State ,Harrell,James,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,26,13,128,97
+16/3, Minnesota ,James,James,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,27,13,137,121
+18/3, Charlotte ,James,Harrell,Schroder,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,28,13,116,105
+20/3, Atlanta ,Harrell,Harrell,Schroder,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,28,14,99,94
+21/3,Phoenix ,Harrell,Harrell,Kuzma,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,28,15,111,94
+23/3,New Orleans ,Harrell,Kuzma,Kuzma,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,28,16,128,111
+25/3, Philadelphia ,Kuzma,Kuzma,Schroder,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,28,17,109,101
+26/3, Cleveland ,Harrell,Harrell,Schroder,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,29,17,100,86
+28/3, Orlando ,Schroder,Kuzma,Schroder,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,30,17,96,93
+31/3, Milwaukee ,Harrell,Kuzma,Schroder,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,30,18,112,97
+2/4,Sacramento ,Kuzma,Caldwell-Pope,Schroder,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,31,18,115,94
+4/4,LA ,Harrell,Kuzma,Schroder,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,31,19,104,86
+6/4,Toronto ,Horton-Tucker,Morris,Schroder,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,32,19,110,101
+8/4,Miami ,Caldwell-Pope,Drummond,Schroder,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,32,20,110,104
+10/4,Brooklyn ,Drummond,Drummond,Horton-Tucker,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,33,20,126,101
+12/4,New York ,Schroder,Drummond,Schroder,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,33,21,111,96
+13/4,Charlotte ,Kuzma,Drummond,Schroder,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,34,21,101,93
+15/4, Boston ,Horton-Tucker,Harrell,Schroder,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,34,22,121,113
+17/4, Utah ,Drummond,Morris,Schroder,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,35,22,127,115
+19/4, Utah ,Horton-Tucker,Drummond,Schroder,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,35,23,111,97
+22/4,Dallas ,Caldwell-Pope,Drummond,Schroder,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,35,24,115,110
+24/4,Dallas ,McLemore,Drummond,Schroder,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,35,25,108,93
+26/4,Orlando ,Schroder,Drummond,Schroder,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,36,25,114,103
+28/4,Washington ,Davis,Drummond,Schroder,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,36,26,116,107
+30/4, Sacramento ,Davis,Davis,James,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,36,27,110,106
+2/5, Toronto ,Kuzma,Drummond,Horton-Tucker,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,36,28,121,114
+3/5, Denver ,Davis,Davis,Caruso,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,37,28,93,89
+6/5,LA ,Kuzma,Harrell,Caruso,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,37,29,118,94
+7/5,Portland ,Davis,Davis,Davis,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,L,37,30,106,101
+9/5, Phoenix ,Davis,Davis,Caruso,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,38,30,123,110
+11/5, New York ,Kuzma,Drummond,Horton-Tucker,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,39,30,101,99
+12/5, Houston ,Horton-Tucker,Drummond,Horton-Tucker,A,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,40,30,124,122
+15/5,Indiana ,Davis,Drummond,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,42,30,122,115
+16/5,New Orleans ,James,Drummond,James,H,Los Angeles Lakers 2020-21 Regular Season NBA Schedule,W,42,30,110,98

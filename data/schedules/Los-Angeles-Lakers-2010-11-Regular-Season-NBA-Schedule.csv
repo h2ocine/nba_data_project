@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+26/10, Houston ,Gasol,Gasol,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,1,0,112,110
+29/10,Phoenix ,Bryant,Odom,Gasol,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,2,0,114,106
+31/10, Golden State ,Gasol,Odom,Gasol,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,3,0,107,83
+2/11, Memphis ,Bryant,Barnes,Odom,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,4,0,124,105
+3/11,Sacramento ,Bryant,Gasol,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,5,0,112,100
+5/11, Toronto ,Gasol,Odom,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,6,0,108,103
+7/11, Portland ,Odom,Gasol,Gasol,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,7,0,121,96
+9/11, Minnesota ,Bryant,Gasol,World,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,8,0,99,94
+11/11,Denver ,Bryant,Gasol,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,8,1,118,112
+14/11, Phoenix ,Gasol,Gasol,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,8,2,121,116
+16/11,Milwaukee ,Bryant,Gasol,Odom,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,9,2,118,107
+17/11,Detroit ,Bryant,Odom,Fisher,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,10,2,103,90
+19/11,Minnesota ,Barnes,Gasol,Odom,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,11,2,112,95
+21/11, Golden State ,Gasol,Odom,Blake,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,12,2,117,89
+23/11, Chicago ,Odom,Gasol,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,13,2,98,91
+26/11,Utah ,Bryant,Gasol,Odom,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,13,3,102,96
+28/11, Indiana ,Bryant,Gasol,Fisher,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,13,4,95,92
+30/11,Memphis ,Bryant,Gasol,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,13,5,98,96
+1/12,Houston ,Bryant,Odom,Blake,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,13,6,109,99
+3/12, Sacramento ,Bryant,Odom,Gasol,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,14,6,113,80
+7/12, Washington ,Bryant,Gasol,Gasol,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,15,6,115,108
+8/12,LA ,Bryant,Gasol,Gasol,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,16,6,87,86
+10/12,Chicago ,Bryant,Gasol,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,16,7,88,84
+12/12,New Jersey ,Bryant,Gasol,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,17,7,99,92
+14/12,Washington ,Bryant,Odom,Gasol,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,18,7,103,89
+15/12,Indiana ,Bryant,Odom,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,19,7,109,94
+17/12,Philadelphia ,Odom,Gasol,Blake,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,20,7,93,81
+19/12,Toronto ,Bryant,Barnes,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,21,7,120,110
+21/12, Milwaukee ,Bryant,Gasol,Odom,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,21,8,98,79
+25/12, Miami ,Gasol,Odom,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,21,9,96,80
+28/12,San Antonio ,Bryant,Brown,Gasol,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,21,10,97,82
+29/12,New Orleans ,Odom,Gasol,Fisher,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,22,10,103,88
+31/12, Philadelphia ,Bryant,Bynum,Odom,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,23,10,102,98
+2/1, Memphis ,Bryant,Bynum,Brown,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,23,11,104,85
+4/1, Detroit ,Gasol,Odom,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,24,11,108,83
+5/1,Phoenix ,Bryant,Odom,Gasol,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,25,11,99,95
+7/1, New Orleans ,Bryant,Gasol,Gasol,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,26,11,101,97
+9/1, New York ,Bryant,Odom,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,27,11,109,87
+11/1, Cleveland ,Bynum,Gasol,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,28,11,112,57
+12/1,Golden State ,Bryant,Bynum,World,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,29,11,115,110
+14/1, New Jersey ,Bryant,Odom,Blake,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,30,11,100,88
+16/1,LA ,Bryant,Bynum,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,30,12,99,92
+17/1, Oklahoma City ,Gasol,Bynum,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,31,12,101,94
+19/1,Dallas ,Gasol,Odom,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,31,13,109,100
+21/1,Denver ,Gasol,Gasol,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,32,13,107,97
+25/1, Utah ,Bryant,Bynum,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,33,13,120,91
+28/1, Sacramento ,Bryant,Gasol,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,33,14,100,95
+30/1, Boston ,Bryant,Gasol,Odom,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,33,15,109,96
+1/2, Houston ,Bryant,Odom,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,34,15,114,106
+3/2, San Antonio ,Gasol,Bynum,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,34,16,89,88
+5/2,New Orleans ,Gasol,Gasol,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,35,16,101,95
+7/2,Memphis ,Bryant,Odom,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,36,16,93,84
+10/2,Boston ,Bryant,Odom,Fisher,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,37,16,92,86
+11/2,New York ,Bryant,Bryant,Blake,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,38,16,113,96
+13/2,Orlando ,Bynum,Bynum,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,38,17,89,75
+14/2,Charlotte ,Bryant,Gasol,Gasol,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,38,18,109,89
+16/2,Cleveland ,Gasol,Gasol,Odom,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,38,19,104,99
+22/2, Atlanta ,Bryant,Bynum,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,39,19,104,80
+23/2,Portland ,Bryant,Gasol,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,40,19,106,101
+25/2, LA ,Bryant,Bynum,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,41,19,108,95
+27/2,Oklahoma City ,Gasol,Gasol,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,42,19,90,87
+1/3,Minnesota ,Bryant,Gasol,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,43,19,90,79
+4/3, Charlotte ,Bryant,Bynum,Gasol,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,44,19,92,84
+6/3,San Antonio ,Bryant,Bynum,Odom,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,45,19,99,83
+8/3,Atlanta ,Bryant,Bynum,Gasol,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,46,19,101,87
+10/3,Miami ,Bryant,Bynum,World,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,46,20,94,88
+12/3,Dallas ,Bynum,Bynum,Blake,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,47,20,96,91
+14/3, Orlando ,Gasol,Bynum,Gasol,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,48,20,97,84
+18/3, Minnesota ,Gasol,Bynum,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,49,20,106,98
+20/3, Portland ,Bryant,Gasol,Odom,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,50,20,84,80
+22/3, Phoenix ,Bryant,Odom,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,51,20,139,137
+25/3, LA ,Bryant,Bynum,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,52,20,112,104
+27/3, New Orleans ,Bryant,Gasol,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,53,20,102,84
+31/3, Dallas ,Bryant,Bynum,World,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,54,20,110,82
+1/4,Utah ,Bryant,Gasol,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,55,20,96,85
+3/4, Denver ,Bryant,Bynum,Odom,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,55,21,95,90
+5/4, Utah ,Bryant,Bynum,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,55,22,86,85
+6/4,Golden State ,Bryant,Bynum,Odom,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,55,23,95,87
+8/4,Portland ,Bryant,Odom,Bryant,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,55,24,93,86
+10/4, Oklahoma City ,Bryant,Bynum,Bryant,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,L,55,25,120,106
+12/4, San Antonio ,Bryant,Gasol,Gasol,A,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,56,25,102,93
+13/4,Sacramento ,Bryant,Gasol,Odom,H,Los Angeles Lakers 2010-11 Regular Season NBA Schedule,W,57,25,116,108

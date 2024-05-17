@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+30/10, Denver ,Mobley,Cato,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,1,0,102,85
+1/11, Memphis ,Ming,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,1,1,79,71
+3/11,Chicago ,Francis,Cato,Norris,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,2,1,98,66
+4/11,New Jersey ,Mobley,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,3,1,86,75
+8/11, Orlando ,Francis,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,4,1,96,86
+11/11, Miami ,Mobley,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,5,1,90,70
+13/11,Dallas ,Jackson,Cato,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,5,2,97,86
+14/11, Phoenix ,Francis,Ming,Mobley,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,6,2,90,85
+16/11,Toronto ,Francis,Ming,Mobley,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,6,3,101,97
+17/11,Philadelphia ,Mobley,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,7,3,74,66
+19/11, Golden State ,Ming,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,8,3,85,83
+21/11,Portland ,Ming,Cato,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,8,4,85,78
+24/11,LA ,Francis,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,9,4,105,90
+26/11,Utah ,Ming,Cato,Mobley,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,9,5,83,76
+28/11,Sacramento ,Mobley,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,9,6,103,74
+29/11,Seattle ,Francis,Ming,Taylor,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,9,7,95,88
+3/12, Utah ,Mobley,Taylor,Mobley,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,10,7,107,101
+5/12,New Orleans ,Taylor,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,11,7,83,74
+6/12, Detroit ,Ming,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,12,7,86,80
+9/12, Portland ,Mobley,Cato,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,13,7,93,91
+11/12, San Antonio ,Mobley,Ming,Jackson,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,13,8,71,67
+13/12,San Antonio ,Francis,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,13,9,86,73
+16/12,Minnesota ,Francis,Francis,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,13,10,92,75
+17/12,Cleveland ,Francis,Cato,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,14,10,89,85
+19/12, LA ,Mobley,Jackson,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,15,10,99,85
+20/12,Phoenix ,Cato,Cato,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,15,11,102,87
+23/12, Indiana ,Francis,Taylor,Jackson,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,15,12,79,71
+25/12,Los Angeles ,Francis,Francis,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,16,12,99,87
+26/12,Denver ,Taylor,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,16,13,95,94
+29/12, Seattle ,Ming,Jackson,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,16,14,87,86
+31/12, Philadelphia ,Ming,Jackson,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,17,14,80,72
+3/1, Utah ,Francis,Cato,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,18,14,84,63
+5/1, Golden State ,Taylor,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,19,14,83,65
+7/1,Detroit ,Jackson,Taylor,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,19,15,85,66
+8/1,New York ,Francis,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,20,15,111,79
+11/1, Boston ,Jackson,Ming,Mobley,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,20,16,97,93
+13/1,Washington ,Ming,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,21,16,93,80
+14/1,Boston ,Mobley,Ming,Mobley,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,22,16,95,80
+17/1, Minnesota ,Ming,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,23,16,95,76
+19/1,Memphis ,Francis,Francis,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,23,17,88,83
+21/1, New York ,Ming,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,24,17,86,71
+23/1,Indiana ,Francis,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,25,17,78,74
+25/1,Orlando ,Ming,Ming,Jackson,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,26,17,99,87
+26/1,Miami ,Taylor,Taylor,Jackson,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,26,18,95,81
+28/1, Sacramento ,Jackson,Taylor,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,26,19,99,94
+31/1, New Jersey ,Francis,Taylor,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,26,20,88,77
+2/2,Phoenix ,Ming,Ming,Jackson,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,26,21,99,79
+4/2, Milwaukee ,Francis,Jackson,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,27,21,103,89
+6/2, Chicago ,Ming,Jackson,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,28,21,82,80
+7/2,Atlanta ,Francis,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,29,21,86,77
+9/2, San Antonio ,Ming,Francis,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,29,22,85,82
+11/2, Los Angeles ,Ming,Ming,Mobley,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,30,22,102,87
+17/2, Washington ,Jackson,Cato,Jackson,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,31,22,107,81
+21/2,Dallas ,Jackson,Jackson,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,31,23,97,88
+22/2, Atlanta ,Ming,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,32,23,123,121
+24/2,San Antonio ,Ming,Francis,Mobley,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,32,24,86,77
+25/2, Cleveland ,Mobley,Weatherspoon,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,33,24,90,84
+27/2, Portland ,Francis,Cato,Mobley,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,34,24,89,85
+29/02, Seattle ,Francis,Cato,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,34,25,97,80
+3/3, Los Angeles ,Ming,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,34,26,96,93
+5/3,Minnesota ,Ming,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,35,26,112,109
+7/3, Dallas ,Ming,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,36,26,101,98
+9/3, LA ,Francis,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,37,26,90,85
+11/3, New Orleans ,Mobley,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,38,26,97,86
+13/3, Memphis ,Jackson,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,39,26,88,80
+15/3, Phoenix ,Ming,Ming,Jackson,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,39,27,99,97
+19/3,Golden State ,Mobley,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,39,28,90,84
+21/3,Sacramento ,Taylor,Jackson,Jackson,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,39,29,100,95
+22/3,Portland ,Ming,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,40,29,93,85
+24/3, Toronto ,Ming,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,41,29,90,89
+26/3,Memphis ,Francis,Ming,Jackson,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,41,30,109,86
+28/3,Milwaukee ,Ming,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,42,30,111,107
+29/3, Minnesota ,Taylor,Taylor,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,42,31,94,88
+1/4,Los Angeles ,Mobley,Jackson,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,42,32,93,85
+2/4,Denver ,Ming,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,42,33,110,100
+4/4, Sacramento ,Ming,Ming,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,42,34,99,94
+6/4,Golden State ,Jackson,Ming,Mobley,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,42,35,97,90
+7/4,LA ,Mobley,Ming,Francis,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,43,35,102,79
+9/4, Denver ,Francis,Jackson,Francis,A,Houston Rockets 2003-04 Regular Season NBA Schedule,W,44,35,106,103
+10/4,Utah ,Taylor,Taylor,Jackson,H,Houston Rockets 2003-04 Regular Season NBA Schedule,L,44,36,82,69
+12/4,Seattle ,Jackson,Jackson,Jackson,H,Houston Rockets 2003-04 Regular Season NBA Schedule,W,45,36,111,107
+14/4, Dallas ,Padgett,Padgett,Nachbar,A,Houston Rockets 2003-04 Regular Season NBA Schedule,L,45,37,92,89

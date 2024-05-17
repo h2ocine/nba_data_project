@@ -1,0 +1,69 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+25/10, New Orleans ,Bane,Tillman,Bane,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,0,1,111,104
+27/10, Denver ,Jackson,Jackson,Smart,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,0,2,108,104
+28/10,Washington ,Bane,Williams,Smart,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,0,3,113,106
+30/10, Dallas ,Jackson,Jackson,Smart,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,0,4,125,110
+1/11,Utah ,Bane,Jackson,Smart,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,0,5,133,109
+3/11,Portland ,Bane,Jackson,Bane,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,0,6,115,113
+5/11,Portland ,Bane,Biyombo,Bane,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,1,6,112,100
+8/11, Miami ,Jackson,Biyombo,Smart,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,1,7,108,102
+10/11, Utah ,Bane,Biyombo,Bane,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,1,8,127,121
+12/11,LA ,Bane,Biyombo,Smart,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,2,8,105,101
+14/11,Los Angeles ,Aldama,Biyombo,Konchar,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,2,9,134,107
+18/11,San Antonio ,Jackson,Aldama,Williams,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,3,9,120,108
+19/11, Boston ,Bane,Aldama,Bane,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,3,10,102,100
+22/11,Houston ,Bane,Konchar,Bane,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,3,11,111,91
+24/11, Phoenix ,Aldama,Jackson,Bane,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,3,12,110,89
+26/11, Minnesota ,Jackson,Aldama,Bane,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,3,13,119,97
+29/11, Utah ,Jackson,Williams,Bane,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,4,13,105,91
+1/12,Dallas ,Bane,Aldama,Bane,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,5,13,108,94
+2/12,Phoenix ,Jackson,Jackson,Bane,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,5,14,116,109
+6/12,Detroit ,Bane,Biyombo,Bane,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,6,14,116,102
+8/12, Minnesota ,Jackson,Aldama,Rose,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,6,15,127,103
+11/12, Dallas ,Jackson,Williams,Bane,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,6,16,120,113
+13/12,Houston ,Jackson,Jackson,Rose,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,6,17,117,104
+15/12, Houston ,Bane,Bane,Bane,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,6,18,103,96
+18/12,Oklahoma City ,Williams,Aldama,Gilyard,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,6,19,116,97
+19/12,New Orleans ,Morant,Konchar,Morant,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,7,19,115,113
+21/12, Indiana ,Bane,Jackson,Morant,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,8,19,116,103
+23/12,Atlanta ,Bane,Biyombo,Morant,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,9,19,125,119
+26/12,New Orleans ,Morant,Jackson,Morant,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,10,19,116,115
+28/12,Denver ,Bane,Williams,Smart,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,10,20,142,105
+29/12,LA ,Jackson,Bane,Morant,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,10,21,117,106
+31/12, Sacramento ,Jackson,Bane,Bane,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,10,22,123,92
+2/1, San Antonio ,Morant,Aldama,Morant,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,11,22,106,98
+3/1, Toronto ,Morant,Morant,Morant,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,11,23,116,111
+5/1,Los Angeles ,Jackson,Biyombo,Bane,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,12,23,127,113
+7/1,Phoenix ,Jackson,Jackson,Smart,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,13,23,121,115
+9/1,Dallas ,Bane,Tillman,Williams,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,14,23,120,103
+12/1, LA ,Jackson,Tillman,Gilyard,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,14,24,128,119
+13/1, New York ,Jackson,Williams,Williams,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,14,25,106,94
+15/1, Golden State ,Williams,Williams,Jackson,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,15,25,116,107
+18/1,Minnesota ,Jackson,Williams,Tillman,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,15,26,118,103
+20/1,Chicago ,Jackson,Aldama,Kennard,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,15,27,125,96
+22/1,Toronto ,Jackson,Williams,Kennard,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,16,27,108,100
+24/1,Miami ,Williams,Konchar,Gilyard,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,17,27,105,96
+26/1, Orlando ,Jackson,Roddy,Kennard,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,18,27,107,106
+28/1,Indiana ,Jackson,Williams,Jackson,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,18,28,116,110
+29/1, Sacramento ,Jackson,Roddy,Pippen,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,18,29,103,94
+1/2, Cleveland ,Jackson,Aldama,Gilyard,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,18,30,108,101
+2/2, Golden State ,Jackson,Konchar,Gilyard,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,18,31,121,101
+4/2,Boston ,Pippen,Evbuomwan,Gilyard,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,18,32,131,91
+6/2,New York ,Williams,Jemison,Williams,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,18,33,123,113
+8/2, Chicago ,Jackson,Williams,Williams,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,18,34,118,110
+10/2,Charlotte ,Jackson,Konchar,Williams,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,18,35,115,106
+12/2, New Orleans ,Jackson,Stevens,Williams,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,18,36,96,87
+14/2, Houston ,Jackson,Jackson,Williams,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,19,36,121,113
+15/2, Milwaukee ,Williams,Williams,Williams,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,20,36,113,110
+23/2, LA ,Jackson,Stevens,Williams,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,20,37,101,95
+26/2, Brooklyn ,Stevens,Stevens,Williams,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,20,38,111,86
+28/2,Minnesota ,Jackson,Jackson,Goodwin,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,20,39,110,101
+1/3, Portland ,LaRavia,Aldama,Williams,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,20,40,122,92
+2/3, Portland ,Aldama,Aldama,Goodwin,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,20,41,107,100
+4/3,Brooklyn ,Kennard,LaRavia,Kennard,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,21,41,106,102
+6/3,Philadelphia ,Jackson,LaRavia,Williams,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,22,41,115,109
+8/3, Atlanta ,Jackson,Jackson,Williams,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,22,42,99,92
+10/3,Oklahoma City ,Jackson,Jarreau,Jarreau,H,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,22,43,124,93
+12/3, Washington ,Jemison,Goodwin,Kennard,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,W,23,43,109,97
+13/3, Charlotte ,Jackson,Konchar,Pippen,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,23,44,110,98
+16/3, Oklahoma City ,Bane,Jackson,Kennard,A,Memphis Grizzlies 2023-24 Regular Season NBA Schedule,L,23,45,118,112

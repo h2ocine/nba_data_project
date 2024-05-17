@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+30/10, Orlando ,Allen,Grant,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,0,1,100,86
+2/11,New Orleans ,Jones,Grant,Butler,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,0,2,100,95
+3/11, Sacramento ,Jones,Grant,Jones,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,1,2,88,78
+5/11, Indiana ,Jones,Grant,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,1,3,83,79
+9/11, Seattle ,Jones,Grant,Carter,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,1,4,84,82
+12/11, LA ,Butler,Grant,Jones,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,1,5,101,82
+15/11, New Jersey ,Jones,Grant,Jones,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,1,6,93,84
+16/11,Washington ,Allen,Grant,Jones,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,1,7,95,65
+19/11,Milwaukee ,Jones,Stepania,Butler,H,Miami Heat 2002-03 Regular Season NBA Schedule,W,2,7,97,93
+20/11,Detroit ,Jones,Stepania,James,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,2,8,79,68
+22/11, Detroit ,Jones,Grant,Jones,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,2,9,75,72
+24/11,Orlando ,Butler,Butler,Jones,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,2,10,77,75
+26/11, Los Angeles ,Jones,Grant,Butler,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,3,10,97,85
+27/11,Philadelphia ,Grant,Grant,Carter,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,3,11,83,74
+29/11,Atlanta ,Allen,Grant,James,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,3,12,100,94
+30/11, Cleveland ,Butler,Butler,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,4,12,85,79
+2/12,Phoenix ,Jones,Grant,Jones,H,Miami Heat 2002-03 Regular Season NBA Schedule,W,5,12,100,90
+4/12,LA ,Allen,Stepania,James,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,5,13,89,80
+6/12,Portland ,House,Grant,James,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,5,14,88,69
+7/12,Seattle ,Butler,Butler,Butler,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,5,15,100,71
+10/12, Memphis ,Jones,Grant,Butler,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,5,16,107,96
+13/12, New York ,Jones,Stepania,Jones,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,5,17,97,92
+14/12, Golden State ,Jones,Grant,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,6,17,101,92
+16/12, Houston ,Jones,Jones,Jones,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,6,18,105,100
+18/12,Boston ,Jones,Grant,Best,H,Miami Heat 2002-03 Regular Season NBA Schedule,W,7,18,91,81
+20/12,Toronto ,Butler,Grant,Best,H,Miami Heat 2002-03 Regular Season NBA Schedule,W,8,18,97,77
+22/12,New York ,Jones,Grant,Grant,H,Miami Heat 2002-03 Regular Season NBA Schedule,W,9,18,92,84
+23/12,Cleveland ,Grant,Grant,Best,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,9,19,74,72
+27/12, Boston ,Jones,Stepania,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,10,19,90,70
+30/12, Atlanta ,Jones,Grant,Jones,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,11,19,93,84
+1/1,Atlanta ,Butler,Stepania,Carter,H,Miami Heat 2002-03 Regular Season NBA Schedule,W,12,19,107,73
+3/1, New Jersey ,Butler,Stepania,James,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,12,20,100,80
+5/1,Sacramento ,Butler,Grant,James,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,12,21,96,70
+6/1,Golden State ,Lampley,Grant,Carter,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,12,22,99,85
+8/1,Denver ,Butler,Grant,Carter,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,12,23,86,76
+10/1,Utah ,Butler,Butler,Carter,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,12,24,92,76
+12/1,Los Angeles ,Butler,Stepania,James,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,12,25,106,81
+14/1, Detroit ,Butler,Butler,Butler,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,13,25,88,85
+15/1,Indiana ,Butler,Grant,Butler,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,13,26,104,81
+18/1, Chicago ,Allen,Grant,Jones,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,14,26,102,101
+20/1,New York ,Jones,Allen,Jones,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,14,27,72,65
+22/1, Phoenix ,Grant,Grant,James,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,15,27,92,85
+25/1, Philadelphia ,Jones,Ellis,Jones,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,15,28,97,91
+27/1, Indiana ,Butler,Grant,Jones,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,15,29,102,95
+29/1, New York ,Jones,Jones,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,16,29,82,80
+31/1,Philadelphia ,Jones,Grant,Butler,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,16,30,104,99
+1/2, San Antonio ,Jones,Stepania,Jones,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,16,31,67,65
+3/2, Atlanta ,Jones,Grant,James,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,17,31,99,79
+5/2, Portland ,Jones,Grant,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,17,32,101,87
+11/2, New Orleans ,Jones,Grant,House,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,17,33,78,69
+14/2,Houston ,Butler,Grant,Best,H,Miami Heat 2002-03 Regular Season NBA Schedule,W,18,33,94,82
+15/2,Dallas ,Best,Stepania,Best,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,18,34,98,92
+17/2,Detroit ,Butler,Stepania,Butler,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,18,35,93,62
+18/2,New Jersey ,Butler,Grant,House,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,18,36,84,79
+22/2, Chicago ,Jones,Grant,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,19,36,100,90
+25/2,San Antonio ,Jones,Grant,James,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,19,37,84,69
+26/2,New Orleans ,Grant,Grant,Best,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,19,38,91,82
+28/2,Memphis ,Butler,Grant,Jones,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,19,39,126,116
+2/3, Washington ,Butler,Grant,Butler,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,20,39,93,83
+4/3, Milwaukee ,Grant,Grant,Carter,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,20,40,100,91
+7/3, Dallas ,Butler,Allen,Carter,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,20,41,91,89
+8/3, Denver ,Butler,Grant,James,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,20,42,98,92
+10/3, Utah ,Butler,Grant,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,20,43,83,73
+11/3,Cleveland ,Best,Stepania,Best,H,Miami Heat 2002-03 Regular Season NBA Schedule,W,21,43,77,75
+14/3, New Orleans ,Butler,Allen,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,21,44,87,83
+15/3,Washington ,Grant,Grant,James,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,21,45,89,82
+18/3, Philadelphia ,Butler,Grant,Carter,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,21,46,103,83
+19/3,Orlando ,Butler,Stepania,Carter,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,21,47,109,93
+21/3, Toronto ,Butler,Grant,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,22,47,107,98
+23/3, Orlando ,Butler,Allen,Butler,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,22,48,96,74
+25/3,Minnesota ,Butler,Grant,Carter,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,22,49,108,91
+26/3,Chicago ,Butler,Grant,Carter,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,22,50,82,74
+28/3, Minnesota ,Butler,Grant,Carter,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,23,50,111,84
+30/3,Milwaukee ,Butler,Stepania,James,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,23,51,109,87
+31/3, Milwaukee ,House,Grant,Best,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,23,52,91,86
+2/4,Boston ,Butler,Grant,Carter,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,23,53,90,62
+4/4,New Jersey ,Grant,Grant,Carter,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,23,54,99,83
+6/4,Indiana ,James,Grant,Carter,H,Miami Heat 2002-03 Regular Season NBA Schedule,L,23,55,90,69
+8/4, Toronto ,Grant,Stepania,Carter,A,Miami Heat 2002-03 Regular Season NBA Schedule,W,24,55,89,83
+11/4, Washington ,Butler,Allen,Butler,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,24,56,91,87
+13/4, Boston ,Butler,Ellis,Carter,A,Miami Heat 2002-03 Regular Season NBA Schedule,L,24,57,94,86
+15/4,Toronto ,Butler,Johnson,James,H,Miami Heat 2002-03 Regular Season NBA Schedule,W,25,57,103,99

@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+19/10, LA ,Lopez,Nance,Ingram,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,0,1,108,92
+20/10,Phoenix ,Ball,Ball,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,1,1,132,130
+22/10, New Orleans ,Clarkson,Ball,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,1,2,119,112
+25/10, Washington ,Ingram,Ingram,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,2,2,102,99
+27/10, Toronto ,Randle,Kuzma,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,2,3,101,92
+28/10,Utah ,Ingram,Nance,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,2,4,96,81
+31/10, Detroit ,Randle,Nance,Ingram,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,3,4,113,93
+2/11,Portland ,Lopez,Randle,Clarkson,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,3,5,113,110
+3/11, Brooklyn ,Lopez,Kuzma,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,4,5,124,112
+5/11, Memphis ,Lopez,Kuzma,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,5,5,107,102
+8/11,Boston ,Ingram,Randle,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,5,6,107,96
+9/11,Washington ,Lopez,Kuzma,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,5,7,111,95
+11/11,Milwaukee ,Kuzma,Ball,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,5,8,98,90
+13/11,Phoenix ,Clarkson,Caldwell-Pope,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,6,8,100,93
+15/11, Philadelphia ,Ingram,Ingram,Clarkson,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,6,9,115,109
+17/11, Phoenix ,Kuzma,Kuzma,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,6,10,122,113
+19/11, Denver ,Randle,Ball,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,7,10,127,109
+21/11, Chicago ,Kuzma,Ball,Kuzma,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,8,10,103,94
+22/11,Sacramento ,Caldwell-Pope,Randle,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,8,11,113,102
+27/11,LA ,Caldwell-Pope,Clarkson,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,8,12,120,115
+29/11, Golden State ,Ingram,Caldwell-Pope,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,8,13,127,123
+2/12,Denver ,Ingram,Kuzma,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,8,14,115,100
+3/12, Houston ,Kuzma,Kuzma,Ingram,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,8,15,118,95
+7/12,Philadelphia ,Ingram,Ball,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,9,15,107,104
+9/12,Charlotte ,Clarkson,Kuzma,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,10,15,110,99
+12/12,New York ,Caldwell-Pope,Nance,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,10,16,113,109
+14/12,Cleveland ,Ingram,Nance,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,10,17,121,112
+18/12, Golden State ,Kuzma,Randle,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,10,18,116,114
+20/12,Houston ,Kuzma,Ball,Ingram,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,11,18,122,116
+22/12,Golden State ,Kuzma,Kuzma,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,11,19,113,106
+23/12, Portland ,Kuzma,Hart,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,11,20,95,92
+25/12, Minnesota ,Kuzma,Randle,Clarkson,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,11,21,121,104
+27/12, Memphis ,Ingram,Nance,Ingram,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,11,22,109,99
+29/12, LA ,Clarkson,Randle,Clarkson,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,11,23,121,106
+31/12,Houston ,Randle,Randle,Ennis,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,11,24,148,142
+1/1,Minnesota ,Clarkson,Randle,Clarkson,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,11,25,114,96
+3/1, Oklahoma City ,Kuzma,Nance,Ennis,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,11,26,133,96
+5/1, Charlotte ,Ingram,Ingram,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,11,27,108,94
+7/1, Atlanta ,Ingram,Ball,Ingram,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,12,27,132,113
+9/1, Sacramento ,Randle,Randle,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,13,27,99,86
+11/1, San Antonio ,Ingram,Ball,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,14,27,93,81
+13/1,Dallas ,Randle,Randle,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,15,27,107,101
+15/1,Memphis ,Caldwell-Pope,Nance,Kuzma,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,15,28,123,114
+17/1,Oklahoma City ,Randle,Nance,Randle,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,15,29,114,90
+19/1, Indiana ,Clarkson,Nance,Clarkson,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,16,29,99,86
+21/1, New York ,Clarkson,Randle,Clarkson,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,17,29,127,107
+23/1, Boston ,Kuzma,Randle,Clarkson,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,18,29,108,107
+26/1,Chicago ,Ingram,Ingram,Ingram,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,19,29,108,103
+28/1,Toronto ,Randle,Randle,Randle,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,19,30,123,111
+31/1,Orlando ,Randle,Randle,Ingram,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,19,31,127,105
+2/2,Brooklyn ,Randle,Hart,Ingram,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,20,31,102,99
+4/2,Oklahoma City ,Lopez,Hart,Lopez,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,21,31,108,104
+6/2, Phoenix ,Ingram,Hart,Ingram,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,22,31,112,93
+8/2, Oklahoma City ,Caldwell-Pope,Kuzma,Ingram,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,23,31,106,81
+10/2,Dallas ,Randle,Kuzma,Randle,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,23,32,130,123
+14/2,New Orleans ,Kuzma,Caldwell-Pope,Caldwell-Pope,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,23,33,139,117
+15/2,Minnesota ,Randle,Zubac,Caldwell-Pope,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,23,34,119,111
+23/2, Dallas ,Randle,Randle,Randle,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,24,34,124,102
+24/2,Sacramento ,Caldwell-Pope,Randle,Ingram,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,25,34,113,108
+26/2,Atlanta ,Ingram,Caldwell-Pope,Ingram,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,26,34,123,104
+1/3,Miami ,Thomas,Randle,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,27,34,131,113
+3/3,San Antonio ,Randle,Caldwell-Pope,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,28,34,116,112
+5/3, Portland ,Randle,Randle,Thomas,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,28,35,108,103
+7/3, Orlando ,Lopez,Randle,Thomas,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,29,35,108,107
+9/3,Denver ,Lopez,Caldwell-Pope,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,29,36,125,116
+11/3, Cleveland ,Randle,Randle,Thomas,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,30,36,127,113
+13/3, Denver ,Kuzma,Kuzma,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,31,36,112,103
+14/3,Golden State ,Randle,Randle,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,31,37,117,106
+16/3, Miami ,Randle,Randle,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,31,38,92,91
+19/3,Indiana ,Kuzma,Randle,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,31,39,110,100
+22/3,New Orleans ,Caldwell-Pope,Ball,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,31,40,128,125
+24/3,Memphis ,Kuzma,Randle,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,32,40,100,93
+26/3,Detroit ,Randle,Randle,Ball,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,32,41,112,106
+28/3, Dallas ,Lopez,Randle,Ball,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,33,41,103,93
+30/3, Milwaukee ,Kuzma,Hart,Kuzma,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,33,42,124,122
+1/4, Sacramento ,Randle,Zubac,Hart,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,33,43,84,83
+3/4,Utah ,Caldwell-Pope,Randle,Randle,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,33,44,117,110
+4/4, San Antonio ,Kuzma,Hart,Ennis,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,34,44,122,112
+6/4, Minnesota ,Hart,Hart,Ennis,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,34,45,113,96
+8/4, Utah ,Hart,Randle,Randle,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,34,46,112,97
+10/4, Houston ,Hart,Randle,Caruso,A,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,L,34,47,105,99
+11/4,LA ,Hart,Payton,Ingram,H,Los Angeles Lakers 2017-18 Regular Season NBA Schedule,W,35,47,115,100

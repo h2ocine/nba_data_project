@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+20/10, Washington ,Barnes,Anunoby,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,0,1,98,83
+22/10,Boston ,Barnes,Achiuwa,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,1,1,115,83
+23/10, Dallas ,Anunoby,Achiuwa,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,1,2,103,95
+25/10, Chicago ,Anunoby,Achiuwa,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,1,3,111,108
+27/10, Indiana ,VanVleet,VanVleet,Barnes,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,2,3,118,100
+29/10, Orlando ,Barnes,Barnes,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,3,3,110,109
+30/10,Indiana ,Barnes,Barnes,Anunoby,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,4,3,97,94
+1/11,New York ,Anunoby,VanVleet,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,5,3,113,104
+3/11,Washington ,VanVleet,Achiuwa,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,6,3,109,100
+5/11, Cleveland ,Anunoby,Barnes,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,6,4,102,101
+7/11, Brooklyn ,VanVleet,Anunoby,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,6,5,116,103
+10/11,Boston ,Barnes,Achiuwa,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,6,6,104,88
+11/11,Philadelphia ,VanVleet,Barnes,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,7,6,115,109
+13/11, Detroit ,Siakam,Siakam,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,7,7,127,121
+15/11,Portland ,Anunoby,Barnes,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,7,8,118,113
+18/11,Utah ,Trent,Boucher,Barnes,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,7,9,119,103
+19/11,Sacramento ,Siakam,Boucher,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,8,9,108,89
+21/11,Golden State ,Siakam,Barnes,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,8,10,119,104
+24/11,Memphis ,Trent,Barnes,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,9,10,126,113
+26/11,Indiana ,VanVleet,Siakam,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,9,11,114,97
+28/11, Boston ,VanVleet,Achiuwa,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,9,12,109,97
+30/11, Memphis ,Siakam,VanVleet,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,9,13,98,91
+2/12, Milwaukee ,VanVleet,Siakam,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,10,13,97,93
+5/12, Washington ,Siakam,Achiuwa,Banton,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,11,13,102,90
+8/12, Oklahoma City ,Trent,Siakam,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,11,14,110,109
+10/12, New York ,Trent,Barnes,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,12,14,90,87
+13/12, Sacramento ,Boucher,Watanabe,Banton,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,13,14,124,101
+14/12,Brooklyn ,VanVleet,Barnes,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,13,15,131,129
+18/12, Golden State ,VanVleet,Barnes,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,14,15,119,100
+26/12,Cleveland ,Watanabe,Watanabe,Waters,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,14,16,144,99
+28/12, Philadelphia ,Boucher,Boucher,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,14,17,114,109
+31/12, LA ,VanVleet,Siakam,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,15,17,116,108
+2/1, New York ,VanVleet,Siakam,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,16,17,120,105
+4/1, San Antonio ,VanVleet,Siakam,Barnes,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,17,17,129,104
+5/1,Milwaukee ,Siakam,Achiuwa,Siakam,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,18,17,117,111
+7/1, Utah ,VanVleet,VanVleet,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,19,17,122,108
+9/1, New Orleans ,VanVleet,Siakam,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,20,17,105,101
+11/1, Phoenix ,Anunoby,Boucher,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,20,18,99,95
+14/1,Detroit ,VanVleet,Siakam,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,20,19,103,87
+15/1,Milwaukee ,Siakam,Champagnie,Siakam,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,21,19,103,96
+17/1,Miami ,Boucher,Achiuwa,Siakam,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,21,20,104,99
+19/1,Dallas ,Siakam,Boucher,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,21,21,102,98
+21/1,Washington ,Barnes,Anunoby,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,22,21,109,105
+23/1, Portland ,Siakam,Boucher,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,22,22,114,105
+25/1, Charlotte ,Trent,Siakam,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,23,22,125,113
+26/1,Chicago ,Trent,Siakam,Barnes,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,23,23,111,105
+29/1,Miami ,Trent,Anunoby,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,24,23,124,120
+31/1,Atlanta ,Trent,Boucher,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,25,23,106,100
+1/2, Miami ,Trent,Siakam,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,26,23,110,106
+3/2, Chicago ,Siakam,Siakam,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,27,23,127,120
+4/2, Atlanta ,Siakam,Anunoby,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,28,23,125,114
+7/2,Charlotte ,Siakam,Siakam,Siakam,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,29,23,116,101
+9/2,Oklahoma City ,Siakam,Siakam,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,30,23,117,98
+10/2,Houston ,Trent,Barnes,Barnes,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,31,23,139,120
+12/2, Denver ,Siakam,Siakam,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,31,24,110,109
+14/2,New Orleans ,VanVleet,Boucher,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,31,25,120,90
+16/2,Minnesota ,Trent,Boucher,Siakam,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,32,25,103,91
+25/2,Charlotte ,Barnes,Barnes,Flynn,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,32,26,125,93
+26/2,Atlanta ,VanVleet,Siakam,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,32,27,127,100
+28/2,Brooklyn ,Barnes,Barnes,Siakam,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,33,27,133,97
+1/3, Brooklyn ,Trent,Barnes,Flynn,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,34,27,109,108
+3/3, Detroit ,Siakam,Barnes,Trent,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,34,28,108,106
+4/3, Orlando ,Siakam,Siakam,Flynn,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,34,29,103,97
+6/3,Cleveland ,Siakam,Barnes,Barnes,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,34,30,104,96
+9/3,San Antonio ,VanVleet,Siakam,Banton,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,35,30,119,104
+11/3,Phoenix ,Trent,Trent,Siakam,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,36,30,117,112
+12/3,Denver ,Siakam,Boucher,Barnes,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,37,30,127,115
+14/3,Los Angeles ,Trent,Siakam,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,38,30,114,103
+16/3,LA ,Siakam,Siakam,Siakam,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,39,30,103,100
+18/3, Los Angeles ,Barnes,Barnes,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,39,31,128,123
+20/3,Philadelphia ,Siakam,Boucher,Siakam,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,40,31,93,88
+21/3,Chicago ,Siakam,Boucher,VanVleet,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,40,32,113,99
+24/3, Cleveland ,Siakam,Boucher,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,48,34,117,104
+26/3, Indiana ,Siakam,Boucher,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,42,32,131,91
+28/3, Boston ,Siakam,Siakam,Barnes,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,43,32,115,112
+30/3, Minnesota ,Trent,Siakam,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,44,32,125,102
+1/4,Orlando ,Barnes,Siakam,Barnes,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,45,32,102,89
+3/4, Miami ,Siakam,Siakam,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,45,33,114,109
+5/4, Atlanta ,Siakam,Barnes,VanVleet,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,46,33,118,108
+7/4, Philadelphia ,Siakam,Siakam,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,47,33,119,114
+8/4, Houston ,Siakam,Siakam,Siakam,A,Toronto Raptors 2021-22 Regular Season NBA Schedule,W,48,33,117,115
+10/4,New York ,Boucher,Anunoby,Barnes,H,Toronto Raptors 2021-22 Regular Season NBA Schedule,L,48,34,105,94

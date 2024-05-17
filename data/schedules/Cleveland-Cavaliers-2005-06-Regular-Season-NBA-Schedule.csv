@@ -1,0 +1,85 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+2/11," NO/Oklahoma City
+ ",James,Marshall,Hughes,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,1,0,109,87
+4/11,San Antonio ,James,Marshall,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,1,1,102,76
+5/11,Memphis ,James,Ilgauskas,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,1,2,113,106
+7/11,Toronto ,James,Marshall,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,2,2,105,93
+9/11, Seattle ,James,Marshall,Hughes,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,3,2,112,85
+11/11, Memphis ,James,Ilgauskas,Hughes,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,4,2,89,70
+13/11,Orlando ,James,Hughes,Hughes,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,5,2,108,100
+15/11, Washington ,James,James,Hughes,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,6,2,114,99
+18/11, Orlando ,Ilgauskas,Ilgauskas,Hughes,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,7,2,102,84
+19/11,Philadelphia ,Hughes,Gooden,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,8,2,123,120
+22/11, Boston ,James,Gooden,Snow,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,9,2,115,93
+24/11,Indiana ,James,James,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,9,3,98,76
+26/11, Minnesota ,James,Gooden,Snow,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,9,4,89,85
+30/11, LA ,Ilgauskas,Ilgauskas,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,10,4,112,105
+2/12,Seattle ,James,Gooden,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,10,5,115,108
+3/12,LA ,James,Gooden,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,10,6,102,90
+6/12,Sacramento ,James,Gooden,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,11,6,102,97
+9/12, New Jersey ,James,Marshall,Snow,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,11,7,109,100
+10/12,Milwaukee ,James,James,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,11,8,111,106
+13/12, Atlanta ,James,Gooden,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,11,9,100,94
+15/12, Denver ,James,Marshall,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,12,9,94,85
+17/12, Miami ,James,Marshall,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,13,9,115,107
+20/12, Utah ,James,Ilgauskas,Snow,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,14,9,110,85
+22/12,Chicago ,James,Ilgauskas,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,15,9,108,100
+23/12, Indiana ,Gooden,Gooden,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,16,9,94,89
+26/12, Chicago ,James,Ilgauskas,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,17,9,102,91
+27/12,New Jersey ,James,Marshall,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,17,10,96,91
+31/12, Detroit ,James,Gooden,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,18,10,97,84
+4/1,Milwaukee ,James,James,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,19,10,91,84
+5/1, Houston ,James,Ilgauskas,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,19,11,90,81
+7/1, Milwaukee ,James,Gooden,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,20,11,96,88
+10/1, New York ,James,Gooden,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,20,12,92,84
+12/1,Los Angeles ,Ilgauskas,Gooden,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,20,13,99,98
+14/1,Phoenix ,James,Ilgauskas,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,20,14,115,106
+15/1,Portland ,James,James,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,20,15,89,87
+18/1,Denver ,James,Henderson,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,20,16,90,89
+20/1,Golden State ,Gooden,Ilgauskas,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,20,17,99,79
+21/1,Utah ,James,Ilgauskas,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,21,17,108,90
+24/1, Indiana ,James,Gooden,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,22,17,96,66
+25/1,Atlanta ,James,Gooden,Snow,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,23,17,106,97
+27/1,Indiana ,James,James,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,24,17,93,89
+29/1, Phoenix ,James,James,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,25,17,113,106
+30/1,Charlotte ,James,Gooden,Snow,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,26,17,103,91
+1/2, New Jersey ,James,James,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,27,17,91,85
+2/2,Miami ,James,Gooden,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,27,18,101,73
+4/2, Philadelphia ,James,Ilgauskas,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,27,19,100,95
+6/2, Milwaukee ,James,James,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,28,19,89,86
+8/2,Minnesota ,James,Marshall,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,29,19,97,91
+10/2,Washington ,James,James,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,29,20,101,89
+11/2, Golden State ,James,Ilgauskas,Jones,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,29,21,99,91
+13/2, San Antonio ,James,Ilgauskas,Snow,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,30,21,101,87
+15/2,Boston ,James,James,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,31,21,113,109
+21/2, Orlando ,James,Ilgauskas,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,32,21,105,92
+22/2,Philadelphia ,James,Ilgauskas,Snow,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,32,22,116,107
+24/2, Washington ,James,Ilgauskas,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,32,23,102,94
+26/2,Detroit ,James,James,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,32,24,90,78
+27/2, Detroit ,James,Ilgauskas,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,32,25,84,72
+1/3, Sacramento ,James,James,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,32,26,97,90
+2/3,Chicago ,James,James,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,33,26,92,91
+5/3, Chicago ,James,Varejao,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,34,26,91,72
+7/3, Toronto ,Murray,James,Snow,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,35,26,106,99
+8/3,Toronto ,James,Gooden,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,36,26,98,97
+10/3,Orlando ,James,Gooden,Snow,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,36,27,102,73
+12/3,Miami ,James,Gooden,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,36,28,98,92
+14/3,Dallas ,James,Ilgauskas,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,36,29,91,87
+17/3, Portland ,James,Gooden,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,37,29,99,84
+19/3, Los Angeles ,James,Gooden,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,38,29,96,95
+22/3, Charlotte ,James,James,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,39,29,120,118
+24/3, Boston ,James,Ilgauskas,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,40,29,94,82
+26/3,Houston ,James,Ilgauskas,Jones,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,41,29,104,102
+29/3, Dallas ,James,Ilgauskas,Snow,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,42,29,107,94
+1/4, Miami ,James,James,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,43,29,106,99
+2/4,Charlotte ,James,James,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,44,29,101,97
+4/4, Philadelphia ,James,Varejao,James,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,45,29,124,91
+5/4,New York ,James,Gooden,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,45,30,96,94
+8/4,New Jersey ,James,Gooden,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,46,30,108,102
+10/4,"NO/Oklahoma City
+ ",James,Varejao,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,47,30,103,101
+12/4,Detroit ,James,Ilgauskas,Jones,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,47,31,96,73
+13/4, New York ,Hughes,Ilgauskas,Hughes,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,48,31,91,87
+16/4,Washington ,James,Varejao,James,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,L,48,32,104,92
+17/4,Boston ,Hughes,Hughes,Snow,H,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,49,32,93,88
+19/4, Atlanta ,Murray,Varejao,Murray,A,Cleveland Cavaliers 2005-06 Regular Season NBA Schedule,W,50,32,100,99

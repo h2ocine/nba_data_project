@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+18/10, Denver ,Gobert,Gobert,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,1,0,106,96
+20/10,Minnesota ,Hood,Gobert,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,1,1,100,97
+21/10, Oklahoma City ,Ingles,Gobert,Mitchell,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,2,1,96,87
+24/10,LA ,Mitchell,Sefolosha,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,2,2,102,84
+25/10,Phoenix ,Hood,Gobert,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,2,3,97,88
+28/10, Los Angeles ,Mitchell,Favors,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,3,3,96,81
+30/10, Dallas ,Hood,Gobert,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,4,3,104,89
+1/11, Portland ,Rubio,Gobert,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,5,3,112,103
+3/11, Toronto ,Mitchell,Gobert,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,5,4,109,100
+5/11,Houston ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,5,5,137,110
+7/11, Philadelphia ,Hood,Gobert,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,5,6,104,97
+10/11, Miami ,Hood,Gobert,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,5,7,84,74
+11/11, Brooklyn ,Mitchell,Favors,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,6,7,114,106
+13/11, Minnesota ,Mitchell,Favors,Neto,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,6,8,109,98
+15/11,New York ,Hood,Favors,Favors,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,6,9,106,101
+17/11,Brooklyn ,Neto,Mitchell,Mitchell,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,6,10,118,107
+18/11,Orlando ,Hood,Favors,Neto,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,7,10,125,85
+20/11,Philadelphia ,Mitchell,Favors,Mitchell,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,7,11,107,86
+22/11, Chicago ,Favors,Favors,Mitchell,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,8,11,110,80
+25/11, Milwaukee ,Mitchell,Favors,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,9,11,121,108
+28/11, Denver ,Favors,Favors,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,10,11,106,77
+30/11,LA ,Burks,Favors,Mitchell,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,11,11,126,107
+1/12, New Orleans ,Mitchell,Favors,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,12,11,114,108
+4/12, Washington ,Burks,Gobert,O'Neale,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,13,11,116,69
+5/12,Oklahoma City ,Mitchell,Sefolosha,Burks,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,13,12,100,94
+7/12, Houston ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,13,13,112,101
+9/12,Milwaukee ,Gobert,Gobert,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,13,14,117,100
+13/12,Chicago ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,13,15,103,100
+15/12,Boston ,Rubio,Udoh,Mitchell,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,14,15,107,95
+16/12,Cleveland ,Mitchell,Udoh,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,14,16,109,100
+18/12,Houston ,Hood,Jerebko,Hood,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,14,17,120,99
+20/12,Oklahoma City ,Hood,Jerebko,Burks,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,14,18,107,79
+21/12, San Antonio ,Hood,Rubio,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,15,18,100,89
+23/12, Oklahoma City ,Mitchell,Favors,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,15,19,103,89
+26/12,Denver ,Favors,Ingles,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,15,20,107,83
+27/12,Golden State ,Hood,Favors,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,15,21,126,101
+30/12, Cleveland ,Mitchell,Sefolosha,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,16,21,104,101
+3/1, New Orleans ,Mitchell,Favors,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,16,22,108,98
+5/1,Denver ,Mitchell,Favors,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,16,23,99,91
+7/1,Miami ,Mitchell,Favors,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,16,24,103,102
+10/1,Washington ,Rubio,Udoh,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,17,24,107,104
+12/1,Charlotte ,Mitchell,O'Neale,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,17,25,99,88
+15/1, Indiana ,Mitchell,Favors,Neto,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,17,26,109,94
+17/1,Sacramento ,Mitchell,Favors,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,18,26,120,105
+19/1, New York ,Gobert,Gobert,Mitchell,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,18,27,117,115
+20/1, LA ,Mitchell,Favors,Mitchell,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,19,27,125,113
+22/1,Atlanta ,Burks,Gobert,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,19,28,104,90
+24/1,Detroit ,Gobert,Rubio,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,20,28,98,95
+26/1,Toronto ,Mitchell,Gobert,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,21,28,97,93
+30/1, Golden State ,Rubio,Favors,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,22,28,129,99
+2/2,Phoenix ,Mitchell,Favors,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,23,28,129,97
+3/2,San Antonio ,Rubio,Gobert,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,24,28,120,111
+5/2,New Orleans ,Hood,Gobert,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,25,28,133,109
+7/2,Memphis ,Rubio,Gobert,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,26,28,92,88
+9/2, Charlotte ,Mitchell,Gobert,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,27,28,106,94
+11/2,Portland ,Mitchell,Favors,O'Neale,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,28,28,115,96
+12/2, San Antonio ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,29,28,101,99
+14/2, Phoenix ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,30,28,107,97
+23/2, Portland ,Mitchell,Gobert,O'Neale,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,30,29,100,81
+24/2, Dallas ,Mitchell,Gobert,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,31,29,97,90
+26/2, Houston ,Gobert,Jerebko,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,31,30,96,85
+2/3, Minnesota ,Gobert,Gobert,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,32,30,116,108
+3/3,Sacramento ,Mitchell,Gobert,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,33,30,98,91
+5/3, Orlando ,Gobert,Gobert,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,34,30,94,80
+7/3,Indiana ,Gobert,Gobert,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,35,30,104,84
+9/3,Memphis ,Crowder,Rubio,Mitchell,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,36,30,95,78
+11/3,New Orleans ,Rubio,Gobert,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,37,30,116,99
+13/3, Detroit ,Gobert,Gobert,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,38,30,110,79
+15/3, Phoenix ,Mitchell,Gobert,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,39,30,116,88
+17/3, Sacramento ,Mitchell,Gobert,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,40,30,103,97
+20/3, Atlanta ,Mitchell,Gobert,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,40,31,99,94
+22/3,Dallas ,Mitchell,Favors,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,41,31,119,112
+23/3,San Antonio ,Mitchell,Favors,Rubio,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,41,32,124,120
+25/3,Golden State ,Mitchell,Gobert,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,42,32,110,91
+28/3, Boston ,Mitchell,Gobert,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,L,42,33,97,94
+30/3, Memphis ,Mitchell,Gobert,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,43,33,107,97
+1/4,Minnesota ,Rubio,Gobert,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,44,33,121,97
+3/4, Los Angeles ,Rubio,Gobert,Rubio,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,45,33,117,110
+5/4, LA ,Mitchell,Gobert,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,46,33,117,95
+8/4,Los Angeles ,Mitchell,Favors,Ingles,H,Utah Jazz 2017-18 Regular Season NBA Schedule,W,47,33,112,97
+10/4, Golden State ,Mitchell,Favors,Ingles,A,Utah Jazz 2017-18 Regular Season NBA Schedule,W,48,33,119,79
+11/4,Portland ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2017-18 Regular Season NBA Schedule,L,48,34,102,93

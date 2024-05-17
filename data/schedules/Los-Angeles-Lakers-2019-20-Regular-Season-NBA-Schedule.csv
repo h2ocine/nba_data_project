@@ -1,0 +1,72 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+22/10,LA ,Green,James,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,0,1,112,102
+25/10, Utah ,James,James,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,1,1,95,86
+27/10, Charlotte ,Davis,Davis,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,2,1,120,101
+29/10, Memphis ,Davis,Davis,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,3,1,120,91
+1/11,Dallas ,James,James,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,4,1,119,110
+3/11,San Antonio ,Davis,Howard,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,5,1,103,96
+5/11,Chicago ,James,James,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,6,1,118,112
+8/11, Miami ,Davis,McGee,Davis,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,7,1,95,80
+10/11, Toronto ,Davis,James,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,7,2,113,104
+12/11,Phoenix ,Davis,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,8,2,123,115
+13/11, Golden State ,James,McGee,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,9,2,120,94
+15/11, Sacramento ,James,Howard,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,10,2,99,97
+17/11, Atlanta ,James,Howard,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,11,2,122,101
+19/11, Oklahoma City ,Davis,James,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,12,2,112,107
+22/11,Oklahoma City ,Davis,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,13,2,130,127
+23/11,Memphis ,James,Howard,Rondo,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,14,2,109,108
+25/11,San Antonio ,James,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,15,2,114,104
+27/11,New Orleans ,Davis,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,16,2,114,110
+29/11, Washington ,Davis,Davis,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,17,2,125,103
+1/12, Dallas ,Davis,Davis,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,17,3,114,100
+3/12,Denver ,Davis,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,18,3,105,96
+4/12,Utah ,Davis,Rondo,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,19,3,121,96
+6/12,Portland ,Davis,Howard,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,20,3,136,113
+8/12, Minnesota ,Davis,Green,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,21,3,142,125
+11/12,Orlando ,James,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,22,3,96,87
+13/12,Miami ,Davis,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,23,3,113,110
+15/12,Atlanta ,James,James,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,24,3,101,96
+17/12,Indiana ,James,James,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,24,4,105,102
+19/12,Milwaukee ,Davis,James,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,24,5,111,104
+22/12, Denver ,Davis,Davis,Rondo,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,24,6,128,104
+25/12, LA ,Kuzma,James,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,24,7,111,106
+28/12,Portland ,Kuzma,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,25,7,128,120
+29/12, Dallas ,Davis,Davis,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,26,7,108,95
+1/1, Phoenix ,James,James,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,27,7,117,107
+3/1, New Orleans ,Davis,Davis,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,28,7,123,113
+5/1, Detroit ,Davis,James,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,29,7,106,99
+7/1, New York ,James,Howard,Rondo,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,30,7,117,87
+10/1,Dallas ,James,James,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,31,7,129,114
+11/1,Oklahoma City ,Kuzma,Howard,Rondo,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,32,7,125,110
+13/1, Cleveland ,James,Howard,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,33,7,128,99
+15/1, Orlando ,Cook,Howard,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,33,8,119,118
+18/1,Houston ,James,Howard,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,34,8,124,115
+20/1,Boston ,McGee,Howard,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,34,9,139,107
+22/1,New York ,Davis,Howard,Davis,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,35,9,100,92
+23/1,Brooklyn ,James,Howard,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,36,9,128,113
+25/1,Philadelphia ,Davis,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,36,10,108,91
+31/1, Portland ,Davis,Davis,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,36,11,127,119
+1/2,Sacramento ,Davis,James,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,37,11,129,113
+4/2, San Antonio ,James,Kuzma,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,38,11,129,102
+6/2, Houston ,Davis,Davis,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,38,12,121,111
+8/2,Golden State ,Davis,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,39,12,125,120
+10/2, Phoenix ,Davis,Howard,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,40,12,125,100
+12/2,Denver ,Davis,James,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,41,12,120,116
+21/2, Memphis ,James,Davis,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,42,12,117,105
+23/2, Boston ,Davis,Davis,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,43,12,114,112
+25/2, New Orleans ,James,Davis,Caruso,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,44,12,118,109
+27/2,Golden State ,Davis,Howard,Rondo,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,45,12,116,86
+29/02,Memphis ,James,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,45,13,105,88
+1/3,New Orleans ,James,James,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,46,13,122,114
+3/3, Philadelphia ,Davis,Davis,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,47,13,120,107
+6/3, Milwaukee ,James,McGee,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,48,13,113,103
+8/3,LA ,Davis,Kuzma,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,49,13,112,103
+10/3, Brooklyn ,James,James,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,49,14,104,102
+30/7, LA ,Davis,James,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,50,14,103,101
+1/8,Toronto ,James,James,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,50,15,107,92
+3/8,Utah ,Davis,Davis,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,51,15,116,108
+5/8, Oklahoma City ,James,James,Davis,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,51,16,105,86
+6/8,Houston ,Kuzma,Howard,Cook,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,51,17,113,97
+8/8,Indiana ,James,Howard,James,H,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,51,18,116,111
+10/8, Denver ,James,Morris,James,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,W,52,18,124,121
+13/8, Sacramento ,Waiters,McGee,Waiters,A,Los Angeles Lakers 2019-20 Regular Season NBA Schedule,L,52,19,136,122

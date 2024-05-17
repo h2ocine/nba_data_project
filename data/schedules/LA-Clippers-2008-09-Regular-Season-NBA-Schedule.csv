@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+29/10, Los Angeles ,Thornton,Thomas,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,0,1,117,79
+31/10, Denver ,Thornton,Kaman,Mobley,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,0,2,113,103
+1/11,Utah ,Mobley,Kaman,Taylor,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,0,3,101,79
+3/11, Utah ,Kaman,Kaman,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,0,4,89,73
+5/11,Los Angeles ,Thornton,Thomas,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,0,5,106,88
+7/11, Houston ,Kaman,Camby,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,0,6,92,83
+9/11, Dallas ,Davis,Camby,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,W,1,6,103,92
+12/11, Sacramento ,Thornton,Kaman,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,1,7,103,98
+15/11, Golden State ,Davis,Kaman,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,1,8,121,103
+17/11, San Antonio ,Mobley,Kaman,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,1,9,86,83
+19/11,Oklahoma City ,Kaman,Kaman,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,W,2,9,108,88
+21/11,Philadelphia ,Thornton,Thornton,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,2,10,89,88
+22/11,New Jersey ,Davis,Camby,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,2,11,112,95
+24/11, New Orleans ,Gordon,Camby,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,2,12,99,87
+26/11, Denver ,Gordon,Camby,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,2,13,106,105
+29/11, Miami ,Randolph,Randolph,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,W,3,13,97,96
+2/12,Dallas ,Randolph,Camby,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,3,14,100,98
+3/12,Houston ,Thornton,Randolph,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,3,15,103,96
+5/12,Memphis ,Davis,Camby,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,3,16,93,81
+6/12,Minnesota ,Davis,Camby,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,W,4,16,107,84
+8/12, Orlando ,Davis,Camby,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,4,17,95,88
+12/12,Portland ,Randolph,Camby,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,W,5,17,120,112
+13/12, Houston ,Randolph,Randolph,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,W,6,17,95,82
+16/12,Oklahoma City ,Randolph,Camby,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,W,7,17,98,88
+17/12,Chicago ,Randolph,Camby,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,7,18,115,109
+19/12,Indiana ,Randolph,Randolph,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,W,8,18,117,109
+20/12,Milwaukee ,Thornton,Camby,Hart,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,19,119,85
+22/12, Toronto ,Randolph,Thornton,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,20,97,75
+28/12, Dallas ,Camby,Camby,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,21,98,76
+30/12,Sacramento ,Gordon,Camby,Camby,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,22,92,90
+31/12, Philadelphia ,Thornton,Camby,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,23,100,92
+2/1,Phoenix ,Gordon,Camby,Camby,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,24,106,98
+4/1, Detroit ,Gordon,Camby,Collins,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,25,88,87
+6/1,Dallas ,Gordon,Camby,Gordon,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,26,107,102
+8/1,San Antonio ,Thornton,Camby,Hart,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,27,106,84
+9/1,New Orleans ,Collins,Camby,Collins,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,28,107,80
+11/1, Phoenix ,Thornton,Camby,Jones,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,29,109,103
+14/1, Atlanta ,Thornton,Camby,Collins,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,8,30,97,80
+17/1, Milwaukee ,Camby,Camby,Collins,A,LA Clippers 2008-09 Regular Season NBA Schedule,W,9,30,101,92
+19/1, Minnesota ,Gordon,Jordan,Collins,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,9,31,94,86
+21/1, Los Angeles ,Jordan,Jordan,Gordon,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,9,32,108,97
+23/1, Oklahoma City ,Gordon,Samb,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,W,10,32,107,104
+25/1,Golden State ,Gordon,Jordan,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,10,33,107,92
+26/1, Portland ,Thornton,Skinner,Jones,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,10,34,113,88
+28/1, Chicago ,Gordon,Thornton,Gordon,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,10,35,95,75
+30/1,Cleveland ,Gordon,Gordon,Jones,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,10,36,112,95
+31/1,Washington ,Gordon,Skinner,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,10,37,106,94
+2/2,Miami ,Randolph,Camby,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,10,38,119,95
+4/2,Orlando ,Thornton,Camby,Jones,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,10,39,125,96
+6/2,Memphis ,Randolph,Camby,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,W,11,39,126,105
+7/2,Atlanta ,Thornton,Randolph,Jones,H,LA Clippers 2008-09 Regular Season NBA Schedule,W,12,39,121,97
+9/2,Charlotte ,Randolph,Camby,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,12,40,94,73
+11/2, New York ,Gordon,Randolph,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,W,13,40,128,124
+17/2,Phoenix ,Gordon,Jordan,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,13,41,140,100
+18/2, Phoenix ,Thornton,Jordan,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,13,42,142,119
+22/2,Portland ,Gordon,Jordan,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,13,43,116,87
+23/2, Golden State ,Randolph,Randolph,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,W,14,43,118,105
+25/2, Boston ,Randolph,Randolph,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,W,15,43,93,91
+27/2,Sacramento ,Novak,Camby,Taylor,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,15,44,98,86
+28/2, Charlotte ,Randolph,Camby,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,15,45,100,95
+2/3, San Antonio ,Thornton,Taylor,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,15,46,106,78
+4/3, Memphis ,Thornton,Jordan,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,15,47,118,95
+7/3, Indiana ,Gordon,Jordan,Gordon,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,15,48,106,105
+10/3, Cleveland ,Randolph,Randolph,Randolph,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,15,49,87,83
+14/3,Denver ,Thornton,Thornton,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,15,50,107,94
+15/3, New Jersey ,Novak,Thornton,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,W,16,50,107,105
+17/3,Golden State ,Davis,Randolph,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,16,51,127,120
+18/3, Washington ,Gordon,Davis,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,W,17,51,123,108
+20/3,Detroit ,Gordon,Kaman,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,17,52,108,90
+22/3,Toronto ,Randolph,Randolph,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,17,53,100,76
+23/3,Boston ,Randolph,Randolph,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,17,54,90,77
+25/3,New York ,Taylor,Thornton,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,W,18,54,140,135
+27/3,San Antonio ,Taylor,Acker,Gordon,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,18,55,111,98
+28/3,Houston ,Gordon,Randolph,Taylor,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,18,56,110,93
+1/4, New Orleans ,Gordon,Randolph,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,18,57,104,98
+4/4,Denver ,Randolph,Randolph,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,18,58,120,104
+5/4,Los Angeles ,Gordon,Skinner,Gordon,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,18,59,88,85
+7/4, Minnesota ,Gordon,Skinner,Jones,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,18,60,87,77
+10/4, Sacramento ,Skinner,Kaman,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,W,19,60,109,78
+11/4, Portland ,Gordon,Kaman,Jones,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,19,61,87,72
+13/4,Utah ,Camby,Jordan,Davis,H,LA Clippers 2008-09 Regular Season NBA Schedule,L,19,62,106,85
+15/4, Oklahoma City ,Gordon,Camby,Davis,A,LA Clippers 2008-09 Regular Season NBA Schedule,L,19,63,126,85

@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+19/10, Golden State ,James,James,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,0,1,121,114
+22/10, Phoenix ,James,Davis,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,0,2,115,105
+24/10, Memphis ,Anthony,Davis,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,1,2,121,118
+26/10,San Antonio ,Davis,Davis,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,2,2,125,121
+27/10,Oklahoma City ,Davis,Westbrook,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,2,3,123,115
+29/10, Cleveland ,James,Davis,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,3,3,113,101
+31/10, Houston ,Anthony,Davis,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,4,3,95,85
+2/11, Houston ,James,Westbrook,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,5,3,119,117
+4/11, Oklahoma City ,Davis,Davis,Davis,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,5,4,107,104
+6/11,Portland ,Monk,Westbrook,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,5,5,105,90
+8/11, Charlotte ,Davis,Davis,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,6,5,126,123
+10/11, Miami ,Monk,Davis,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,7,5,120,117
+12/11, Minnesota ,Davis,Howard,Rondo,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,7,6,107,83
+14/11, San Antonio ,Davis,Davis,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,8,6,114,106
+15/11, Chicago ,Horton-Tucker,Horton-Tucker,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,8,7,121,103
+17/11,Milwaukee ,Horton-Tucker,Horton-Tucker,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,8,8,109,102
+19/11,Boston ,Davis,Davis,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,8,9,130,108
+21/11,Detroit ,Davis,Davis,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,9,9,121,116
+23/11,New York ,Westbrook,Westbrook,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,9,10,106,100
+24/11,Indiana ,James,Jordan,James,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,10,10,124,116
+26/11, Sacramento ,James,Westbrook,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,10,11,141,137
+28/11, Detroit ,James,Davis,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,11,11,110,106
+30/11,Sacramento ,Davis,Howard,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,12,11,117,92
+3/12, LA ,Davis,James,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,12,12,119,115
+7/12, Boston ,James,Davis,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,13,12,117,102
+9/12,Memphis ,Davis,James,James,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,13,13,108,95
+10/12,Oklahoma City ,James,Westbrook,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,14,13,116,95
+12/12, Orlando ,James,James,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,15,13,106,94
+15/12,Dallas ,James,Davis,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,16,13,107,104
+17/12,Minnesota ,Thomas,James,Rondo,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,16,14,110,92
+19/12,Chicago ,James,James,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,16,15,115,110
+21/12, Phoenix ,James,Westbrook,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,16,16,108,90
+23/12, San Antonio ,James,James,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,16,17,138,110
+25/12, Brooklyn ,James,Westbrook,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,16,18,122,115
+28/12,Houston ,James,Westbrook,James,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,17,18,132,123
+29/12,Memphis ,James,James,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,17,19,104,99
+31/12, Portland ,James,James,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,18,19,139,106
+2/1, Minnesota ,James,James,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,19,19,108,103
+4/1, Sacramento ,James,Howard,Horton-Tucker,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,20,19,122,114
+7/1, Atlanta ,James,Westbrook,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,21,19,134,118
+9/1, Memphis ,James,James,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,21,20,127,119
+12/1,Sacramento ,James,Westbrook,James,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,21,21,125,116
+15/1,Denver ,James,James,Monk,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,21,22,133,96
+17/1, Utah ,James,Westbrook,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,22,22,101,95
+19/1, Indiana ,James,James,Horton-Tucker,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,22,23,111,104
+21/1,Orlando ,James,Westbrook,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,23,23,116,105
+23/1,Miami ,James,James,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,23,24,113,107
+25/1,Brooklyn ,James,James,James,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,24,24,106,96
+27/1,Philadelphia ,Davis,Davis,Monk,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,24,25,105,87
+28/1,Charlotte ,Westbrook,Reaves,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,24,26,117,114
+30/1,Atlanta ,Monk,Monk,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,24,27,129,121
+2/2, Portland ,Davis,Davis,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,25,27,99,94
+3/2,LA ,Davis,Davis,Monk,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,25,28,111,110
+5/2, New York ,James,Davis,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,26,28,122,115
+8/2, Milwaukee ,James,Westbrook,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,26,29,131,116
+9/2,Portland ,James,James,James,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,26,30,107,105
+12/2,Golden State ,James,James,James,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,26,31,117,115
+16/2, Utah ,James,James,James,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,27,31,106,101
+25/2, LA ,James,Howard,Monk,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,27,32,105,102
+27/2, New Orleans ,James,Howard,Horton-Tucker,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,27,33,123,95
+1/3, Dallas ,James,James,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,27,34,109,104
+3/3,LA ,James,James,Augustin,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,27,35,132,111
+5/3, Golden State ,James,James,Monk,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,28,35,124,116
+7/3,San Antonio ,Horton-Tucker,Westbrook,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,28,36,117,110
+9/3,Houston ,Westbrook,James,James,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,28,37,139,130
+11/3, Washington ,James,James,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,29,37,122,109
+13/3,Phoenix ,James,James,James,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,29,38,140,111
+14/3, Toronto ,James,James,Horton-Tucker,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,29,39,114,103
+16/3,Minnesota ,James,Howard,Monk,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,29,40,124,104
+18/3,Toronto ,James,Westbrook,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,30,40,128,123
+19/3,Washington ,James,James,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,30,41,127,119
+21/3,Cleveland ,James,James,James,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,31,41,131,120
+23/3, Philadelphia ,Westbrook,Westbrook,Westbrook,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,31,42,126,121
+27/3,New Orleans ,James,Howard,Monk,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,31,43,116,108
+29/3,Dallas ,Monk,Westbrook,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,31,44,128,110
+31/3,Utah ,Westbrook,Howard,Westbrook,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,31,45,122,109
+1/4, New Orleans ,James,Davis,Monk,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,31,46,114,111
+3/4, Denver ,Davis,Westbrook,Davis,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,31,47,129,118
+5/4,Phoenix ,Westbrook,Davis,Reaves,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,31,48,121,110
+7/4,Golden State ,Horton-Tucker,Howard,Monk,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,L,31,49,128,112
+8/4, Oklahoma City ,Johnson,Johnson,Horton-Tucker,A,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,32,49,120,101
+10/4,Denver ,Monk,Reaves,Reaves,H,Los Angeles Lakers 2021-22 Regular Season NBA Schedule,W,33,49,146,141

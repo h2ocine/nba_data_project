@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+16/10,Boston ,Embiid,Simmons,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,0,1,105,87
+18/10, Chicago ,Embiid,Simmons,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,1,1,127,108
+20/10, Orlando ,Embiid,Embiid,Fultz,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,2,1,116,115
+23/10,Detroit ,Embiid,Embiid,McConnell,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,2,2,133,132
+24/10,Milwaukee ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,2,3,123,108
+27/10, Charlotte ,Embiid,Embiid,Fultz,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,3,3,105,103
+29/10, Atlanta ,Simmons,Simmons,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,4,3,113,92
+30/10,Toronto ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,4,4,129,112
+1/11, LA ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,5,4,122,113
+3/11, Detroit ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,6,4,109,99
+4/11,Brooklyn ,Simmons,Embiid,Embiid,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,6,5,122,97
+7/11,Indiana ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,7,5,100,94
+9/11, Charlotte ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,8,5,133,132
+10/11,Memphis ,Redick,Embiid,McConnell,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,8,6,112,106
+12/11,Miami ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,9,6,124,114
+14/11,Orlando ,Redick,Embiid,Embiid,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,9,7,111,106
+16/11, Utah ,Butler,Simmons,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,10,7,113,107
+17/11,Charlotte ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,11,7,122,119
+19/11, Phoenix ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,12,7,119,114
+21/11, New Orleans ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,13,7,121,120
+23/11, Cleveland ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,13,8,121,112
+25/11,Brooklyn ,Butler,Butler,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,14,8,127,125
+28/11, New York ,Embiid,Embiid,Embiid,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,15,8,117,91
+30/11, Washington ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,16,8,123,98
+2/12, Memphis ,Redick,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,17,8,103,95
+5/12,Toronto ,Butler,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,17,9,113,102
+7/12,Detroit ,Butler,Simmons,Butler,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,18,9,117,111
+10/12, Detroit ,Embiid,Simmons,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,19,9,116,102
+12/12, Brooklyn ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,19,10,127,124
+14/12, Indiana ,Embiid,Embiid,McConnell,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,19,11,113,101
+16/12,Cleveland ,Embiid,Simmons,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,20,11,128,105
+17/12,San Antonio ,Simmons,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,20,12,123,96
+19/12, New York ,Embiid,Simmons,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,21,12,131,109
+22/12, Toronto ,Embiid,Simmons,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,22,12,126,101
+25/12,Boston ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,22,13,121,114
+27/12,Utah ,Redick,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,23,13,114,97
+30/12,Portland ,Simmons,Bolden,Butler,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,23,14,129,95
+1/1,LA ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,24,14,119,113
+2/1,Phoenix ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,25,14,132,127
+5/1, Dallas ,Embiid,Simmons,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,26,14,106,100
+8/1, Washington ,Shamet,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,27,14,132,115
+9/1,Washington ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,27,15,123,106
+11/1, Atlanta ,Butler,Simmons,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,27,16,123,121
+13/1,New York ,Embiid,Simmons,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,28,16,108,105
+15/1, Minnesota ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,29,16,149,107
+17/1,Indiana ,Butler,Embiid,Butler,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,30,16,120,96
+19/1, Oklahoma City ,Embiid,Simmons,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,30,17,117,115
+21/1, Houston ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,31,17,121,93
+23/1, San Antonio ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,32,17,122,120
+26/1,Denver ,Redick,Simmons,Shamet,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,32,18,126,110
+29/1,Los Angeles ,Embiid,Embiid,Embiid,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,33,18,121,105
+31/1,Golden State ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,34,18,113,104
+2/2,Sacramento ,Embiid,Embiid,Butler,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,34,19,115,108
+5/2, Toronto ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,34,20,119,107
+8/2, Denver ,Redick,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,35,20,117,110
+10/2, Los Angeles ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,36,20,143,120
+12/2, Boston ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,36,21,112,109
+13/2,New York ,Embiid,Embiid,Butler,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,37,21,126,111
+21/2, Miami ,Harris,Marjanovic,Butler,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,38,21,106,102
+23/2, Portland ,Simmons,Harris,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,38,22,130,115
+25/2,New Orleans ,Harris,Simmons,Butler,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,39,22,111,110
+28/2,Oklahoma City ,Harris,Simmons,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,40,22,108,104
+2/3, Golden State ,Simmons,Simmons,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,40,23,120,117
+5/3, Orlando ,Redick,Simmons,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,41,23,114,106
+6/3,Chicago ,Butler,Simmons,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,41,24,108,107
+8/3,Houston ,Harris,Harris,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,41,25,107,91
+10/3, Indiana ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,42,25,106,89
+12/3, Cleveland ,Simmons,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,43,25,106,99
+15/3, Sacramento ,Butler,Embiid,Butler,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,44,25,123,114
+17/3,Milwaukee ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,45,25,130,125
+19/3,Charlotte ,Simmons,Harris,Butler,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,46,25,118,114
+20/3, Boston ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,47,25,118,115
+23/3,Atlanta ,Embiid,Embiid,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,47,26,129,127
+25/3,Orlando ,Embiid,Embiid,Butler,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,47,27,119,98
+28/3, Brooklyn ,Embiid,Embiid,Simmons,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,48,27,123,110
+30/3,Minnesota ,Harris,Butler,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,49,27,118,109
+1/4,Dallas ,Redick,Ennis,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,49,28,122,102
+3/4,Atlanta ,Redick,Simmons,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,49,29,130,122
+4/4, Milwaukee ,Embiid,Embiid,Embiid,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,49,30,128,122
+6/4,Chicago ,Redick,Embiid,Embiid,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,50,30,116,96
+9/4,Miami ,Monroe,Harris,Simmons,H,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,L,50,31,122,99
+10/4, Chicago ,Simmons,Johnson,Marjanovic,A,Philadelphia 76ers 2018-19 Regular Season NBA Schedule,W,51,31,125,109

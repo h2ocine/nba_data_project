@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+20/10,Portland ,Barnes,Holmes,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,1,0,124,121
+22/10, Utah ,Barnes,Barnes,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,1,1,110,101
+24/10, Golden State ,Barnes,Holmes,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,1,2,119,107
+27/10,Phoenix ,Hield,Holmes,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,2,2,110,107
+29/10,New Orleans ,Fox,Barnes,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,3,2,113,109
+31/10,Dallas ,Holmes,Holmes,Barnes,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,3,3,105,99
+2/11,Utah ,Barnes,Holmes,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,3,4,119,113
+3/11, New Orleans ,Barnes,Barnes,Mitchell,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,4,4,112,99
+5/11, Charlotte ,Hield,Holmes,Fox,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,5,4,140,110
+7/11, Indiana ,Barnes,Holmes,Mitchell,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,5,5,94,91
+8/11, Phoenix ,Barnes,Holmes,Fox,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,5,6,109,104
+10/11,San Antonio ,Fox,Holmes,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,5,7,136,117
+12/11,Oklahoma City ,Barnes,Holmes,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,5,8,105,103
+15/11,Detroit ,Hield,Metu,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,6,8,129,107
+17/11,Minnesota ,Fox,Thompson,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,6,9,107,97
+19/11, Toronto ,Fox,Metu,Mitchell,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,6,10,108,89
+20/11, Utah ,Holmes,Barnes,Barnes,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,6,11,123,105
+22/11, Philadelphia ,Fox,Hield,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,6,12,102,94
+24/11, Portland ,Hield,Bagley,Fox,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,7,12,125,121
+26/11,Los Angeles ,Fox,Len,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,8,12,141,137
+28/11,Memphis ,Hield,Metu,Mitchell,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,8,13,128,101
+30/11, Los Angeles ,Holmes,Metu,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,8,14,117,92
+1/12,LA ,Fox,Holmes,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,9,14,124,115
+4/12, LA ,Davis,Bagley,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,10,14,104,99
+8/12, Orlando ,Fox,Thompson,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,11,14,142,130
+10/12,Charlotte ,Fox,Bagley,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,11,15,124,123
+11/12,Cleveland ,Hield,Jones,Mitchell,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,11,16,117,103
+13/12,Toronto ,Fox,Bagley,Mitchell,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,11,17,124,101
+15/12, Washington ,Fox,Haliburton,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,12,17,119,105
+17/12, Memphis ,Haliburton,Metu,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,12,18,124,105
+19/12, San Antonio ,Hield,Jones,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,13,18,121,114
+20/12,Golden State ,Haliburton,Thompson,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,13,19,113,98
+22/12, LA ,Haliburton,Metu,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,13,20,105,89
+26/12, Memphis ,Haliburton,Barnes,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,13,21,127,102
+28/12, Oklahoma City ,Haliburton,Jones,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,14,21,117,111
+29/12, Dallas ,Fox,Metu,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,15,21,95,94
+31/12, Dallas ,Haliburton,Jones,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,15,22,112,96
+2/1, Miami ,Hield,Jones,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,16,22,115,113
+4/1,Los Angeles ,Fox,Bagley,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,16,23,122,114
+5/1, Atlanta ,Fox,Bagley,Fox,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,16,24,108,102
+7/1,Denver ,Fox,Len,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,16,25,121,111
+9/1,Portland ,Haliburton,Len,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,16,26,103,88
+10/1, Cleveland ,Haliburton,Bagley,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,16,27,109,108
+12/1, Los Angeles ,Fox,Bagley,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,17,27,125,116
+14/1, Houston ,Fox,Bagley,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,18,27,126,114
+16/1, Houston ,Hield,Metu,Mitchell,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,18,28,118,112
+19/1, Detroit ,Davis,Bagley,Fox,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,18,29,133,131
+22/1,Milwaukee ,Barnes,Hield,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,18,30,133,127
+25/1,Boston ,Hield,Holmes,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,18,31,128,75
+26/1,Atlanta ,Barnes,Barnes,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,18,32,121,104
+29/1,Philadelphia ,Haliburton,Holmes,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,18,33,103,101
+31/1,New York ,Haliburton,Holmes,Haliburton,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,18,34,116,96
+2/2, Brooklyn ,Barnes,Metu,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,19,34,112,101
+3/2,Golden State ,Mitchell,Haliburton,Mitchell,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,19,35,126,114
+5/2, Oklahoma City ,Barnes,Harkless,Haliburton,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,20,35,113,103
+8/2, Minnesota ,Fox,Metu,Fox,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,20,36,134,114
+9/2, Minnesota ,Barnes,Sabonis,Mitchell,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,21,36,132,119
+12/2,Washington ,Fox,Sabonis,Sabonis,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,22,36,123,110
+14/2,Brooklyn ,Fox,Sabonis,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,22,37,109,85
+16/2,Chicago ,Fox,Sabonis,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,22,38,125,118
+24/2, Denver ,Sabonis,Sabonis,Sabonis,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,22,39,128,110
+26/2,Denver ,Fox,Sabonis,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,22,40,115,110
+28/2,Oklahoma City ,Fox,Sabonis,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,23,40,131,110
+2/3,New Orleans ,Fox,Sabonis,Sabonis,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,23,41,125,95
+3/3,San Antonio ,Barnes,Sabonis,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,24,41,115,112
+5/3,Dallas ,Fox,Sabonis,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,24,42,114,113
+7/3, New York ,Fox,Sabonis,Fox,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,24,43,131,115
+9/3, Denver ,Fox,Lyles,Fox,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,24,44,106,100
+12/3,Utah ,Fox,Holmes,Fox,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,24,45,134,125
+14/3, Chicago ,Fox,Lyles,Fox,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,25,45,112,103
+16/3, Milwaukee ,Sabonis,Lyles,Sabonis,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,25,46,135,126
+18/3, Boston ,Sabonis,Sabonis,DiVincenzo,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,25,47,126,97
+20/3, Phoenix ,Mitchell,Sabonis,Mitchell,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,25,48,127,124
+23/3,Indiana ,Mitchell,Jones,DiVincenzo,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,26,48,110,109
+26/3,Orlando ,Mitchell,Lyles,Mitchell,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,27,48,114,110
+28/3,Miami ,Mitchell,Metu,Mitchell,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,27,49,123,100
+30/3,Houston ,Jones,Jones,Mitchell,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,28,49,121,118
+1/4,Houston ,Barnes,Jones,Mitchell,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,29,49,122,117
+3/4, Golden State ,Barnes,Barnes,Mitchell,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,29,50,109,90
+5/4, New Orleans ,Jones,Barnes,Mitchell,A,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,29,51,123,109
+9/4,LA ,Mitchell,Metu,Mitchell,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,L,29,52,117,98
+10/4,Phoenix ,Jones,Lyles,Mitchell,H,Sacramento Kings 2021-22 Regular Season NBA Schedule,W,30,52,116,109

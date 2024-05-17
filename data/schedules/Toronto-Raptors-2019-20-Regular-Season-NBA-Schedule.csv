@@ -1,0 +1,73 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+22/10, New Orleans ,Siakam,Siakam,VanVleet,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,1,0,130,122
+25/10,Boston ,Siakam,Siakam,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,1,1,112,106
+26/10,Chicago ,Siakam,Gasol,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,2,1,108,84
+28/10, Orlando ,Lowry,Gasol,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,3,1,104,95
+30/10, Detroit ,Siakam,Anunoby,VanVleet,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,4,1,125,113
+2/11,Milwaukee ,Lowry,Gasol,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,4,2,115,105
+6/11, Sacramento ,Lowry,Siakam,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,5,2,124,120
+8/11,New Orleans ,Siakam,Siakam,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,6,2,122,104
+10/11,Los Angeles ,Siakam,Siakam,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,7,2,113,104
+11/11,LA ,Siakam,Siakam,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,7,3,98,88
+13/11,Portland ,Siakam,Hollis,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,8,3,114,106
+16/11,Dallas ,Powell,Gasol,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,8,4,110,102
+18/11, Charlotte ,Anunoby,Boucher,Gasol,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,9,4,132,96
+20/11, Orlando ,VanVleet,Siakam,VanVleet,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,10,4,113,97
+23/11,Atlanta ,Siakam,Hollis,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,11,4,119,116
+25/11, Philadelphia ,Siakam,Hollis,Gasol,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,12,4,101,96
+27/11, New York ,Siakam,Boucher,Davis,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,13,4,126,98
+29/11,Orlando ,Powell,Siakam,Siakam,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,14,4,90,83
+1/12, Utah ,Siakam,Hollis,VanVleet,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,15,4,130,110
+3/12, Miami ,Powell,Siakam,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,15,5,121,110
+5/12, Houston ,Siakam,Siakam,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,15,6,119,109
+8/12,Philadelphia ,Lowry,Anunoby,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,15,7,110,104
+9/12,Chicago ,Siakam,Ibaka,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,16,7,93,92
+11/12, LA ,Siakam,Gasol,Gasol,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,16,8,112,92
+14/12, Brooklyn ,Siakam,Gasol,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,17,8,110,102
+16/12, Cleveland ,Siakam,Anunoby,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,18,8,133,113
+18/12,Detroit ,Siakam,Ibaka,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,19,8,112,99
+20/12, Washington ,Lowry,Ibaka,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,20,8,122,118
+22/12, Dallas ,Lowry,Hollis,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,21,8,110,107
+23/12,Indiana ,Lowry,Anunoby,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,21,9,120,115
+25/12, Boston ,VanVleet,Ibaka,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,21,10,118,102
+28/12,Boston ,Lowry,Ibaka,McCaw,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,22,10,113,97
+29/12, Oklahoma City ,VanVleet,Ibaka,VanVleet,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,22,11,98,97
+31/12, Cleveland ,Lowry,Ibaka,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,23,11,117,97
+2/1,Miami ,Ibaka,Anunoby,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,23,12,84,76
+4/1,Brooklyn ,VanVleet,Ibaka,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,24,12,121,102
+7/1, Portland ,Lowry,Ibaka,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,24,13,101,99
+8/1,Charlotte ,Davis,Davis,McCaw,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,25,13,112,110
+12/1, San Antonio ,Ibaka,Ibaka,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,25,14,105,104
+15/1,Oklahoma City ,Powell,Davis,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,26,14,130,121
+17/1, Washington ,Powell,Ibaka,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,27,14,140,111
+18/1,Minnesota ,VanVleet,Lowry,Powell,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,28,14,122,112
+20/1,Atlanta ,Powell,Hollis,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,29,14,122,117
+22/1, Philadelphia ,VanVleet,Siakam,VanVleet,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,30,14,107,95
+24/1,New York ,Lowry,Gasol,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,31,14,118,112
+26/1,San Antonio ,Siakam,Gasol,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,32,14,110,106
+28/1, Atlanta ,Ibaka,Ibaka,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,33,14,130,114
+30/1,Cleveland ,Ibaka,VanVleet,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,53,19,115,109
+31/1,Detroit ,Siakam,VanVleet,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,35,14,105,92
+2/2, Chicago ,Davis,Siakam,VanVleet,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,36,14,129,102
+5/2, Indiana ,Lowry,Siakam,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,37,14,119,118
+7/2,Indiana ,Ibaka,Ibaka,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,38,14,115,106
+8/2, Brooklyn ,VanVleet,Davis,VanVleet,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,39,14,119,118
+10/2, Minnesota ,Siakam,Anunoby,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,40,14,137,126
+12/2,Brooklyn ,Ibaka,Lowry,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,40,15,101,91
+21/2, Phoenix ,Siakam,Siakam,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,41,15,118,101
+23/2, Indiana ,Siakam,Ibaka,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,42,15,127,81
+25/2, Milwaukee ,Siakam,Hollis,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,42,16,108,97
+28/2, Charlotte ,Siakam,Siakam,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,42,17,99,96
+1/3,Denver ,Anunoby,Anunoby,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,42,18,133,118
+3/3,Phoenix ,Siakam,Boucher,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,43,18,123,114
+5/3,Golden State ,Powell,Ibaka,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,44,18,121,113
+8/3,Sacramento ,Powell,Ibaka,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,45,18,118,113
+9/3,Utah ,Ibaka,Ibaka,Siakam,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,46,18,101,92
+1/8, Los Angeles ,Lowry,Lowry,VanVleet,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,47,18,107,92
+3/8,Miami ,VanVleet,Lowry,Lowry,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,48,18,107,103
+5/8,Orlando ,VanVleet,Ibaka,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,49,18,109,99
+7/8, Boston ,VanVleet,Gasol,VanVleet,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,L,49,19,122,100
+9/8, Memphis ,Siakam,Ibaka,Lowry,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,50,19,108,99
+10/8,Milwaukee ,Boucher,Boucher,Gasol,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,51,19,114,106
+12/8,Philadelphia ,Boucher,Boucher,VanVleet,H,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,52,19,125,121
+14/8, Denver ,Johnson,Boucher,Johnson,A,Toronto Raptors 2019-20 Regular Season NBA Schedule,W,53,19,117,109

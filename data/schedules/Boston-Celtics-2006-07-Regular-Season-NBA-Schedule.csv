@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+1/11, NO/Oklahoma City ,Pierce,Pierce,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,0,1,91,87
+3/11, Detroit ,Pierce,Jefferson,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,0,2,101,88
+4/11,Washington ,Szczerbiak,Pierce,Telfair,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,0,3,124,117
+8/11, Charlotte ,Pierce,Pierce,Gomes,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,1,3,110,108
+10/11, Utah ,Pierce,Pierce,Szczerbiak,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,1,4,107,100
+11/11,Cleveland ,Pierce,Perkins,Telfair,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,1,5,94,93
+13/11, Orlando ,Pierce,Perkins,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,1,6,92,89
+15/11, Indiana ,Pierce,Gomes,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,2,6,114,88
+17/11, Portland ,Pierce,Pierce,Telfair,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,3,6,118,90
+18/11,New York ,Pierce,Gomes,Pierce,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,4,6,122,118
+22/11,Charlotte ,Pierce,Pierce,Telfair,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,4,7,92,83
+24/11, New York ,Szczerbiak,Jefferson,Pierce,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,4,8,101,77
+25/11,Milwaukee ,Pierce,Gomes,Telfair,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,5,8,111,98
+29/11, New Jersey ,Pierce,Gomes,Gomes,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,5,9,106,103
+1/12,Toronto ,Pierce,Jefferson,Pierce,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,5,10,106,102
+4/12,Chicago ,Allen,Gomes,Telfair,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,5,11,100,82
+6/12, Memphis ,Pierce,Jefferson,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,5,12,98,96
+8/12, Phoenix ,Pierce,Allen,Pierce,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,5,13,116,111
+9/12,New Jersey ,Jefferson,Jefferson,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,6,13,92,90
+11/12,New York ,Pierce,Jefferson,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,7,13,97,90
+13/12,Philadelphia ,Gomes,Jefferson,Pierce,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,8,13,101,81
+15/12, Denver ,Pierce,Jefferson,Pierce,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,9,13,119,114
+16/12,Charlotte ,Pierce,Pierce,Scalabrine,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,10,13,106,100
+20/12, Golden State ,Pierce,Jefferson,Pierce,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,10,14,96,95
+22/12, Philadelphia ,Jefferson,Jefferson,Telfair,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,10,15,98,83
+26/12,Denver ,Green,Jefferson,Rondo,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,10,16,116,105
+27/12,LA ,Telfair,Jefferson,Allen,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,10,17,100,77
+29/12,Golden State ,Allen,Gomes,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,10,18,110,100
+31/12,Seattle ,Allen,Jefferson,Rondo,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,10,19,101,95
+1/1,Portland ,Allen,Jefferson,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,11,19,89,81
+3/1, Cleveland ,Allen,Jefferson,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,11,20,107,104
+5/1,Memphis ,Szczerbiak,Jefferson,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,12,20,128,119
+7/1,Orlando ,Allen,Allen,Allen,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,21,87,79
+10/1, Indiana ,Allen,Jefferson,Telfair,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,22,97,84
+12/1, Toronto ,Rondo,Powe,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,23,95,86
+13/1,Detroit ,Green,Jefferson,Telfair,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,24,81,73
+15/1,Atlanta ,Green,Jefferson,Rondo,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,25,100,96
+19/1, Sacramento ,West,Jefferson,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,26,96,91
+20/1,Washington ,Gomes,Jefferson,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,27,115,110
+22/1, San Antonio ,West,Jefferson,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,28,93,89
+24/1, Atlanta ,West,Perkins,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,29,82,76
+26/1,Toronto ,Jefferson,Jefferson,Jefferson,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,30,96,90
+28/1, Washington ,West,Gomes,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,31,105,91
+30/1,Indiana ,Jefferson,Jefferson,Rondo,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,32,103,96
+31/1, Los Angeles ,Gomes,Jefferson,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,33,111,98
+2/2, LA ,Rondo,West,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,34,100,89
+6/2,Detroit ,Gomes,Jefferson,Rondo,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,35,109,102
+7/2, Miami ,Gomes,Jefferson,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,36,91,79
+9/2, New Jersey ,West,Jefferson,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,37,92,78
+11/2,Minnesota ,Pierce,West,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,12,38,109,107
+14/2, Milwaukee ,Pierce,Jefferson,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,13,38,117,97
+20/2,Sacramento ,Pierce,Jefferson,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,13,39,104,101
+21/2,Phoenix ,Pierce,Jefferson,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,13,40,118,108
+23/2,Los Angeles ,Green,Jefferson,Pierce,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,13,41,122,96
+24/2,Utah ,Pierce,Jefferson,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,13,42,105,87
+26/2,Houston ,Pierce,Jefferson,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,14,42,77,72
+28/2, New York ,Jefferson,Jefferson,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,15,42,102,94
+3/3,New Jersey ,Jefferson,Jefferson,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,16,42,96,88
+4/3, Minnesota ,West,Gomes,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,17,42,124,117
+7/3, Houston ,Jefferson,Jefferson,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,17,43,111,80
+9/3, Seattle ,Jefferson,Jefferson,Pierce,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,18,43,118,103
+11/3, Chicago ,Green,Rondo,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,18,44,94,78
+13/3,Chicago ,Pierce,Perkins,Rondo,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,18,45,95,87
+14/3, Atlanta ,Jefferson,Perkins,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,19,45,109,88
+16/3,Dallas ,Pierce,Jefferson,Pierce,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,19,46,106,101
+17/3,San Antonio ,Pierce,Rondo,Rondo,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,20,46,91,85
+19/3,NO/Oklahoma City ,Pierce,Jefferson,Rondo,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,20,47,106,88
+21/3, Charlotte ,Pierce,Jefferson,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,20,48,92,84
+23/3, Dallas ,Pierce,Jefferson,Ray,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,20,49,109,95
+26/3, Toronto ,Pierce,Jefferson,Pierce,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,21,49,95,87
+28/3, Orlando ,Pierce,Jefferson,Pierce,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,22,49,105,96
+30/3,Philadelphia ,Jefferson,Jefferson,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,22,50,88,82
+1/4, Cleveland ,Green,Perkins,Perkins,A,Boston Celtics 2006-07 Regular Season NBA Schedule,W,23,50,98,96
+4/4,Milwaukee ,Rondo,Powe,Gomes,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,23,51,98,89
+6/4, Miami ,Gomes,Powe,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,23,52,88,85
+7/4,Indiana ,Ray,Gomes,Rondo,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,23,53,105,98
+10/4,Atlanta ,Green,Powe,Rondo,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,23,54,104,96
+11/4, Philadelphia ,Gomes,Perkins,Telfair,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,23,55,102,94
+13/4, Milwaukee ,Green,Powe,West,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,23,56,104,102
+15/4,Orlando ,Jefferson,Perkins,West,H,Boston Celtics 2006-07 Regular Season NBA Schedule,L,23,57,88,86
+16/4,Miami ,West,Jefferson,Rondo,H,Boston Celtics 2006-07 Regular Season NBA Schedule,W,24,57,91,89
+18/4, Detroit ,Rondo,Jefferson,Rondo,A,Boston Celtics 2006-07 Regular Season NBA Schedule,L,24,58,91,89

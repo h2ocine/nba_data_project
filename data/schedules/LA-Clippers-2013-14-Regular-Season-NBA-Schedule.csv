@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+29/10,Los Angeles ,Griffin,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,0,1,116,103
+31/10, Golden State ,Paul,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,1,1,126,115
+1/11,Sacramento ,Paul,Griffin,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,2,1,110,101
+4/11, Houston ,Redick,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,3,1,137,118
+6/11,Orlando ,Griffin,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,3,2,98,90
+7/11,Miami ,Griffin,Griffin,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,3,3,102,97
+9/11,Houston ,Griffin,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,4,3,107,94
+11/11, Minnesota ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,5,3,109,107
+13/11, Oklahoma City ,Griffin,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,6,3,111,103
+16/11, Brooklyn ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,7,3,110,103
+18/11, Memphis ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,L,7,4,106,102
+20/11,Minnesota ,Griffin,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,8,4,102,98
+21/11,Oklahoma City ,Griffin,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,8,5,105,91
+23/11, Sacramento ,Paul,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,9,5,103,102
+24/11, Chicago ,Dudley,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,10,5,121,82
+27/11, New York ,Griffin,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,11,5,93,80
+29/11,Sacramento ,Crawford,Jordan,Crawford,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,12,5,104,98
+1/12, Indiana ,Crawford,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,L,12,6,105,100
+4/12,Atlanta ,Griffin,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,12,7,107,97
+5/12,Memphis ,Paul,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,13,7,101,81
+7/12,Cleveland ,Crawford,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,13,8,88,82
+9/12,Philadelphia ,Griffin,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,14,8,94,83
+11/12,Boston ,Paul,Paul,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,15,8,96,88
+12/12,Brooklyn ,Paul,Jordan,Crawford,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,15,9,102,93
+14/12,Washington ,Paul,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,16,9,113,97
+16/12, San Antonio ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,17,9,115,92
+18/12, New Orleans ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,18,9,108,95
+21/12, Denver ,Crawford,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,19,9,112,91
+22/12, Minnesota ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,20,9,120,116
+25/12,Golden State ,Paul,Griffin,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,20,10,105,103
+26/12,Portland ,Griffin,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,20,11,116,112
+28/12, Utah ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,21,11,98,90
+30/12, Phoenix ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,L,21,12,107,88
+1/1, Charlotte ,Griffin,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,22,12,112,85
+3/1,Dallas ,Jordan,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,23,12,119,112
+4/1,San Antonio ,Crawford,Jordan,Crawford,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,23,13,116,92
+6/1, Orlando ,Collison,Jordan,Crawford,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,24,13,101,81
+8/1, Boston ,Griffin,Jordan,Griffin,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,25,13,111,105
+10/1, Los Angeles ,Griffin,Griffin,Collison,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,26,13,123,87
+15/1, Dallas ,Redick,Jordan,Collison,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,27,13,129,127
+17/1,New York ,Griffin,Jordan,Collison,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,28,13,109,95
+18/1,Indiana ,Crawford,Jordan,Griffin,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,28,14,106,92
+20/1,Detroit ,Crawford,Jordan,Redick,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,29,14,112,103
+22/1,Charlotte ,Griffin,Jordan,Griffin,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,29,15,95,91
+24/1,Chicago ,Griffin,Griffin,Griffin,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,30,15,112,95
+25/1,Toronto ,Crawford,Jordan,Crawford,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,31,15,126,118
+27/1,Milwaukee ,Crawford,Jordan,Collison,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,32,15,114,86
+29/1, Washington ,Griffin,Jordan,Collison,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,33,15,110,103
+30/1,Golden State ,Griffin,Jordan,Collison,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,33,16,111,92
+1/2, Utah ,Crawford,Jordan,Collison,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,34,16,102,87
+3/2,Denver ,Griffin,Jordan,Collison,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,34,17,116,115
+5/2, Miami ,Griffin,Jordan,Collison,A,LA Clippers 2013-14 Regular Season NBA Schedule,L,34,18,116,112
+7/2, Toronto ,Griffin,Jordan,Collison,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,35,18,118,105
+9/2, Philadelphia ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,36,18,123,78
+12/2, Portland ,Griffin,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,37,18,122,117
+18/2, San Antonio ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,L,37,19,113,103
+21/2,Memphis ,Griffin,Griffin,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,37,20,102,96
+23/2,Oklahoma City ,Crawford,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,38,20,125,117
+24/2,New Orleans ,Crawford,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,39,20,123,110
+26/2, Houston ,Griffin,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,40,20,101,93
+1/3, New Orleans ,Paul,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,41,20,108,76
+4/3,Phoenix ,Barnes,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,42,20,104,96
+6/3,Los Angeles ,Collison,Barnes,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,43,20,142,94
+8/3, Atlanta ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,44,20,109,108
+10/3, Phoenix ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,45,20,112,105
+12/3, Golden State ,Griffin,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,46,20,111,98
+14/3,Utah ,Griffin,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,47,20,96,87
+16/3, Cleveland ,Griffin,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,48,20,102,80
+17/3,Denver ,Paul,Griffin,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,48,21,110,100
+22/3, Detroit ,Paul,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,49,21,112,103
+24/3, Milwaukee ,Griffin,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,50,21,106,98
+26/3,New Orleans ,Crawford,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,50,22,98,96
+27/3,Dallas ,Paul,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,51,22,109,103
+29/3,Houston ,Paul,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,52,22,118,107
+31/3,Minnesota ,Collison,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,53,22,114,104
+2/4,Phoenix ,Griffin,Jordan,Paul,H,LA Clippers 2013-14 Regular Season NBA Schedule,W,54,22,112,108
+3/4, Dallas ,Griffin,Jordan,Griffin,A,LA Clippers 2013-14 Regular Season NBA Schedule,L,54,23,113,107
+6/4, Los Angeles ,Griffin,Jordan,Griffin,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,55,23,120,97
+9/4, Oklahoma City ,Griffin,Griffin,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,L,55,24,107,101
+12/4, Sacramento ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,56,24,117,101
+15/4, Denver ,Griffin,Jordan,Paul,A,LA Clippers 2013-14 Regular Season NBA Schedule,W,57,24,117,105
+16/4,Portland ,Crawford,Barnes,Crawford,H,LA Clippers 2013-14 Regular Season NBA Schedule,L,57,25,110,104

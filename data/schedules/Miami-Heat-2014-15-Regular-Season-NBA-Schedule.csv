@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+29/10, Washington ,Bosh,Bosh,Bosh,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,1,0,107,95
+1/11,Philadelphia ,Bosh,Bosh,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,2,0,114,96
+2/11, Toronto ,Bosh,Bosh,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,3,0,107,102
+4/11, Houston ,Bosh,Bosh,Napier,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,3,1,108,91
+5/11,Charlotte ,Wade,Bosh,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,3,2,96,89
+8/11, Minnesota ,Wade,Bosh,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,4,2,102,92
+9/11,Dallas ,Deng,Bosh,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,5,2,105,96
+12/11, Indiana ,Wade,Deng,Cole,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,5,3,81,75
+14/11,Atlanta ,Chalmers,Bosh,Chalmers,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,5,4,114,103
+16/11, Milwaukee ,Chalmers,Williams,Chalmers,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,5,5,91,84
+17/11,Brooklyn ,Chalmers,Bosh,Chalmers,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,6,5,95,83
+20/11, LA ,Bosh,Bosh,Napier,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,6,6,110,93
+22/11,Orlando ,Bosh,Bosh,Chalmers,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,7,6,99,92
+23/11, Charlotte ,Deng,Bosh,Chalmers,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,8,6,94,93
+25/11, Golden State ,Bosh,Bosh,Chalmers,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,8,7,114,97
+30/11,New York ,Wade,Deng,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,9,7,86,79
+1/12,Washington ,Bosh,Bosh,McRoberts,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,9,8,107,86
+3/12, Atlanta ,Wade,Bosh,Chalmers,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,9,9,112,102
+5/12,Milwaukee ,Wade,Bosh,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,9,10,109,85
+7/12,Memphis ,Wade,Haslem,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,9,11,103,87
+9/12,Phoenix ,Bosh,Bosh,McRoberts,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,10,11,103,97
+10/12,Denver ,Bosh,Cole,Cole,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,10,12,102,82
+12/12,Utah ,Wade,Bosh,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,11,12,100,95
+14/12, Chicago ,Deng,Deng,Cole,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,11,13,93,75
+16/12,Brooklyn ,Wade,Andersen,Chalmers,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,12,13,95,91
+17/12, Utah ,Wade,Andersen,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,12,14,105,87
+19/12, Washington ,Wade,Whiteside,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,12,15,105,103
+21/12, Boston ,Deng,Ennis,Chalmers,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,13,15,100,84
+23/12, Philadelphia ,Wade,Haslem,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,13,16,91,87
+25/12, Cleveland ,Wade,Deng,Deng,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,14,16,101,91
+27/12, Memphis ,Wade,Whiteside,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,14,17,103,95
+29/12, Orlando ,Wade,Bosh,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,14,18,102,101
+31/12,Indiana ,Wade,Bosh,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,14,19,106,95
+3/1,Houston ,Wade,Whiteside,Chalmers,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,14,20,115,79
+4/1, Brooklyn ,Bosh,Whiteside,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,15,20,88,84
+8/1,Portland ,Wade,Whiteside,Bosh,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,15,21,99,83
+11/1,LA ,Bosh,Whiteside,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,16,21,104,90
+13/1,Los Angeles ,Chalmers,Whiteside,Chalmers,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,17,21,78,75
+14/1,Golden State ,Bosh,Whiteside,Napier,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,17,22,104,89
+16/1,Sacramento ,Bosh,Bosh,Napier,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,18,22,95,83
+20/1, Oklahoma City ,Wade,Bosh,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,18,23,94,86
+21/1,Charlotte ,Wade,Wade,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,18,24,78,76
+23/1, Indiana ,Deng,Andersen,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,19,24,89,87
+25/1,Chicago ,Wade,Whiteside,Chalmers,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,20,24,96,84
+27/1, Milwaukee ,Bosh,Whiteside,Chalmers,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,20,25,109,102
+30/1, Dallas ,Whiteside,Whiteside,Chalmers,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,20,26,93,72
+1/2,Boston ,Whiteside,Whiteside,Johnson,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,21,26,83,75
+3/2,Detroit ,Bosh,Whiteside,Cole,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,21,27,108,91
+4/2,Minnesota ,Whiteside,Whiteside,Napier,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,21,28,102,101
+6/2,San Antonio ,Johnson,Ennis,Cole,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,21,29,98,85
+9/2, New York ,Bosh,Whiteside,Cole,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,22,29,109,95
+11/2,Cleveland ,Chalmers,Whiteside,Napier,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,22,30,113,93
+20/2,New York ,Napier,Whiteside,Deng,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,23,30,111,87
+21/2, New Orleans ,Chalmers,Whiteside,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,23,31,105,91
+23/2, Philadelphia ,Deng,Whiteside,Dragic,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,24,31,119,108
+25/2,Orlando ,Deng,Whiteside,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,25,31,93,90
+27/2,New Orleans ,Deng,Whiteside,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,25,32,104,102
+28/2, Atlanta ,Wade,Whiteside,Dragic,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,25,33,93,91
+2/3, Phoenix ,Johnson,Whiteside,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,26,33,115,98
+4/3, Los Angeles ,Wade,Whiteside,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,27,33,100,94
+6/3,Washington ,Dragic,Andersen,Dragic,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,27,34,99,97
+7/3, Sacramento ,Wade,Beasley,Chalmers,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,28,34,114,109
+9/3, Boston ,Wade,Whiteside,Chalmers,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,28,35,100,90
+11/3, Brooklyn ,Wade,Andersen,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,29,35,104,98
+13/3,Toronto ,Wade,Whiteside,Dragic,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,29,36,102,92
+16/3, Cleveland ,Wade,Whiteside,Dragic,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,30,36,106,92
+18/3, Portland ,Wade,Whiteside,Dragic,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,31,36,108,104
+20/3, Denver ,Wade,Whiteside,Beasley,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,32,36,108,91
+22/3,Oklahoma City ,Whiteside,Whiteside,Wade,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,32,37,93,75
+24/3,Milwaukee ,Wade,Whiteside,Dragic,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,32,38,89,88
+25/3,Boston ,Dragic,Haslem,Dragic,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,33,38,93,86
+27/3,Atlanta ,Deng,Deng,Chalmers,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,33,39,99,86
+29/3, Detroit ,Wade,Haslem,Dragic,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,34,39,109,102
+31/3, San Antonio ,Dragic,Andersen,Dragic,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,34,40,95,81
+2/4,Cleveland ,Deng,Deng,Dragic,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,34,41,114,88
+4/4,Detroit ,Wade,Whiteside,Dragic,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,34,42,99,98
+5/4,Indiana ,Wade,Haslem,Dragic,H,Miami Heat 2014-15 Regular Season NBA Schedule,L,34,43,112,89
+7/4, Charlotte ,Dragic,Whiteside,Dragic,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,35,43,105,100
+9/4, Chicago ,Whiteside,Whiteside,Deng,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,35,44,89,78
+11/4, Toronto ,Wade,Whiteside,Wade,A,Miami Heat 2014-15 Regular Season NBA Schedule,L,35,45,107,104
+13/4, Orlando ,Whiteside,Whiteside,Dragic,A,Miami Heat 2014-15 Regular Season NBA Schedule,W,36,45,100,93
+15/4,Philadelphia ,Beasley,Ennis,Beasley,H,Miami Heat 2014-15 Regular Season NBA Schedule,W,37,45,105,101

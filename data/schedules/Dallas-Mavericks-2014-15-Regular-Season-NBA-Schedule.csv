@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+28/10,San Antonio ,Ellis,Chandler,Ellis,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,0,1,101,100
+30/10, Utah ,Parsons,Aminu,Ellis,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,1,1,120,102
+1/11,New Orleans ,Parsons,Ellis,Harris,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,2,1,109,104
+3/11, Boston ,Parsons,Chandler,Ellis,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,3,1,118,113
+6/11,Portland ,Nowitzki,Aminu,Harris,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,3,2,108,87
+7/11,Utah ,Nowitzki,Chandler,Ellis,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,4,2,105,82
+9/11, Miami ,Ellis,Chandler,Ellis,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,4,3,105,96
+11/11, Sacramento ,Nowitzki,Chandler,Harris,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,5,3,106,98
+13/11, Philadelphia ,Nowitzki,Chandler,Barea,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,6,3,123,70
+15/11, Minnesota ,Ellis,Chandler,Nelson,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,7,3,131,117
+17/11,Charlotte ,Ellis,Aminu,Nelson,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,8,3,107,80
+19/11,Washington ,Ellis,Chandler,Barea,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,9,3,105,102
+21/11, Los Angeles ,Nowitzki,Aminu,Ellis,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,10,3,140,106
+22/11,Houston ,Ellis,Chandler,Nelson,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,10,4,95,92
+24/11, Indiana ,Ellis,Nowitzki,Ellis,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,10,5,111,100
+26/11, New York ,Nowitzki,Chandler,Harris,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,11,5,109,102
+28/11,Toronto ,Ellis,Chandler,Barea,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,12,5,106,102
+29/11,Philadelphia ,Chandler,Chandler,Ellis,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,13,5,110,103
+2/12,Chicago ,Ellis,Chandler,Nowitzki,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,14,5,132,129
+3/12,Milwaukee ,Ellis,Chandler,Ellis,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,15,5,107,105
+5/12, Phoenix ,Ellis,Chandler,Nelson,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,15,6,118,106
+7/12, Milwaukee ,Parsons,Wright,Barea,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,16,6,125,102
+9/12,Memphis ,Parsons,Chandler,Nelson,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,16,7,114,105
+10/12, New Orleans ,Ellis,Nowitzki,Ellis,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,17,7,112,107
+13/12, Golden State ,Ellis,Jefferson,Ellis,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,17,8,105,98
+16/12,New York ,Nowitzki,Chandler,Ellis,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,18,8,107,87
+17/12,Detroit ,Parsons,Nowitzki,Harris,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,19,8,117,106
+20/12, San Antonio ,Ellis,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,20,8,99,93
+22/12, Atlanta ,Ellis,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,20,9,105,102
+23/12,Phoenix ,Chandler,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,20,10,124,115
+26/12, Los Angeles ,Rondo,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,21,10,102,98
+28/12, Oklahoma City ,Nowitzki,Smith,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,22,10,112,107
+30/12, Washington ,Ellis,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,23,10,114,87
+2/1,Boston ,Rondo,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,24,10,119,101
+4/1,Cleveland ,Ellis,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,25,10,109,90
+5/1,Brooklyn ,Ellis,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,26,10,96,88
+7/1, Detroit ,Nowitzki,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,26,11,108,95
+10/1,LA ,Nowitzki,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,26,12,120,100
+13/1,Sacramento ,Ellis,Chandler,Ellis,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,27,12,108,104
+14/1,Denver ,Barea,Jefferson,Barea,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,27,13,114,107
+16/1, Denver ,Nowitzki,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,28,13,97,89
+19/1,Memphis ,Ellis,Chandler,Ellis,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,29,13,103,95
+21/1,Minnesota ,Parsons,Powell,Barea,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,30,13,98,75
+23/1, Chicago ,Nowitzki,Chandler,Ellis,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,30,14,102,98
+25/1,New Orleans ,Ellis,Rondo,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,30,15,109,106
+27/1, Memphis ,Parsons,Rondo,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,30,16,109,90
+28/1,Houston ,Ellis,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,30,17,99,94
+30/1,Miami ,Villanueva,Chandler,Ellis,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,31,17,93,72
+31/1,Orlando ,Ellis,Chandler,Ellis,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,32,17,108,93
+2/2, Minnesota ,Ellis,Chandler,Barea,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,33,17,100,94
+4/2,Golden State ,Parsons,Chandler,Harris,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,33,18,128,114
+5/2,Sacramento ,Ellis,Chandler,Ellis,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,34,18,101,78
+7/2, Portland ,Nowitzki,Chandler,Barea,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,35,18,111,101
+9/2, LA ,Villanueva,Parsons,Barea,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,35,19,115,98
+11/2, Utah ,Barea,Nowitzki,Harris,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,36,19,87,82
+19/2,Oklahoma City ,Nowitzki,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,36,20,104,89
+20/2, Houston ,Aminu,Chandler,Harris,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,37,20,111,100
+22/2, Charlotte ,Ellis,Nowitzki,Ellis,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,38,20,92,81
+24/2, Toronto ,Ellis,Aminu,Harris,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,39,20,99,92
+25/2,Atlanta ,Ellis,James,Barea,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,39,21,104,87
+28/2, Brooklyn ,Nowitzki,Rondo,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,39,22,104,94
+2/3, New Orleans ,Ellis,Nowitzki,Ellis,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,40,22,102,93
+5/3,Portland ,Ellis,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,40,23,94,75
+6/3,Golden State ,Rondo,Stoudemire,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,40,24,104,89
+8/3,Los Angeles ,Ellis,Parsons,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,41,24,100,93
+10/3, Cleveland ,Parsons,Chandler,Barea,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,41,25,127,94
+13/3, LA ,Parsons,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,42,25,129,99
+16/3, Oklahoma City ,Parsons,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,43,25,119,115
+18/3, Orlando ,Nowitzki,Nowitzki,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,44,25,107,102
+20/3, Memphis ,Nowitzki,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,44,26,112,101
+22/3,Phoenix ,Parsons,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,44,27,98,92
+24/3, San Antonio ,Ellis,Nowitzki,Ellis,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,45,27,101,94
+27/3,San Antonio ,Chandler,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,45,28,94,76
+29/3,Indiana ,Parsons,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,45,29,104,99
+1/4,Oklahoma City ,Ellis,Chandler,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,46,29,135,131
+2/4, Houston ,Nowitzki,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,46,30,108,101
+4/4, Golden State ,Nowitzki,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,46,31,123,110
+8/4, Phoenix ,Ellis,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,47,31,107,104
+10/4,Denver ,Nowitzki,Chandler,Harris,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,48,31,144,143
+12/4,Los Angeles ,Chandler,Aminu,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,49,31,120,106
+13/4,Utah ,Barea,Aminu,Rondo,H,Dallas Mavericks 2014-15 Regular Season NBA Schedule,L,49,32,109,92
+15/4, Portland ,Chandler,Chandler,Rondo,A,Dallas Mavericks 2014-15 Regular Season NBA Schedule,W,50,32,114,98

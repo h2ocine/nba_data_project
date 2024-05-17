@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+20/10, Oklahoma City ,Bogdanovic,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,1,0,107,86
+22/10,Sacramento ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,2,0,110,101
+26/10, Denver ,Gobert,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,3,0,122,110
+28/10,Houston ,Bogdanovic,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,4,0,122,91
+30/10,Chicago ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,4,1,107,99
+31/10,Milwaukee ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,5,1,107,95
+2/11, Sacramento ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,6,1,119,113
+4/11,Atlanta ,Clarkson,Gobert,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,7,1,116,98
+6/11,Miami ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,7,2,118,115
+7/11,Orlando ,Gobert,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,7,3,107,100
+9/11, Atlanta ,Mitchell,Gobert,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,8,3,110,98
+11/11, Indiana ,Mitchell,Gobert,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,8,4,111,100
+13/11, Miami ,Bogdanovic,Gobert,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,8,5,111,105
+16/11, Philadelphia ,Bogdanovic,Gobert,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,9,5,120,85
+18/11, Toronto ,Gay,Gobert,Ingles,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,10,5,119,103
+20/11,Sacramento ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,11,5,123,105
+22/11, Memphis ,Bogdanovic,Gobert,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,11,6,119,118
+24/11,Oklahoma City ,Clarkson,Gobert,Clarkson,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,12,6,110,104
+26/11, New Orleans ,Bogdanovic,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,12,7,98,97
+27/11, New Orleans ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,13,7,127,105
+29/11, Portland ,Mitchell,Gobert,Ingles,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,14,7,129,107
+3/12, Boston ,Mitchell,Gobert,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,15,7,137,130
+5/12,Cleveland ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,16,7,109,108
+8/12,Minnesota ,Mitchell,Gobert,Ingles,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,17,7,136,104
+9/12,Philadelphia ,Mitchell,Gobert,Ingles,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,18,7,118,96
+11/12,Washington ,Mitchell,Whiteside,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,19,7,123,98
+15/12, LA ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,20,7,124,103
+17/12, San Antonio ,Mitchell,Gobert,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,20,8,128,126
+18/12, Washington ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,20,9,109,103
+20/12, Charlotte ,Gobert,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,21,9,112,102
+23/12, Minnesota ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,22,9,128,116
+25/12, Dallas ,Mitchell,Gobert,Ingles,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,23,9,120,116
+27/12,San Antonio ,Clarkson,Gobert,Clarkson,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,24,9,110,104
+29/12,Portland ,Gobert,Gobert,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,25,9,120,105
+31/12, Minnesota ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,26,9,120,108
+1/1, Golden State ,Gobert,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,26,10,123,116
+3/1,New Orleans ,Mitchell,Gobert,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,27,10,115,104
+5/1,Denver ,Bogdanovic,Bogdanovic,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,28,10,115,109
+7/1,Toronto ,Paschall,Hughes,Forrest,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,28,11,122,108
+8/1,Indiana ,Mitchell,Whiteside,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,28,12,125,113
+10/1,Detroit ,Mitchell,Whiteside,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,28,13,126,116
+12/1, Cleveland ,Clarkson,O'Neale,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,28,14,111,91
+16/1,Denver ,Mitchell,Gobert,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,29,14,125,102
+17/1,Los Angeles ,Conley,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,29,15,101,95
+19/1, Houston ,Bogdanovic,O'Neale,Ingles,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,29,16,116,111
+21/1, Detroit ,Gobert,Gobert,Ingles,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,30,16,111,101
+23/1,Golden State ,Bogdanovic,Gobert,Ingles,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,30,17,94,92
+24/1,Phoenix ,Clarkson,Whiteside,Clarkson,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,30,18,115,109
+26/1, Phoenix ,Clarkson,Whiteside,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,30,19,105,97
+28/1,Memphis ,House,Whiteside,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,30,20,119,109
+30/1,Minnesota ,Bogdanovic,Whiteside,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,30,21,126,106
+2/2, Denver ,Forrest,Azubuike,Forrest,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,31,21,108,104
+4/2, Brooklyn ,Mitchell,Bogdanovic,Forrest,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,32,21,125,102
+7/2, New York ,Mitchell,Azubuike,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,33,21,113,104
+9/2, Golden State ,Bogdanovic,Whiteside,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,34,21,111,85
+11/2, Orlando ,Mitchell,Whiteside,O'Neale,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,35,21,114,99
+14/2, Houston ,Mitchell,Whiteside,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,36,21,135,101
+16/2,Los Angeles ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,36,22,106,101
+25/2, Dallas ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,37,22,114,109
+27/2,Phoenix ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,38,22,118,114
+2/3,Houston ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,39,22,132,127
+4/3,New Orleans ,Mitchell,Whiteside,Clarkson,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,39,23,124,90
+6/3,Oklahoma City ,Bogdanovic,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,40,23,116,103
+7/3,Dallas ,Bogdanovic,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,40,24,111,103
+9/3, Portland ,Bogdanovic,O'Neale,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,41,24,123,85
+11/3,San Antonio ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,41,25,104,102
+12/3, Sacramento ,Clarkson,Whiteside,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,42,25,134,125
+14/3, Milwaukee ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,42,26,117,111
+16/3, Chicago ,Mitchell,Gobert,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,43,26,125,110
+18/3, LA ,Butler,Gobert,Butler,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,44,26,121,92
+20/3,New York ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,45,26,108,93
+21/3,Brooklyn ,Mitchell,O'Neale,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,45,27,114,106
+23/3,Boston ,Mitchell,Gobert,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,45,28,125,97
+25/3,Charlotte ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,45,29,107,101
+27/3,Dallas ,Gay,Hernangomez,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,45,30,114,100
+29/3,LA ,Mitchell,Gobert,Mitchell,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,45,31,121,115
+31/3, Los Angeles ,Mitchell,Gobert,Mitchell,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,46,31,122,109
+2/4,Golden State ,Conley,Gobert,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,L,46,32,111,107
+5/4, Memphis ,Gobert,Gobert,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,47,32,121,115
+6/4, Oklahoma City ,Bogdanovic,Whiteside,Clarkson,A,Utah Jazz 2021-22 Regular Season NBA Schedule,W,48,32,137,101
+8/4, Phoenix ,Bogdanovic,Gobert,Conley,A,Utah Jazz 2021-22 Regular Season NBA Schedule,L,48,33,111,105
+10/4,Portland ,Hernangomez,Gobert,Conley,H,Utah Jazz 2021-22 Regular Season NBA Schedule,W,49,33,111,80

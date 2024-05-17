@@ -1,0 +1,31 @@
+Team Name,W,L,PCT,GB,PPG,OPP PPG,DIFF,STRK,Title,HOME-W,HOME-L,AWAY-W,AWAY-L,DIV-W,DIV-L,CONF-W,CONF-L,Last10-W,Last10-L
+MILMilwaukee Bucks,60,22,0.732,0.0,118.1,109.3,8.8,L1,NBA Standings Regular Season 2018-19,33,8,27,14,14,2,40,12,7,3
+TORToronto Raptors,58,24,0.707,2.0,114.4,108.4,6.0,W2,NBA Standings Regular Season 2018-19,32,9,26,15,12,4,36,16,7,3
+GSGolden State Warriors,57,25,0.695,3.0,117.7,111.2,6.5,L1,NBA Standings Regular Season 2018-19,30,11,27,14,13,3,35,17,8,2
+DENDenver Nuggets,54,28,0.659,6.0,110.7,106.7,4.0,W1,NBA Standings Regular Season 2018-19,34,7,20,21,12,4,34,18,5,5
+HOUHouston Rockets,53,29,0.646,7.0,113.9,109.1,4.8,L1,NBA Standings Regular Season 2018-19,31,10,22,19,10,6,32,20,8,2
+PORPortland Trail Blazers,53,29,0.646,7.0,114.7,110.5,4.2,W3,NBA Standings Regular Season 2018-19,32,9,21,20,6,10,29,23,8,2
+PHIPhiladelphia 76ers,51,31,0.622,9.0,115.2,112.5,2.7,W1,NBA Standings Regular Season 2018-19,31,10,20,21,8,8,31,21,4,6
+UTAHUtah Jazz,50,32,0.61,10.0,111.7,106.5,5.2,L1,NBA Standings Regular Season 2018-19,29,12,21,20,8,8,30,22,8,2
+BOSBoston Celtics,49,33,0.598,11.0,112.4,108.0,4.4,W1,NBA Standings Regular Season 2018-19,28,13,21,20,10,6,35,17,6,4
+OKCOklahoma City Thunder,49,33,0.598,11.0,114.5,111.1,3.4,W5,NBA Standings Regular Season 2018-19,27,14,22,19,9,7,28,24,7,3
+INDIndiana Pacers,48,34,0.585,12.0,108.0,104.7,3.3,W1,NBA Standings Regular Season 2018-19,29,12,19,22,11,5,33,19,4,6
+SASan Antonio Spurs,48,34,0.585,12.0,111.7,110.0,1.7,W3,NBA Standings Regular Season 2018-19,32,9,16,25,10,6,30,22,6,4
+LACLA Clippers,48,34,0.585,12.0,115.1,114.3,0.8,W1,NBA Standings Regular Season 2018-19,26,15,22,19,11,5,28,24,6,4
+ORLOrlando Magic,42,40,0.512,18.0,107.3,106.6,0.7,W4,NBA Standings Regular Season 2018-19,25,16,17,24,10,6,30,22,8,2
+BKNBrooklyn Nets,42,40,0.512,18.0,112.2,112.3,-0.1,W3,NBA Standings Regular Season 2018-19,23,18,19,22,8,8,29,23,6,4
+DETDetroit Pistons,41,41,0.5,19.0,107.0,107.3,-0.3,W2,NBA Standings Regular Season 2018-19,26,15,15,26,8,8,27,25,4,6
+SACSacramento Kings,39,43,0.476,21.0,114.2,115.3,-1.1,L3,NBA Standings Regular Season 2018-19,24,17,15,26,4,12,21,31,3,7
+CHACharlotte Hornets,39,43,0.476,21.0,110.7,111.8,-1.1,L1,NBA Standings Regular Season 2018-19,25,16,14,27,10,6,29,23,6,4
+MIAMiami Heat,39,43,0.476,21.0,105.7,105.9,-0.2,L1,NBA Standings Regular Season 2018-19,19,22,20,21,7,9,23,29,4,6
+LALLos Angeles Lakers,37,45,0.451,23.0,111.8,113.5,-1.7,L1,NBA Standings Regular Season 2018-19,22,19,15,26,9,7,25,27,6,4
+MINMinnesota Timberwolves,36,46,0.439,24.0,112.5,114.0,-1.5,L3,NBA Standings Regular Season 2018-19,25,16,11,30,5,11,22,30,4,6
+MEMMemphis Grizzlies,33,49,0.402,27.0,103.5,106.1,-2.6,W1,NBA Standings Regular Season 2018-19,21,20,12,29,8,8,24,28,4,6
+NONew Orleans Pelicans,33,49,0.402,27.0,115.4,116.8,-1.4,L1,NBA Standings Regular Season 2018-19,19,22,14,27,8,8,23,29,3,7
+DALDallas Mavericks,33,49,0.402,27.0,108.9,110.1,-1.2,L1,NBA Standings Regular Season 2018-19,24,17,9,32,4,12,18,34,5,5
+WSHWashington Wizards,32,50,0.39,28.0,114.0,116.9,-2.9,L4,NBA Standings Regular Season 2018-19,22,19,10,31,7,9,19,33,2,8
+ATLAtlanta Hawks,29,53,0.354,31.0,113.3,119.4,-6.1,L3,NBA Standings Regular Season 2018-19,17,24,12,29,6,10,16,36,5,5
+CHIChicago Bulls,22,60,0.268,38.0,104.9,113.4,-8.5,L3,NBA Standings Regular Season 2018-19,9,32,13,28,3,13,16,36,2,8
+CLECleveland Cavaliers,19,63,0.232,41.0,104.5,114.1,-9.6,L10,NBA Standings Regular Season 2018-19,13,28,6,35,4,12,15,37,0,10
+PHXPhoenix Suns,19,63,0.232,41.0,107.5,116.8,-9.3,L2,NBA Standings Regular Season 2018-19,12,29,7,34,3,13,11,41,2,8
+NYNew York Knicks,17,65,0.207,43.0,104.6,113.8,-9.2,L1,NBA Standings Regular Season 2018-19,9,32,8,33,2,14,11,41,3,7

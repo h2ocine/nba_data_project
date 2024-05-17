@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+17/10,New York ,Prince,Prince,Prince,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,0,1,126,107
+19/10,Memphis ,Prince,Bazemore,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,0,2,131,117
+21/10,Cleveland ,Young,Len,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,1,2,133,111
+24/10, Dallas ,Bazemore,Bembry,Bazemore,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,2,2,111,104
+27/10, Chicago ,Prince,Dedmon,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,2,3,97,85
+29/10,Philadelphia ,Bazemore,Bembry,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,2,4,113,92
+30/10,Cleveland ,Young,Len,Lin,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,2,5,136,114
+1/11, Sacramento ,Lin,Poythress,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,2,6,146,115
+3/11, Miami ,Young,Dedmon,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,3,6,123,118
+6/11,Charlotte ,Lin,Dedmon,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,3,7,113,102
+7/11, New York ,Spellman,Spellman,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,3,8,112,107
+9/11, Detroit ,Lin,Spellman,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,3,9,124,109
+11/11,Los Angeles ,Prince,Len,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,3,10,107,106
+13/11,Golden State ,Prince,Poythress,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,3,11,110,103
+15/11,Denver ,Lin,Spellman,Lin,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,3,12,138,93
+17/11,Indiana ,Lin,Dedmon,Lin,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,3,13,97,89
+19/11, LA ,Young,Dedmon,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,3,14,127,119
+21/11, Toronto ,Lin,Dedmon,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,3,15,124,108
+23/11, Boston ,Lin,Collins,Lin,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,3,16,114,96
+25/11, Charlotte ,Collins,Collins,Bembry,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,4,16,124,123
+27/11,Miami ,Prince,Len,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,5,16,115,113
+28/11,Charlotte ,Young,Collins,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,5,17,108,94
+30/11,Oklahoma City ,Collins,Collins,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,5,18,124,109
+3/12, Golden State ,Collins,Collins,Lin,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,5,19,128,111
+5/12, Washington ,Collins,Collins,Bazemore,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,5,20,131,117
+8/12, Denver ,Collins,Collins,Bazemore,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,6,20,106,98
+12/12,Dallas ,Young,Collins,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,6,21,114,107
+14/12,Boston ,Huerter,Collins,Bazemore,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,6,22,129,108
+16/12,Brooklyn ,Collins,Dedmon,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,6,23,144,127
+18/12, Washington ,Collins,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,7,23,118,110
+21/12,New York ,Bazemore,Collins,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,8,23,114,107
+23/12,Detroit ,Carter,Len,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,9,23,98,95
+26/12, Indiana ,Bazemore,Dedmon,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,9,24,129,121
+28/12,Minnesota ,Bazemore,Dedmon,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,10,24,123,120
+29/12, Cleveland ,Carter,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,11,24,111,108
+31/12,Indiana ,Collins,Collins,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,11,25,116,108
+2/1,Washington ,Len,Len,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,11,26,114,98
+4/1,Milwaukee ,Bembry,Len,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,11,27,144,112
+6/1, Miami ,Young,Collins,Huerter,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,12,27,106,82
+8/1,Toronto ,Collins,Collins,Lin,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,12,28,104,101
+9/1,Brooklyn ,Collins,Collins,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,12,29,116,100
+11/1,Philadelphia ,Huerter,Collins,Dedmon,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,13,29,123,121
+13/1, Milwaukee ,Young,Collins,Lin,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,13,30,133,114
+15/1, Oklahoma City ,Collins,Len,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,14,30,142,126
+19/1, Boston ,Huerter,Collins,Huerter,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,14,31,113,105
+21/1, Orlando ,Dedmon,Collins,Bembry,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,14,32,122,103
+23/1,Chicago ,Collins,Len,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,15,32,121,101
+26/1,Portland ,Young,Collins,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,15,33,120,111
+28/1,LA ,Young,Dedmon,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,16,33,123,118
+30/1,Sacramento ,Young,Dedmon,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,16,34,135,113
+1/2,Utah ,Young,Bembry,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,16,35,128,112
+2/2,Phoenix ,Collins,Collins,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,17,35,118,112
+4/2,Washington ,Prince,Collins,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,18,35,137,129
+7/2, Toronto ,Young,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,18,36,119,101
+9/2, Charlotte ,Collins,Dedmon,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,18,37,129,120
+10/2, Orlando ,Len,Dedmon,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,18,38,124,108
+12/2, Los Angeles ,Collins,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,19,38,117,113
+14/2, New York ,Dedmon,Spellman,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,19,39,106,91
+22/2, Detroit ,Young,Dedmon,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,19,40,125,122
+23/2, Phoenix ,Bazemore,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,20,40,120,112
+25/2,Houston ,Young,Collins,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,20,41,119,111
+27/2, Minnesota ,Young,Bembry,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,21,41,131,123
+1/3, Chicago ,Young,Dedmon,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,21,42,168,161
+3/3,Chicago ,Len,Dedmon,Bembry,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,22,42,123,118
+4/3,Miami ,Carter,Bazemore,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,22,43,114,113
+6/3, San Antonio ,Young,Collins,Huerter,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,22,44,111,104
+9/3, Brooklyn ,Collins,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,22,45,114,112
+10/3, New Orleans ,Huerter,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,23,45,128,116
+13/3, Memphis ,Collins,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,24,45,132,111
+16/3,Boston ,Young,Dedmon,Collins,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,24,46,129,120
+17/3,Orlando ,Young,Dedmon,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,24,47,101,91
+19/3, Houston ,Young,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,24,48,121,105
+21/3, Utah ,Young,Dedmon,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,25,48,117,114
+23/3, Philadelphia ,Young,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,26,48,129,127
+26/3,New Orleans ,Young,Dedmon,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,27,48,130,120
+29/3, Portland ,Young,Young,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,27,49,118,98
+31/3, Milwaukee ,Anderson,Anderson,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,28,49,136,135
+2/4,San Antonio ,Bazemore,Davis,Adams,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,28,50,117,111
+3/4, Philadelphia ,Young,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,W,29,50,130,122
+5/4,Orlando ,Young,Bembry,Young,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,29,51,149,113
+7/4,Milwaukee ,Len,Carter,Huerter,H,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,29,52,115,107
+10/4, Indiana ,Young,Collins,Young,A,Atlanta Hawks 2018-19 Regular Season NBA Schedule,L,29,53,135,134

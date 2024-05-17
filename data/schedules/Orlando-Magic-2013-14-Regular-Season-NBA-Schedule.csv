@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+29/10,Indiana ,Nicholson,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,0,1,97,87
+30/10,Minnesota ,Afflalo,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,0,2,120,115
+1/11, New Orleans ,Afflalo,Harkless,Oladipo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,1,2,110,90
+3/11, Brooklyn ,Vucevic,Vucevic,Afflalo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,2,2,107,86
+6/11, LA ,Vucevic,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,3,2,98,90
+8/11, Boston ,Afflalo,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,3,3,91,89
+9/11,Atlanta ,Afflalo,Nicholson,Afflalo,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,3,4,104,94
+11/11,Boston ,Afflalo,Vucevic,Afflalo,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,3,5,120,105
+13/11, Milwaukee ,Afflalo,Vucevic,Afflalo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,4,5,94,91
+16/11, Dallas ,Afflalo,Vucevic,Oladipo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,4,6,108,100
+20/11, Miami ,Afflalo,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,4,7,120,92
+23/11,Miami ,Davis,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,4,8,101,99
+24/11, Phoenix ,Vucevic,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,4,9,104,96
+26/11,Atlanta ,Afflalo,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,W,5,9,109,92
+27/11, Philadelphia ,Vucevic,Vucevic,Vucevic,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,6,9,105,94
+29/11, San Antonio ,Afflalo,Davis,Price,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,6,10,109,91
+2/12,Washington ,Afflalo,Vucevic,Price,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,6,11,98,80
+3/12,Philadelphia ,Afflalo,Oladipo,Oladipo,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,6,12,126,125
+6/12,New York ,Afflalo,Oladipo,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,6,13,121,83
+8/12,Houston ,Davis,Afflalo,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,6,14,98,88
+9/12,Memphis ,Nicholson,Nicholson,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,6,15,94,85
+11/12,Charlotte ,Davis,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,W,7,15,92,83
+13/12, Cleveland ,Oladipo,Vucevic,Afflalo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,7,16,109,100
+15/12,Oklahoma City ,Afflalo,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,7,17,101,98
+16/12,Chicago ,Afflalo,Davis,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,W,8,17,83,82
+18/12, Utah ,Nelson,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,8,18,86,82
+21/12, Sacramento ,Afflalo,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,8,19,105,100
+23/12, New York ,Afflalo,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,8,20,103,98
+27/12, Detroit ,Afflalo,Vucevic,Oladipo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,9,20,109,92
+29/12, Atlanta ,Afflalo,Vucevic,Oladipo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,10,20,109,102
+31/12, Golden State ,Afflalo,Harris,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,10,21,94,81
+2/1,Cleveland ,Davis,Davis,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,10,22,87,81
+4/1, Miami ,Nelson,Harris,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,10,23,110,94
+6/1,LA ,Oladipo,Davis,Oladipo,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,10,24,101,81
+8/1,Portland ,Afflalo,Harris,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,10,25,110,94
+10/1,Sacramento ,Harris,Davis,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,10,26,103,83
+11/1,Denver ,Harris,Harris,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,10,27,120,94
+13/1,Dallas ,Nelson,Davis,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,10,28,107,88
+15/1, Chicago ,Oladipo,Harris,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,10,29,128,125
+17/1, Charlotte ,Afflalo,Davis,Oladipo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,10,30,111,101
+19/1, Boston ,Afflalo,Afflalo,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,11,30,93,91
+21/1,Brooklyn ,O'Quinn,O'Quinn,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,11,31,101,90
+22/1, Atlanta ,Oladipo,Harris,Oladipo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,11,32,112,109
+24/1, Los Angeles ,Harris,Harris,Afflalo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,12,32,114,105
+26/1,New Orleans ,Afflalo,Harris,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,12,33,100,92
+28/1,Detroit ,Oladipo,O'Quinn,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,12,34,103,87
+29/1,Toronto ,Vucevic,Harris,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,12,35,98,83
+31/1, Milwaukee ,Afflalo,O'Quinn,Oladipo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,13,35,113,102
+2/2,Boston ,Afflalo,Vucevic,Oladipo,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,13,36,96,89
+3/2,Indiana ,Afflalo,Vucevic,Oladipo,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,13,37,98,79
+5/2, Detroit ,Oladipo,Harkless,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,14,37,112,98
+7/2, Oklahoma City ,Harris,Vucevic,Afflalo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,15,37,103,102
+9/2, Indiana ,Oladipo,Vucevic,Oladipo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,16,37,93,92
+12/2, Memphis ,Vucevic,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,16,38,86,81
+18/2,Milwaukee ,Afflalo,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,16,39,104,100
+19/2,Cleveland ,Afflalo,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,16,40,101,93
+21/2, New York ,Afflalo,Vucevic,Oladipo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,17,40,129,121
+23/2,Toronto ,Harris,Harris,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,17,41,105,90
+25/2,Washington ,Oladipo,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,17,42,115,106
+26/2,Philadelphia ,Vucevic,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,W,18,42,101,90
+1/3,Miami ,Harris,O'Quinn,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,18,43,112,98
+2/3, Philadelphia ,Harris,Vucevic,Oladipo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,19,43,92,81
+5/3, Houston ,Afflalo,Vucevic,Price,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,19,44,101,89
+8/3,San Antonio ,Harris,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,19,45,121,112
+10/3,Milwaukee ,Harkless,Vucevic,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,19,46,105,98
+12/3, Denver ,Afflalo,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,19,47,120,112
+14/3, Washington ,Harris,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,19,48,105,101
+18/3,Golden State ,Vucevic,Harris,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,19,49,103,89
+19/3,Phoenix ,Harris,O'Quinn,Oladipo,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,19,50,109,93
+22/3,Utah ,Oladipo,Vucevic,Afflalo,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,19,51,89,88
+23/3,Los Angeles ,Oladipo,Vucevic,Oladipo,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,19,52,103,94
+25/3, Portland ,Harris,Harris,Oladipo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,20,52,95,85
+28/3, Charlotte ,Vucevic,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,21,52,110,105
+30/3, Toronto ,Vucevic,Vucevic,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,21,53,98,93
+2/4, Cleveland ,Oladipo,Harris,Afflalo,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,21,54,119,98
+4/4,Charlotte ,Oladipo,Harris,Nelson,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,21,55,91,80
+5/4, Minnesota ,Afflalo,O'Quinn,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,22,55,100,92
+9/4, Brooklyn ,Afflalo,Dedmon,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,W,23,55,115,111
+11/4, Washington ,Afflalo,Dedmon,Nelson,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,23,56,96,86
+13/4,Brooklyn ,Harris,Harris,Price,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,23,57,97,88
+14/4,Chicago ,O'Quinn,Dedmon,Price,H,Orlando Magic 2013-14 Regular Season NBA Schedule,L,23,58,108,95
+16/4, Indiana ,Harkless,Dedmon,Price,A,Orlando Magic 2013-14 Regular Season NBA Schedule,L,23,59,101,86

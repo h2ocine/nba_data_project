@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+28/10,Toronto ,Hill,George,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,0,1,106,99
+29/10, Memphis ,Hill,Mahinmi,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,0,2,112,103
+31/10, Utah ,Hill,Hill,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,0,3,97,76
+3/11,Detroit ,Stuckey,George,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,1,3,94,82
+4/11, Boston ,George,Allen,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,2,3,100,98
+6/11, Miami ,George,George,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,3,3,90,87
+8/11,Cleveland ,George,George,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,3,4,101,97
+9/11, Orlando ,George,Mahinmi,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,4,4,97,84
+11/11,Boston ,George,George,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,5,4,102,91
+13/11, Minnesota ,George,George,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,6,4,107,103
+16/11,Chicago ,George,Hill,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,6,5,96,95
+18/11,Philadelphia ,George,George,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,7,5,112,85
+21/11, Milwaukee ,Miles,Hill,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,8,5,123,86
+24/11,Washington ,George,Mahinmi,Hill,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,9,5,123,106
+27/11, Chicago ,George,Allen,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,10,5,104,92
+29/11,Los Angeles ,George,Mahinmi,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,11,5,107,103
+2/12,LA ,George,George,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,12,5,103,91
+3/12,Portland ,Miles,Mahinmi,Stuckey,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,12,6,123,111
+5/12,Utah ,George,George,Hill,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,12,7,122,119
+8/12, Golden State ,George,Hill,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,12,8,131,123
+11/12, Miami ,Ellis,Mahinmi,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,13,8,96,83
+12/12,Detroit ,Hill,Hill,Hill,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,13,9,118,96
+14/12, Toronto ,Hill,Hill,Allen,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,14,9,106,90
+16/12, Dallas ,Miles,Mahinmi,Stuckey,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,15,9,107,81
+18/12, Brooklyn ,George,Hill,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,16,9,104,97
+19/12,Memphis ,George,Hill,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,16,10,96,84
+21/12,San Antonio ,Stuckey,Mahinmi,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,16,11,106,92
+23/12, Sacramento ,Ellis,George,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,16,12,108,106
+26/12,Minnesota ,Ellis,Ellis,Stuckey,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,17,12,102,88
+28/12, Atlanta ,Ellis,Mahinmi,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,18,12,93,87
+30/12,Chicago ,Hill,Allen,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,18,13,102,100
+31/12, Milwaukee ,George,Turner,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,18,14,120,116
+2/1, Detroit ,George,George,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,19,14,94,82
+4/1,Miami ,George,Hill,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,19,15,103,100
+6/1,Orlando ,George,Mahinmi,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,20,15,95,86
+8/1,New Orleans ,Mahinmi,Mahinmi,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,21,15,91,86
+10/1,Houston ,George,Mahinmi,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,21,16,107,103
+12/1, Phoenix ,George,Miles,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,22,16,116,97
+13/1,Boston ,George,Mahinmi,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,22,17,103,94
+15/1, Washington ,George,Hill,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,22,18,118,104
+17/1,Denver ,Turner,Turner,Young,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,22,19,129,126
+19/1,Phoenix ,Ellis,George,Young,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,23,19,97,94
+22/1,Golden State ,Turner,Turner,Young,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,23,20,122,110
+23/1,Sacramento ,George,Hill,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,23,21,108,97
+26/1, LA ,George,George,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,23,22,91,89
+28/1, Atlanta ,Ellis,Allen,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,24,22,111,92
+30/1, Denver ,Ellis,Ellis,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,25,22,109,105
+1/2, Cleveland ,Hill,Turner,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,25,23,111,106
+3/2,Brooklyn ,Miles,Allen,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,26,23,114,100
+5/2,Atlanta ,George,Allen,Hill,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,26,24,102,96
+6/2, Detroit ,George,George,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,27,24,112,104
+8/2, Los Angeles ,George,Turner,Hill,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,28,24,89,87
+10/2, Charlotte ,George,George,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,28,25,117,95
+19/2,Oklahoma City ,Ellis,Mahinmi,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,29,25,101,98
+21/2,Orlando ,Ellis,Hill,Hill,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,30,25,105,102
+22/2,Miami ,George,George,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,30,26,101,93
+24/2, New York ,George,Ellis,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,31,26,108,105
+26/2, Charlotte ,George,Mahinmi,Hill,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,31,27,96,95
+28/2, Portland ,Ellis,Allen,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,31,28,111,102
+29/02,Cleveland ,Ellis,George,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,31,29,100,96
+2/3,Milwaukee ,Hill,George,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,32,29,104,99
+4/3,Charlotte ,George,Mahinmi,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,32,30,108,101
+5/3,Washington ,George,Hill,Hill,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,33,30,100,99
+7/3, San Antonio ,Ellis,Turner,Hill,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,34,30,99,91
+12/3,Dallas ,George,George,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,35,30,112,105
+13/3,Atlanta ,Turner,Mahinmi,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,35,31,104,75
+15/3, Boston ,George,George,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,36,31,103,98
+17/3, Toronto ,George,Turner,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,36,32,101,94
+19/3, Oklahoma City ,George,Turner,Hill,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,36,33,115,111
+21/3, Philadelphia ,George,Mahinmi,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,37,33,91,75
+24/3, New Orleans ,Turner,Turner,Hill,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,38,33,92,84
+26/3,Brooklyn ,George,Hill,Ellis,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,38,34,120,110
+27/3, Houston ,George,George,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,39,34,104,101
+29/3, Chicago ,George,George,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,39,35,98,96
+31/3, Orlando ,George,Allen,George,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,39,36,114,94
+2/4,Philadelphia ,Miles,Mahinmi,George,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,40,36,115,102
+3/4,New York ,George,George,Lawson,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,41,36,92,87
+6/4, Cleveland ,George,Mahinmi,Ellis,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,42,36,123,109
+8/4,Toronto ,Ellis,Allen,Lawson,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,L,42,37,111,98
+10/4, Brooklyn ,Turner,Hill,Lawson,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,43,37,129,105
+12/4, New York ,George,Hill,Lawson,A,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,44,37,102,90
+13/4,Milwaukee ,Hill,Hill,Young,H,Indiana Pacers 2015-16 Regular Season NBA Schedule,W,45,37,97,92

@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+19/10,Toronto ,Lopez,Lopez,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,0,1,117,100
+21/10, San Antonio ,Lopez,Markkanen,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,0,2,87,77
+24/10,Cleveland ,Holiday,Markkanen,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,0,3,119,112
+26/10, Atlanta ,Lopez,Markkanen,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,1,3,91,86
+28/10, Oklahoma City ,Markkanen,Valentine,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,1,4,101,69
+1/11,Miami ,Markkanen,Nwaba,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,1,5,97,91
+3/11,Orlando ,Holiday,Lopez,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,2,5,105,83
+4/11, New Orleans ,Holiday,Holiday,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,2,6,96,90
+7/11,Toronto ,Portis,Portis,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,2,7,119,114
+10/11, Indiana ,Portis,Portis,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,2,8,105,87
+11/11,San Antonio ,Portis,Portis,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,2,9,133,94
+15/11,Oklahoma City ,Markkanen,Portis,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,2,10,92,79
+17/11, Charlotte ,Holiday,Markkanen,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,3,10,123,120
+19/11,Phoenix ,Markkanen,Markkanen,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,3,11,113,105
+21/11,Los Angeles ,Valentine,Markkanen,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,3,12,103,94
+22/11,Utah ,Lopez,Dunn,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,3,13,110,80
+24/11,Golden State ,Grant,Portis,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,3,14,143,94
+26/11, Miami ,Grant,Valentine,Valentine,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,3,15,100,93
+28/11, Phoenix ,Holiday,Markkanen,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,3,16,104,99
+30/11,Denver ,Markkanen,Markkanen,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,3,17,111,110
+1/12, Sacramento ,Grant,Nwaba,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,3,18,107,106
+4/12, Cleveland ,Dunn,Portis,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,3,19,113,91
+6/12,Indiana ,Dunn,Valentine,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,3,20,98,96
+8/12,Charlotte ,Markkanen,Markkanen,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,4,20,119,111
+9/12, New York ,Mirotic,Markkanen,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,5,20,104,102
+11/12, Boston ,Mirotic,Mirotic,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,6,20,108,85
+13/12, Utah ,Mirotic,Mirotic,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,7,20,103,100
+15/12,Milwaukee ,Portis,Portis,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,8,20,115,109
+18/12, Philadelphia ,Mirotic,Mirotic,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,9,20,117,115
+20/12, Orlando ,Valentine,Valentine,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,10,20,112,94
+21/12,Cleveland ,Markkanen,Holiday,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,10,21,115,112
+23/12,Boston ,Portis,Mirotic,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,10,22,117,92
+26/12,Milwaukee ,Mirotic,Nwaba,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,11,22,115,106
+27/12, New York ,Dunn,Holiday,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,12,22,92,87
+29/12, Indiana ,Markkanen,Markkanen,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,13,22,119,107
+31/12,Washington ,Mirotic,Markkanen,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,13,23,114,110
+1/1, Portland ,Dunn,Mirotic,Valentine,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,13,24,124,120
+3/1, Toronto ,Holiday,Markkanen,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,13,25,124,115
+5/1,Dallas ,Dunn,Mirotic,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,14,25,127,124
+6/1,Indiana ,Portis,Markkanen,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,14,26,125,86
+8/1, Houston ,Portis,Valentine,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,14,27,116,107
+10/1,New York ,Markkanen,Markkanen,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,15,27,122,119
+13/1, Detroit ,Markkanen,Dunn,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,16,27,107,105
+15/1, Miami ,Holiday,Markkanen,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,17,27,119,111
+17/1, Golden State ,Mirotic,Markkanen,Valentine,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,17,28,119,112
+20/1,Atlanta ,Lopez,LaVine,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,18,28,113,97
+22/1,New Orleans ,Grant,Markkanen,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,18,29,132,128
+24/1,Philadelphia ,Portis,Portis,Nwaba,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,18,30,115,101
+26/1, Los Angeles ,Mirotic,Valentine,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,18,31,108,103
+28/1, Milwaukee ,Valentine,Markkanen,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,18,32,110,96
+31/1,Portland ,LaVine,Portis,Felicio,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,18,33,124,108
+3/2,LA ,LaVine,Portis,LaVine,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,18,34,113,103
+5/2,Sacramento ,LaVine,Portis,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,18,35,104,98
+9/2, Minnesota ,LaVine,Grant,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,19,35,114,113
+10/2, Washington ,Holiday,Markkanen,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,19,36,101,90
+12/2, Orlando ,Markkanen,Holiday,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,20,36,105,101
+14/2, Toronto ,Portis,Markkanen,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,20,37,122,98
+22/2, Philadelphia ,Portis,Nwaba,Payne,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,20,38,116,115
+24/2,Minnesota ,LaVine,Nwaba,LaVine,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,20,39,122,104
+26/2,Brooklyn ,Dunn,Valentine,Dunn,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,20,40,104,87
+27/2,Charlotte ,LaVine,Portis,Payne,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,20,41,118,103
+2/3, Dallas ,Portis,Markkanen,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,21,41,108,100
+5/3, Boston ,Valentine,Vonleh,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,21,42,105,89
+7/3, Memphis ,Markkanen,Portis,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,22,42,119,110
+9/3,Detroit ,Payne,Markkanen,Valentine,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,22,43,99,83
+11/3,Atlanta ,Portis,Portis,Valentine,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,23,43,129,122
+13/3, LA ,Portis,Portis,Dunn,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,23,44,112,106
+15/3,Memphis ,LaVine,Vonleh,Payne,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,24,44,111,110
+17/3, Cleveland ,Valentine,Portis,Payne,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,24,45,114,109
+19/3,New York ,Felicio,Vonleh,Payne,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,24,46,110,92
+21/3, Denver ,Felicio,Portis,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,24,47,135,102
+23/3, Milwaukee ,Valentine,Felicio,Payne,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,24,48,118,105
+24/3,Detroit ,Valentine,Felicio,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,24,49,117,95
+27/3,Houston ,Markkanen,Vonleh,Valentine,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,24,50,118,86
+29/3,Miami ,Nwaba,Portis,Payne,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,24,51,103,92
+30/3,Orlando ,Markkanen,Felicio,Payne,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,25,51,90,82
+1/4, Washington ,Markkanen,Felicio,Grant,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,26,51,113,94
+3/4, Charlotte ,Markkanen,Nwaba,Payne,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,W,27,51,120,114
+6/4,Boston ,Kilpatrick,Felicio,Grant,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,27,52,111,104
+7/4, Brooklyn ,Kilpatrick,Felicio,Payne,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,27,53,124,96
+9/4,Brooklyn ,Kilpatrick,Nwaba,Payne,H,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,27,54,114,105
+11/4, Detroit ,Markkanen,Markkanen,Payne,A,Chicago Bulls 2017-18 Regular Season NBA Schedule,L,27,55,119,87

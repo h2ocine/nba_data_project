@@ -1,0 +1,83 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+19/10,Phoenix ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,0,1,107,105
+22/10, Memphis ,Doncic,Wood,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,1,1,137,96
+25/10,New Orleans ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,1,2,113,111
+27/10,Brooklyn ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,2,2,129,125
+29/10, Oklahoma City ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,2,3,117,111
+30/10, Orlando ,Doncic,Wood,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,3,3,114,105
+2/11, Utah ,Doncic,Wood,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,4,3,103,100
+4/11, Toronto ,Doncic,Doncic,Dinwiddie,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,5,3,111,110
+7/11, Brooklyn ,Doncic,Powell,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,6,3,96,94
+9/11,Orlando ,Dinwiddie,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,6,4,94,87
+10/11,Washington ,Dinwiddie,Doncic,Dinwiddie,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,6,5,113,105
+12/11, Portland ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,7,5,117,112
+15/11, LA ,Doncic,Doncic,Dinwiddie,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,8,5,103,101
+16/11, Houston ,Hardaway,Wood,Dinwiddie,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,8,6,101,92
+18/11, Denver ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,9,6,127,99
+20/11, Denver ,Green,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,9,7,98,97
+23/11,Boston ,Doncic,Wood,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,9,8,125,112
+26/11,Toronto ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,9,9,105,100
+27/11,Milwaukee ,Doncic,Wood,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,9,10,124,115
+29/11, Golden State ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,10,10,116,113
+1/12,Detroit ,Doncic,Wood,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,10,11,131,125
+3/12,New York ,Doncic,Dinwiddie,Dinwiddie,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,11,11,121,100
+5/12, Phoenix ,Doncic,Wood,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,12,11,130,111
+6/12,Denver ,Hardaway,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,13,11,116,115
+9/12, Milwaukee ,Doncic,Wood,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,13,12,106,105
+10/12,Chicago ,Dinwiddie,Wood,Dinwiddie,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,13,13,144,115
+12/12, Oklahoma City ,Doncic,Doncic,Dinwiddie,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,14,13,121,114
+14/12, Cleveland ,Doncic,Wood,Dinwiddie,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,14,14,105,90
+16/12, Portland ,Doncic,Wood,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,15,14,130,110
+17/12,Cleveland ,Walker,Wood,Walker,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,15,15,100,99
+19/12,Minnesota ,Dinwiddie,Wood,Dinwiddie,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,15,16,116,106
+21/12,Minnesota ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,16,16,104,99
+23/12,Houston ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,17,16,112,106
+25/12, Los Angeles ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,18,16,124,115
+27/12, New York ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,19,16,126,121
+29/12, Houston ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,20,16,129,114
+31/12,San Antonio ,Doncic,Wood,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,21,16,126,125
+2/1,Houston ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,22,16,111,106
+5/1, Boston ,Doncic,Wood,Dinwiddie,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,22,17,124,95
+7/1, New Orleans ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,23,17,127,117
+8/1,Oklahoma City ,Wood,Wood,Dinwiddie,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,23,18,120,109
+10/1,LA ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,23,19,113,101
+12/1,Los Angeles ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,24,19,119,115
+14/1,Portland ,Dinwiddie,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,24,20,136,119
+15/1,Portland ,Dinwiddie,Wood,Dinwiddie,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,24,21,140,123
+18/1, Atlanta ,Doncic,Wood,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,24,22,130,122
+20/1, Miami ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,25,22,115,90
+22/1, LA ,Doncic,Doncic,Dinwiddie,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,25,23,112,98
+24/1, Washington ,Doncic,Doncic,Dinwiddie,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,25,24,127,126
+26/1,Phoenix ,Dinwiddie,Finney-Smith,Dinwiddie,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,26,24,99,95
+28/1,Utah ,Dinwiddie,Finney-Smith,Dinwiddie,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,26,25,108,100
+30/1, Detroit ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,27,25,111,105
+2/2, New Orleans ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,28,25,111,106
+4/2,Golden State ,Dinwiddie,Finney-Smith,Wright,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,28,26,119,113
+6/2,Utah ,Green,Powell,Hardy,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,29,26,124,111
+8/2,LA ,Irving,Powell,Hardaway,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,30,26,110,104
+10/2,Sacramento ,Irving,McGee,Irving,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,31,26,122,114
+11/2,Sacramento ,Irving,Doncic,Irving,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,31,27,133,128
+13/2, Minnesota ,Irving,Doncic,Irving,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,31,28,124,121
+15/2,Denver ,Doncic,Powell,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,31,29,118,109
+23/2, San Antonio ,Doncic,Powell,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,32,29,142,116
+26/2, Los Angeles ,Doncic,Irving,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,32,30,111,108
+28/2, Indiana ,Doncic,Doncic,Irving,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,32,31,124,122
+2/3, Philadelphia ,Doncic,Kleber,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,33,31,133,126
+5/3, Phoenix ,Doncic,Doncic,Irving,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,33,32,130,126
+7/3, Utah ,Irving,Doncic,Irving,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,34,32,120,116
+8/3,New Orleans ,Irving,Wood,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,34,33,113,106
+11/3,Memphis ,Hardaway,Green,Wright,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,34,34,112,108
+13/3, Memphis ,Hardy,Hardy,Green,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,34,35,104,88
+15/3,San Antonio ,Wood,Wood,Green,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,35,35,137,128
+17/3,Los Angeles ,Irving,Wood,Wood,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,36,35,111,110
+20/3,Memphis ,Irving,Wood,Wood,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,36,36,112,108
+22/3, Golden State ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,36,37,127,125
+24/3, Charlotte ,Doncic,Doncic,Doncic,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,36,38,117,109
+26/3,Charlotte ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,36,39,110,104
+27/3,Indiana ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,37,39,127,104
+29/3,Philadelphia ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,37,40,116,108
+1/4,Miami ,Doncic,Doncic,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,37,41,129,122
+2/4,Atlanta ,Irving,Wood,Doncic,H,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,37,42,132,130
+5/4, Sacramento ,Irving,Doncic,Irving,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,W,38,42,123,119
+7/4, Chicago ,Doncic,Pinson,Bullock,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,38,43,115,112
+9/4, San Antonio ,Hardy,Pinson,Pinson,A,Dallas Mavericks 2022-23 Regular Season NBA Schedule,L,38,44,138,117

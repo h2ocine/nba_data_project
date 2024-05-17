@@ -1,0 +1,67 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+23/10,Indiana ,Drummond,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,1,0,119,110
+24/10, Atlanta ,Rose,Drummond,Rose,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,1,1,117,100
+26/10, Philadelphia ,Rose,Drummond,Snell,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,1,2,117,111
+28/10, Indiana ,Wood,Drummond,Frazier,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,2,2,96,94
+30/10,Toronto ,Drummond,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,2,3,125,113
+1/11,Chicago ,Drummond,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,2,4,112,106
+2/11, Brooklyn ,Drummond,Drummond,Brown,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,3,4,113,109
+4/11,Washington ,Kennard,Drummond,Brown,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,3,5,115,99
+6/11, New York ,Drummond,Drummond,Drummond,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,4,5,122,102
+8/11,Indiana ,Kennard,Drummond,Drummond,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,4,6,112,106
+11/11, Minnesota ,Kennard,Drummond,Griffin,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,4,7,120,114
+12/11,Miami ,Kennard,Drummond,Brown,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,4,8,117,108
+15/11,Charlotte ,Galloway,Drummond,Brown,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,4,9,109,106
+20/11,Chicago ,Rose,Drummond,Brown,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,4,10,109,89
+22/11, Atlanta ,Griffin,Drummond,Kennard,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,5,10,128,103
+23/11,Milwaukee ,Rose,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,5,11,104,90
+25/11, Orlando ,Kennard,Drummond,Kennard,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,6,11,103,88
+27/11,Charlotte ,Griffin,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,6,12,102,101
+29/11, Charlotte ,Rose,Drummond,Brown,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,6,13,110,107
+1/12, San Antonio ,Wood,Drummond,Rose,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,7,13,132,98
+3/12,Cleveland ,Griffin,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,8,13,127,94
+4/12, Milwaukee ,Drummond,Drummond,Drummond,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,8,14,127,103
+6/12, Indiana ,Drummond,Drummond,Brown,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,9,14,108,101
+9/12,New Orleans ,Rose,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,10,14,105,103
+12/12, Dallas,Drummond,Drummond,Griffin,N,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,10,15,122,111
+14/12,Houston ,Kennard,Wood,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,11,15,115,107
+16/12, Washington ,Rose,Rose,Rose,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,11,16,133,119
+18/12, Toronto ,Drummond,Drummond,Rose,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,11,17,112,99
+20/12,Boston ,Maker,Drummond,Brown,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,11,18,114,93
+21/12, Chicago ,Morris,Drummond,Frazier,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,11,19,119,107
+23/12, Philadelphia ,Drummond,Drummond,Rose,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,11,20,125,109
+26/12, Washington ,Wood,Griffin,Frazier,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,12,20,132,102
+28/12,San Antonio ,Rose,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,12,21,136,109
+30/12,Utah ,Rose,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,12,22,104,81
+2/1,LA ,Brown,Drummond,Brown,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,12,23,126,112
+4/1,Golden State ,Rose,Drummond,Frazier,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,13,23,111,104
+5/1,Los Angeles ,Rose,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,13,24,106,99
+7/1,Cleveland ,Rose,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,14,24,115,113
+9/1, Cleveland ,Drummond,Drummond,Brown,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,14,25,115,112
+11/1, Chicago ,Rose,Wood,Rose,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,14,26,108,99
+13/1, New Orleans ,Rose,Drummond,Rose,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,14,27,117,110
+15/1,Boston ,Doumbouya,Drummond,Drummond,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,15,27,116,103
+18/1,Atlanta ,Rose,Drummond,Rose,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,16,27,136,103
+20/1,Washington ,Rose,Drummond,Brown,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,16,28,106,100
+22/1, Sacramento ,Wood,Morris,Rose,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,17,28,127,106
+24/1, Memphis ,Rose,Maker,Rose,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,17,29,125,112
+25/1, Brooklyn ,Rose,Drummond,Rose,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,17,30,121,111
+27/1, Cleveland ,Jackson,Drummond,Brown,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,17,31,115,100
+29/1,Brooklyn ,Jackson,Drummond,Jackson,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,17,32,125,115
+31/1, Toronto ,Rose,Drummond,Snell,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,17,33,105,92
+2/2, Denver ,Drummond,Drummond,Brown,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,18,33,128,123
+3/2,Memphis ,Drummond,Drummond,Drummond,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,18,34,96,82
+5/2, Phoenix ,Drummond,Drummond,Jackson,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,19,34,116,108
+7/2,Oklahoma City ,Jackson,Wood,Wood,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,19,35,108,101
+8/2, New York ,Jackson,Wood,Jackson,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,19,36,95,92
+10/2, Charlotte ,Maker,Maker,Brown,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,19,37,87,76
+12/2,Orlando ,Wood,Wood,Jackson,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,19,38,116,112
+20/2, Milwaukee ,Wood,Wood,Brown,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,19,39,126,106
+23/2,Portland ,Wood,Brown,Galloway,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,19,40,107,104
+25/2,Denver ,Wood,Wood,Snell,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,19,41,115,98
+28/2,Phoenix ,Rose,Wood,Wood,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,W,20,41,113,111
+1/3,Sacramento ,Wood,Wood,Knight,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,20,42,106,100
+4/3, Oklahoma City ,Wood,Wood,Knight,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,20,43,114,107
+7/3, Utah ,Wood,Wood,Brown,A,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,20,44,111,105
+8/3,New York ,Wood,Wood,Brown,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,20,45,96,84
+11/3,Philadelphia ,Wood,Wood,Knight,H,Detroit Pistons 2019-20 Regular Season NBA Schedule,L,20,46,124,106

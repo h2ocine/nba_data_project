@@ -1,0 +1,73 @@
+DATE,OPPONENT,Hi Points,Hi Rebounds,Hi Assists,Home_Away,Title,WorL,WIN,LOSE,PTS,PTSO
+22/10, Los Angeles ,Leonard,Beverley,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,1,0,112,102
+24/10,Golden State ,Williams,Zubac,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,2,0,141,122
+26/10,Phoenix ,Harrell,Leonard,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,2,1,130,122
+28/10, Charlotte ,Leonard,Leonard,Leonard,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,3,1,111,96
+30/10,Utah ,Williams,Green,Mann,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,3,2,110,96
+31/10, San Antonio ,Leonard,Leonard,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,4,2,103,97
+3/11, Utah ,Leonard,Zubac,Leonard,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,5,2,105,94
+6/11, Milwaukee ,Harrell,Harrell,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,L,5,3,129,124
+7/11, Portland ,Leonard,Leonard,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,6,3,107,101
+11/11, Toronto ,Williams,Green,Leonard,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,7,3,98,88
+13/11,Houston ,Leonard,Green,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,7,4,102,93
+14/11,New Orleans ,George,George,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,7,5,132,127
+16/11, Atlanta ,George,Zubac,Mann,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,8,5,150,101
+18/11, Oklahoma City ,Harrell,Harrell,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,9,5,90,88
+20/11, Boston ,Williams,Beverley,George,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,10,5,107,104
+22/11, Houston ,Williams,Green,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,11,5,122,119
+24/11, New Orleans ,Harrell,Harrell,Leonard,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,12,5,134,109
+26/11,Dallas ,Leonard,Leonard,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,13,5,114,99
+27/11,Memphis ,Harrell,Harrell,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,14,5,121,119
+29/11,San Antonio ,Leonard,Green,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,14,6,107,97
+1/12, Washington ,Leonard,Harrell,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,15,6,150,125
+3/12, Portland ,Harrell,Harrell,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,16,6,117,97
+6/12,Milwaukee ,Leonard,Zubac,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,16,7,119,91
+8/12,Washington ,Leonard,Leonard,George,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,17,7,135,119
+9/12,Indiana ,George,Harkless,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,18,7,110,99
+11/12,Toronto ,Leonard,Zubac,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,19,7,112,92
+13/12,Minnesota ,George,Leonard,George,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,20,7,124,117
+14/12,Chicago ,Harrell,Harrell,George,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,20,8,109,106
+17/12, Phoenix ,George,McGruder,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,21,8,120,99
+19/12, Houston ,George,George,Beverley,A,LA Clippers 2019-20 Regular Season NBA Schedule,L,21,9,122,117
+21/12,San Antonio ,Leonard,Harrell,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,22,9,134,109
+22/12,Oklahoma City ,Williams,Harrell,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,22,10,118,112
+25/12,Los Angeles ,Leonard,Leonard,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,23,10,111,106
+28/12, Utah ,George,Zubac,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,L,23,11,120,107
+31/12,Sacramento ,Leonard,Zubac,George,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,24,11,105,87
+2/1, Detroit ,Harrell,Green,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,25,11,126,112
+4/1, Memphis ,Harrell,Zubac,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,L,25,12,140,114
+5/1, New York ,Harrell,Green,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,26,12,135,132
+10/1, Golden State ,Leonard,Beverley,Beverley,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,27,12,109,100
+12/1,Denver ,Leonard,Zubac,Beverley,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,27,13,114,104
+14/1, Cleveland ,Leonard,Harkless,Beverley,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,28,13,128,103
+16/1, Orlando ,Leonard,Green,Beverley,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,29,13,122,95
+18/1,New Orleans ,Leonard,Leonard,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,30,13,133,130
+21/1,Dallas ,Leonard,Leonard,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,31,13,110,107
+22/1,Atlanta ,Harrell,Harrell,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,31,14,102,95
+24/1,Miami ,Leonard,Harrell,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,32,14,122,117
+26/1,Orlando ,Leonard,Leonard,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,33,14,112,97
+30/1, Sacramento ,Williams,Zubac,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,L,33,15,124,103
+1/2, Minnesota ,Leonard,Zubac,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,34,15,118,106
+3/2, San Antonio ,Leonard,George,George,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,35,15,108,105
+5/2, Miami ,George,Zubac,George,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,36,15,128,111
+8/2,Minnesota ,Leonard,Zubac,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,36,16,142,115
+9/2,Cleveland ,Williams,Harrell,George,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,37,16,133,92
+11/2,Philadelphia ,Leonard,George,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,37,17,110,103
+13/2,Boston ,Williams,Harrell,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,37,18,141,133
+22/2, Sacramento ,Leonard,Zubac,Leonard,A,LA Clippers 2019-20 Regular Season NBA Schedule,L,37,19,112,103
+24/2, Memphis ,Leonard,Zubac,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,38,19,124,97
+26/2,Phoenix ,Leonard,Leonard,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,39,19,102,92
+28/2, Denver ,George,Harrell,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,40,19,132,103
+1/3, Philadelphia ,Leonard,Harrell,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,41,19,136,130
+3/3,Oklahoma City ,Leonard,Leonard,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,42,19,109,94
+5/3,Houston ,Leonard,Zubac,George,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,43,19,120,105
+8/3, Los Angeles ,George,Harrell,George,A,LA Clippers 2019-20 Regular Season NBA Schedule,L,43,20,112,103
+10/3,Golden State ,Leonard,Zubac,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,44,20,131,107
+30/7,Los Angeles ,George,Jackson,Leonard,H,LA Clippers 2019-20 Regular Season NBA Schedule,L,44,21,103,101
+1/8, New Orleans ,George,Zubac,Leonard,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,45,21,126,103
+4/8, Phoenix ,Leonard,Zubac,Williams,A,LA Clippers 2019-20 Regular Season NBA Schedule,L,45,22,117,115
+6/8,Dallas ,Leonard,Zubac,George,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,46,22,126,111
+8/8,Portland ,George,Zubac,Jackson,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,47,22,122,117
+9/8, Brooklyn ,Leonard,Zubac,Leonard,A,LA Clippers 2019-20 Regular Season NBA Schedule,L,47,23,129,120
+12/8,Denver ,George,Zubac,Williams,H,LA Clippers 2019-20 Regular Season NBA Schedule,W,48,23,124,111
+14/8, Oklahoma City ,Mann,Mann,Mann,A,LA Clippers 2019-20 Regular Season NBA Schedule,W,49,23,107,103
