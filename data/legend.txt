@@ -1,0 +1,66 @@
+Players stats:
+GP (Games) : Le nombre de matchs joués.
+MIN (Minutes) : Le nombre total de minutes jouées.
+PTS (Points) : Le nombre total de points marqués.
+FGM (Field Goals Made) : Le nombre de paniers marqués.
+FGA (Field Goals Attempted) : Le nombre de tentatives de panier.
+FG% (Field Goal Percentage) : Le pourcentage de réussite aux tirs.
+3PM (Three-Point Field Goals Made) : Le nombre de paniers à 3 points marqués.
+3PA (Three-Point Field Goals Attempted) : Le nombre de tentatives de tirs à 3 points.
+3P% (Three-Point Field Goal Percentage) : Le pourcentage de réussite aux tirs à 3 points.
+FTM (Free Throws Made) : Le nombre de lancers francs marqués.
+FTA (Free Throws Attempted) : Le nombre de tentatives de lancers francs.
+FT% (Free Throw Percentage) : Le pourcentage de réussite aux lancers francs.
+ORB (Offensive Rebounds) : Le nombre de rebonds offensifs.
+DRB (Defensive Rebounds) : Le nombre de rebonds défensifs.
+REB (Total Rebounds) : Le nombre total de rebonds.
+AST (Assists) : Le nombre de passes décisives.
+STL (Steals) : Le nombre d'interceptions.
+BLK (Blocks) : Le nombre de contres.
+TOV (Turnovers) : Le nombre de ballons perdus.
+PF (Personal Fouls) : Le nombre de fautes personnelles.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Standings :
+W (Wins) : Victoires 
+L (Losses) : Défaites 
+PCT (Winning Percentage) : Pourcentage de victoires 
+GB (Games Record) : Retard au classement  - Nombre de matchs de retard par rapport au leader du classement
+HOME (Home Record) : Matchs à domicile 
+AWAY (Division Record) : Matchs à l'extérieur 
+DIV (Division Games) : Matchs dans la division (bilan de l'équipe dans sa division)
+CONF (Conference Record) : Matchs dans la conférence (bilan de l'équipe dans sa conférence)
+PPG (Points Per Game) : Points marqués par match 
+OPP PPG (Opponents Points Per Game) : Points encaissés par match 
+DIFF (Average Point Differential) : Différence de points  - Différence entre les points marqués et les points encaissés
+STRK (Current Streak) : Série de victoires ou de défaites  - Nombre de victoires ou de défaites consécutives
+L10 (Last 10 Games) : Bilan sur les 10 derniers matchs 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Teams Stats :
+GP (Games Played) : Matchs Joués
+PTS (Points Per Game) : Points Marqués par Match
+FGM (Average Field Goals Made) : Tirs Réussis en Moyenne
+FGA (Average Field Goals Attempted) : Tirs Tentés en Moyenne
+FG% (Field Goal Percentage) : Pourcentage de Réussite aux Tirs
+3PM (Average 3-Point Field Goals Made) : Paniers à 3 Points Réussis en Moyenne
+3PA (Average 3-Point Field Goals Attempted) : Tirs à 3 Points Tentés en Moyenne
+3P% (3-Point Field Goal Percentage) : Pourcentage de Réussite aux Tirs à 3 Points
+FTM (Average Free Throws Made) : Lancers Francs Réussis en Moyenne
+FTA (Average Free Throws Attempted) : Lancers Francs Tentés en Moyenne
+FT% (Free Throw Percentage) : Pourcentage de Réussite aux Lancers Francs
+OR (Offensive Rebounds Per Game) : Rebonds Offensifs par Match
+DR (Defensive Rebounds Per Game) : Rebonds Défensifs par Match
+REB (Rebounds Per Game) : Rebonds par Match
+AST (Assists Per Game) : Passes Décisives par Match
+STL (Steals Per Game) : Interceptions par Match
+BLK (Blocks Per Game) : Contres par Match
+TO (Turnovers Per Game) : Pertes de Balle par Match
+PF (Fouls Per Game) : Fautes par Match
+
+
+
+
+
+
+
