@@ -1,31 +1,31 @@
 Team Name,W,L,PCT,GB,PPG,OPP PPG,DIFF,STRK,Title,HOME-W,HOME-L,AWAY-W,AWAY-L,DIV-W,DIV-L,CONF-W,CONF-L,Last10-W,Last10-L
-PHXPhoenix Suns,62,20,0.756,0.0,110.4,103.3,7.1,L1,NBA Standings Regular Season 2004-05,31,10,31,10,12,4,38,14,7,3
-MIAMiami Heat,59,23,0.72,3.0,101.5,95.0,6.5,W3,NBA Standings Regular Season 2004-05,35,6,24,17,15,1,41,11,5,5
-SASan Antonio Spurs,59,23,0.72,3.0,96.2,88.4,7.8,L2,NBA Standings Regular Season 2004-05,38,3,21,20,10,6,36,16,6,4
-DALDallas Mavericks,58,24,0.707,4.0,102.5,96.8,5.7,W9,NBA Standings Regular Season 2004-05,29,12,29,12,11,5,35,17,9,1
-DETDetroit Pistons,54,28,0.659,8.0,93.3,89.5,3.8,L1,NBA Standings Regular Season 2004-05,32,9,22,19,8,8,35,17,9,1
-SEASeattle SuperSonics,52,30,0.634,10.0,98.9,96.6,2.3,L2,NBA Standings Regular Season 2004-05,26,15,26,15,11,5,31,21,2,8
-HOUHouston Rockets,51,31,0.622,11.0,95.1,91.0,4.1,W7,NBA Standings Regular Season 2004-05,26,15,25,16,10,6,33,19,7,3
-SACSacramento Kings,50,32,0.61,12.0,103.7,101.6,2.1,W1,NBA Standings Regular Season 2004-05,30,11,20,21,10,6,28,24,6,4
-DENDenver Nuggets,49,33,0.598,13.0,99.5,97.5,2.0,W1,NBA Standings Regular Season 2004-05,31,10,18,23,9,7,28,24,8,2
-CHIChicago Bulls,47,35,0.573,15.0,94.5,93.4,1.1,L1,NBA Standings Regular Season 2004-05,27,14,20,21,8,8,32,20,6,4
-BOSBoston Celtics,45,37,0.549,17.0,101.3,100.4,0.9,L2,NBA Standings Regular Season 2004-05,27,14,18,23,8,8,30,22,6,4
-WSHWashington Wizards,45,37,0.549,17.0,100.5,100.8,-0.3,L2,NBA Standings Regular Season 2004-05,29,12,16,25,10,6,28,24,4,6
-MEMMemphis Grizzlies,45,37,0.549,17.0,93.4,91.1,2.3,L1,NBA Standings Regular Season 2004-05,26,15,19,22,7,9,27,25,4,6
-INDIndiana Pacers,44,38,0.537,18.0,93.0,92.2,0.8,W1,NBA Standings Regular Season 2004-05,25,16,19,22,9,7,29,23,6,4
+Phoenix Suns,62,20,0.756,0.0,110.4,103.3,7.1,L1,NBA Standings Regular Season 2004-05,31,10,31,10,12,4,38,14,7,3
+Miami Heat,59,23,0.72,3.0,101.5,95.0,6.5,W3,NBA Standings Regular Season 2004-05,35,6,24,17,15,1,41,11,5,5
+San Antonio Spurs,59,23,0.72,3.0,96.2,88.4,7.8,L2,NBA Standings Regular Season 2004-05,38,3,21,20,10,6,36,16,6,4
+Dallas Mavericks,58,24,0.707,4.0,102.5,96.8,5.7,W9,NBA Standings Regular Season 2004-05,29,12,29,12,11,5,35,17,9,1
+Detroit Pistons,54,28,0.659,8.0,93.3,89.5,3.8,L1,NBA Standings Regular Season 2004-05,32,9,22,19,8,8,35,17,9,1
+Seattle SuperSonics,52,30,0.634,10.0,98.9,96.6,2.3,L2,NBA Standings Regular Season 2004-05,26,15,26,15,11,5,31,21,2,8
+Houston Rockets,51,31,0.622,11.0,95.1,91.0,4.1,W7,NBA Standings Regular Season 2004-05,26,15,25,16,10,6,33,19,7,3
+Sacramento Kings,50,32,0.61,12.0,103.7,101.6,2.1,W1,NBA Standings Regular Season 2004-05,30,11,20,21,10,6,28,24,6,4
+Denver Nuggets,49,33,0.598,13.0,99.5,97.5,2.0,W1,NBA Standings Regular Season 2004-05,31,10,18,23,9,7,28,24,8,2
+Chicago Bulls,47,35,0.573,15.0,94.5,93.4,1.1,L1,NBA Standings Regular Season 2004-05,27,14,20,21,8,8,32,20,6,4
+Boston Celtics,45,37,0.549,17.0,101.3,100.4,0.9,L2,NBA Standings Regular Season 2004-05,27,14,18,23,8,8,30,22,6,4
+Washington Wizards,45,37,0.549,17.0,100.5,100.8,-0.3,L2,NBA Standings Regular Season 2004-05,29,12,16,25,10,6,28,24,4,6
+Memphis Grizzlies,45,37,0.549,17.0,93.4,91.1,2.3,L1,NBA Standings Regular Season 2004-05,26,15,19,22,7,9,27,25,4,6
+Indiana Pacers,44,38,0.537,18.0,93.0,92.2,0.8,W1,NBA Standings Regular Season 2004-05,25,16,19,22,9,7,29,23,6,4
 Minnesota Timberwolves,44,38,0.537,18.0,96.8,95.3,1.5,W2,NBA Standings Regular Season 2004-05,24,17,20,21,10,6,30,22,6,4
-PHIPhiladelphia 76ers,43,39,0.524,19.0,99.1,99.9,-0.8,W2,NBA Standings Regular Season 2004-05,25,16,18,23,8,8,33,19,8,2
-NJNew Jersey Nets,42,40,0.512,20.0,91.4,92.9,-1.5,W4,NBA Standings Regular Season 2004-05,24,17,18,23,11,5,31,21,8,2
+Philadelphia 76ers,43,39,0.524,19.0,99.1,99.9,-0.8,W2,NBA Standings Regular Season 2004-05,25,16,18,23,8,8,33,19,8,2
+New Jersey Nets,42,40,0.512,20.0,91.4,92.9,-1.5,W4,NBA Standings Regular Season 2004-05,24,17,18,23,11,5,31,21,8,2
 Cleveland Cavaliers,42,40,0.512,20.0,96.5,95.7,0.8,W2,NBA Standings Regular Season 2004-05,29,12,13,28,7,9,26,26,4,6
 LA Clippers,37,45,0.451,25.0,95.7,96.5,-0.8,W1,NBA Standings Regular Season 2004-05,27,14,10,31,6,10,20,32,5,5
 Orlando Magic,36,46,0.439,26.0,99.5,101.8,-2.3,L1,NBA Standings Regular Season 2004-05,24,17,12,29,6,10,21,31,2,8
 Los Angeles Lakers,34,48,0.415,28.0,98.7,101.7,-3.0,L6,NBA Standings Regular Season 2004-05,22,19,12,29,6,10,21,31,1,9
-olden State Warriors,34,48,0.415,28.0,98.7,100.9,-2.2,W3,NBA Standings Regular Season 2004-05,20,21,14,27,6,10,20,32,7,3
+Golden State Warriors,34,48,0.415,28.0,98.7,100.9,-2.2,W3,NBA Standings Regular Season 2004-05,20,21,14,27,6,10,20,32,7,3
 Toronto Raptors,33,49,0.402,29.0,99.7,101.4,-1.7,L1,NBA Standings Regular Season 2004-05,22,19,11,30,7,9,20,32,3,7
-ew York Knicks,33,49,0.402,29.0,97.3,99.7,-2.4,W1,NBA Standings Regular Season 2004-05,22,19,11,30,6,10,21,31,4,6
+New York Knicks,33,49,0.402,29.0,97.3,99.7,-2.4,W1,NBA Standings Regular Season 2004-05,22,19,11,30,6,10,21,31,4,6
 Milwaukee Bucks,30,52,0.366,32.0,97.2,100.2,-3.0,L2,NBA Standings Regular Season 2004-05,23,18,7,34,8,8,24,28,3,7
 Portland Trail Blazers,27,55,0.329,35.0,92.9,96.9,-4.0,W1,NBA Standings Regular Season 2004-05,18,23,9,32,4,12,13,39,3,7
-HUtah Jazz,26,56,0.317,36.0,93.0,97.3,-4.3,L1,NBA Standings Regular Season 2004-05,18,23,8,33,6,10,20,32,4,6
+Utah Jazz,26,56,0.317,36.0,93.0,97.3,-4.3,L1,NBA Standings Regular Season 2004-05,18,23,8,33,6,10,20,32,4,6
 Charlotte Bobcats,18,64,0.22,44.0,94.3,100.2,-5.9,W1,NBA Standings Regular Season 2004-05,14,27,4,37,7,9,11,41,3,7
-ew Orleans Hornets,18,64,0.22,44.0,88.4,95.5,-7.1,L9,NBA Standings Regular Season 2004-05,11,30,7,34,2,14,10,42,1,9
+New Orleans Hornets,18,64,0.22,44.0,88.4,95.5,-7.1,L9,NBA Standings Regular Season 2004-05,11,30,7,34,2,14,10,42,1,9
 Atlanta Hawks,13,69,0.159,49.0,92.7,102.5,-9.8,L2,NBA Standings Regular Season 2004-05,9,32,4,37,2,14,8,44,2,8
