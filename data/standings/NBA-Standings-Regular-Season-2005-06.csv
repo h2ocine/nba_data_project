@@ -1,31 +1,31 @@
-Team Name,W,L,PCT,GB,PPG,OPP PPG,DIFF,STRK,Title,HOME-W,HOME-L,AWAY-W,AWAY-L,DIV-W,DIV-L,CONF-W,CONF-L,Last10-W,Last10-L
-Detroit Pistons,64,18,0.78,0.0,96.8,90.2,6.6,L2,NBA Standings Regular Season 2005-06,37,4,27,14,13,3,39,13,6,4
-San Antonio Spurs,63,19,0.768,1.0,95.6,88.8,6.8,W3,NBA Standings Regular Season 2005-06,34,7,29,12,13,3,42,10,7,3
-Dallas Mavericks,60,22,0.732,4.0,99.1,93.1,6.0,L1,NBA Standings Regular Season 2005-06,34,7,26,15,13,3,37,15,6,4
-Phoenix Suns,54,28,0.659,10.0,108.4,102.8,5.6,W2,NBA Standings Regular Season 2005-06,31,10,23,18,10,6,32,20,5,5
-Miami Heat,52,30,0.634,12.0,99.9,96.0,3.9,L3,NBA Standings Regular Season 2005-06,31,10,21,20,13,3,35,17,4,6
-Cleveland Cavaliers,50,32,0.61,14.0,97.6,95.4,2.2,W2,NBA Standings Regular Season 2005-06,31,10,19,22,11,5,34,18,7,3
-New Jersey Nets,49,33,0.598,15.0,93.8,92.4,1.4,L2,NBA Standings Regular Season 2005-06,29,12,20,21,10,6,33,19,5,5
-Memphis Grizzlies,49,33,0.598,15.0,92.2,88.5,3.7,W5,NBA Standings Regular Season 2005-06,30,11,19,22,6,10,31,21,8,2
-LA Clippers,47,35,0.573,17.0,97.2,95.6,1.6,W1,NBA Standings Regular Season 2005-06,27,14,20,21,7,9,27,25,5,5
-Los Angeles Lakers,45,37,0.549,19.0,99.4,96.9,2.5,W5,NBA Standings Regular Season 2005-06,27,14,18,23,9,7,27,25,7,3
-Denver Nuggets,44,38,0.537,20.0,100.3,100.1,0.2,L4,NBA Standings Regular Season 2005-06,26,15,18,23,10,6,25,27,4,6
-Sacramento Kings,44,38,0.537,20.0,98.9,97.3,1.6,W3,NBA Standings Regular Season 2005-06,27,14,17,24,10,6,30,22,8,2
-Washington Wizards,42,40,0.512,22.0,101.7,99.8,1.9,W3,NBA Standings Regular Season 2005-06,27,14,15,26,8,8,29,23,5,5
-Indiana Pacers,41,41,0.5,23.0,93.9,92.0,1.9,W2,NBA Standings Regular Season 2005-06,27,14,14,27,6,10,24,28,6,4
-Chicago Bulls,41,41,0.5,23.0,97.8,97.2,0.6,W6,NBA Standings Regular Season 2005-06,21,20,20,21,4,12,30,22,9,1
-Utah Jazz,41,41,0.5,23.0,92.4,95.0,-2.6,W1,NBA Standings Regular Season 2005-06,22,19,19,22,11,5,26,26,7,3
-Milwaukee Bucks,40,42,0.488,24.0,97.8,98.8,-1.0,L1,NBA Standings Regular Season 2005-06,25,16,15,26,6,10,29,23,4,6
-Philadelphia 76ers,38,44,0.463,26.0,99.4,101.3,-1.9,L1,NBA Standings Regular Season 2005-06,23,18,15,26,10,6,22,30,4,6
-Oklahoma City Hornets,38,44,0.463,26.0,92.8,95.6,-2.8,L4,NBA Standings Regular Season 2005-06,24,17,14,27,7,9,25,27,3,7
-Orlando Magic,36,46,0.439,28.0,94.9,96.0,-1.1,L2,NBA Standings Regular Season 2005-06,26,15,10,31,9,7,24,28,8,2
-Seattle SuperSonics,35,47,0.427,29.0,102.6,105.6,-3.0,W1,NBA Standings Regular Season 2005-06,22,19,13,28,10,6,20,32,6,4
-Houston Rockets,34,48,0.415,30.0,90.1,91.7,-1.6,L1,NBA Standings Regular Season 2005-06,15,26,19,22,1,15,19,33,2,8
-Golden State Warriors,34,48,0.415,30.0,98.5,99.8,-1.3,L1,NBA Standings Regular Season 2005-06,21,20,13,28,4,12,19,33,4,6
-Boston Celtics,33,49,0.402,31.0,98.0,99.5,-1.5,W1,NBA Standings Regular Season 2005-06,21,20,12,29,10,6,19,33,3,7
-Minnesota Timberwolves,33,49,0.402,31.0,91.7,93.6,-1.9,L3,NBA Standings Regular Season 2005-06,24,17,9,32,6,10,20,32,3,7
-Toronto Raptors,27,55,0.329,37.0,101.1,104.0,-2.9,L2,NBA Standings Regular Season 2005-06,15,26,12,29,6,10,20,32,1,9
-Charlotte Bobcats,26,56,0.317,38.0,96.9,100.9,-4.0,W4,NBA Standings Regular Season 2005-06,17,24,9,32,5,11,18,34,6,4
-Atlanta Hawks,26,56,0.317,38.0,97.2,102.0,-4.8,L1,NBA Standings Regular Season 2005-06,18,23,8,33,5,11,19,33,4,6
-New York Knicks,23,59,0.28,41.0,95.6,102.0,-6.4,W1,NBA Standings Regular Season 2005-06,15,26,8,33,4,12,15,37,4,6
-Portland Trail Blazers,21,61,0.256,43.0,88.8,98.3,-9.5,L8,NBA Standings Regular Season 2005-06,15,26,6,35,3,13,10,42,1,9
+Rank,Team Name,W,L,PCT,GB,PPG,OPP PPG,DIFF,STRK,Title,HOME-W,HOME-L,AWAY-W,AWAY-L,DIV-W,DIV-L,CONF-W,CONF-L,Last10-W,Last10-L
+1,Detroit Pistons,64,18,0.78,0.0,96.8,90.2,6.6,L2,NBA Standings Regular Season 2005-06,37,4,27,14,13,3,39,13,6,4
+2,San Antonio Spurs,63,19,0.768,1.0,95.6,88.8,6.8,W3,NBA Standings Regular Season 2005-06,34,7,29,12,13,3,42,10,7,3
+3,Dallas Mavericks,60,22,0.732,4.0,99.1,93.1,6.0,L1,NBA Standings Regular Season 2005-06,34,7,26,15,13,3,37,15,6,4
+4,Phoenix Suns,54,28,0.659,10.0,108.4,102.8,5.6,W2,NBA Standings Regular Season 2005-06,31,10,23,18,10,6,32,20,5,5
+5,Miami Heat,52,30,0.634,12.0,99.9,96.0,3.9,L3,NBA Standings Regular Season 2005-06,31,10,21,20,13,3,35,17,4,6
+6,Cleveland Cavaliers,50,32,0.61,14.0,97.6,95.4,2.2,W2,NBA Standings Regular Season 2005-06,31,10,19,22,11,5,34,18,7,3
+7,New Jersey Nets,49,33,0.598,15.0,93.8,92.4,1.4,L2,NBA Standings Regular Season 2005-06,29,12,20,21,10,6,33,19,5,5
+8,Memphis Grizzlies,49,33,0.598,15.0,92.2,88.5,3.7,W5,NBA Standings Regular Season 2005-06,30,11,19,22,6,10,31,21,8,2
+9,LA Clippers,47,35,0.573,17.0,97.2,95.6,1.6,W1,NBA Standings Regular Season 2005-06,27,14,20,21,7,9,27,25,5,5
+10,Los Angeles Lakers,45,37,0.549,19.0,99.4,96.9,2.5,W5,NBA Standings Regular Season 2005-06,27,14,18,23,9,7,27,25,7,3
+11,Denver Nuggets,44,38,0.537,20.0,100.3,100.1,0.2,L4,NBA Standings Regular Season 2005-06,26,15,18,23,10,6,25,27,4,6
+12,Sacramento Kings,44,38,0.537,20.0,98.9,97.3,1.6,W3,NBA Standings Regular Season 2005-06,27,14,17,24,10,6,30,22,8,2
+13,Washington Wizards,42,40,0.512,22.0,101.7,99.8,1.9,W3,NBA Standings Regular Season 2005-06,27,14,15,26,8,8,29,23,5,5
+14,Indiana Pacers,41,41,0.5,23.0,93.9,92.0,1.9,W2,NBA Standings Regular Season 2005-06,27,14,14,27,6,10,24,28,6,4
+15,Chicago Bulls,41,41,0.5,23.0,97.8,97.2,0.6,W6,NBA Standings Regular Season 2005-06,21,20,20,21,4,12,30,22,9,1
+16,Utah Jazz,41,41,0.5,23.0,92.4,95.0,-2.6,W1,NBA Standings Regular Season 2005-06,22,19,19,22,11,5,26,26,7,3
+17,Milwaukee Bucks,40,42,0.488,24.0,97.8,98.8,-1.0,L1,NBA Standings Regular Season 2005-06,25,16,15,26,6,10,29,23,4,6
+18,Philadelphia 76ers,38,44,0.463,26.0,99.4,101.3,-1.9,L1,NBA Standings Regular Season 2005-06,23,18,15,26,10,6,22,30,4,6
+19,Oklahoma City Hornets,38,44,0.463,26.0,92.8,95.6,-2.8,L4,NBA Standings Regular Season 2005-06,24,17,14,27,7,9,25,27,3,7
+20,Orlando Magic,36,46,0.439,28.0,94.9,96.0,-1.1,L2,NBA Standings Regular Season 2005-06,26,15,10,31,9,7,24,28,8,2
+21,Seattle SuperSonics,35,47,0.427,29.0,102.6,105.6,-3.0,W1,NBA Standings Regular Season 2005-06,22,19,13,28,10,6,20,32,6,4
+22,Houston Rockets,34,48,0.415,30.0,90.1,91.7,-1.6,L1,NBA Standings Regular Season 2005-06,15,26,19,22,1,15,19,33,2,8
+23,Golden State Warriors,34,48,0.415,30.0,98.5,99.8,-1.3,L1,NBA Standings Regular Season 2005-06,21,20,13,28,4,12,19,33,4,6
+24,Boston Celtics,33,49,0.402,31.0,98.0,99.5,-1.5,W1,NBA Standings Regular Season 2005-06,21,20,12,29,10,6,19,33,3,7
+25,Minnesota Timberwolves,33,49,0.402,31.0,91.7,93.6,-1.9,L3,NBA Standings Regular Season 2005-06,24,17,9,32,6,10,20,32,3,7
+26,Toronto Raptors,27,55,0.329,37.0,101.1,104.0,-2.9,L2,NBA Standings Regular Season 2005-06,15,26,12,29,6,10,20,32,1,9
+27,Charlotte Bobcats,26,56,0.317,38.0,96.9,100.9,-4.0,W4,NBA Standings Regular Season 2005-06,17,24,9,32,5,11,18,34,6,4
+28,Atlanta Hawks,26,56,0.317,38.0,97.2,102.0,-4.8,L1,NBA Standings Regular Season 2005-06,18,23,8,33,5,11,19,33,4,6
+29,New York Knicks,23,59,0.28,41.0,95.6,102.0,-6.4,W1,NBA Standings Regular Season 2005-06,15,26,8,33,4,12,15,37,4,6
+30,Portland Trail Blazers,21,61,0.256,43.0,88.8,98.3,-9.5,L8,NBA Standings Regular Season 2005-06,15,26,6,35,3,13,10,42,1,9

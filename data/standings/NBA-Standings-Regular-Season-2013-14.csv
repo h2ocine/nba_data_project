@@ -1,31 +1,31 @@
-Team Name,W,L,PCT,GB,PPG,OPP PPG,DIFF,STRK,Title,HOME-W,HOME-L,AWAY-W,AWAY-L,DIV-W,DIV-L,CONF-W,CONF-L,Last10-W,Last10-L
-San Antonio Spurs,62,20,0.756,0.0,105.4,97.6,7.8,L2,NBA Standings Regular Season 2013-14,32,9,30,11,12,4,38,14,6,4
-Oklahoma City Thunder,59,23,0.72,3.0,106.2,99.8,6.4,W1,NBA Standings Regular Season 2013-14,34,7,25,16,11,5,36,16,6,4
-LA Clippers,57,25,0.695,5.0,107.9,101.0,6.9,L1,NBA Standings Regular Season 2013-14,34,7,23,18,12,4,36,16,7,3
-Indiana Pacers,56,26,0.683,6.0,96.7,92.3,4.4,W2,NBA Standings Regular Season 2013-14,35,6,21,20,12,4,38,14,4,6
-Miami Heat,54,28,0.659,8.0,102.2,97.4,4.8,L3,NBA Standings Regular Season 2013-14,32,9,22,19,12,4,34,18,4,6
-Houston Rockets,54,28,0.659,8.0,107.7,103.1,4.6,L1,NBA Standings Regular Season 2013-14,33,8,21,20,11,5,31,21,5,5
-Portland Trail Blazers,54,28,0.659,8.0,106.7,102.8,3.9,W5,NBA Standings Regular Season 2013-14,31,10,23,18,13,3,31,21,9,1
-Golden State Warriors,51,31,0.622,11.0,104.3,99.5,4.8,W2,NBA Standings Regular Season 2013-14,27,14,24,17,11,5,31,21,6,4
-Memphis Grizzlies,50,32,0.61,12.0,96.1,94.6,1.5,W5,NBA Standings Regular Season 2013-14,27,14,23,18,4,12,29,23,7,3
-Dallas Mavericks,49,33,0.598,13.0,104.8,102.4,2.4,L1,NBA Standings Regular Season 2013-14,26,15,23,18,9,7,29,23,6,4
-Toronto Raptors,48,34,0.585,14.0,101.3,98.0,3.3,L1,NBA Standings Regular Season 2013-14,26,15,22,19,11,5,32,20,7,3
-Chicago Bulls,48,34,0.585,14.0,93.7,91.8,1.9,L1,NBA Standings Regular Season 2013-14,27,14,21,20,11,5,35,17,8,2
-Phoenix Suns,48,34,0.585,14.0,105.2,102.6,2.6,W1,NBA Standings Regular Season 2013-14,26,15,22,19,8,8,28,24,5,5
-Washington Wizards,44,38,0.537,18.0,100.7,99.4,1.3,W4,NBA Standings Regular Season 2013-14,22,19,22,19,10,6,33,19,7,3
-Brooklyn Nets,44,38,0.537,18.0,98.5,99.5,-1.0,L2,NBA Standings Regular Season 2013-14,28,13,16,25,9,7,26,26,5,5
-Charlotte Bobcats,43,39,0.524,19.0,96.9,97.1,-0.2,W3,NBA Standings Regular Season 2013-14,25,16,18,23,6,10,30,22,8,2
-Minnesota Timberwolves,40,42,0.488,22.0,106.9,104.3,2.6,L3,NBA Standings Regular Season 2013-14,24,17,16,25,7,9,23,29,4,6
-Atlanta Hawks,38,44,0.463,24.0,101.0,101.5,-0.5,W1,NBA Standings Regular Season 2013-14,24,17,14,27,8,8,28,24,7,3
-New York Knicks,37,45,0.451,25.0,98.6,99.4,-0.8,W4,NBA Standings Regular Season 2013-14,19,22,18,23,10,6,26,26,7,3
-Denver Nuggets,36,46,0.439,26.0,104.4,106.5,-2.1,L2,NBA Standings Regular Season 2013-14,22,19,14,27,5,11,20,32,4,6
-New Orleans Pelicans,34,48,0.415,28.0,99.7,102.4,-2.7,W2,NBA Standings Regular Season 2013-14,22,19,12,29,4,12,15,37,2,8
-Cleveland Cavaliers,33,49,0.402,29.0,98.2,101.5,-3.3,W1,NBA Standings Regular Season 2013-14,19,22,14,27,7,9,21,31,5,5
-Detroit Pistons,29,53,0.354,33.0,101.0,104.7,-3.7,L4,NBA Standings Regular Season 2013-14,17,24,12,29,6,10,23,29,3,7
-Sacramento Kings,28,54,0.341,34.0,100.5,103.4,-2.9,L1,NBA Standings Regular Season 2013-14,17,24,11,30,3,13,15,37,3,7
-Los Angeles Lakers,27,55,0.329,35.0,103.0,109.2,-6.2,W2,NBA Standings Regular Season 2013-14,14,27,13,28,6,10,15,37,3,7
-Boston Celtics,25,57,0.305,37.0,96.2,100.7,-4.5,L2,NBA Standings Regular Season 2013-14,16,25,9,32,5,11,21,31,2,8
-Utah Jazz,25,57,0.305,37.0,95.0,102.2,-7.2,W1,NBA Standings Regular Season 2013-14,16,25,9,32,4,12,13,39,2,8
-Orlando Magic,23,59,0.28,39.0,96.5,102.0,-5.5,L4,NBA Standings Regular Season 2013-14,19,22,4,37,4,12,17,35,3,7
-Philadelphia 76ers,19,63,0.232,43.0,99.5,109.9,-10.4,W2,NBA Standings Regular Season 2013-14,10,31,9,32,5,11,14,38,4,6
-Milwaukee Bucks,15,67,0.183,47.0,95.5,103.7,-8.2,L3,NBA Standings Regular Season 2013-14,10,31,5,36,4,12,12,40,1,9
+Rank,Team Name,W,L,PCT,GB,PPG,OPP PPG,DIFF,STRK,Title,HOME-W,HOME-L,AWAY-W,AWAY-L,DIV-W,DIV-L,CONF-W,CONF-L,Last10-W,Last10-L
+1,San Antonio Spurs,62,20,0.756,0.0,105.4,97.6,7.8,L2,NBA Standings Regular Season 2013-14,32,9,30,11,12,4,38,14,6,4
+2,Oklahoma City Thunder,59,23,0.72,3.0,106.2,99.8,6.4,W1,NBA Standings Regular Season 2013-14,34,7,25,16,11,5,36,16,6,4
+3,LA Clippers,57,25,0.695,5.0,107.9,101.0,6.9,L1,NBA Standings Regular Season 2013-14,34,7,23,18,12,4,36,16,7,3
+4,Indiana Pacers,56,26,0.683,6.0,96.7,92.3,4.4,W2,NBA Standings Regular Season 2013-14,35,6,21,20,12,4,38,14,4,6
+5,Miami Heat,54,28,0.659,8.0,102.2,97.4,4.8,L3,NBA Standings Regular Season 2013-14,32,9,22,19,12,4,34,18,4,6
+6,Houston Rockets,54,28,0.659,8.0,107.7,103.1,4.6,L1,NBA Standings Regular Season 2013-14,33,8,21,20,11,5,31,21,5,5
+7,Portland Trail Blazers,54,28,0.659,8.0,106.7,102.8,3.9,W5,NBA Standings Regular Season 2013-14,31,10,23,18,13,3,31,21,9,1
+8,Golden State Warriors,51,31,0.622,11.0,104.3,99.5,4.8,W2,NBA Standings Regular Season 2013-14,27,14,24,17,11,5,31,21,6,4
+9,Memphis Grizzlies,50,32,0.61,12.0,96.1,94.6,1.5,W5,NBA Standings Regular Season 2013-14,27,14,23,18,4,12,29,23,7,3
+10,Dallas Mavericks,49,33,0.598,13.0,104.8,102.4,2.4,L1,NBA Standings Regular Season 2013-14,26,15,23,18,9,7,29,23,6,4
+11,Toronto Raptors,48,34,0.585,14.0,101.3,98.0,3.3,L1,NBA Standings Regular Season 2013-14,26,15,22,19,11,5,32,20,7,3
+12,Chicago Bulls,48,34,0.585,14.0,93.7,91.8,1.9,L1,NBA Standings Regular Season 2013-14,27,14,21,20,11,5,35,17,8,2
+13,Phoenix Suns,48,34,0.585,14.0,105.2,102.6,2.6,W1,NBA Standings Regular Season 2013-14,26,15,22,19,8,8,28,24,5,5
+14,Washington Wizards,44,38,0.537,18.0,100.7,99.4,1.3,W4,NBA Standings Regular Season 2013-14,22,19,22,19,10,6,33,19,7,3
+15,Brooklyn Nets,44,38,0.537,18.0,98.5,99.5,-1.0,L2,NBA Standings Regular Season 2013-14,28,13,16,25,9,7,26,26,5,5
+16,Charlotte Bobcats,43,39,0.524,19.0,96.9,97.1,-0.2,W3,NBA Standings Regular Season 2013-14,25,16,18,23,6,10,30,22,8,2
+17,Minnesota Timberwolves,40,42,0.488,22.0,106.9,104.3,2.6,L3,NBA Standings Regular Season 2013-14,24,17,16,25,7,9,23,29,4,6
+18,Atlanta Hawks,38,44,0.463,24.0,101.0,101.5,-0.5,W1,NBA Standings Regular Season 2013-14,24,17,14,27,8,8,28,24,7,3
+19,New York Knicks,37,45,0.451,25.0,98.6,99.4,-0.8,W4,NBA Standings Regular Season 2013-14,19,22,18,23,10,6,26,26,7,3
+20,Denver Nuggets,36,46,0.439,26.0,104.4,106.5,-2.1,L2,NBA Standings Regular Season 2013-14,22,19,14,27,5,11,20,32,4,6
+21,New Orleans Pelicans,34,48,0.415,28.0,99.7,102.4,-2.7,W2,NBA Standings Regular Season 2013-14,22,19,12,29,4,12,15,37,2,8
+22,Cleveland Cavaliers,33,49,0.402,29.0,98.2,101.5,-3.3,W1,NBA Standings Regular Season 2013-14,19,22,14,27,7,9,21,31,5,5
+23,Detroit Pistons,29,53,0.354,33.0,101.0,104.7,-3.7,L4,NBA Standings Regular Season 2013-14,17,24,12,29,6,10,23,29,3,7
+24,Sacramento Kings,28,54,0.341,34.0,100.5,103.4,-2.9,L1,NBA Standings Regular Season 2013-14,17,24,11,30,3,13,15,37,3,7
+25,Los Angeles Lakers,27,55,0.329,35.0,103.0,109.2,-6.2,W2,NBA Standings Regular Season 2013-14,14,27,13,28,6,10,15,37,3,7
+26,Boston Celtics,25,57,0.305,37.0,96.2,100.7,-4.5,L2,NBA Standings Regular Season 2013-14,16,25,9,32,5,11,21,31,2,8
+27,Utah Jazz,25,57,0.305,37.0,95.0,102.2,-7.2,W1,NBA Standings Regular Season 2013-14,16,25,9,32,4,12,13,39,2,8
+28,Orlando Magic,23,59,0.28,39.0,96.5,102.0,-5.5,L4,NBA Standings Regular Season 2013-14,19,22,4,37,4,12,17,35,3,7
+29,Philadelphia 76ers,19,63,0.232,43.0,99.5,109.9,-10.4,W2,NBA Standings Regular Season 2013-14,10,31,9,32,5,11,14,38,4,6
+30,Milwaukee Bucks,15,67,0.183,47.0,95.5,103.7,-8.2,L3,NBA Standings Regular Season 2013-14,10,31,5,36,4,12,12,40,1,9

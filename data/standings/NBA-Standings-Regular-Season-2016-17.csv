@@ -1,31 +1,31 @@
-Team Name,W,L,PCT,GB,PPG,OPP PPG,DIFF,STRK,Title,HOME-W,HOME-L,AWAY-W,AWAY-L,DIV-W,DIV-L,CONF-W,CONF-L,Last10-W,Last10-L
-Golden State Warriors,67,15,0.817,0.0,115.9,104.3,11.6,W1,NBA Standings Regular Season 2016-17,36,5,31,10,14,2,42,10,9,1
-San Antonio Spurs,61,21,0.744,6.0,105.3,98.1,7.2,L3,NBA Standings Regular Season 2016-17,31,10,30,11,11,5,36,16,5,5
-Houston Rockets,55,27,0.671,12.0,115.3,109.6,5.7,W1,NBA Standings Regular Season 2016-17,30,11,25,16,10,6,36,16,5,5
-Boston Celtics,53,29,0.646,14.0,108.0,105.4,2.6,W3,NBA Standings Regular Season 2016-17,30,11,23,18,11,5,36,16,7,3
-Cleveland Cavaliers,51,31,0.622,16.0,110.3,107.2,3.1,L4,NBA Standings Regular Season 2016-17,31,10,20,21,8,8,35,17,4,6
-Utah Jazz,51,31,0.622,16.0,100.7,96.8,3.9,W2,NBA Standings Regular Season 2016-17,29,12,22,19,8,8,31,21,7,3
-Toronto Raptors,51,31,0.622,16.0,106.9,102.6,4.3,W4,NBA Standings Regular Season 2016-17,28,13,23,18,14,2,34,18,8,2
-LA Clippers,51,31,0.622,16.0,108.7,104.4,4.3,W7,NBA Standings Regular Season 2016-17,29,12,22,19,10,6,31,21,8,2
-Washington Wizards,49,33,0.598,18.0,109.2,107.4,1.8,L1,NBA Standings Regular Season 2016-17,30,11,19,22,8,8,32,20,5,5
-Oklahoma City Thunder,47,35,0.573,20.0,106.6,105.8,0.8,L1,NBA Standings Regular Season 2016-17,28,13,19,22,10,6,29,23,6,4
-Atlanta Hawks,43,39,0.524,24.0,103.2,104.0,-0.8,L1,NBA Standings Regular Season 2016-17,23,18,20,21,6,10,30,22,6,4
-Memphis Grizzlies,43,39,0.524,24.0,100.5,100.0,0.5,L2,NBA Standings Regular Season 2016-17,24,17,19,22,8,8,28,24,3,7
-Milwaukee Bucks,42,40,0.512,25.0,103.6,103.8,-0.2,L1,NBA Standings Regular Season 2016-17,23,18,19,22,10,6,27,25,5,5
-Indiana Pacers,42,40,0.512,25.0,105.1,105.3,-0.2,W5,NBA Standings Regular Season 2016-17,29,12,13,28,8,8,26,26,6,4
-Chicago Bulls,41,41,0.5,26.0,102.9,102.4,0.5,W2,NBA Standings Regular Season 2016-17,25,16,16,25,9,7,28,24,7,3
-Portland Trail Blazers,41,41,0.5,26.0,107.9,108.5,-0.6,L1,NBA Standings Regular Season 2016-17,25,16,16,25,11,5,28,24,7,3
-Miami Heat,41,41,0.5,26.0,103.2,102.1,1.1,W3,NBA Standings Regular Season 2016-17,23,18,18,23,9,7,27,25,6,4
-Denver Nuggets,40,42,0.488,27.0,111.7,111.2,0.5,W2,NBA Standings Regular Season 2016-17,22,19,18,23,6,10,24,28,5,5
-Detroit Pistons,37,45,0.451,30.0,101.3,102.5,-1.2,L2,NBA Standings Regular Season 2016-17,24,17,13,28,5,11,21,31,3,7
-Charlotte Hornets,36,46,0.439,31.0,104.9,104.7,0.2,L5,NBA Standings Regular Season 2016-17,22,19,14,27,10,6,22,30,4,6
-New Orleans Pelicans,34,48,0.415,33.0,104.3,106.4,-2.1,W1,NBA Standings Regular Season 2016-17,21,20,13,28,6,10,20,32,4,6
-Dallas Mavericks,33,49,0.402,34.0,97.9,100.8,-2.9,W1,NBA Standings Regular Season 2016-17,21,20,12,29,5,11,19,33,2,8
-Sacramento Kings,32,50,0.39,35.0,102.8,106.7,-3.9,L1,NBA Standings Regular Season 2016-17,17,24,15,26,7,9,21,31,5,5
-New York Knicks,31,51,0.378,36.0,104.3,108.0,-3.7,W1,NBA Standings Regular Season 2016-17,19,22,12,29,5,11,22,30,4,6
-Minnesota Timberwolves,31,51,0.378,36.0,105.6,106.7,-1.1,L6,NBA Standings Regular Season 2016-17,20,21,11,30,5,11,18,34,3,7
-Orlando Magic,29,53,0.354,38.0,101.1,107.6,-6.5,W1,NBA Standings Regular Season 2016-17,16,25,13,28,7,9,20,32,3,7
-Philadelphia 76ers,28,54,0.341,39.0,102.4,108.1,-5.7,L8,NBA Standings Regular Season 2016-17,17,24,11,30,7,9,19,33,1,9
-Los Angeles Lakers,26,56,0.317,41.0,104.6,111.5,-6.9,L1,NBA Standings Regular Season 2016-17,17,24,9,32,6,10,16,36,5,5
-Phoenix Suns,24,58,0.293,43.0,107.7,113.3,-5.6,L1,NBA Standings Regular Season 2016-17,15,26,9,32,3,13,11,41,2,8
-Brooklyn Nets,20,62,0.244,47.0,105.8,112.5,-6.7,L2,NBA Standings Regular Season 2016-17,13,28,7,34,3,13,11,41,5,5
+Rank,Team Name,W,L,PCT,GB,PPG,OPP PPG,DIFF,STRK,Title,HOME-W,HOME-L,AWAY-W,AWAY-L,DIV-W,DIV-L,CONF-W,CONF-L,Last10-W,Last10-L
+1,Golden State Warriors,67,15,0.817,0.0,115.9,104.3,11.6,W1,NBA Standings Regular Season 2016-17,36,5,31,10,14,2,42,10,9,1
+2,San Antonio Spurs,61,21,0.744,6.0,105.3,98.1,7.2,L3,NBA Standings Regular Season 2016-17,31,10,30,11,11,5,36,16,5,5
+3,Houston Rockets,55,27,0.671,12.0,115.3,109.6,5.7,W1,NBA Standings Regular Season 2016-17,30,11,25,16,10,6,36,16,5,5
+4,Boston Celtics,53,29,0.646,14.0,108.0,105.4,2.6,W3,NBA Standings Regular Season 2016-17,30,11,23,18,11,5,36,16,7,3
+5,Cleveland Cavaliers,51,31,0.622,16.0,110.3,107.2,3.1,L4,NBA Standings Regular Season 2016-17,31,10,20,21,8,8,35,17,4,6
+6,Utah Jazz,51,31,0.622,16.0,100.7,96.8,3.9,W2,NBA Standings Regular Season 2016-17,29,12,22,19,8,8,31,21,7,3
+7,Toronto Raptors,51,31,0.622,16.0,106.9,102.6,4.3,W4,NBA Standings Regular Season 2016-17,28,13,23,18,14,2,34,18,8,2
+8,LA Clippers,51,31,0.622,16.0,108.7,104.4,4.3,W7,NBA Standings Regular Season 2016-17,29,12,22,19,10,6,31,21,8,2
+9,Washington Wizards,49,33,0.598,18.0,109.2,107.4,1.8,L1,NBA Standings Regular Season 2016-17,30,11,19,22,8,8,32,20,5,5
+10,Oklahoma City Thunder,47,35,0.573,20.0,106.6,105.8,0.8,L1,NBA Standings Regular Season 2016-17,28,13,19,22,10,6,29,23,6,4
+11,Atlanta Hawks,43,39,0.524,24.0,103.2,104.0,-0.8,L1,NBA Standings Regular Season 2016-17,23,18,20,21,6,10,30,22,6,4
+12,Memphis Grizzlies,43,39,0.524,24.0,100.5,100.0,0.5,L2,NBA Standings Regular Season 2016-17,24,17,19,22,8,8,28,24,3,7
+13,Milwaukee Bucks,42,40,0.512,25.0,103.6,103.8,-0.2,L1,NBA Standings Regular Season 2016-17,23,18,19,22,10,6,27,25,5,5
+14,Indiana Pacers,42,40,0.512,25.0,105.1,105.3,-0.2,W5,NBA Standings Regular Season 2016-17,29,12,13,28,8,8,26,26,6,4
+15,Chicago Bulls,41,41,0.5,26.0,102.9,102.4,0.5,W2,NBA Standings Regular Season 2016-17,25,16,16,25,9,7,28,24,7,3
+16,Portland Trail Blazers,41,41,0.5,26.0,107.9,108.5,-0.6,L1,NBA Standings Regular Season 2016-17,25,16,16,25,11,5,28,24,7,3
+17,Miami Heat,41,41,0.5,26.0,103.2,102.1,1.1,W3,NBA Standings Regular Season 2016-17,23,18,18,23,9,7,27,25,6,4
+18,Denver Nuggets,40,42,0.488,27.0,111.7,111.2,0.5,W2,NBA Standings Regular Season 2016-17,22,19,18,23,6,10,24,28,5,5
+19,Detroit Pistons,37,45,0.451,30.0,101.3,102.5,-1.2,L2,NBA Standings Regular Season 2016-17,24,17,13,28,5,11,21,31,3,7
+20,Charlotte Hornets,36,46,0.439,31.0,104.9,104.7,0.2,L5,NBA Standings Regular Season 2016-17,22,19,14,27,10,6,22,30,4,6
+21,New Orleans Pelicans,34,48,0.415,33.0,104.3,106.4,-2.1,W1,NBA Standings Regular Season 2016-17,21,20,13,28,6,10,20,32,4,6
+22,Dallas Mavericks,33,49,0.402,34.0,97.9,100.8,-2.9,W1,NBA Standings Regular Season 2016-17,21,20,12,29,5,11,19,33,2,8
+23,Sacramento Kings,32,50,0.39,35.0,102.8,106.7,-3.9,L1,NBA Standings Regular Season 2016-17,17,24,15,26,7,9,21,31,5,5
+24,New York Knicks,31,51,0.378,36.0,104.3,108.0,-3.7,W1,NBA Standings Regular Season 2016-17,19,22,12,29,5,11,22,30,4,6
+25,Minnesota Timberwolves,31,51,0.378,36.0,105.6,106.7,-1.1,L6,NBA Standings Regular Season 2016-17,20,21,11,30,5,11,18,34,3,7
+26,Orlando Magic,29,53,0.354,38.0,101.1,107.6,-6.5,W1,NBA Standings Regular Season 2016-17,16,25,13,28,7,9,20,32,3,7
+27,Philadelphia 76ers,28,54,0.341,39.0,102.4,108.1,-5.7,L8,NBA Standings Regular Season 2016-17,17,24,11,30,7,9,19,33,1,9
+28,Los Angeles Lakers,26,56,0.317,41.0,104.6,111.5,-6.9,L1,NBA Standings Regular Season 2016-17,17,24,9,32,6,10,16,36,5,5
+29,Phoenix Suns,24,58,0.293,43.0,107.7,113.3,-5.6,L1,NBA Standings Regular Season 2016-17,15,26,9,32,3,13,11,41,2,8
+30,Brooklyn Nets,20,62,0.244,47.0,105.8,112.5,-6.7,L2,NBA Standings Regular Season 2016-17,13,28,7,34,3,13,11,41,5,5
