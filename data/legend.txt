@@ -59,6 +59,22 @@ TO (Turnovers Per Game) : Pertes de Balle par Match
 PF (Fouls Per Game) : Fautes par Match
 
 
+---------------
+Les différents positions au basket : 
+- C (Center) : Le pivot, souvent le joueur le plus grand et le plus fort physiquement, joue près du panier pour défendre et marquer.
+- PF (Power Forward) : L'ailier fort, un joueur polyvalent qui combine taille et agilité, joue à mi-distance et près du panier.
+- FC (Forward-Center) : Un joueur capable de jouer à la fois en position d'ailier fort et de pivot.
+- PG (Point Guard) : Le meneur de jeu, responsable de diriger l'attaque, de distribuer le ballon et de créer des opportunités de tir.
+- F (Forward) : Un terme général pour désigner un joueur jouant en position d'ailier, qui peut être soit ailier fort (PF) soit ailier (SF).
+- SG (Shooting Guard) : L'arrière, un joueur souvent chargé de marquer des points à longue distance et de défendre contre les arrières adverses.
+- G (Guard) : Un terme général pour désigner un joueur jouant en position de meneur (PG) ou d'arrière (SG).
+- SF (Small Forward) : L'ailier, un joueur polyvalent et athlétique, capable de marquer de l'extérieur et de défendre plusieurs positions.
+- GF (Guard-Forward) : Un joueur capable de jouer à la fois en position d'arrière et d'ailier.
+- F-C (Forward-Center) : Similaire à FC, un joueur capable de jouer à la fois en position d'ailier fort et de pivot.
+- G-F (Guard-Forward) : Similaire à GF, un joueur capable de jouer à la fois en position d'arrière et d'ailier.
+- C-F (Center-Forward) : Un joueur capable de jouer en position de pivot et parfois en position d'ailier fort.
+- F-G (Forward-Guard) : Similaire à GF et G-F, un joueur capable de jouer en position d'ailier et d'arrière.
+
 
 
 
