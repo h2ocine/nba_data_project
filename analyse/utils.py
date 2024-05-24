@@ -4,6 +4,7 @@ import numbers
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import statsmodels.api as sm
 
 # --------------   Calcul
 
@@ -65,7 +66,7 @@ def analyze_correlations(df, variables):
     plt.show()
 
 # Load data and group by years for teamstats
-def load_all_data_teams(file_path_template, start_year=2001, end_year=2022):
+def load_all_data_teams(file_path_template, start_year=2002, end_year=2022):
     all_data = []
     for year in range(start_year, end_year + 1):
         year_str = f"{year}-{str(year + 1)[-2:]}"  # Format des années ex: 2001-02
@@ -141,6 +142,58 @@ def plot_distributions_and_relations(df, variables):
     sns.pairplot(df[variables])
     plt.suptitle('Distributions and Relations Between Variables', y=1.02)
     plt.show()
+
+
+
+
+
+#--------------------------------------------------------------------------------------------------------
+#--------------------------------Analyse_winsw_teams-----------------------------------------------------
+
+# Plots : 
+
+
+
+def plot_variable_importance(results):
+    """
+    Fonction pour tracer l'importance des variables basées sur les coefficients
+    du modèle de régression et colorées par niveau de confiance.
+    
+    Paramètres:
+    results : objet de type statsmodels.regression.linear_model.RegressionResults
+        Les résultats du modèle de régression OLS.
+    """
+    # Extraire les coefficients et les intervalles de confiance
+    params = results.params
+    conf = results.conf_int()
+    conf['coef'] = params
+    conf.columns = ['5%', '95%', 'coef']
+
+    # Supprimer la variable 'const'
+    conf = conf.drop('const')
+
+    # Calculer l'importance des coefficients (valeur absolue)
+    coef_importance = conf['coef'].abs().sort_values()
+
+    # Déterminer les couleurs en fonction de l'intersection avec zéro des intervalles de confiance
+    colors = ['red' if (row['5%'] < 0 < row['95%']) else 'blue' for idx, row in conf.iterrows()]
+
+    # Plot de l'importance des variables
+    plt.figure(figsize=(12, 8))
+    bars = plt.barh(coef_importance.index, coef_importance.values, color=colors)
+    plt.title('Importance des Variables')
+    plt.xlabel('Valeur Absolue des Coefficients')
+    plt.grid(True)
+
+    # Ajouter une légende
+    import matplotlib.patches as mpatches
+    red_patch = mpatches.Patch(color='red', label='Non significatif (0 dans IC)')
+    blue_patch = mpatches.Patch(color='blue', label='Significatif (0 hors IC)')
+    plt.legend(handles=[red_patch, blue_patch])
+
+    plt.show()
+
+
 # Old utils files
 
 
